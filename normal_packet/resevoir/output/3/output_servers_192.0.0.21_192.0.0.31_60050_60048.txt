@@ -1,0 +1,873 @@
+------------------------------------------------------------
+Server listening on UDP port 60050
+Receiving 1470 byte datagrams
+UDP buffer size: 0.20 MByte (default)
+------------------------------------------------------------
+[  1] local 0.0.0.0 port 60050 connected with 192.0.0.31 port 51346
+[ ID] Interval       Transfer     Bandwidth        Jitter   Lost/Total Datagrams
+[  1]  0.0-10.0 sec  11.9 MBytes  10.0 Mbits/sec   0.146 ms    0/ 8505 (0%)
+[  3] local 0.0.0.0 port 60050 connected with 192.0.0.31 port 38230
+[  3]  0.0-10.0 sec  11.9 MBytes  10.0 Mbits/sec   0.118 ms    0/ 8504 (0%)
+[  3]  0.0-10.0 sec  1 datagrams received out-of-order
+[  5] local 0.0.0.0 port 60050 connected with 192.0.0.31 port 46072
+[  5]  0.0-10.0 sec  9.54 MBytes  8.00 Mbits/sec   0.137 ms    0/ 6803 (0%)
+[  5]  0.0-10.0 sec  1 datagrams received out-of-order
+[  7] local 0.0.0.0 port 60050 connected with 192.0.0.31 port 59707
+[  7]  0.0-10.0 sec  13.1 MBytes  11.0 Mbits/sec   0.127 ms    0/ 9355 (0%)
+[  7]  0.0-10.0 sec  1 datagrams received out-of-order
+[  9] local 0.0.0.0 port 60050 connected with 192.0.0.31 port 57026
+[  9]  0.0-10.0 sec  11.9 MBytes  10.0 Mbits/sec   0.109 ms    0/ 8504 (0%)
+[  9]  0.0-10.0 sec  1 datagrams received out-of-order
+[ 11] local 0.0.0.0 port 60050 connected with 192.0.0.31 port 58987
+[ 11]  0.0-10.0 sec  13.1 MBytes  11.0 Mbits/sec   0.101 ms    0/ 9355 (0%)
+[ 11]  0.0-10.0 sec  1 datagrams received out-of-order
+[ 13] local 0.0.0.0 port 60050 connected with 192.0.0.31 port 48716
+[ 13]  0.0-10.0 sec  11.9 MBytes  10.0 Mbits/sec   0.114 ms    0/ 8505 (0%)
+[ 15] local 0.0.0.0 port 60050 connected with 192.0.0.31 port 59465
+[ 15]  0.0-10.0 sec  11.9 MBytes  10.0 Mbits/sec   0.138 ms    0/ 8504 (0%)
+[ 15]  0.0-10.0 sec  1 datagrams received out-of-order
+[ 17] local 0.0.0.0 port 60050 connected with 192.0.0.31 port 52049
+[ 17]  0.0-10.0 sec  9.54 MBytes  8.00 Mbits/sec   0.129 ms    0/ 6803 (0%)
+[ 17]  0.0-10.0 sec  1 datagrams received out-of-order
+[ 19] local 0.0.0.0 port 60050 connected with 192.0.0.31 port 46057
+[ 19]  0.0-10.0 sec  9.54 MBytes  8.00 Mbits/sec   0.119 ms    0/ 6803 (0%)
+[ 19]  0.0-10.0 sec  1 datagrams received out-of-order
+[ 21] local 0.0.0.0 port 60050 connected with 192.0.0.31 port 45527
+[ 21]  0.0-10.0 sec  10.7 MBytes  9.00 Mbits/sec   0.156 ms    0/ 7657 (0%)
+[ 21]  0.0-10.0 sec  1 datagrams received out-of-order
+[ 23] local 0.0.0.0 port 60050 connected with 192.0.0.31 port 51699
+[ 23]  0.0-10.0 sec  11.9 MBytes  10.0 Mbits/sec   0.147 ms    0/ 8504 (0%)
+[ 23]  0.0-10.0 sec  1 datagrams received out-of-order
+[ 25] local 0.0.0.0 port 60050 connected with 192.0.0.31 port 60053
+[ 25]  0.0-10.0 sec  13.1 MBytes  11.0 Mbits/sec   0.123 ms    0/ 9355 (0%)
+[ 25]  0.0-10.0 sec  1 datagrams received out-of-order
+[ 27] local 0.0.0.0 port 60050 connected with 192.0.0.31 port 36260
+[ 27]  0.0-10.0 sec  9.54 MBytes  8.00 Mbits/sec   0.137 ms    0/ 6803 (0%)
+[ 27]  0.0-10.0 sec  1 datagrams received out-of-order
+[ 29] local 0.0.0.0 port 60050 connected with 192.0.0.31 port 45722
+[ 29]  0.0-10.0 sec  11.9 MBytes  10.0 Mbits/sec   0.104 ms    0/ 8504 (0%)
+[ 29]  0.0-10.0 sec  1 datagrams received out-of-order
+[ 31] local 0.0.0.0 port 60050 connected with 192.0.0.31 port 43296
+[ 31]  0.0-10.0 sec  11.9 MBytes  10.0 Mbits/sec   0.154 ms    0/ 8504 (0%)
+[ 31]  0.0-10.0 sec  1 datagrams received out-of-order
+[ 33] local 0.0.0.0 port 60050 connected with 192.0.0.31 port 57574
+[ 33]  0.0-10.0 sec  11.9 MBytes  10.0 Mbits/sec   0.098 ms    0/ 8504 (0%)
+[ 33]  0.0-10.0 sec  1 datagrams received out-of-order
+[ 35] local 0.0.0.0 port 60050 connected with 192.0.0.31 port 58887
+[ 35]  0.0-10.0 sec  10.7 MBytes  9.00 Mbits/sec   0.118 ms    0/ 7657 (0%)
+[ 35]  0.0-10.0 sec  1 datagrams received out-of-order
+[ 37] local 0.0.0.0 port 60050 connected with 192.0.0.31 port 55440
+[ 37]  0.0-10.0 sec  13.1 MBytes  11.0 Mbits/sec   0.112 ms    0/ 9355 (0%)
+[ 37]  0.0-10.0 sec  1 datagrams received out-of-order
+[ 39] local 0.0.0.0 port 60050 connected with 192.0.0.31 port 55660
+[ 39]  0.0-10.0 sec  13.1 MBytes  11.0 Mbits/sec   0.159 ms    0/ 9356 (0%)
+[ 41] local 0.0.0.0 port 60050 connected with 192.0.0.31 port 58194
+[ 41]  0.0-10.0 sec  11.9 MBytes  10.0 Mbits/sec   0.148 ms    0/ 8504 (0%)
+[ 41]  0.0-10.0 sec  1 datagrams received out-of-order
+[ 43] local 0.0.0.0 port 60050 connected with 192.0.0.31 port 35502
+[ 43]  0.0-10.0 sec  10.7 MBytes  9.00 Mbits/sec   0.132 ms    0/ 7657 (0%)
+[ 43]  0.0-10.0 sec  1 datagrams received out-of-order
+[ 45] local 0.0.0.0 port 60050 connected with 192.0.0.31 port 60384
+[ 45]  0.0-10.0 sec  10.7 MBytes  9.00 Mbits/sec   0.106 ms    0/ 7657 (0%)
+[ 45]  0.0-10.0 sec  1 datagrams received out-of-order
+[ 47] local 0.0.0.0 port 60050 connected with 192.0.0.31 port 55374
+[ 47]  0.0-10.0 sec  11.9 MBytes  10.0 Mbits/sec   0.134 ms    0/ 8504 (0%)
+[ 47]  0.0-10.0 sec  1 datagrams received out-of-order
+[ 49] local 0.0.0.0 port 60050 connected with 192.0.0.31 port 49703
+[ 49]  0.0-10.0 sec  11.9 MBytes  10.0 Mbits/sec   0.087 ms    0/ 8504 (0%)
+[ 49]  0.0-10.0 sec  1 datagrams received out-of-order
+[ 51] local 0.0.0.0 port 60050 connected with 192.0.0.31 port 36763
+[ 51]  0.0-10.0 sec  11.9 MBytes  10.0 Mbits/sec   0.105 ms    0/ 8504 (0%)
+[ 51]  0.0-10.0 sec  1 datagrams received out-of-order
+[ 53] local 0.0.0.0 port 60050 connected with 192.0.0.31 port 57467
+[ 53]  0.0-10.0 sec  10.7 MBytes  9.00 Mbits/sec   0.117 ms    0/ 7657 (0%)
+[ 53]  0.0-10.0 sec  1 datagrams received out-of-order
+[ 55] local 0.0.0.0 port 60050 connected with 192.0.0.31 port 38122
+[ 55]  0.0-10.0 sec  10.7 MBytes  9.00 Mbits/sec   0.119 ms    0/ 7657 (0%)
+[ 55]  0.0-10.0 sec  1 datagrams received out-of-order
+[ 57] local 0.0.0.0 port 60050 connected with 192.0.0.31 port 38474
+[ 57]  0.0-10.0 sec  13.1 MBytes  11.0 Mbits/sec   0.136 ms    0/ 9355 (0%)
+[ 57]  0.0-10.0 sec  1 datagrams received out-of-order
+[ 59] local 0.0.0.0 port 60050 connected with 192.0.0.31 port 57012
+[ 59]  0.0-10.0 sec  10.7 MBytes  9.00 Mbits/sec   0.147 ms    0/ 7657 (0%)
+[ 59]  0.0-10.0 sec  1 datagrams received out-of-order
+[ 61] local 0.0.0.0 port 60050 connected with 192.0.0.31 port 58178
+[ 61]  0.0-10.0 sec  10.7 MBytes  9.00 Mbits/sec   0.110 ms    0/ 7658 (0%)
+[ 63] local 0.0.0.0 port 60050 connected with 192.0.0.31 port 50180
+[ 63]  0.0-10.0 sec  10.7 MBytes  9.00 Mbits/sec   0.110 ms    0/ 7657 (0%)
+[ 63]  0.0-10.0 sec  1 datagrams received out-of-order
+[ 65] local 0.0.0.0 port 60050 connected with 192.0.0.31 port 34434
+[ 65]  0.0-10.0 sec  11.9 MBytes  10.0 Mbits/sec   0.261 ms    0/ 8504 (0%)
+[ 65]  0.0-10.0 sec  1 datagrams received out-of-order
+[ 67] local 0.0.0.0 port 60050 connected with 192.0.0.31 port 52379
+[ 67]  0.0-10.0 sec  11.9 MBytes  10.0 Mbits/sec   0.105 ms    0/ 8504 (0%)
+[ 67]  0.0-10.0 sec  1 datagrams received out-of-order
+[ 69] local 0.0.0.0 port 60050 connected with 192.0.0.31 port 35007
+[ 69]  0.0-10.0 sec  10.7 MBytes  9.00 Mbits/sec   0.127 ms    0/ 7657 (0%)
+[ 69]  0.0-10.0 sec  1 datagrams received out-of-order
+[ 71] local 0.0.0.0 port 60050 connected with 192.0.0.31 port 43416
+[ 71]  0.0-10.0 sec  11.9 MBytes  10.0 Mbits/sec   0.113 ms    0/ 8504 (0%)
+[ 71]  0.0-10.0 sec  1 datagrams received out-of-order
+[ 73] local 0.0.0.0 port 60050 connected with 192.0.0.31 port 60291
+[ 73]  0.0-10.0 sec  11.9 MBytes  10.0 Mbits/sec   0.118 ms    0/ 8504 (0%)
+[ 73]  0.0-10.0 sec  1 datagrams received out-of-order
+[ 75] local 0.0.0.0 port 60050 connected with 192.0.0.31 port 59578
+[ 75]  0.0-10.0 sec  10.7 MBytes  9.00 Mbits/sec   0.156 ms    0/ 7657 (0%)
+[ 75]  0.0-10.0 sec  1 datagrams received out-of-order
+[ 77] local 0.0.0.0 port 60050 connected with 192.0.0.31 port 53625
+[ 77]  0.0-10.0 sec  9.54 MBytes  8.00 Mbits/sec   0.150 ms    0/ 6803 (0%)
+[ 77]  0.0-10.0 sec  1 datagrams received out-of-order
+[ 79] local 0.0.0.0 port 60050 connected with 192.0.0.31 port 50185
+[ 79]  0.0-10.0 sec  10.7 MBytes  9.00 Mbits/sec   0.122 ms    0/ 7657 (0%)
+[ 79]  0.0-10.0 sec  1 datagrams received out-of-order
+[ 81] local 0.0.0.0 port 60050 connected with 192.0.0.31 port 60555
+[ 81]  0.0-10.0 sec  10.7 MBytes  9.00 Mbits/sec   0.175 ms    0/ 7657 (0%)
+[ 81]  0.0-10.0 sec  1 datagrams received out-of-order
+[ 83] local 0.0.0.0 port 60050 connected with 192.0.0.31 port 39103
+[ 83]  0.0-10.0 sec  9.54 MBytes  8.00 Mbits/sec   0.088 ms    0/ 6803 (0%)
+[ 83]  0.0-10.0 sec  1 datagrams received out-of-order
+[ 85] local 0.0.0.0 port 60050 connected with 192.0.0.31 port 33514
+[ 85]  0.0-10.0 sec  14.3 MBytes  12.0 Mbits/sec   0.102 ms    0/10205 (0%)
+[ 85]  0.0-10.0 sec  1 datagrams received out-of-order
+[ 87] local 0.0.0.0 port 60050 connected with 192.0.0.31 port 54964
+[ 87]  0.0-10.0 sec  10.7 MBytes  9.00 Mbits/sec   0.118 ms    0/ 7657 (0%)
+[ 87]  0.0-10.0 sec  1 datagrams received out-of-order
+[ 89] local 0.0.0.0 port 60050 connected with 192.0.0.31 port 53928
+[ 89]  0.0-10.0 sec  11.9 MBytes  10.0 Mbits/sec   0.113 ms    0/ 8504 (0%)
+[ 89]  0.0-10.0 sec  1 datagrams received out-of-order
+[ 91] local 0.0.0.0 port 60050 connected with 192.0.0.31 port 60214
+[ 91]  0.0-10.0 sec  11.9 MBytes  10.0 Mbits/sec   0.142 ms    0/ 8504 (0%)
+[ 91]  0.0-10.0 sec  1 datagrams received out-of-order
+[ 93] local 0.0.0.0 port 60050 connected with 192.0.0.31 port 46655
+[ 93]  0.0-10.0 sec  10.7 MBytes  9.00 Mbits/sec   0.086 ms    0/ 7657 (0%)
+[ 93]  0.0-10.0 sec  1 datagrams received out-of-order
+[ 95] local 0.0.0.0 port 60050 connected with 192.0.0.31 port 52952
+[ 95]  0.0-10.0 sec  10.7 MBytes  9.00 Mbits/sec   0.120 ms    0/ 7657 (0%)
+[ 95]  0.0-10.0 sec  1 datagrams received out-of-order
+[ 97] local 0.0.0.0 port 60050 connected with 192.0.0.31 port 42064
+[ 97]  0.0-10.0 sec  11.9 MBytes  10.0 Mbits/sec   0.173 ms    0/ 8504 (0%)
+[ 97]  0.0-10.0 sec  1 datagrams received out-of-order
+[ 99] local 0.0.0.0 port 60050 connected with 192.0.0.31 port 40259
+[ 99]  0.0-10.0 sec  9.54 MBytes  8.00 Mbits/sec   0.114 ms    0/ 6803 (0%)
+[ 99]  0.0-10.0 sec  1 datagrams received out-of-order
+[101] local 0.0.0.0 port 60050 connected with 192.0.0.31 port 52185
+[101]  0.0-10.0 sec  11.9 MBytes  10.0 Mbits/sec   0.112 ms    0/ 8504 (0%)
+[101]  0.0-10.0 sec  1 datagrams received out-of-order
+[103] local 0.0.0.0 port 60050 connected with 192.0.0.31 port 39085
+[103]  0.0-10.0 sec  13.1 MBytes  11.0 Mbits/sec   0.141 ms    0/ 9355 (0%)
+[103]  0.0-10.0 sec  1 datagrams received out-of-order
+[105] local 0.0.0.0 port 60050 connected with 192.0.0.31 port 54590
+[105]  0.0-10.0 sec  11.9 MBytes  10.0 Mbits/sec   0.125 ms    0/ 8504 (0%)
+[105]  0.0-10.0 sec  1 datagrams received out-of-order
+[107] local 0.0.0.0 port 60050 connected with 192.0.0.31 port 58689
+[107]  0.0-10.0 sec  11.9 MBytes  10.0 Mbits/sec   0.120 ms    0/ 8504 (0%)
+[107]  0.0-10.0 sec  1 datagrams received out-of-order
+[109] local 0.0.0.0 port 60050 connected with 192.0.0.31 port 53031
+[109]  0.0-10.0 sec  9.54 MBytes  8.00 Mbits/sec   0.184 ms    0/ 6803 (0%)
+[109]  0.0-10.0 sec  1 datagrams received out-of-order
+[111] local 0.0.0.0 port 60050 connected with 192.0.0.31 port 56599
+[111]  0.0-10.0 sec  11.9 MBytes  10.0 Mbits/sec   0.129 ms    0/ 8504 (0%)
+[111]  0.0-10.0 sec  1 datagrams received out-of-order
+[113] local 0.0.0.0 port 60050 connected with 192.0.0.31 port 46108
+[113]  0.0-10.0 sec  10.7 MBytes  9.00 Mbits/sec   0.084 ms    0/ 7657 (0%)
+[113]  0.0-10.0 sec  1 datagrams received out-of-order
+[115] local 0.0.0.0 port 60050 connected with 192.0.0.31 port 44209
+[115]  0.0-10.0 sec  11.9 MBytes  10.0 Mbits/sec   0.132 ms    0/ 8505 (0%)
+[117] local 0.0.0.0 port 60050 connected with 192.0.0.31 port 38509
+[117]  0.0-10.0 sec  10.7 MBytes  9.00 Mbits/sec   0.346 ms    0/ 7657 (0%)
+[117]  0.0-10.0 sec  1 datagrams received out-of-order
+[119] local 0.0.0.0 port 60050 connected with 192.0.0.31 port 46485
+[119]  0.0-10.0 sec  10.7 MBytes  9.00 Mbits/sec   0.129 ms    0/ 7657 (0%)
+[119]  0.0-10.0 sec  1 datagrams received out-of-order
+[121] local 0.0.0.0 port 60050 connected with 192.0.0.31 port 42729
+[121]  0.0-10.0 sec  13.1 MBytes  11.0 Mbits/sec   0.115 ms    0/ 9355 (0%)
+[121]  0.0-10.0 sec  1 datagrams received out-of-order
+[123] local 0.0.0.0 port 60050 connected with 192.0.0.31 port 54703
+[123]  0.0-10.0 sec  13.1 MBytes  11.0 Mbits/sec   0.142 ms    0/ 9355 (0%)
+[123]  0.0-10.0 sec  1 datagrams received out-of-order
+[125] local 0.0.0.0 port 60050 connected with 192.0.0.31 port 60576
+[125]  0.0-10.0 sec  11.9 MBytes  10.0 Mbits/sec   0.183 ms    0/ 8504 (0%)
+[125]  0.0-10.0 sec  1 datagrams received out-of-order
+[127] local 0.0.0.0 port 60050 connected with 192.0.0.31 port 34615
+[127]  0.0-10.0 sec  10.7 MBytes  9.00 Mbits/sec   0.094 ms    0/ 7657 (0%)
+[127]  0.0-10.0 sec  1 datagrams received out-of-order
+[129] local 0.0.0.0 port 60050 connected with 192.0.0.31 port 50458
+[129]  0.0-10.0 sec  10.7 MBytes  9.00 Mbits/sec   0.136 ms    0/ 7657 (0%)
+[129]  0.0-10.0 sec  1 datagrams received out-of-order
+[131] local 0.0.0.0 port 60050 connected with 192.0.0.31 port 37460
+[131]  0.0-10.0 sec  13.1 MBytes  11.0 Mbits/sec   0.131 ms    0/ 9355 (0%)
+[131]  0.0-10.0 sec  1 datagrams received out-of-order
+[133] local 0.0.0.0 port 60050 connected with 192.0.0.31 port 49063
+[133]  0.0-10.0 sec  10.7 MBytes  9.00 Mbits/sec   0.123 ms    0/ 7657 (0%)
+[133]  0.0-10.0 sec  1 datagrams received out-of-order
+[135] local 0.0.0.0 port 60050 connected with 192.0.0.31 port 56639
+[135]  0.0-10.0 sec  9.54 MBytes  8.00 Mbits/sec   0.115 ms    0/ 6803 (0%)
+[135]  0.0-10.0 sec  1 datagrams received out-of-order
+[137] local 0.0.0.0 port 60050 connected with 192.0.0.31 port 33263
+[137]  0.0-10.0 sec  13.1 MBytes  11.0 Mbits/sec   0.122 ms    0/ 9355 (0%)
+[137]  0.0-10.0 sec  1 datagrams received out-of-order
+[139] local 0.0.0.0 port 60050 connected with 192.0.0.31 port 58627
+[139]  0.0-10.0 sec  10.7 MBytes  9.00 Mbits/sec   0.112 ms    0/ 7658 (0%)
+[141] local 0.0.0.0 port 60050 connected with 192.0.0.31 port 39607
+[141]  0.0-10.0 sec  13.1 MBytes  11.0 Mbits/sec   0.117 ms    0/ 9355 (0%)
+[141]  0.0-10.0 sec  1 datagrams received out-of-order
+[143] local 0.0.0.0 port 60050 connected with 192.0.0.31 port 47154
+[143]  0.0-10.0 sec  10.7 MBytes  9.00 Mbits/sec   0.121 ms    0/ 7658 (0%)
+[145] local 0.0.0.0 port 60050 connected with 192.0.0.31 port 39680
+[145]  0.0-10.0 sec  9.54 MBytes  8.00 Mbits/sec   0.128 ms    0/ 6803 (0%)
+[145]  0.0-10.0 sec  1 datagrams received out-of-order
+[147] local 0.0.0.0 port 60050 connected with 192.0.0.31 port 36923
+[147]  0.0-10.0 sec  9.54 MBytes  8.00 Mbits/sec   0.128 ms    0/ 6803 (0%)
+[147]  0.0-10.0 sec  1 datagrams received out-of-order
+[149] local 0.0.0.0 port 60050 connected with 192.0.0.31 port 34675
+[149]  0.0-10.0 sec  11.9 MBytes  10.0 Mbits/sec   0.142 ms    0/ 8504 (0%)
+[149]  0.0-10.0 sec  1 datagrams received out-of-order
+[151] local 0.0.0.0 port 60050 connected with 192.0.0.31 port 35779
+[151]  0.0-10.0 sec  13.1 MBytes  11.0 Mbits/sec   0.150 ms    0/ 9355 (0%)
+[151]  0.0-10.0 sec  1 datagrams received out-of-order
+[153] local 0.0.0.0 port 60050 connected with 192.0.0.31 port 47970
+[153]  0.0-10.0 sec  13.1 MBytes  11.0 Mbits/sec   0.127 ms    0/ 9355 (0%)
+[153]  0.0-10.0 sec  1 datagrams received out-of-order
+[155] local 0.0.0.0 port 60050 connected with 192.0.0.31 port 33572
+[155]  0.0-10.0 sec  11.9 MBytes  10.0 Mbits/sec   0.136 ms    0/ 8504 (0%)
+[155]  0.0-10.0 sec  1 datagrams received out-of-order
+[157] local 0.0.0.0 port 60050 connected with 192.0.0.31 port 40916
+[157]  0.0-10.0 sec  10.7 MBytes  9.00 Mbits/sec   0.137 ms    0/ 7657 (0%)
+[157]  0.0-10.0 sec  1 datagrams received out-of-order
+[159] local 0.0.0.0 port 60050 connected with 192.0.0.31 port 51394
+[159]  0.0-10.0 sec  10.7 MBytes  9.00 Mbits/sec   0.195 ms    0/ 7657 (0%)
+[159]  0.0-10.0 sec  1 datagrams received out-of-order
+[161] local 0.0.0.0 port 60050 connected with 192.0.0.31 port 45978
+[161]  0.0-10.0 sec  10.7 MBytes  9.00 Mbits/sec   0.127 ms    0/ 7657 (0%)
+[161]  0.0-10.0 sec  1 datagrams received out-of-order
+[163] local 0.0.0.0 port 60050 connected with 192.0.0.31 port 59754
+[163]  0.0-10.0 sec  10.7 MBytes  9.00 Mbits/sec   0.122 ms    0/ 7657 (0%)
+[163]  0.0-10.0 sec  1 datagrams received out-of-order
+[165] local 0.0.0.0 port 60050 connected with 192.0.0.31 port 37656
+[165]  0.0-10.0 sec  11.9 MBytes  10.0 Mbits/sec   0.151 ms    0/ 8504 (0%)
+[165]  0.0-10.0 sec  1 datagrams received out-of-order
+[167] local 0.0.0.0 port 60050 connected with 192.0.0.31 port 40988
+[167]  0.0-10.0 sec  11.9 MBytes  10.0 Mbits/sec   0.082 ms    0/ 8504 (0%)
+[167]  0.0-10.0 sec  1 datagrams received out-of-order
+[169] local 0.0.0.0 port 60050 connected with 192.0.0.31 port 33954
+[169]  0.0-10.0 sec  9.54 MBytes  8.00 Mbits/sec   0.121 ms    0/ 6804 (0%)
+[171] local 0.0.0.0 port 60050 connected with 192.0.0.31 port 58252
+[171]  0.0-10.0 sec  11.9 MBytes  10.0 Mbits/sec   0.108 ms    0/ 8504 (0%)
+[171]  0.0-10.0 sec  1 datagrams received out-of-order
+[173] local 0.0.0.0 port 60050 connected with 192.0.0.31 port 55572
+[173]  0.0-10.0 sec  9.54 MBytes  8.00 Mbits/sec   0.124 ms    0/ 6803 (0%)
+[173]  0.0-10.0 sec  1 datagrams received out-of-order
+[175] local 0.0.0.0 port 60050 connected with 192.0.0.31 port 43260
+[175]  0.0-10.0 sec  11.9 MBytes  10.0 Mbits/sec   0.138 ms    0/ 8504 (0%)
+[175]  0.0-10.0 sec  1 datagrams received out-of-order
+[177] local 0.0.0.0 port 60050 connected with 192.0.0.31 port 50540
+[177]  0.0-10.0 sec  11.9 MBytes  10.0 Mbits/sec   0.112 ms    0/ 8504 (0%)
+[177]  0.0-10.0 sec  1 datagrams received out-of-order
+[179] local 0.0.0.0 port 60050 connected with 192.0.0.31 port 52306
+[179]  0.0-10.0 sec  10.7 MBytes  9.00 Mbits/sec   0.126 ms    0/ 7657 (0%)
+[179]  0.0-10.0 sec  1 datagrams received out-of-order
+[181] local 0.0.0.0 port 60050 connected with 192.0.0.31 port 46739
+[181]  0.0-10.0 sec  9.54 MBytes  7.99 Mbits/sec   1.128 ms    0/ 6803 (0%)
+[181]  0.0-10.0 sec  1 datagrams received out-of-order
+[183] local 0.0.0.0 port 60050 connected with 192.0.0.31 port 44705
+[183]  0.0-10.0 sec  10.7 MBytes  9.00 Mbits/sec   0.112 ms    0/ 7657 (0%)
+[183]  0.0-10.0 sec  1 datagrams received out-of-order
+[185] local 0.0.0.0 port 60050 connected with 192.0.0.31 port 50396
+[185]  0.0-10.0 sec  10.7 MBytes  9.00 Mbits/sec   0.128 ms    0/ 7657 (0%)
+[185]  0.0-10.0 sec  1 datagrams received out-of-order
+[187] local 0.0.0.0 port 60050 connected with 192.0.0.31 port 50672
+[187]  0.0-10.0 sec  13.1 MBytes  11.0 Mbits/sec   0.832 ms    0/ 9355 (0%)
+[187]  0.0-10.0 sec  1 datagrams received out-of-order
+[189] local 0.0.0.0 port 60050 connected with 192.0.0.31 port 37920
+[189]  0.0-10.0 sec  9.54 MBytes  8.00 Mbits/sec   0.249 ms    0/ 6803 (0%)
+[189]  0.0-10.0 sec  1 datagrams received out-of-order
+[191] local 0.0.0.0 port 60050 connected with 192.0.0.31 port 43693
+[191]  0.0-10.0 sec  11.9 MBytes  10.0 Mbits/sec   0.139 ms    0/ 8504 (0%)
+[191]  0.0-10.0 sec  1 datagrams received out-of-order
+[193] local 0.0.0.0 port 60050 connected with 192.0.0.31 port 38928
+[193]  0.0-10.0 sec  14.3 MBytes  12.0 Mbits/sec   0.396 ms    0/10205 (0%)
+[193]  0.0-10.0 sec  1 datagrams received out-of-order
+[195] local 0.0.0.0 port 60050 connected with 192.0.0.31 port 43854
+[195]  0.0-10.0 sec  8.35 MBytes  7.00 Mbits/sec   0.427 ms    0/ 5953 (0%)
+[195]  0.0-10.0 sec  1 datagrams received out-of-order
+[197] local 0.0.0.0 port 60050 connected with 192.0.0.31 port 36505
+[197]  0.0-10.0 sec  11.9 MBytes  10.0 Mbits/sec   0.162 ms    1/ 8505 (0.012%)
+[199] local 0.0.0.0 port 60050 connected with 192.0.0.31 port 58773
+[199]  0.0-10.0 sec  13.1 MBytes  11.0 Mbits/sec   0.507 ms    0/ 9355 (0%)
+[199]  0.0-10.0 sec  1 datagrams received out-of-order
+[201] local 0.0.0.0 port 60050 connected with 192.0.0.31 port 44151
+[201]  0.0-10.0 sec  9.54 MBytes  8.00 Mbits/sec   0.184 ms    0/ 6804 (0%)
+[203] local 0.0.0.0 port 60050 connected with 192.0.0.31 port 44974
+[203]  0.0-10.0 sec  10.7 MBytes  9.00 Mbits/sec   0.741 ms    0/ 7657 (0%)
+[203]  0.0-10.0 sec  1 datagrams received out-of-order
+[205] local 0.0.0.0 port 60050 connected with 192.0.0.31 port 38876
+[205]  0.0-10.0 sec  11.9 MBytes  10.0 Mbits/sec   0.136 ms    0/ 8504 (0%)
+[205]  0.0-10.0 sec  1 datagrams received out-of-order
+[207] local 0.0.0.0 port 60050 connected with 192.0.0.31 port 52833
+[207]  0.0-10.0 sec  10.7 MBytes  9.00 Mbits/sec   0.108 ms    0/ 7657 (0%)
+[207]  0.0-10.0 sec  1 datagrams received out-of-order
+[209] local 0.0.0.0 port 60050 connected with 192.0.0.31 port 41732
+[209]  0.0-10.0 sec  10.7 MBytes  9.00 Mbits/sec   0.100 ms    0/ 7657 (0%)
+[209]  0.0-10.0 sec  1 datagrams received out-of-order
+[211] local 0.0.0.0 port 60050 connected with 192.0.0.31 port 47505
+[211]  0.0-10.0 sec  13.1 MBytes  11.0 Mbits/sec   0.171 ms    0/ 9355 (0%)
+[211]  0.0-10.0 sec  1 datagrams received out-of-order
+[213] local 0.0.0.0 port 60050 connected with 192.0.0.31 port 45875
+[213]  0.0-10.0 sec  13.1 MBytes  11.0 Mbits/sec   0.121 ms    0/ 9355 (0%)
+[213]  0.0-10.0 sec  1 datagrams received out-of-order
+[215] local 0.0.0.0 port 60050 connected with 192.0.0.31 port 53197
+[215]  0.0-10.0 sec  11.9 MBytes  10.0 Mbits/sec   0.101 ms    0/ 8504 (0%)
+[215]  0.0-10.0 sec  1 datagrams received out-of-order
+[217] local 0.0.0.0 port 60050 connected with 192.0.0.31 port 56621
+[217]  0.0-10.0 sec  10.7 MBytes  9.00 Mbits/sec   0.085 ms    0/ 7657 (0%)
+[217]  0.0-10.0 sec  1 datagrams received out-of-order
+[219] local 0.0.0.0 port 60050 connected with 192.0.0.31 port 59901
+[219]  0.0-10.0 sec  11.9 MBytes  10.0 Mbits/sec   0.710 ms    0/ 8504 (0%)
+[219]  0.0-10.0 sec  1 datagrams received out-of-order
+[221] local 0.0.0.0 port 60050 connected with 192.0.0.31 port 36338
+[221]  0.0-10.0 sec  10.7 MBytes  9.00 Mbits/sec   0.087 ms    0/ 7657 (0%)
+[221]  0.0-10.0 sec  1 datagrams received out-of-order
+[223] local 0.0.0.0 port 60050 connected with 192.0.0.31 port 56779
+[223]  0.0-10.0 sec  9.54 MBytes  8.00 Mbits/sec   0.145 ms    0/ 6804 (0%)
+[225] local 0.0.0.0 port 60050 connected with 192.0.0.31 port 33924
+[225]  0.0-10.0 sec  10.7 MBytes  9.00 Mbits/sec   0.124 ms    0/ 7657 (0%)
+[225]  0.0-10.0 sec  1 datagrams received out-of-order
+[227] local 0.0.0.0 port 60050 connected with 192.0.0.31 port 59023
+[227]  0.0-10.0 sec  10.7 MBytes  9.00 Mbits/sec   0.311 ms    0/ 7657 (0%)
+[227]  0.0-10.0 sec  1 datagrams received out-of-order
+[229] local 0.0.0.0 port 60050 connected with 192.0.0.31 port 43247
+[229]  0.0-10.0 sec  10.7 MBytes  9.00 Mbits/sec   0.138 ms    0/ 7657 (0%)
+[229]  0.0-10.0 sec  1 datagrams received out-of-order
+[231] local 0.0.0.0 port 60050 connected with 192.0.0.31 port 47591
+[231]  0.0-10.0 sec  9.54 MBytes  8.00 Mbits/sec   0.334 ms    0/ 6803 (0%)
+[231]  0.0-10.0 sec  1 datagrams received out-of-order
+[233] local 0.0.0.0 port 60050 connected with 192.0.0.31 port 59680
+[233]  0.0-10.0 sec  10.7 MBytes  9.00 Mbits/sec   0.234 ms    0/ 7657 (0%)
+[233]  0.0-10.0 sec  1 datagrams received out-of-order
+[235] local 0.0.0.0 port 60050 connected with 192.0.0.31 port 59168
+[235]  0.0-10.0 sec  11.9 MBytes  10.0 Mbits/sec   0.104 ms    0/ 8504 (0%)
+[235]  0.0-10.0 sec  1 datagrams received out-of-order
+[237] local 0.0.0.0 port 60050 connected with 192.0.0.31 port 47118
+[237]  0.0-10.0 sec  13.1 MBytes  11.0 Mbits/sec   0.092 ms    0/ 9355 (0%)
+[237]  0.0-10.0 sec  1 datagrams received out-of-order
+[239] local 0.0.0.0 port 60050 connected with 192.0.0.31 port 54472
+[239]  0.0-10.0 sec  11.9 MBytes  10.0 Mbits/sec   0.242 ms    0/ 8504 (0%)
+[239]  0.0-10.0 sec  1 datagrams received out-of-order
+[241] local 0.0.0.0 port 60050 connected with 192.0.0.31 port 37297
+[241]  0.0-10.0 sec  10.7 MBytes  9.00 Mbits/sec   0.220 ms    0/ 7658 (0%)
+[243] local 0.0.0.0 port 60050 connected with 192.0.0.31 port 53129
+[243]  0.0-10.0 sec  13.1 MBytes  11.0 Mbits/sec   0.134 ms    0/ 9355 (0%)
+[243]  0.0-10.0 sec  1 datagrams received out-of-order
+[245] local 0.0.0.0 port 60050 connected with 192.0.0.31 port 45357
+[245]  0.0-10.0 sec  11.9 MBytes  10.0 Mbits/sec   0.152 ms    0/ 8504 (0%)
+[245]  0.0-10.0 sec  1 datagrams received out-of-order
+[247] local 0.0.0.0 port 60050 connected with 192.0.0.31 port 42327
+[247]  0.0-10.0 sec  9.54 MBytes  8.00 Mbits/sec   0.176 ms    0/ 6803 (0%)
+[247]  0.0-10.0 sec  1 datagrams received out-of-order
+[249] local 0.0.0.0 port 60050 connected with 192.0.0.31 port 39662
+[249]  0.0-10.0 sec  10.7 MBytes  9.00 Mbits/sec   0.118 ms    0/ 7657 (0%)
+[249]  0.0-10.0 sec  1 datagrams received out-of-order
+[251] local 0.0.0.0 port 60050 connected with 192.0.0.31 port 50094
+[251]  0.0-10.0 sec  11.9 MBytes  10.0 Mbits/sec   0.195 ms    1/ 8504 (0.012%)
+[251]  0.0-10.0 sec  1 datagrams received out-of-order
+[253] local 0.0.0.0 port 60050 connected with 192.0.0.31 port 48385
+[253]  0.0-10.0 sec  10.7 MBytes  9.00 Mbits/sec   0.211 ms    0/ 7657 (0%)
+[253]  0.0-10.0 sec  1 datagrams received out-of-order
+[255] local 0.0.0.0 port 60050 connected with 192.0.0.31 port 42193
+[255]  0.0-10.0 sec  10.7 MBytes  9.00 Mbits/sec   0.122 ms    0/ 7657 (0%)
+[255]  0.0-10.0 sec  1 datagrams received out-of-order
+[257] local 0.0.0.0 port 60050 connected with 192.0.0.31 port 35420
+[257]  0.0-10.0 sec  11.9 MBytes  10.0 Mbits/sec   0.151 ms    0/ 8504 (0%)
+[257]  0.0-10.0 sec  1 datagrams received out-of-order
+[259] local 0.0.0.0 port 60050 connected with 192.0.0.31 port 52263
+[259]  0.0-10.0 sec  10.7 MBytes  9.00 Mbits/sec   0.136 ms    0/ 7657 (0%)
+[259]  0.0-10.0 sec  1 datagrams received out-of-order
+[261] local 0.0.0.0 port 60050 connected with 192.0.0.31 port 47928
+[261]  0.0-10.0 sec  9.54 MBytes  8.00 Mbits/sec   0.326 ms    0/ 6803 (0%)
+[261]  0.0-10.0 sec  1 datagrams received out-of-order
+[263] local 0.0.0.0 port 60050 connected with 192.0.0.31 port 52646
+[263]  0.0-10.0 sec  13.1 MBytes  11.0 Mbits/sec   0.110 ms    0/ 9355 (0%)
+[263]  0.0-10.0 sec  1 datagrams received out-of-order
+[265] local 0.0.0.0 port 60050 connected with 192.0.0.31 port 55733
+[265]  0.0-10.0 sec  11.9 MBytes  10.0 Mbits/sec   0.115 ms    1/ 8505 (0.012%)
+[267] local 0.0.0.0 port 60050 connected with 192.0.0.31 port 33439
+[267]  0.0-10.0 sec  11.9 MBytes  10.0 Mbits/sec   0.183 ms    1/ 8504 (0.012%)
+[267]  0.0-10.0 sec  1 datagrams received out-of-order
+[269] local 0.0.0.0 port 60050 connected with 192.0.0.31 port 49597
+[269]  0.0-10.0 sec  13.1 MBytes  11.0 Mbits/sec   0.086 ms    0/ 9355 (0%)
+[269]  0.0-10.0 sec  1 datagrams received out-of-order
+[271] local 0.0.0.0 port 60050 connected with 192.0.0.31 port 50223
+[271]  0.0-10.0 sec  9.54 MBytes  8.00 Mbits/sec   0.117 ms    0/ 6803 (0%)
+[271]  0.0-10.0 sec  1 datagrams received out-of-order
+[273] local 0.0.0.0 port 60050 connected with 192.0.0.31 port 51873
+[273]  0.0-10.0 sec  9.54 MBytes  8.00 Mbits/sec   0.108 ms    0/ 6803 (0%)
+[273]  0.0-10.0 sec  1 datagrams received out-of-order
+[275] local 0.0.0.0 port 60050 connected with 192.0.0.31 port 35093
+[275]  0.0-10.0 sec  10.7 MBytes  9.00 Mbits/sec   0.096 ms    0/ 7657 (0%)
+[275]  0.0-10.0 sec  1 datagrams received out-of-order
+[277] local 0.0.0.0 port 60050 connected with 192.0.0.31 port 50889
+[277]  0.0-10.0 sec  11.9 MBytes  10.0 Mbits/sec   0.137 ms    0/ 8504 (0%)
+[277]  0.0-10.0 sec  1 datagrams received out-of-order
+[279] local 0.0.0.0 port 60050 connected with 192.0.0.31 port 55516
+[279]  0.0-10.0 sec  11.9 MBytes  10.0 Mbits/sec   0.109 ms    0/ 8504 (0%)
+[279]  0.0-10.0 sec  1 datagrams received out-of-order
+[281] local 0.0.0.0 port 60050 connected with 192.0.0.31 port 55211
+[281]  0.0-10.0 sec  10.7 MBytes  9.00 Mbits/sec   0.114 ms    0/ 7657 (0%)
+[281]  0.0-10.0 sec  1 datagrams received out-of-order
+[283] local 0.0.0.0 port 60050 connected with 192.0.0.31 port 35515
+[283]  0.0-10.0 sec  9.54 MBytes  8.00 Mbits/sec   0.099 ms    0/ 6804 (0%)
+[285] local 0.0.0.0 port 60050 connected with 192.0.0.31 port 39953
+[285]  0.0-10.0 sec  10.7 MBytes  9.00 Mbits/sec   0.075 ms    0/ 7657 (0%)
+[285]  0.0-10.0 sec  1 datagrams received out-of-order
+[287] local 0.0.0.0 port 60050 connected with 192.0.0.31 port 49701
+[287]  0.0-10.0 sec  13.1 MBytes  11.0 Mbits/sec   0.113 ms    0/ 9355 (0%)
+[287]  0.0-10.0 sec  1 datagrams received out-of-order
+[289] local 0.0.0.0 port 60050 connected with 192.0.0.31 port 53096
+[289]  0.0-10.0 sec  9.54 MBytes  8.00 Mbits/sec   0.166 ms    0/ 6803 (0%)
+[289]  0.0-10.0 sec  1 datagrams received out-of-order
+[291] local 0.0.0.0 port 60050 connected with 192.0.0.31 port 35115
+[291]  0.0-10.0 sec  11.9 MBytes  10.0 Mbits/sec   0.130 ms    0/ 8504 (0%)
+[291]  0.0-10.0 sec  1 datagrams received out-of-order
+[293] local 0.0.0.0 port 60050 connected with 192.0.0.31 port 50881
+[293]  0.0-10.0 sec  10.7 MBytes  9.00 Mbits/sec   0.090 ms    1/ 7657 (0.013%)
+[293]  0.0-10.0 sec  1 datagrams received out-of-order
+[295] local 0.0.0.0 port 60050 connected with 192.0.0.31 port 54361
+[295]  0.0-10.0 sec  9.54 MBytes  8.00 Mbits/sec   0.148 ms    0/ 6803 (0%)
+[295]  0.0-10.0 sec  1 datagrams received out-of-order
+[297] local 0.0.0.0 port 60050 connected with 192.0.0.31 port 34260
+[297]  0.0-10.0 sec  10.7 MBytes  9.00 Mbits/sec   0.100 ms    0/ 7657 (0%)
+[297]  0.0-10.0 sec  1 datagrams received out-of-order
+[299] local 0.0.0.0 port 60050 connected with 192.0.0.31 port 60234
+[299]  0.0-10.0 sec  9.54 MBytes  8.00 Mbits/sec   0.097 ms    0/ 6803 (0%)
+[299]  0.0-10.0 sec  1 datagrams received out-of-order
+[301] local 0.0.0.0 port 60050 connected with 192.0.0.31 port 60144
+[301]  0.0-10.0 sec  9.54 MBytes  8.00 Mbits/sec   0.497 ms    0/ 6803 (0%)
+[301]  0.0-10.0 sec  1 datagrams received out-of-order
+[303] local 0.0.0.0 port 60050 connected with 192.0.0.31 port 49328
+[303]  0.0-10.0 sec  11.9 MBytes  10.0 Mbits/sec   0.107 ms    0/ 8504 (0%)
+[303]  0.0-10.0 sec  1 datagrams received out-of-order
+[305] local 0.0.0.0 port 60050 connected with 192.0.0.31 port 44575
+[305]  0.0-10.0 sec  13.1 MBytes  11.0 Mbits/sec   0.128 ms    0/ 9356 (0%)
+[307] local 0.0.0.0 port 60050 connected with 192.0.0.31 port 57115
+[307]  0.0-10.0 sec  10.7 MBytes  9.00 Mbits/sec   0.101 ms    0/ 7657 (0%)
+[307]  0.0-10.0 sec  1 datagrams received out-of-order
+[309] local 0.0.0.0 port 60050 connected with 192.0.0.31 port 40224
+[309]  0.0-10.0 sec  11.9 MBytes  10.0 Mbits/sec   0.137 ms    1/ 8504 (0.012%)
+[309]  0.0-10.0 sec  1 datagrams received out-of-order
+[311] local 0.0.0.0 port 60050 connected with 192.0.0.31 port 46687
+[311]  0.0-10.0 sec  10.7 MBytes  9.00 Mbits/sec   0.110 ms    0/ 7657 (0%)
+[311]  0.0-10.0 sec  1 datagrams received out-of-order
+[313] local 0.0.0.0 port 60050 connected with 192.0.0.31 port 37464
+[313]  0.0-10.0 sec  11.9 MBytes  10.0 Mbits/sec   0.142 ms    0/ 8504 (0%)
+[313]  0.0-10.0 sec  1 datagrams received out-of-order
+[315] local 0.0.0.0 port 60050 connected with 192.0.0.31 port 47429
+[315]  0.0-10.0 sec  10.7 MBytes  9.00 Mbits/sec   0.157 ms    0/ 7657 (0%)
+[315]  0.0-10.0 sec  1 datagrams received out-of-order
+[317] local 0.0.0.0 port 60050 connected with 192.0.0.31 port 59502
+[317]  0.0-10.0 sec  11.9 MBytes  10.0 Mbits/sec   0.359 ms    0/ 8505 (0%)
+[319] local 0.0.0.0 port 60050 connected with 192.0.0.31 port 60855
+[319]  0.0-10.0 sec  10.7 MBytes  9.00 Mbits/sec   0.150 ms    0/ 7658 (0%)
+[321] local 0.0.0.0 port 60050 connected with 192.0.0.31 port 58312
+[321]  0.0-10.0 sec  11.9 MBytes  10.0 Mbits/sec   0.342 ms    0/ 8504 (0%)
+[321]  0.0-10.0 sec  1 datagrams received out-of-order
+[323] local 0.0.0.0 port 60050 connected with 192.0.0.31 port 56845
+[323]  0.0-10.0 sec  10.7 MBytes  9.00 Mbits/sec   0.203 ms    0/ 7657 (0%)
+[323]  0.0-10.0 sec  1 datagrams received out-of-order
+[325] local 0.0.0.0 port 60050 connected with 192.0.0.31 port 42280
+[325]  0.0-10.0 sec  11.9 MBytes  10.0 Mbits/sec   0.460 ms    0/ 8504 (0%)
+[325]  0.0-10.0 sec  1 datagrams received out-of-order
+[327] local 0.0.0.0 port 60050 connected with 192.0.0.31 port 48830
+[327]  0.0-10.0 sec  9.54 MBytes  8.00 Mbits/sec   0.203 ms    0/ 6804 (0%)
+[329] local 0.0.0.0 port 60050 connected with 192.0.0.31 port 34675
+[329]  0.0-10.0 sec  11.9 MBytes  10.0 Mbits/sec   0.263 ms    1/ 8504 (0.012%)
+[329]  0.0-10.0 sec  1 datagrams received out-of-order
+[331] local 0.0.0.0 port 60050 connected with 192.0.0.31 port 58308
+[331]  0.0-10.0 sec  10.7 MBytes  9.00 Mbits/sec   0.135 ms    0/ 7658 (0%)
+[333] local 0.0.0.0 port 60050 connected with 192.0.0.31 port 45990
+[333]  0.0-10.0 sec  11.9 MBytes  10.0 Mbits/sec   0.101 ms    0/ 8504 (0%)
+[333]  0.0-10.0 sec  1 datagrams received out-of-order
+[335] local 0.0.0.0 port 60050 connected with 192.0.0.31 port 36435
+[335]  0.0-10.0 sec  10.7 MBytes  9.00 Mbits/sec   0.121 ms    0/ 7658 (0%)
+[337] local 0.0.0.0 port 60050 connected with 192.0.0.31 port 45569
+[337]  0.0-10.0 sec  11.9 MBytes  10.0 Mbits/sec   0.177 ms    0/ 8504 (0%)
+[337]  0.0-10.0 sec  1 datagrams received out-of-order
+[339] local 0.0.0.0 port 60050 connected with 192.0.0.31 port 55272
+[339]  0.0-10.0 sec  9.54 MBytes  8.00 Mbits/sec   0.825 ms    1/ 6803 (0.015%)
+[339]  0.0-10.0 sec  1 datagrams received out-of-order
+[341] local 0.0.0.0 port 60050 connected with 192.0.0.31 port 44428
+[341]  0.0-10.0 sec  11.9 MBytes  10.0 Mbits/sec   0.130 ms    0/ 8504 (0%)
+[341]  0.0-10.0 sec  1 datagrams received out-of-order
+[343] local 0.0.0.0 port 60050 connected with 192.0.0.31 port 37230
+[343]  0.0-10.0 sec  11.9 MBytes  10.0 Mbits/sec   0.356 ms    0/ 8504 (0%)
+[343]  0.0-10.0 sec  1 datagrams received out-of-order
+[345] local 0.0.0.0 port 60050 connected with 192.0.0.31 port 34108
+[345]  0.0-10.0 sec  11.9 MBytes  10.0 Mbits/sec   0.345 ms    0/ 8504 (0%)
+[345]  0.0-10.0 sec  1 datagrams received out-of-order
+[347] local 0.0.0.0 port 60050 connected with 192.0.0.31 port 42271
+[347]  0.0-10.0 sec  11.9 MBytes  10.0 Mbits/sec   0.173 ms    0/ 8504 (0%)
+[347]  0.0-10.0 sec  1 datagrams received out-of-order
+[349] local 0.0.0.0 port 60050 connected with 192.0.0.31 port 54857
+[349]  0.0-10.0 sec  11.9 MBytes  10.0 Mbits/sec   0.144 ms    0/ 8504 (0%)
+[349]  0.0-10.0 sec  1 datagrams received out-of-order
+[351] local 0.0.0.0 port 60050 connected with 192.0.0.31 port 58041
+[351]  0.0-10.0 sec  11.9 MBytes  10.0 Mbits/sec   0.281 ms    0/ 8505 (0%)
+[353] local 0.0.0.0 port 60050 connected with 192.0.0.31 port 53978
+[353]  0.0-10.0 sec  11.9 MBytes  10.0 Mbits/sec   0.105 ms    0/ 8503 (0%)
+[353]  0.0-10.0 sec  1 datagrams received out-of-order
+[355] local 0.0.0.0 port 60050 connected with 192.0.0.31 port 50335
+[355]  0.0-10.0 sec  11.9 MBytes  10.0 Mbits/sec   0.138 ms    0/ 8504 (0%)
+[355]  0.0-10.0 sec  1 datagrams received out-of-order
+[357] local 0.0.0.0 port 60050 connected with 192.0.0.31 port 46989
+[357]  0.0-10.0 sec  11.9 MBytes  10.0 Mbits/sec   0.149 ms    0/ 8504 (0%)
+[357]  0.0-10.0 sec  1 datagrams received out-of-order
+[359] local 0.0.0.0 port 60050 connected with 192.0.0.31 port 34522
+[359]  0.0-10.0 sec  13.1 MBytes  11.0 Mbits/sec   0.083 ms    0/ 9355 (0%)
+[359]  0.0-10.0 sec  1 datagrams received out-of-order
+[361] local 0.0.0.0 port 60050 connected with 192.0.0.31 port 50014
+[361]  0.0-10.0 sec  10.7 MBytes  9.00 Mbits/sec   0.126 ms    0/ 7657 (0%)
+[361]  0.0-10.0 sec  1 datagrams received out-of-order
+[363] local 0.0.0.0 port 60050 connected with 192.0.0.31 port 45210
+[363]  0.0-10.0 sec  10.7 MBytes  9.00 Mbits/sec   0.171 ms    0/ 7658 (0%)
+[365] local 0.0.0.0 port 60050 connected with 192.0.0.31 port 52445
+[365]  0.0-10.0 sec  10.7 MBytes  9.00 Mbits/sec   0.175 ms    0/ 7657 (0%)
+[365]  0.0-10.0 sec  1 datagrams received out-of-order
+[367] local 0.0.0.0 port 60050 connected with 192.0.0.31 port 48970
+[367]  0.0-10.0 sec  10.7 MBytes  9.00 Mbits/sec   0.301 ms    0/ 7657 (0%)
+[367]  0.0-10.0 sec  1 datagrams received out-of-order
+[369] local 0.0.0.0 port 60050 connected with 192.0.0.31 port 53335
+[369]  0.0-10.0 sec  13.1 MBytes  11.0 Mbits/sec   0.127 ms    0/ 9356 (0%)
+[371] local 0.0.0.0 port 60050 connected with 192.0.0.31 port 47773
+[371]  0.0-10.0 sec  11.9 MBytes  10.0 Mbits/sec   0.111 ms    0/ 8504 (0%)
+[371]  0.0-10.0 sec  1 datagrams received out-of-order
+[373] local 0.0.0.0 port 60050 connected with 192.0.0.31 port 57762
+[373]  0.0-10.0 sec  10.7 MBytes  9.00 Mbits/sec   0.095 ms    0/ 7657 (0%)
+[373]  0.0-10.0 sec  1 datagrams received out-of-order
+[375] local 0.0.0.0 port 60050 connected with 192.0.0.31 port 43290
+[375]  0.0-10.0 sec  10.7 MBytes  9.00 Mbits/sec   0.105 ms    0/ 7657 (0%)
+[375]  0.0-10.0 sec  1 datagrams received out-of-order
+[377] local 0.0.0.0 port 60050 connected with 192.0.0.31 port 58741
+[377]  0.0-10.0 sec  9.54 MBytes  8.00 Mbits/sec   0.148 ms    0/ 6804 (0%)
+[379] local 0.0.0.0 port 60050 connected with 192.0.0.31 port 38633
+[379]  0.0-10.0 sec  11.9 MBytes  10.0 Mbits/sec   0.168 ms    0/ 8504 (0%)
+[379]  0.0-10.0 sec  1 datagrams received out-of-order
+[381] local 0.0.0.0 port 60050 connected with 192.0.0.31 port 39217
+[381]  0.0-10.0 sec  10.7 MBytes  9.00 Mbits/sec   0.095 ms    0/ 7657 (0%)
+[381]  0.0-10.0 sec  1 datagrams received out-of-order
+[383] local 0.0.0.0 port 60050 connected with 192.0.0.31 port 56099
+[383]  0.0-10.0 sec  13.1 MBytes  11.0 Mbits/sec   0.080 ms    0/ 9355 (0%)
+[383]  0.0-10.0 sec  1 datagrams received out-of-order
+[385] local 0.0.0.0 port 60050 connected with 192.0.0.31 port 32874
+[385]  0.0-10.0 sec  13.1 MBytes  11.0 Mbits/sec   0.121 ms    0/ 9356 (0%)
+[387] local 0.0.0.0 port 60050 connected with 192.0.0.31 port 55652
+[387]  0.0-10.0 sec  11.9 MBytes  10.0 Mbits/sec   0.112 ms    0/ 8504 (0%)
+[387]  0.0-10.0 sec  1 datagrams received out-of-order
+[389] local 0.0.0.0 port 60050 connected with 192.0.0.31 port 49403
+[389]  0.0-10.0 sec  10.7 MBytes  9.00 Mbits/sec   0.260 ms    0/ 7658 (0%)
+[391] local 0.0.0.0 port 60050 connected with 192.0.0.31 port 38525
+[391]  0.0-10.0 sec  11.9 MBytes  10.0 Mbits/sec   0.082 ms    0/ 8504 (0%)
+[391]  0.0-10.0 sec  1 datagrams received out-of-order
+[393] local 0.0.0.0 port 60050 connected with 192.0.0.31 port 39237
+[393]  0.0-10.0 sec  11.9 MBytes  10.0 Mbits/sec   0.098 ms    0/ 8504 (0%)
+[393]  0.0-10.0 sec  1 datagrams received out-of-order
+[395] local 0.0.0.0 port 60050 connected with 192.0.0.31 port 48586
+[395]  0.0-10.0 sec  9.54 MBytes  8.00 Mbits/sec   0.108 ms    0/ 6803 (0%)
+[395]  0.0-10.0 sec  1 datagrams received out-of-order
+[397] local 0.0.0.0 port 60050 connected with 192.0.0.31 port 45301
+[397]  0.0-10.0 sec  9.54 MBytes  8.00 Mbits/sec   0.079 ms    0/ 6803 (0%)
+[397]  0.0-10.0 sec  1 datagrams received out-of-order
+[399] local 0.0.0.0 port 60050 connected with 192.0.0.31 port 32913
+[399]  0.0-10.0 sec  11.9 MBytes  10.0 Mbits/sec   0.108 ms    0/ 8504 (0%)
+[399]  0.0-10.0 sec  1 datagrams received out-of-order
+[401] local 0.0.0.0 port 60050 connected with 192.0.0.31 port 38381
+[401]  0.0-10.0 sec  11.9 MBytes  10.0 Mbits/sec   0.058 ms    0/ 8504 (0%)
+[401]  0.0-10.0 sec  1 datagrams received out-of-order
+[403] local 0.0.0.0 port 60050 connected with 192.0.0.31 port 57097
+[403]  0.0-10.0 sec  13.1 MBytes  11.0 Mbits/sec   0.134 ms    0/ 9355 (0%)
+[403]  0.0-10.0 sec  1 datagrams received out-of-order
+[405] local 0.0.0.0 port 60050 connected with 192.0.0.31 port 43926
+[405]  0.0-10.0 sec  9.54 MBytes  8.00 Mbits/sec   0.122 ms    0/ 6803 (0%)
+[405]  0.0-10.0 sec  1 datagrams received out-of-order
+[407] local 0.0.0.0 port 60050 connected with 192.0.0.31 port 49283
+[407]  0.0-10.0 sec  9.54 MBytes  8.00 Mbits/sec   0.082 ms    0/ 6803 (0%)
+[407]  0.0-10.0 sec  1 datagrams received out-of-order
+[409] local 0.0.0.0 port 60050 connected with 192.0.0.31 port 59067
+[409]  0.0-10.0 sec  11.9 MBytes  10.0 Mbits/sec   0.109 ms    0/ 8504 (0%)
+[409]  0.0-10.0 sec  1 datagrams received out-of-order
+[411] local 0.0.0.0 port 60050 connected with 192.0.0.31 port 58513
+[411]  0.0-10.0 sec  9.54 MBytes  8.00 Mbits/sec   0.114 ms    0/ 6803 (0%)
+[411]  0.0-10.0 sec  1 datagrams received out-of-order
+[413] local 0.0.0.0 port 60050 connected with 192.0.0.31 port 50480
+[413]  0.0-10.0 sec  11.9 MBytes  10.0 Mbits/sec   0.127 ms    0/ 8504 (0%)
+[413]  0.0-10.0 sec  1 datagrams received out-of-order
+[415] local 0.0.0.0 port 60050 connected with 192.0.0.31 port 44555
+[415]  0.0-10.0 sec  11.9 MBytes  10.0 Mbits/sec   0.623 ms    0/ 8504 (0%)
+[415]  0.0-10.0 sec  1 datagrams received out-of-order
+[417] local 0.0.0.0 port 60050 connected with 192.0.0.31 port 52065
+[417]  0.0-10.0 sec  10.7 MBytes  9.00 Mbits/sec   0.081 ms    0/ 7657 (0%)
+[417]  0.0-10.0 sec  1 datagrams received out-of-order
+[419] local 0.0.0.0 port 60050 connected with 192.0.0.31 port 47499
+[419]  0.0-10.0 sec  11.9 MBytes  10.0 Mbits/sec   0.112 ms    1/ 8504 (0.012%)
+[419]  0.0-10.0 sec  1 datagrams received out-of-order
+[421] local 0.0.0.0 port 60050 connected with 192.0.0.31 port 41661
+[421]  0.0-10.0 sec  7.16 MBytes  6.00 Mbits/sec   0.146 ms    0/ 5103 (0%)
+[421]  0.0-10.0 sec  1 datagrams received out-of-order
+[423] local 0.0.0.0 port 60050 connected with 192.0.0.31 port 58680
+[423]  0.0-10.0 sec  11.9 MBytes  10.0 Mbits/sec   0.124 ms    0/ 8504 (0%)
+[423]  0.0-10.0 sec  1 datagrams received out-of-order
+[425] local 0.0.0.0 port 60050 connected with 192.0.0.31 port 54810
+[425]  0.0-10.0 sec  10.7 MBytes  9.00 Mbits/sec   0.096 ms    0/ 7657 (0%)
+[425]  0.0-10.0 sec  1 datagrams received out-of-order
+[427] local 0.0.0.0 port 60050 connected with 192.0.0.31 port 49602
+[427]  0.0-10.0 sec  11.9 MBytes  10.0 Mbits/sec   0.148 ms    0/ 8504 (0%)
+[427]  0.0-10.0 sec  1 datagrams received out-of-order
+[429] local 0.0.0.0 port 60050 connected with 192.0.0.31 port 37904
+[429]  0.0-10.0 sec  10.7 MBytes  9.00 Mbits/sec   0.114 ms    0/ 7657 (0%)
+[429]  0.0-10.0 sec  1 datagrams received out-of-order
+[431] local 0.0.0.0 port 60050 connected with 192.0.0.31 port 52437
+[431]  0.0-10.0 sec  9.54 MBytes  8.00 Mbits/sec   0.136 ms    0/ 6803 (0%)
+[431]  0.0-10.0 sec  1 datagrams received out-of-order
+[433] local 0.0.0.0 port 60050 connected with 192.0.0.31 port 47282
+[433]  0.0-10.0 sec  11.9 MBytes  10.0 Mbits/sec   0.097 ms    0/ 8504 (0%)
+[433]  0.0-10.0 sec  1 datagrams received out-of-order
+[435] local 0.0.0.0 port 60050 connected with 192.0.0.31 port 54935
+[435]  0.0-10.0 sec  11.9 MBytes  10.0 Mbits/sec   0.173 ms    0/ 8504 (0%)
+[435]  0.0-10.0 sec  1 datagrams received out-of-order
+[437] local 0.0.0.0 port 60050 connected with 192.0.0.31 port 35336
+[437]  0.0-10.0 sec  10.7 MBytes  9.00 Mbits/sec   0.372 ms    0/ 7657 (0%)
+[437]  0.0-10.0 sec  1 datagrams received out-of-order
+[439] local 0.0.0.0 port 60050 connected with 192.0.0.31 port 38246
+[439]  0.0-10.0 sec  11.9 MBytes  10.0 Mbits/sec   0.139 ms    0/ 8504 (0%)
+[439]  0.0-10.0 sec  1 datagrams received out-of-order
+[441] local 0.0.0.0 port 60050 connected with 192.0.0.31 port 52213
+[441]  0.0-10.0 sec  10.7 MBytes  9.00 Mbits/sec   0.084 ms    0/ 7657 (0%)
+[441]  0.0-10.0 sec  1 datagrams received out-of-order
+[443] local 0.0.0.0 port 60050 connected with 192.0.0.31 port 42480
+[443]  0.0-10.0 sec  9.54 MBytes  8.00 Mbits/sec   0.092 ms    0/ 6803 (0%)
+[443]  0.0-10.0 sec  1 datagrams received out-of-order
+[445] local 0.0.0.0 port 60050 connected with 192.0.0.31 port 55955
+[445]  0.0-10.0 sec  11.9 MBytes  10.0 Mbits/sec   0.072 ms    0/ 8504 (0%)
+[445]  0.0-10.0 sec  1 datagrams received out-of-order
+[447] local 0.0.0.0 port 60050 connected with 192.0.0.31 port 54268
+[447]  0.0-10.0 sec  10.7 MBytes  9.00 Mbits/sec   0.076 ms    0/ 7657 (0%)
+[447]  0.0-10.0 sec  1 datagrams received out-of-order
+[449] local 0.0.0.0 port 60050 connected with 192.0.0.31 port 58246
+[449]  0.0-10.0 sec  10.7 MBytes  9.00 Mbits/sec   0.082 ms    0/ 7658 (0%)
+[451] local 0.0.0.0 port 60050 connected with 192.0.0.31 port 51087
+[451]  0.0-10.0 sec  10.7 MBytes  9.00 Mbits/sec   0.094 ms    0/ 7657 (0%)
+[451]  0.0-10.0 sec  1 datagrams received out-of-order
+[453] local 0.0.0.0 port 60050 connected with 192.0.0.31 port 42028
+[453]  0.0-10.0 sec  13.1 MBytes  11.0 Mbits/sec   0.398 ms    0/ 9355 (0%)
+[453]  0.0-10.0 sec  1 datagrams received out-of-order
+[455] local 0.0.0.0 port 60050 connected with 192.0.0.31 port 51430
+[455]  0.0-10.0 sec  11.9 MBytes  10.0 Mbits/sec   0.104 ms    0/ 8504 (0%)
+[455]  0.0-10.0 sec  1 datagrams received out-of-order
+[457] local 0.0.0.0 port 60050 connected with 192.0.0.31 port 42728
+[457]  0.0-10.0 sec  13.1 MBytes  11.0 Mbits/sec   0.085 ms    1/ 9355 (0.011%)
+[457]  0.0-10.0 sec  1 datagrams received out-of-order
+[459] local 0.0.0.0 port 60050 connected with 192.0.0.31 port 59544
+[459]  0.0-10.0 sec  11.9 MBytes  10.0 Mbits/sec   0.133 ms    0/ 8504 (0%)
+[459]  0.0-10.0 sec  1 datagrams received out-of-order
+[461] local 0.0.0.0 port 60050 connected with 192.0.0.31 port 49292
+[461]  0.0-10.0 sec  9.54 MBytes  8.00 Mbits/sec   0.111 ms    0/ 6803 (0%)
+[461]  0.0-10.0 sec  1 datagrams received out-of-order
+[463] local 0.0.0.0 port 60050 connected with 192.0.0.31 port 48201
+[463]  0.0-10.0 sec  11.9 MBytes  10.0 Mbits/sec   0.124 ms    0/ 8505 (0%)
+[465] local 0.0.0.0 port 60050 connected with 192.0.0.31 port 54938
+[465]  0.0-10.0 sec  11.9 MBytes  10.0 Mbits/sec   0.088 ms    0/ 8504 (0%)
+[465]  0.0-10.0 sec  1 datagrams received out-of-order
+[467] local 0.0.0.0 port 60050 connected with 192.0.0.31 port 38947
+[467]  0.0-10.0 sec  11.9 MBytes  10.0 Mbits/sec   0.122 ms    0/ 8504 (0%)
+[467]  0.0-10.0 sec  1 datagrams received out-of-order
+[469] local 0.0.0.0 port 60050 connected with 192.0.0.31 port 44757
+[469]  0.0-10.0 sec  9.54 MBytes  8.00 Mbits/sec   0.120 ms    0/ 6803 (0%)
+[469]  0.0-10.0 sec  1 datagrams received out-of-order
+[471] local 0.0.0.0 port 60050 connected with 192.0.0.31 port 50562
+[471]  0.0-10.0 sec  9.54 MBytes  8.00 Mbits/sec   0.113 ms    0/ 6803 (0%)
+[471]  0.0-10.0 sec  1 datagrams received out-of-order
+[473] local 0.0.0.0 port 60050 connected with 192.0.0.31 port 44787
+[473]  0.0-10.0 sec  11.9 MBytes  10.0 Mbits/sec   0.102 ms    0/ 8504 (0%)
+[473]  0.0-10.0 sec  1 datagrams received out-of-order
+[475] local 0.0.0.0 port 60050 connected with 192.0.0.31 port 44705
+[475]  0.0-10.0 sec  11.9 MBytes  10.0 Mbits/sec   0.096 ms    0/ 8504 (0%)
+[475]  0.0-10.0 sec  1 datagrams received out-of-order
+[477] local 0.0.0.0 port 60050 connected with 192.0.0.31 port 46537
+[477]  0.0-10.0 sec  11.9 MBytes  10.0 Mbits/sec   0.095 ms    0/ 8504 (0%)
+[477]  0.0-10.0 sec  1 datagrams received out-of-order
+[479] local 0.0.0.0 port 60050 connected with 192.0.0.31 port 40142
+[479]  0.0-10.0 sec  9.54 MBytes  8.00 Mbits/sec   0.404 ms    0/ 6803 (0%)
+[479]  0.0-10.0 sec  1 datagrams received out-of-order
+[481] local 0.0.0.0 port 60050 connected with 192.0.0.31 port 41033
+[481]  0.0-10.0 sec  11.9 MBytes  10.0 Mbits/sec   0.129 ms    0/ 8504 (0%)
+[481]  0.0-10.0 sec  1 datagrams received out-of-order
+[483] local 0.0.0.0 port 60050 connected with 192.0.0.31 port 55331
+[483]  0.0-10.0 sec  9.54 MBytes  8.00 Mbits/sec   0.124 ms    0/ 6803 (0%)
+[483]  0.0-10.0 sec  1 datagrams received out-of-order
+[485] local 0.0.0.0 port 60050 connected with 192.0.0.31 port 40151
+[485]  0.0-10.0 sec  11.9 MBytes  10.0 Mbits/sec   0.102 ms    0/ 8504 (0%)
+[485]  0.0-10.0 sec  1 datagrams received out-of-order
+[487] local 0.0.0.0 port 60050 connected with 192.0.0.31 port 42965
+[487]  0.0-10.0 sec  11.9 MBytes  10.0 Mbits/sec   0.120 ms    0/ 8504 (0%)
+[487]  0.0-10.0 sec  1 datagrams received out-of-order
+[489] local 0.0.0.0 port 60050 connected with 192.0.0.31 port 34030
+[489]  0.0-10.0 sec  11.9 MBytes  10.0 Mbits/sec   0.100 ms    0/ 8504 (0%)
+[489]  0.0-10.0 sec  1 datagrams received out-of-order
+[491] local 0.0.0.0 port 60050 connected with 192.0.0.31 port 35870
+[491]  0.0-10.0 sec  9.54 MBytes  8.00 Mbits/sec   0.114 ms    0/ 6803 (0%)
+[491]  0.0-10.0 sec  1 datagrams received out-of-order
+[493] local 0.0.0.0 port 60050 connected with 192.0.0.31 port 36914
+[493]  0.0-10.0 sec  10.7 MBytes  9.00 Mbits/sec   0.094 ms    0/ 7658 (0%)
+[495] local 0.0.0.0 port 60050 connected with 192.0.0.31 port 34057
+[495]  0.0-10.0 sec  9.54 MBytes  8.00 Mbits/sec   0.149 ms    0/ 6803 (0%)
+[495]  0.0-10.0 sec  1 datagrams received out-of-order
+[497] local 0.0.0.0 port 60050 connected with 192.0.0.31 port 45523
+[497]  0.0-10.0 sec  10.7 MBytes  9.00 Mbits/sec   0.117 ms    0/ 7657 (0%)
+[497]  0.0-10.0 sec  1 datagrams received out-of-order
+[499] local 0.0.0.0 port 60050 connected with 192.0.0.31 port 48254
+[499]  0.0-10.0 sec  11.9 MBytes  10.0 Mbits/sec   0.139 ms    0/ 8504 (0%)
+[499]  0.0-10.0 sec  1 datagrams received out-of-order
+[501] local 0.0.0.0 port 60050 connected with 192.0.0.31 port 60941
+[501]  0.0-10.0 sec  10.7 MBytes  9.00 Mbits/sec   0.139 ms    0/ 7657 (0%)
+[501]  0.0-10.0 sec  1 datagrams received out-of-order
+[503] local 0.0.0.0 port 60050 connected with 192.0.0.31 port 39859
+[503]  0.0-10.0 sec  10.7 MBytes  9.00 Mbits/sec   0.130 ms    0/ 7658 (0%)
+[505] local 0.0.0.0 port 60050 connected with 192.0.0.31 port 53111
+[505]  0.0-10.0 sec  11.9 MBytes  10.0 Mbits/sec   0.125 ms    0/ 8504 (0%)
+[505]  0.0-10.0 sec  1 datagrams received out-of-order
+[507] local 0.0.0.0 port 60050 connected with 192.0.0.31 port 38263
+[507]  0.0-10.0 sec  11.9 MBytes  10.0 Mbits/sec   0.132 ms    0/ 8504 (0%)
+[507]  0.0-10.0 sec  1 datagrams received out-of-order
+[509] local 0.0.0.0 port 60050 connected with 192.0.0.31 port 43201
+[509]  0.0-10.0 sec  11.9 MBytes  10.0 Mbits/sec   0.112 ms    0/ 8504 (0%)
+[509]  0.0-10.0 sec  1 datagrams received out-of-order
+[511] local 0.0.0.0 port 60050 connected with 192.0.0.31 port 43961
+[511]  0.0-10.0 sec  13.1 MBytes  11.0 Mbits/sec   0.115 ms    0/ 9355 (0%)
+[511]  0.0-10.0 sec  1 datagrams received out-of-order
+[513] local 0.0.0.0 port 60050 connected with 192.0.0.31 port 40675
+[513]  0.0-10.0 sec  13.1 MBytes  11.0 Mbits/sec   0.130 ms    0/ 9355 (0%)
+[513]  0.0-10.0 sec  1 datagrams received out-of-order
+[515] local 0.0.0.0 port 60050 connected with 192.0.0.31 port 34738
+[515]  0.0-10.0 sec  10.7 MBytes  9.00 Mbits/sec   0.099 ms    0/ 7657 (0%)
+[515]  0.0-10.0 sec  1 datagrams received out-of-order
+[517] local 0.0.0.0 port 60050 connected with 192.0.0.31 port 46818
+[517]  0.0-10.0 sec  10.7 MBytes  9.00 Mbits/sec   0.133 ms    0/ 7657 (0%)
+[517]  0.0-10.0 sec  1 datagrams received out-of-order
+[519] local 0.0.0.0 port 60050 connected with 192.0.0.31 port 55394
+[519]  0.0-10.0 sec  11.9 MBytes  10.0 Mbits/sec   0.154 ms    0/ 8504 (0%)
+[519]  0.0-10.0 sec  1 datagrams received out-of-order
+[521] local 0.0.0.0 port 60050 connected with 192.0.0.31 port 36494
+[521]  0.0-10.0 sec  9.54 MBytes  8.00 Mbits/sec   0.172 ms    0/ 6803 (0%)
+[521]  0.0-10.0 sec  1 datagrams received out-of-order
+[523] local 0.0.0.0 port 60050 connected with 192.0.0.31 port 60730
+[523]  0.0-10.0 sec  11.9 MBytes  10.0 Mbits/sec   0.283 ms    0/ 8504 (0%)
+[523]  0.0-10.0 sec  1 datagrams received out-of-order
+[525] local 0.0.0.0 port 60050 connected with 192.0.0.31 port 50414
+[525]  0.0-10.0 sec  10.7 MBytes  9.00 Mbits/sec   0.092 ms    0/ 7657 (0%)
+[525]  0.0-10.0 sec  1 datagrams received out-of-order
+[527] local 0.0.0.0 port 60050 connected with 192.0.0.31 port 54753
+[527]  0.0-10.0 sec  9.54 MBytes  8.00 Mbits/sec   0.105 ms    0/ 6803 (0%)
+[527]  0.0-10.0 sec  1 datagrams received out-of-order
+[529] local 0.0.0.0 port 60050 connected with 192.0.0.31 port 36596
+[529]  0.0-10.0 sec  11.9 MBytes  10.0 Mbits/sec   0.454 ms    0/ 8504 (0%)
+[529]  0.0-10.0 sec  1 datagrams received out-of-order
+[531] local 0.0.0.0 port 60050 connected with 192.0.0.31 port 57884
+[531]  0.0-10.0 sec  11.9 MBytes  10.0 Mbits/sec   0.108 ms    0/ 8504 (0%)
+[531]  0.0-10.0 sec  1 datagrams received out-of-order
+[533] local 0.0.0.0 port 60050 connected with 192.0.0.31 port 47895
+[533]  0.0-10.0 sec  11.9 MBytes  10.0 Mbits/sec   0.135 ms    0/ 8504 (0%)
+[533]  0.0-10.0 sec  1 datagrams received out-of-order
+[535] local 0.0.0.0 port 60050 connected with 192.0.0.31 port 34904
+[535]  0.0-10.0 sec  13.1 MBytes  11.0 Mbits/sec   0.746 ms    0/ 9355 (0%)
+[535]  0.0-10.0 sec  1 datagrams received out-of-order
+[537] local 0.0.0.0 port 60050 connected with 192.0.0.31 port 56450
+[537]  0.0-10.0 sec  10.7 MBytes  9.00 Mbits/sec   0.104 ms    0/ 7657 (0%)
+[537]  0.0-10.0 sec  1 datagrams received out-of-order
+[539] local 0.0.0.0 port 60050 connected with 192.0.0.31 port 43445
+[539]  0.0-10.0 sec  13.1 MBytes  11.0 Mbits/sec   0.090 ms    0/ 9355 (0%)
+[539]  0.0-10.0 sec  1 datagrams received out-of-order
+[541] local 0.0.0.0 port 60050 connected with 192.0.0.31 port 44814
+[541]  0.0-10.0 sec  10.7 MBytes  9.00 Mbits/sec   0.112 ms    0/ 7657 (0%)
+[541]  0.0-10.0 sec  1 datagrams received out-of-order
+[543] local 0.0.0.0 port 60050 connected with 192.0.0.31 port 41267
+[543]  0.0-10.0 sec  9.54 MBytes  8.00 Mbits/sec   0.108 ms    0/ 6803 (0%)
+[543]  0.0-10.0 sec  1 datagrams received out-of-order
+[545] local 0.0.0.0 port 60050 connected with 192.0.0.31 port 53971
+[545]  0.0-10.0 sec  11.9 MBytes  10.0 Mbits/sec   0.128 ms    0/ 8504 (0%)
+[545]  0.0-10.0 sec  1 datagrams received out-of-order
+[547] local 0.0.0.0 port 60050 connected with 192.0.0.31 port 50310
+[547]  0.0-10.0 sec  11.9 MBytes  10.0 Mbits/sec   0.094 ms    0/ 8504 (0%)
+[547]  0.0-10.0 sec  1 datagrams received out-of-order
+[549] local 0.0.0.0 port 60050 connected with 192.0.0.31 port 41762
+[549]  0.0-10.0 sec  11.9 MBytes  10.0 Mbits/sec   0.261 ms    0/ 8504 (0%)
+[549]  0.0-10.0 sec  1 datagrams received out-of-order
+[551] local 0.0.0.0 port 60050 connected with 192.0.0.31 port 57279
+[551]  0.0-10.0 sec  11.9 MBytes  10.0 Mbits/sec   0.131 ms    0/ 8504 (0%)
+[551]  0.0-10.0 sec  1 datagrams received out-of-order
+[553] local 0.0.0.0 port 60050 connected with 192.0.0.31 port 38738
+[553]  0.0-10.0 sec  13.1 MBytes  11.0 Mbits/sec   0.147 ms    0/ 9355 (0%)
+[553]  0.0-10.0 sec  1 datagrams received out-of-order
+[555] local 0.0.0.0 port 60050 connected with 192.0.0.31 port 47460
+[555]  0.0-10.0 sec  11.9 MBytes  10.0 Mbits/sec   0.139 ms    0/ 8504 (0%)
+[555]  0.0-10.0 sec  1 datagrams received out-of-order
+[557] local 0.0.0.0 port 60050 connected with 192.0.0.31 port 55307
+[557]  0.0-10.0 sec  10.7 MBytes  9.00 Mbits/sec   0.116 ms    0/ 7657 (0%)
+[557]  0.0-10.0 sec  1 datagrams received out-of-order
+[559] local 0.0.0.0 port 60050 connected with 192.0.0.31 port 49194
+[559]  0.0-10.0 sec  13.1 MBytes  11.0 Mbits/sec   0.116 ms    0/ 9355 (0%)
+[559]  0.0-10.0 sec  1 datagrams received out-of-order
+[561] local 0.0.0.0 port 60050 connected with 192.0.0.31 port 60298
+[561]  0.0-10.0 sec  11.9 MBytes  10.0 Mbits/sec   0.093 ms    0/ 8504 (0%)
+[561]  0.0-10.0 sec  1 datagrams received out-of-order
+[563] local 0.0.0.0 port 60050 connected with 192.0.0.31 port 55214
+[563]  0.0-10.0 sec  10.7 MBytes  9.00 Mbits/sec   0.149 ms    0/ 7657 (0%)
+[563]  0.0-10.0 sec  1 datagrams received out-of-order
+[565] local 0.0.0.0 port 60050 connected with 192.0.0.31 port 37362
+[565]  0.0-10.0 sec  10.7 MBytes  9.00 Mbits/sec   0.227 ms    0/ 7657 (0%)
+[565]  0.0-10.0 sec  1 datagrams received out-of-order
+[567] local 0.0.0.0 port 60050 connected with 192.0.0.31 port 34809
+[567]  0.0-10.0 sec  11.9 MBytes  10.0 Mbits/sec   0.109 ms    0/ 8504 (0%)
+[567]  0.0-10.0 sec  1 datagrams received out-of-order
+[569] local 0.0.0.0 port 60050 connected with 192.0.0.31 port 57096
+[569]  0.0-10.0 sec  13.1 MBytes  11.0 Mbits/sec   0.122 ms    0/ 9355 (0%)
+[569]  0.0-10.0 sec  1 datagrams received out-of-order
+[571] local 0.0.0.0 port 60050 connected with 192.0.0.31 port 49871
+[571]  0.0-10.0 sec  10.7 MBytes  9.00 Mbits/sec   0.107 ms    0/ 7658 (0%)
+[573] local 0.0.0.0 port 60050 connected with 192.0.0.31 port 55480
+[573]  0.0-10.0 sec  11.9 MBytes  10.0 Mbits/sec   0.173 ms    1/ 8504 (0.012%)
+[573]  0.0-10.0 sec  1 datagrams received out-of-order
+[575] local 0.0.0.0 port 60050 connected with 192.0.0.31 port 40184
+[575]  0.0-10.0 sec  10.7 MBytes  9.00 Mbits/sec   0.165 ms    0/ 7657 (0%)
+[575]  0.0-10.0 sec  1 datagrams received out-of-order
+[577] local 0.0.0.0 port 60050 connected with 192.0.0.31 port 39255
+[577]  0.0-10.0 sec  10.7 MBytes  9.00 Mbits/sec   0.174 ms    0/ 7658 (0%)
+[579] local 0.0.0.0 port 60050 connected with 192.0.0.31 port 35368
+[579]  0.0-10.0 sec  10.7 MBytes  9.00 Mbits/sec   0.090 ms    0/ 7657 (0%)
+[579]  0.0-10.0 sec  1 datagrams received out-of-order
+[581] local 0.0.0.0 port 60050 connected with 192.0.0.31 port 47881
+[581]  0.0-10.0 sec  9.54 MBytes  8.00 Mbits/sec   0.124 ms    0/ 6803 (0%)
+[581]  0.0-10.0 sec  1 datagrams received out-of-order
+[583] local 0.0.0.0 port 60050 connected with 192.0.0.31 port 51365
+[583]  0.0-10.0 sec  11.9 MBytes  10.0 Mbits/sec   0.113 ms    0/ 8504 (0%)
+[583]  0.0-10.0 sec  1 datagrams received out-of-order
+[585] local 0.0.0.0 port 60050 connected with 192.0.0.31 port 55065
+[585]  0.0-10.0 sec  10.7 MBytes  9.00 Mbits/sec   0.128 ms    0/ 7658 (0%)
+[587] local 0.0.0.0 port 60050 connected with 192.0.0.31 port 47553
+[587]  0.0-10.0 sec  11.9 MBytes  10.0 Mbits/sec   0.294 ms    0/ 8504 (0%)
+[587]  0.0-10.0 sec  1 datagrams received out-of-order
+[589] local 0.0.0.0 port 60050 connected with 192.0.0.31 port 52673
+[589]  0.0-10.0 sec  10.7 MBytes  9.00 Mbits/sec   0.601 ms    0/ 7657 (0%)
+[589]  0.0-10.0 sec  1 datagrams received out-of-order
+[591] local 0.0.0.0 port 60050 connected with 192.0.0.31 port 45245
+[591]  0.0-10.0 sec  10.7 MBytes  9.00 Mbits/sec   0.097 ms    0/ 7657 (0%)
+[591]  0.0-10.0 sec  1 datagrams received out-of-order
+[593] local 0.0.0.0 port 60050 connected with 192.0.0.31 port 43738
+[593]  0.0-10.0 sec  10.7 MBytes  9.00 Mbits/sec   0.119 ms    0/ 7657 (0%)
+[593]  0.0-10.0 sec  1 datagrams received out-of-order
+[595] local 0.0.0.0 port 60050 connected with 192.0.0.31 port 43111
+[595]  0.0-10.0 sec  10.7 MBytes  9.00 Mbits/sec   0.125 ms    1/ 7657 (0.013%)
+[595]  0.0-10.0 sec  1 datagrams received out-of-order
+[597] local 0.0.0.0 port 60050 connected with 192.0.0.31 port 54851
+[597]  0.0-10.0 sec  13.1 MBytes  11.0 Mbits/sec   0.116 ms    0/ 9355 (0%)
+[597]  0.0-10.0 sec  1 datagrams received out-of-order
+[599] local 0.0.0.0 port 60050 connected with 192.0.0.31 port 58925
+[599]  0.0-10.0 sec  14.3 MBytes  12.0 Mbits/sec   0.129 ms    0/10205 (0%)
+[599]  0.0-10.0 sec  1 datagrams received out-of-order

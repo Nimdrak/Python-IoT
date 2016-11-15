@@ -1,0 +1,48 @@
+'''
+Created on May 6, 2016
+
+@author: cloud1
+'''
+
+import function_string_to_list
+
+#######################
+#### load two file ####
+#######################
+f_length = open("/home/cloud1/IoT/link_length.txt",'r')
+
+line1=f_length.readline()    
+a=line1[1:-1].split(',')
+for i in range(0,len(a)):
+    a[i]=a[i].strip()
+
+print a
+
+f_input_length=open("/home/cloud1/IoT/input_link_lenth.txt",'w')
+#for i in tange(0,1)
+data=str(a[1]).strip()[0:2] + ','
+print data
+
+
+for i in range(0,len(final_output)):
+    for j in range(0,2)    :
+        data = str(final_output[i][j]).strip()[0:-3] + ','
+        f_allo_result.write(data)
+    
+    if len(final_output[i]) != 2:
+    
+        for j in range(2,len(final_output[i])-1):
+            data = str(final_output[i][j]) + ','
+            f_allo_result.write(data)
+
+        data = str(final_output[i][len(final_output[i])-1])
+        f_allo_result.write(data)
+
+     
+    else:
+        data = str(final_output[i][len(final_output[i])-1])
+        f_allo_result.write(data)
+  
+    f_allo_result.write('\n')    
+    
+f_allo_result.close()

@@ -1,0 +1,33 @@
+'''
+Created on May 3, 2016
+
+@author: cloud1
+'''
+number_of_ovs=4
+
+
+x=0
+
+f_cont = open("/home/cloud1/IoT/cloud/Rest_API_Python/HttpClient/server_table/"+"OVS"+str(x+1)+".txt",'r')
+line_cont=f_cont.readline()
+controller=[]
+all_controller = []                
+while line_cont:
+    result_cont=line_cont.split()
+
+    line_cont=f_cont.readline()
+    
+    controller.append('192.0.0.200/32')
+
+    for y in range(1,x+2):
+        controller.append(str(y))
+       
+    controller.append(result_cont[1])
+    controller=[]
+    print controller
+
+    all_controller.append(controller)
+
+        
+#print controller            
+#print all_controller

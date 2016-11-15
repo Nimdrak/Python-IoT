@@ -1,0 +1,15 @@
+'''
+Created on May 3, 2016
+
+@author: cloud1
+'''
+number_of_ovs=4
+for x in range(0,number_of_ovs):        
+    f_cont = open("/home/cloud1/IoT/cloud/Rest_API_Python/HttpClient/server_table/"+"OVS"+str(x+1)+".txt",'r')
+    line_cont=f_cont.readline()
+    
+    while line_cont:
+        result_cont=line_cont.split()
+        line_cont=f_cont.readline()
+        print result_cont[1]
+    

@@ -1,0 +1,66 @@
+'''
+Created on May 9, 2016
+
+@author: nimdrak
+'''
+import os
+
+
+#def search(dirname):
+
+dirname='/home/cloud1/IoT/output_txt/link_data/interval_10_30_2_r_proper_mean/c_interval_10_30_2_0.09/5'        
+
+filenames = os.listdir(dirname)
+#for filename in filenames:
+#    full_filename=os.path.join(dirname, filename)
+#    ext = os.path.splitext(full_filename)[-1]                           
+#    if ext == '.txt':
+        #print(full_filename)
+        
+
+for (path, dir, files) in os.walk(dirname):
+    for filename in files:
+        ext = os.path.splitext(filename)[-1]
+#        print filename
+        if 'bw' in filename:
+            print("%s %s" % (path, filename))
+            
+            
+print filename
+bw_data=open(path+'/'+filename,'r')
+line=bw_data.readline()
+line=bw_data.readline()
+line=bw_data.readline()
+print line
+
+print bw_data
+
+        f = open("/home/cloud1/IoT/cloud/Rest_API_Python/HttpClient/table/"+"OVS"+current+".txt",'r')
+        line=f.readline()
+
+        while line:
+            result=line.split()
+            line=f.readline()
+            if not line:
+                break
+            
+            if result[0]==after:
+                dst_port_list[x-1] =result[2]
+                print 'According to after table','current OVS',current,'AND must have dst port :',dst_port_list[x-1]
+                break
+              
+
+#for i in range(0,len(allo_result)):
+#    data = str(allo_result[i]) + '\n'
+#        
+#    f_allo_result.write(data)
+#f_allo_result.close()
+
+#bw.data=close()
+
+
+
+
+            
+            
+    

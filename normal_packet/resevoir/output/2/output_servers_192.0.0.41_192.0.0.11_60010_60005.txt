@@ -1,0 +1,606 @@
+------------------------------------------------------------
+Server listening on UDP port 60010
+Receiving 1470 byte datagrams
+UDP buffer size: 0.20 MByte (default)
+------------------------------------------------------------
+[  1] local 0.0.0.0 port 60010 connected with 192.0.0.11 port 57171
+[ ID] Interval       Transfer     Bandwidth        Jitter   Lost/Total Datagrams
+[  1]  0.0-10.0 sec  8.35 MBytes  7.00 Mbits/sec   0.147 ms    0/ 5954 (0%)
+[  3] local 0.0.0.0 port 60010 connected with 192.0.0.11 port 55022
+[  3]  0.0-10.0 sec  11.9 MBytes  10.0 Mbits/sec   0.099 ms    0/ 8505 (0%)
+[  5] local 0.0.0.0 port 60010 connected with 192.0.0.11 port 34879
+[  5]  0.0-10.0 sec  13.1 MBytes  11.0 Mbits/sec   0.146 ms    0/ 9355 (0%)
+[  7] local 0.0.0.0 port 60010 connected with 192.0.0.11 port 52441
+[  7]  0.0-10.0 sec  11.9 MBytes  10.0 Mbits/sec   0.145 ms    0/ 8505 (0%)
+[  9] local 0.0.0.0 port 60010 connected with 192.0.0.11 port 49745
+[  9]  0.0-10.0 sec  13.1 MBytes  11.0 Mbits/sec   0.114 ms    0/ 9355 (0%)
+[ 11] local 0.0.0.0 port 60010 connected with 192.0.0.11 port 34707
+[ 11]  0.0-10.0 sec  13.1 MBytes  11.0 Mbits/sec   0.135 ms    0/ 9355 (0%)
+[ 13] local 0.0.0.0 port 60010 connected with 192.0.0.11 port 52567
+[ 13]  0.0-10.0 sec  10.7 MBytes  9.00 Mbits/sec   0.132 ms    0/ 7655 (0%)
+[ 15] local 0.0.0.0 port 60010 connected with 192.0.0.11 port 43626
+[ 15]  0.0-10.0 sec  10.7 MBytes  9.00 Mbits/sec   0.120 ms    0/ 7655 (0%)
+[ 17] local 0.0.0.0 port 60010 connected with 192.0.0.11 port 55716
+[ 17]  0.0-10.0 sec  15.5 MBytes  13.0 Mbits/sec   0.149 ms    0/11056 (0%)
+[ 19] local 0.0.0.0 port 60010 connected with 192.0.0.11 port 57811
+[ 19]  0.0-10.0 sec  10.7 MBytes  9.00 Mbits/sec   0.128 ms    0/ 7655 (0%)
+[ 21] local 0.0.0.0 port 60010 connected with 192.0.0.11 port 58144
+[ 21]  0.0-10.0 sec  8.35 MBytes  7.00 Mbits/sec   0.154 ms    0/ 5954 (0%)
+[ 23] local 0.0.0.0 port 60010 connected with 192.0.0.11 port 58605
+[ 23]  0.0-10.0 sec  14.3 MBytes  12.0 Mbits/sec   0.124 ms    0/10206 (0%)
+[ 25] local 0.0.0.0 port 60010 connected with 192.0.0.11 port 57106
+[ 25]  0.0-10.0 sec  10.7 MBytes  9.00 Mbits/sec   0.125 ms    0/ 7655 (0%)
+[ 27] local 0.0.0.0 port 60010 connected with 192.0.0.11 port 55462
+[ 27]  0.0-10.0 sec  11.9 MBytes  10.0 Mbits/sec   0.142 ms    0/ 8505 (0%)
+[ 29] local 0.0.0.0 port 60010 connected with 192.0.0.11 port 38947
+[ 29]  0.0-10.0 sec  11.9 MBytes  10.0 Mbits/sec   0.116 ms    0/ 8505 (0%)
+[ 31] local 0.0.0.0 port 60010 connected with 192.0.0.11 port 60792
+[ 31]  0.0-10.0 sec  13.1 MBytes  11.0 Mbits/sec   0.110 ms    0/ 9355 (0%)
+[ 33] local 0.0.0.0 port 60010 connected with 192.0.0.11 port 39843
+[ 33]  0.0-10.0 sec  5.96 MBytes  5.00 Mbits/sec   0.193 ms    0/ 4253 (0%)
+[ 35] local 0.0.0.0 port 60010 connected with 192.0.0.11 port 58470
+[ 35]  0.0-10.0 sec  11.9 MBytes  10.0 Mbits/sec   0.087 ms    0/ 8505 (0%)
+[ 37] local 0.0.0.0 port 60010 connected with 192.0.0.11 port 38554
+[ 37]  0.0-10.0 sec  15.5 MBytes  13.0 Mbits/sec   0.147 ms    1/11056 (0.009%)
+[ 39] local 0.0.0.0 port 60010 connected with 192.0.0.11 port 33423
+[ 39]  0.0-10.0 sec  13.1 MBytes  11.0 Mbits/sec   0.157 ms    0/ 9355 (0%)
+[ 41] local 0.0.0.0 port 60010 connected with 192.0.0.11 port 47666
+[ 41]  0.0-10.0 sec  10.7 MBytes  9.00 Mbits/sec   0.169 ms    0/ 7654 (0%)
+[ 43] local 0.0.0.0 port 60010 connected with 192.0.0.11 port 34132
+[ 43]  0.0-10.0 sec  9.54 MBytes  8.00 Mbits/sec   0.142 ms    0/ 6804 (0%)
+[ 45] local 0.0.0.0 port 60010 connected with 192.0.0.11 port 57081
+[ 45]  0.0-10.0 sec  15.5 MBytes  13.0 Mbits/sec   0.147 ms    0/11056 (0%)
+[ 47] local 0.0.0.0 port 60010 connected with 192.0.0.11 port 57016
+[ 47]  0.0-10.0 sec  10.7 MBytes  9.00 Mbits/sec   0.151 ms    0/ 7655 (0%)
+[ 49] local 0.0.0.0 port 60010 connected with 192.0.0.11 port 43354
+[ 49]  0.0-10.0 sec  11.9 MBytes  10.0 Mbits/sec   0.159 ms    0/ 8505 (0%)
+[ 51] local 0.0.0.0 port 60010 connected with 192.0.0.11 port 53905
+[ 51]  0.0-10.0 sec  11.9 MBytes  10.0 Mbits/sec   0.153 ms    0/ 8505 (0%)
+[ 53] local 0.0.0.0 port 60010 connected with 192.0.0.11 port 47595
+[ 53]  0.0-10.0 sec  10.7 MBytes  9.00 Mbits/sec   0.164 ms    0/ 7655 (0%)
+[ 55] local 0.0.0.0 port 60010 connected with 192.0.0.11 port 47790
+[ 55]  0.0-10.0 sec  14.3 MBytes  12.0 Mbits/sec   0.133 ms    0/10206 (0%)
+[ 57] local 0.0.0.0 port 60010 connected with 192.0.0.11 port 44794
+[ 57]  0.0-10.0 sec  16.7 MBytes  14.0 Mbits/sec   0.162 ms    0/11906 (0%)
+[ 59] local 0.0.0.0 port 60010 connected with 192.0.0.11 port 44943
+[ 59]  0.0-10.0 sec  11.9 MBytes  10.0 Mbits/sec   0.185 ms    0/ 8505 (0%)
+[ 61] local 0.0.0.0 port 60010 connected with 192.0.0.11 port 55097
+[ 61]  0.0-10.0 sec  10.7 MBytes  9.00 Mbits/sec   0.141 ms    0/ 7655 (0%)
+[ 63] local 0.0.0.0 port 60010 connected with 192.0.0.11 port 38343
+[ 63]  0.0-10.0 sec  9.54 MBytes  8.00 Mbits/sec   0.132 ms    0/ 6804 (0%)
+[ 65] local 0.0.0.0 port 60010 connected with 192.0.0.11 port 47639
+[ 65]  0.0-10.0 sec  10.7 MBytes  9.00 Mbits/sec   0.134 ms    0/ 7655 (0%)
+[ 67] local 0.0.0.0 port 60010 connected with 192.0.0.11 port 35605
+[ 67]  0.0-10.0 sec  13.1 MBytes  11.0 Mbits/sec   0.151 ms    0/ 9355 (0%)
+[ 69] local 0.0.0.0 port 60010 connected with 192.0.0.11 port 42363
+[ 69]  0.0-10.0 sec  9.54 MBytes  8.00 Mbits/sec   0.199 ms    0/ 6804 (0%)
+[ 71] local 0.0.0.0 port 60010 connected with 192.0.0.11 port 38785
+[ 71]  0.0-10.0 sec  7.16 MBytes  6.00 Mbits/sec   0.138 ms    0/ 5104 (0%)
+[ 73] local 0.0.0.0 port 60010 connected with 192.0.0.11 port 44007
+[ 73]  0.0-10.0 sec  10.7 MBytes  9.00 Mbits/sec   0.202 ms    0/ 7655 (0%)
+[ 75] local 0.0.0.0 port 60010 connected with 192.0.0.11 port 49986
+[ 75]  0.0-10.0 sec  15.5 MBytes  13.0 Mbits/sec   0.224 ms    0/11056 (0%)
+[ 77] local 0.0.0.0 port 60010 connected with 192.0.0.11 port 54246
+[ 77]  0.0-10.0 sec  10.7 MBytes  9.00 Mbits/sec   0.107 ms    0/ 7655 (0%)
+[ 79] local 0.0.0.0 port 60010 connected with 192.0.0.11 port 54460
+[ 79]  0.0-10.0 sec  10.7 MBytes  9.00 Mbits/sec   0.095 ms    0/ 7655 (0%)
+[ 81] local 0.0.0.0 port 60010 connected with 192.0.0.11 port 33282
+[ 81]  0.0-10.0 sec  11.9 MBytes  10.0 Mbits/sec   0.132 ms    0/ 8505 (0%)
+[ 83] local 0.0.0.0 port 60010 connected with 192.0.0.11 port 34828
+[ 83]  0.0-10.0 sec  10.7 MBytes  9.00 Mbits/sec   0.130 ms    0/ 7655 (0%)
+[ 85] local 0.0.0.0 port 60010 connected with 192.0.0.11 port 40154
+[ 85]  0.0-10.0 sec  9.54 MBytes  8.00 Mbits/sec   0.182 ms    0/ 6804 (0%)
+[ 87] local 0.0.0.0 port 60010 connected with 192.0.0.11 port 58623
+[ 87]  0.0-10.0 sec  13.1 MBytes  11.0 Mbits/sec   0.189 ms    0/ 9355 (0%)
+[ 89] local 0.0.0.0 port 60010 connected with 192.0.0.11 port 43720
+[ 89]  0.0-10.0 sec  7.16 MBytes  6.00 Mbits/sec   0.123 ms    0/ 5104 (0%)
+[ 91] local 0.0.0.0 port 60010 connected with 192.0.0.11 port 60758
+[ 91]  0.0-10.0 sec  11.9 MBytes  10.0 Mbits/sec   0.136 ms    0/ 8505 (0%)
+[ 93] local 0.0.0.0 port 60010 connected with 192.0.0.11 port 48736
+[ 93]  0.0-10.0 sec  14.3 MBytes  12.0 Mbits/sec   0.177 ms    0/10206 (0%)
+[ 95] local 0.0.0.0 port 60010 connected with 192.0.0.11 port 44874
+[ 95]  0.0-10.0 sec  9.54 MBytes  8.00 Mbits/sec   0.130 ms    0/ 6804 (0%)
+[ 97] local 0.0.0.0 port 60010 connected with 192.0.0.11 port 37685
+[ 97]  0.0-10.0 sec  10.7 MBytes  9.00 Mbits/sec   0.162 ms    0/ 7655 (0%)
+[ 99] local 0.0.0.0 port 60010 connected with 192.0.0.11 port 35227
+[ 99]  0.0-10.0 sec  10.7 MBytes  9.00 Mbits/sec   0.150 ms    0/ 7655 (0%)
+[101] local 0.0.0.0 port 60010 connected with 192.0.0.11 port 40452
+[101]  0.0-10.0 sec  11.9 MBytes  10.0 Mbits/sec   0.171 ms    0/ 8505 (0%)
+[103] local 0.0.0.0 port 60010 connected with 192.0.0.11 port 52573
+[103]  0.0-10.0 sec  14.3 MBytes  12.0 Mbits/sec   0.120 ms    0/10206 (0%)
+[105] local 0.0.0.0 port 60010 connected with 192.0.0.11 port 47187
+[105]  0.0-10.0 sec  16.7 MBytes  14.0 Mbits/sec   0.179 ms    0/11906 (0%)
+[107] local 0.0.0.0 port 60010 connected with 192.0.0.11 port 56374
+[107]  0.0-10.0 sec  13.1 MBytes  11.0 Mbits/sec   0.207 ms    1/ 9355 (0.011%)
+[109] local 0.0.0.0 port 60010 connected with 192.0.0.11 port 53360
+[109]  0.0-10.0 sec  11.9 MBytes  10.0 Mbits/sec   0.123 ms    0/ 8505 (0%)
+[111] local 0.0.0.0 port 60010 connected with 192.0.0.11 port 44558
+[111]  0.0-10.0 sec  10.7 MBytes  9.00 Mbits/sec   0.089 ms    0/ 7655 (0%)
+[113] local 0.0.0.0 port 60010 connected with 192.0.0.11 port 36398
+[113]  0.0-10.0 sec  10.7 MBytes  9.00 Mbits/sec   0.170 ms    0/ 7655 (0%)
+[115] local 0.0.0.0 port 60010 connected with 192.0.0.11 port 39953
+[115]  0.0-10.0 sec  7.16 MBytes  6.00 Mbits/sec   0.108 ms    0/ 5104 (0%)
+[117] local 0.0.0.0 port 60010 connected with 192.0.0.11 port 49570
+[117]  0.0-10.0 sec  14.3 MBytes  12.0 Mbits/sec   0.226 ms    0/10206 (0%)
+[119] local 0.0.0.0 port 60010 connected with 192.0.0.11 port 51556
+[119]  0.0-10.0 sec  11.9 MBytes  10.0 Mbits/sec   0.179 ms    0/ 8505 (0%)
+[121] local 0.0.0.0 port 60010 connected with 192.0.0.11 port 58136
+[121]  0.0-10.0 sec  7.16 MBytes  6.00 Mbits/sec   0.169 ms    0/ 5104 (0%)
+[123] local 0.0.0.0 port 60010 connected with 192.0.0.11 port 42991
+[123]  0.0-10.0 sec  10.7 MBytes  9.00 Mbits/sec   0.157 ms    0/ 7655 (0%)
+[125] local 0.0.0.0 port 60010 connected with 192.0.0.11 port 50551
+[125]  0.0-10.0 sec  11.9 MBytes  10.0 Mbits/sec   0.137 ms    0/ 8505 (0%)
+[127] local 0.0.0.0 port 60010 connected with 192.0.0.11 port 36137
+[127]  0.0-10.0 sec  11.9 MBytes  10.0 Mbits/sec   0.108 ms    0/ 8505 (0%)
+[129] local 0.0.0.0 port 60010 connected with 192.0.0.11 port 55560
+[129]  0.0-10.0 sec  10.7 MBytes  9.00 Mbits/sec   0.115 ms    0/ 7655 (0%)
+[131] local 0.0.0.0 port 60010 connected with 192.0.0.11 port 59810
+[131]  0.0-10.0 sec  11.9 MBytes  10.0 Mbits/sec   0.139 ms    0/ 8505 (0%)
+[133] local 0.0.0.0 port 60010 connected with 192.0.0.11 port 41051
+[133]  0.0-10.0 sec  15.5 MBytes  13.0 Mbits/sec   0.154 ms    0/11056 (0%)
+[135] local 0.0.0.0 port 60010 connected with 192.0.0.11 port 58179
+[135]  0.0-10.0 sec  14.3 MBytes  12.0 Mbits/sec   0.160 ms    0/10206 (0%)
+[137] local 0.0.0.0 port 60010 connected with 192.0.0.11 port 56167
+[137]  0.0-10.0 sec  15.5 MBytes  13.0 Mbits/sec   0.125 ms    0/11056 (0%)
+[139] local 0.0.0.0 port 60010 connected with 192.0.0.11 port 36715
+[139]  0.0-10.0 sec  9.54 MBytes  8.00 Mbits/sec   0.149 ms    0/ 6804 (0%)
+[141] local 0.0.0.0 port 60010 connected with 192.0.0.11 port 41105
+[141]  0.0-10.0 sec  14.3 MBytes  12.0 Mbits/sec   0.119 ms    0/10206 (0%)
+[143] local 0.0.0.0 port 60010 connected with 192.0.0.11 port 34828
+[143]  0.0-10.0 sec  7.16 MBytes  6.00 Mbits/sec   0.124 ms    0/ 5104 (0%)
+[145] local 0.0.0.0 port 60010 connected with 192.0.0.11 port 59271
+[145]  0.0-10.0 sec  10.7 MBytes  9.00 Mbits/sec   0.145 ms    0/ 7655 (0%)
+[147] local 0.0.0.0 port 60010 connected with 192.0.0.11 port 42671
+[147]  0.0-10.0 sec  14.3 MBytes  12.0 Mbits/sec   0.217 ms    0/10206 (0%)
+[149] local 0.0.0.0 port 60010 connected with 192.0.0.11 port 35777
+[149]  0.0-10.0 sec  13.1 MBytes  11.0 Mbits/sec   0.118 ms    0/ 9355 (0%)
+[151] local 0.0.0.0 port 60010 connected with 192.0.0.11 port 49325
+[151]  0.0-10.0 sec  11.9 MBytes  10.0 Mbits/sec   0.131 ms    0/ 8505 (0%)
+[153] local 0.0.0.0 port 60010 connected with 192.0.0.11 port 58385
+[153]  0.0-10.0 sec  9.54 MBytes  8.00 Mbits/sec   0.160 ms    0/ 6804 (0%)
+[155] local 0.0.0.0 port 60010 connected with 192.0.0.11 port 37469
+[155]  0.0-10.0 sec  10.7 MBytes  9.00 Mbits/sec   0.136 ms    0/ 7655 (0%)
+[157] local 0.0.0.0 port 60010 connected with 192.0.0.11 port 49533
+[157]  0.0-10.0 sec  14.3 MBytes  12.0 Mbits/sec   0.129 ms    0/10206 (0%)
+[159] local 0.0.0.0 port 60010 connected with 192.0.0.11 port 46285
+[159]  0.0-10.0 sec  11.9 MBytes  10.0 Mbits/sec   0.137 ms    0/ 8505 (0%)
+[161] local 0.0.0.0 port 60010 connected with 192.0.0.11 port 54236
+[161]  0.0-10.0 sec  13.1 MBytes  11.0 Mbits/sec   0.163 ms    0/ 9355 (0%)
+[163] local 0.0.0.0 port 60010 connected with 192.0.0.11 port 55462
+[163]  0.0-10.0 sec  8.35 MBytes  7.00 Mbits/sec   0.121 ms    0/ 5954 (0%)
+[165] local 0.0.0.0 port 60010 connected with 192.0.0.11 port 41140
+[165]  0.0-10.0 sec  10.7 MBytes  9.00 Mbits/sec   0.149 ms    0/ 7655 (0%)
+[167] local 0.0.0.0 port 60010 connected with 192.0.0.11 port 36954
+[167]  0.0-10.0 sec  13.1 MBytes  11.0 Mbits/sec   0.113 ms    0/ 9355 (0%)
+[169] local 0.0.0.0 port 60010 connected with 192.0.0.11 port 56169
+[169]  0.0-10.0 sec  7.16 MBytes  6.00 Mbits/sec   0.130 ms    0/ 5104 (0%)
+[171] local 0.0.0.0 port 60010 connected with 192.0.0.11 port 59145
+[171]  0.0-10.0 sec  11.9 MBytes  10.0 Mbits/sec   0.156 ms    0/ 8505 (0%)
+[173] local 0.0.0.0 port 60010 connected with 192.0.0.11 port 46748
+[173]  0.0-10.0 sec  13.1 MBytes  11.0 Mbits/sec   0.120 ms    0/ 9355 (0%)
+[175] local 0.0.0.0 port 60010 connected with 192.0.0.11 port 42262
+[175]  0.0-10.0 sec  9.54 MBytes  8.00 Mbits/sec   0.147 ms    0/ 6804 (0%)
+[177] local 0.0.0.0 port 60010 connected with 192.0.0.11 port 36939
+[177]  0.0-10.0 sec  11.9 MBytes  10.0 Mbits/sec   0.176 ms    0/ 8505 (0%)
+[179] local 0.0.0.0 port 60010 connected with 192.0.0.11 port 57070
+[179]  0.0-10.0 sec  11.9 MBytes  10.0 Mbits/sec   0.191 ms    0/ 8505 (0%)
+[181] local 0.0.0.0 port 60010 connected with 192.0.0.11 port 41245
+[181]  0.0-10.0 sec  9.54 MBytes  8.00 Mbits/sec   0.136 ms    0/ 6804 (0%)
+[183] local 0.0.0.0 port 60010 connected with 192.0.0.11 port 35513
+[183]  0.0-10.0 sec  8.35 MBytes  7.00 Mbits/sec   0.120 ms    0/ 5954 (0%)
+[185] local 0.0.0.0 port 60010 connected with 192.0.0.11 port 59398
+[185]  0.0-10.0 sec  10.7 MBytes  9.00 Mbits/sec   0.090 ms    0/ 7655 (0%)
+[187] local 0.0.0.0 port 60010 connected with 192.0.0.11 port 37407
+[187]  0.0-10.0 sec  10.7 MBytes  9.00 Mbits/sec   0.123 ms    0/ 7655 (0%)
+[189] local 0.0.0.0 port 60010 connected with 192.0.0.11 port 45153
+[189]  0.0-10.0 sec  15.5 MBytes  13.0 Mbits/sec   0.202 ms    0/11056 (0%)
+[191] local 0.0.0.0 port 60010 connected with 192.0.0.11 port 42755
+[191]  0.0-10.0 sec  13.1 MBytes  11.0 Mbits/sec   0.142 ms    0/ 9355 (0%)
+[193] local 0.0.0.0 port 60010 connected with 192.0.0.11 port 40524
+[193]  0.0-10.0 sec  11.9 MBytes  10.0 Mbits/sec   0.197 ms    0/ 8505 (0%)
+[195] local 0.0.0.0 port 60010 connected with 192.0.0.11 port 39948
+[195]  0.0-10.0 sec  10.7 MBytes  9.00 Mbits/sec   0.110 ms    0/ 7655 (0%)
+[197] local 0.0.0.0 port 60010 connected with 192.0.0.11 port 40114
+[197]  0.0-10.0 sec  9.54 MBytes  8.00 Mbits/sec   0.152 ms    0/ 6804 (0%)
+[199] local 0.0.0.0 port 60010 connected with 192.0.0.11 port 32925
+[199]  0.0-10.0 sec  10.7 MBytes  9.00 Mbits/sec   0.206 ms    0/ 7655 (0%)
+[201] local 0.0.0.0 port 60010 connected with 192.0.0.11 port 56855
+[201]  0.0-10.0 sec  14.3 MBytes  12.0 Mbits/sec   0.154 ms    0/10206 (0%)
+[203] local 0.0.0.0 port 60010 connected with 192.0.0.11 port 59542
+[203]  0.0-10.0 sec  8.35 MBytes  7.00 Mbits/sec   0.149 ms    0/ 5954 (0%)
+[205] local 0.0.0.0 port 60010 connected with 192.0.0.11 port 43386
+[205]  0.0-10.0 sec  5.96 MBytes  5.00 Mbits/sec   0.153 ms    0/ 4253 (0%)
+[207] local 0.0.0.0 port 60010 connected with 192.0.0.11 port 53539
+[207]  0.0-10.0 sec  13.1 MBytes  11.0 Mbits/sec   0.193 ms    0/ 9355 (0%)
+[209] local 0.0.0.0 port 60010 connected with 192.0.0.11 port 49502
+[209]  0.0-10.0 sec  10.7 MBytes  9.00 Mbits/sec   0.111 ms    0/ 7655 (0%)
+[211] local 0.0.0.0 port 60010 connected with 192.0.0.11 port 57533
+[211]  0.0-10.0 sec  10.7 MBytes  9.00 Mbits/sec   0.110 ms    0/ 7655 (0%)
+[213] local 0.0.0.0 port 60010 connected with 192.0.0.11 port 43293
+[213]  0.0-10.0 sec  13.1 MBytes  11.0 Mbits/sec   0.165 ms    0/ 9355 (0%)
+[215] local 0.0.0.0 port 60010 connected with 192.0.0.11 port 34760
+[215]  0.0-10.0 sec  9.54 MBytes  8.00 Mbits/sec   0.153 ms    0/ 6804 (0%)
+[217] local 0.0.0.0 port 60010 connected with 192.0.0.11 port 54708
+[217]  0.0-10.0 sec  11.9 MBytes  10.0 Mbits/sec   0.135 ms    0/ 8505 (0%)
+[219] local 0.0.0.0 port 60010 connected with 192.0.0.11 port 33289
+[219]  0.0-10.0 sec  10.7 MBytes  9.00 Mbits/sec   0.143 ms    0/ 7655 (0%)
+[221] local 0.0.0.0 port 60010 connected with 192.0.0.11 port 46300
+[221]  0.0-10.0 sec  8.35 MBytes  7.00 Mbits/sec   0.114 ms    0/ 5954 (0%)
+[223] local 0.0.0.0 port 60010 connected with 192.0.0.11 port 55430
+[223]  0.0-10.0 sec  10.7 MBytes  9.00 Mbits/sec   0.126 ms    0/ 7655 (0%)
+[225] local 0.0.0.0 port 60010 connected with 192.0.0.11 port 33820
+[225]  0.0-10.0 sec  7.16 MBytes  6.00 Mbits/sec   0.101 ms    0/ 5104 (0%)
+[227] local 0.0.0.0 port 60010 connected with 192.0.0.11 port 54048
+[227]  0.0-10.0 sec  14.3 MBytes  12.0 Mbits/sec   0.149 ms    0/10205 (0%)
+[229] local 0.0.0.0 port 60010 connected with 192.0.0.11 port 40210
+[229]  0.0-10.0 sec  14.3 MBytes  12.0 Mbits/sec   0.136 ms    0/10206 (0%)
+[231] local 0.0.0.0 port 60010 connected with 192.0.0.11 port 55827
+[231]  0.0-10.0 sec  13.1 MBytes  11.0 Mbits/sec   0.179 ms    0/ 9355 (0%)
+[233] local 0.0.0.0 port 60010 connected with 192.0.0.11 port 56644
+[233]  0.0-10.0 sec  14.3 MBytes  12.0 Mbits/sec   0.151 ms    1/10205 (0.0098%)
+[235] local 0.0.0.0 port 60010 connected with 192.0.0.11 port 45731
+[235]  0.0-10.0 sec  11.9 MBytes  10.0 Mbits/sec   0.141 ms    0/ 8505 (0%)
+[237] local 0.0.0.0 port 60010 connected with 192.0.0.11 port 50043
+[237]  0.0-10.0 sec  14.3 MBytes  12.0 Mbits/sec   0.095 ms    0/10206 (0%)
+[239] local 0.0.0.0 port 60010 connected with 192.0.0.11 port 46226
+[239]  0.0-10.0 sec  10.7 MBytes  9.00 Mbits/sec   0.147 ms    0/ 7655 (0%)
+[241] local 0.0.0.0 port 60010 connected with 192.0.0.11 port 57481
+[241]  0.0-10.0 sec  7.16 MBytes  6.00 Mbits/sec   0.100 ms    0/ 5104 (0%)
+[243] local 0.0.0.0 port 60010 connected with 192.0.0.11 port 52986
+[243]  0.0-10.0 sec  10.7 MBytes  9.00 Mbits/sec   0.169 ms    0/ 7655 (0%)
+[245] local 0.0.0.0 port 60010 connected with 192.0.0.11 port 38297
+[245]  0.0-10.0 sec  9.54 MBytes  8.00 Mbits/sec   0.174 ms    0/ 6804 (0%)
+[247] local 0.0.0.0 port 60010 connected with 192.0.0.11 port 46128
+[247]  0.0-10.0 sec  9.54 MBytes  8.00 Mbits/sec   0.124 ms    0/ 6804 (0%)
+[249] local 0.0.0.0 port 60010 connected with 192.0.0.11 port 56071
+[249]  0.0-10.0 sec  14.3 MBytes  12.0 Mbits/sec   0.145 ms    0/10206 (0%)
+[251] local 0.0.0.0 port 60010 connected with 192.0.0.11 port 48581
+[251]  0.0-10.0 sec  9.54 MBytes  8.00 Mbits/sec   0.117 ms    0/ 6804 (0%)
+[253] local 0.0.0.0 port 60010 connected with 192.0.0.11 port 52183
+[253]  0.0-10.0 sec  11.9 MBytes  10.0 Mbits/sec   0.153 ms    0/ 8505 (0%)
+[255] local 0.0.0.0 port 60010 connected with 192.0.0.11 port 48402
+[255]  0.0-10.0 sec  10.7 MBytes  9.00 Mbits/sec   0.159 ms    0/ 7655 (0%)
+[257] local 0.0.0.0 port 60010 connected with 192.0.0.11 port 55663
+[257]  0.0-10.0 sec  13.1 MBytes  11.0 Mbits/sec   0.147 ms    0/ 9355 (0%)
+[259] local 0.0.0.0 port 60010 connected with 192.0.0.11 port 33703
+[259]  0.0-10.0 sec  8.35 MBytes  7.00 Mbits/sec   0.121 ms    0/ 5954 (0%)
+[261] local 0.0.0.0 port 60010 connected with 192.0.0.11 port 54219
+[261]  0.0-10.0 sec  10.7 MBytes  9.00 Mbits/sec   0.170 ms    0/ 7655 (0%)
+[263] local 0.0.0.0 port 60010 connected with 192.0.0.11 port 43518
+[263]  0.0-10.0 sec  5.96 MBytes  5.00 Mbits/sec   0.188 ms    0/ 4253 (0%)
+[265] local 0.0.0.0 port 60010 connected with 192.0.0.11 port 54527
+[265]  0.0-10.0 sec  11.9 MBytes  10.0 Mbits/sec   0.131 ms    0/ 8505 (0%)
+[267] local 0.0.0.0 port 60010 connected with 192.0.0.11 port 48530
+[267]  0.0-10.0 sec  11.9 MBytes  10.0 Mbits/sec   0.137 ms    0/ 8505 (0%)
+[269] local 0.0.0.0 port 60010 connected with 192.0.0.11 port 54629
+[269]  0.0-10.0 sec  10.7 MBytes  9.00 Mbits/sec   0.160 ms    0/ 7655 (0%)
+[271] local 0.0.0.0 port 60010 connected with 192.0.0.11 port 52207
+[271]  0.0-10.0 sec  13.1 MBytes  11.0 Mbits/sec   0.152 ms    0/ 9355 (0%)
+[273] local 0.0.0.0 port 60010 connected with 192.0.0.11 port 35653
+[273]  0.0-10.0 sec  9.54 MBytes  8.00 Mbits/sec   0.106 ms    0/ 6804 (0%)
+[275] local 0.0.0.0 port 60010 connected with 192.0.0.11 port 37956
+[275]  0.0-10.0 sec  11.9 MBytes  10.0 Mbits/sec   0.153 ms    0/ 8505 (0%)
+[277] local 0.0.0.0 port 60010 connected with 192.0.0.11 port 51714
+[277]  0.0-10.0 sec  5.96 MBytes  5.00 Mbits/sec   0.095 ms    0/ 4253 (0%)
+[279] local 0.0.0.0 port 60010 connected with 192.0.0.11 port 41905
+[279]  0.0-10.0 sec  14.3 MBytes  12.0 Mbits/sec   0.165 ms    0/10205 (0%)
+[281] local 0.0.0.0 port 60010 connected with 192.0.0.11 port 56779
+[281]  0.0-10.0 sec  9.54 MBytes  8.00 Mbits/sec   0.158 ms    1/ 6804 (0.015%)
+[283] local 0.0.0.0 port 60010 connected with 192.0.0.11 port 42912
+[283]  0.0-10.0 sec  7.16 MBytes  6.00 Mbits/sec   0.135 ms    0/ 5104 (0%)
+[285] local 0.0.0.0 port 60010 connected with 192.0.0.11 port 35073
+[285]  0.0-10.0 sec  7.16 MBytes  6.00 Mbits/sec   0.208 ms    0/ 5104 (0%)
+[287] local 0.0.0.0 port 60010 connected with 192.0.0.11 port 50133
+[287]  0.0-10.0 sec  13.1 MBytes  11.0 Mbits/sec   0.140 ms    0/ 9355 (0%)
+[289] local 0.0.0.0 port 60010 connected with 192.0.0.11 port 37898
+[289]  0.0-10.0 sec  11.9 MBytes  10.0 Mbits/sec   0.191 ms    0/ 8505 (0%)
+[291] local 0.0.0.0 port 60010 connected with 192.0.0.11 port 52304
+[291]  0.0-10.0 sec  7.16 MBytes  6.00 Mbits/sec   0.151 ms    0/ 5104 (0%)
+[293] local 0.0.0.0 port 60010 connected with 192.0.0.11 port 33682
+[293]  0.0-10.0 sec  11.9 MBytes  10.0 Mbits/sec   0.106 ms    0/ 8505 (0%)
+[295] local 0.0.0.0 port 60010 connected with 192.0.0.11 port 59445
+[295]  0.0-10.0 sec  15.5 MBytes  13.0 Mbits/sec   0.150 ms    0/11056 (0%)
+[297] local 0.0.0.0 port 60010 connected with 192.0.0.11 port 46370
+[297]  0.0-10.0 sec  10.7 MBytes  9.00 Mbits/sec   0.127 ms    0/ 7655 (0%)
+[299] local 0.0.0.0 port 60010 connected with 192.0.0.11 port 40508
+[299]  0.0-10.0 sec  11.9 MBytes  10.0 Mbits/sec   0.172 ms    0/ 8505 (0%)
+[301] local 0.0.0.0 port 60010 connected with 192.0.0.11 port 60414
+[301]  0.0-10.0 sec  9.54 MBytes  8.00 Mbits/sec   0.181 ms    0/ 6804 (0%)
+[303] local 0.0.0.0 port 60010 connected with 192.0.0.11 port 48705
+[303]  0.0-10.0 sec  7.16 MBytes  6.00 Mbits/sec   0.132 ms    0/ 5104 (0%)
+[305] local 0.0.0.0 port 60010 connected with 192.0.0.11 port 46861
+[305]  0.0-10.0 sec  14.3 MBytes  12.0 Mbits/sec   0.155 ms    0/10206 (0%)
+[307] local 0.0.0.0 port 60010 connected with 192.0.0.11 port 40771
+[307]  0.0-10.0 sec  13.1 MBytes  11.0 Mbits/sec   0.117 ms    0/ 9355 (0%)
+[309] local 0.0.0.0 port 60010 connected with 192.0.0.11 port 32923
+[309]  0.0-10.0 sec  11.9 MBytes  10.0 Mbits/sec   0.153 ms    0/ 8505 (0%)
+[311] local 0.0.0.0 port 60010 connected with 192.0.0.11 port 46127
+[311]  0.0-10.0 sec  14.3 MBytes  12.0 Mbits/sec   0.122 ms    0/10206 (0%)
+[313] local 0.0.0.0 port 60010 connected with 192.0.0.11 port 34402
+[313]  0.0-10.0 sec  14.3 MBytes  12.0 Mbits/sec   0.195 ms    0/10206 (0%)
+[315] local 0.0.0.0 port 60010 connected with 192.0.0.11 port 33326
+[315]  0.0-10.0 sec  10.7 MBytes  9.00 Mbits/sec   0.140 ms    0/ 7655 (0%)
+[317] local 0.0.0.0 port 60010 connected with 192.0.0.11 port 37544
+[317]  0.0-10.0 sec  14.3 MBytes  12.0 Mbits/sec   0.173 ms    0/10206 (0%)
+[319] local 0.0.0.0 port 60010 connected with 192.0.0.11 port 42424
+[319]  0.0-10.0 sec  13.1 MBytes  11.0 Mbits/sec   0.119 ms    0/ 9355 (0%)
+[321] local 0.0.0.0 port 60010 connected with 192.0.0.11 port 41262
+[321]  0.0-10.0 sec  9.54 MBytes  8.00 Mbits/sec   0.359 ms    0/ 6804 (0%)
+[323] local 0.0.0.0 port 60010 connected with 192.0.0.11 port 55681
+[323]  0.0-10.0 sec  10.7 MBytes  9.00 Mbits/sec   0.139 ms    0/ 7655 (0%)
+[325] local 0.0.0.0 port 60010 connected with 192.0.0.11 port 36594
+[325]  0.0-10.0 sec  13.1 MBytes  11.0 Mbits/sec   0.123 ms    0/ 9355 (0%)
+[327] local 0.0.0.0 port 60010 connected with 192.0.0.11 port 40540
+[327]  0.0-10.0 sec  11.9 MBytes  10.0 Mbits/sec   0.194 ms    0/ 8505 (0%)
+[329] local 0.0.0.0 port 60010 connected with 192.0.0.11 port 46257
+[329]  0.0-10.0 sec  4.77 MBytes  4.00 Mbits/sec   0.143 ms    0/ 3403 (0%)
+[331] local 0.0.0.0 port 60010 connected with 192.0.0.11 port 40486
+[331]  0.0-10.0 sec  16.7 MBytes  14.0 Mbits/sec   0.182 ms    0/11906 (0%)
+[333] local 0.0.0.0 port 60010 connected with 192.0.0.11 port 46900
+[333]  0.0-10.0 sec  9.54 MBytes  8.00 Mbits/sec   0.121 ms    0/ 6804 (0%)
+[335] local 0.0.0.0 port 60010 connected with 192.0.0.11 port 60963
+[335]  0.0-10.0 sec  14.3 MBytes  12.0 Mbits/sec   0.207 ms    0/10206 (0%)
+[337] local 0.0.0.0 port 60010 connected with 192.0.0.11 port 57967
+[337]  0.0-10.0 sec  8.35 MBytes  7.00 Mbits/sec   0.137 ms    0/ 5954 (0%)
+[339] local 0.0.0.0 port 60010 connected with 192.0.0.11 port 57174
+[339]  0.0-10.0 sec  11.9 MBytes  10.0 Mbits/sec   0.161 ms    0/ 8505 (0%)
+[341] local 0.0.0.0 port 60010 connected with 192.0.0.11 port 39125
+[341]  0.0-10.0 sec  9.54 MBytes  8.00 Mbits/sec   0.179 ms    0/ 6804 (0%)
+[343] local 0.0.0.0 port 60010 connected with 192.0.0.11 port 34641
+[343]  0.0-10.0 sec  9.54 MBytes  8.00 Mbits/sec   0.132 ms    0/ 6804 (0%)
+[345] local 0.0.0.0 port 60010 connected with 192.0.0.11 port 44001
+[345]  0.0-10.0 sec  15.5 MBytes  13.0 Mbits/sec   0.125 ms    0/11056 (0%)
+[347] local 0.0.0.0 port 60010 connected with 192.0.0.11 port 51997
+[347]  0.0-10.0 sec  13.1 MBytes  11.0 Mbits/sec   0.139 ms    0/ 9355 (0%)
+[349] local 0.0.0.0 port 60010 connected with 192.0.0.11 port 48465
+[349]  0.0-10.0 sec  16.7 MBytes  14.0 Mbits/sec   0.173 ms    0/11906 (0%)
+[351] local 0.0.0.0 port 60010 connected with 192.0.0.11 port 52461
+[351]  0.0-10.0 sec  11.9 MBytes  10.0 Mbits/sec   0.203 ms    0/ 8505 (0%)
+[353] local 0.0.0.0 port 60010 connected with 192.0.0.11 port 40027
+[353]  0.0-10.0 sec  11.9 MBytes  10.0 Mbits/sec   0.132 ms    0/ 8505 (0%)
+[355] local 0.0.0.0 port 60010 connected with 192.0.0.11 port 36298
+[355]  0.0-10.0 sec  14.3 MBytes  12.0 Mbits/sec   0.167 ms    0/10206 (0%)
+[357] local 0.0.0.0 port 60010 connected with 192.0.0.11 port 42768
+[357]  0.0-10.0 sec  7.16 MBytes  6.00 Mbits/sec   0.166 ms    0/ 5104 (0%)
+[359] local 0.0.0.0 port 60010 connected with 192.0.0.11 port 49542
+[359]  0.0-10.0 sec  9.54 MBytes  8.00 Mbits/sec   0.221 ms    0/ 6804 (0%)
+[361] local 0.0.0.0 port 60010 connected with 192.0.0.11 port 54694
+[361]  0.0-10.0 sec  10.7 MBytes  8.99 Mbits/sec   0.127 ms    0/ 7653 (0%)
+[363] local 0.0.0.0 port 60010 connected with 192.0.0.11 port 45982
+[363]  0.0-10.0 sec  9.54 MBytes  8.00 Mbits/sec   0.163 ms    0/ 6804 (0%)
+[365] local 0.0.0.0 port 60010 connected with 192.0.0.11 port 45485
+[365]  0.0-10.0 sec  10.7 MBytes  9.00 Mbits/sec   0.137 ms    0/ 7654 (0%)
+[367] local 0.0.0.0 port 60010 connected with 192.0.0.11 port 34099
+[367]  0.0-10.0 sec  14.3 MBytes  12.0 Mbits/sec   0.119 ms    0/10205 (0%)
+[369] local 0.0.0.0 port 60010 connected with 192.0.0.11 port 58704
+[369]  0.0-10.0 sec  16.7 MBytes  14.0 Mbits/sec   0.180 ms    0/11906 (0%)
+[371] local 0.0.0.0 port 60010 connected with 192.0.0.11 port 44972
+[371]  0.0-10.0 sec  10.7 MBytes  9.00 Mbits/sec   0.164 ms    0/ 7655 (0%)
+[373] local 0.0.0.0 port 60010 connected with 192.0.0.11 port 39921
+[373]  0.0-10.0 sec  11.9 MBytes  10.0 Mbits/sec   0.155 ms    0/ 8505 (0%)
+[375] local 0.0.0.0 port 60010 connected with 192.0.0.11 port 33358
+[375]  0.0-10.0 sec  11.9 MBytes  10.0 Mbits/sec   0.095 ms    0/ 8505 (0%)
+[377] local 0.0.0.0 port 60010 connected with 192.0.0.11 port 59196
+[377]  0.0-10.0 sec  8.35 MBytes  7.00 Mbits/sec   0.154 ms    0/ 5954 (0%)
+[379] local 0.0.0.0 port 60010 connected with 192.0.0.11 port 37730
+[379]  0.0-10.0 sec  8.35 MBytes  7.00 Mbits/sec   0.142 ms    0/ 5954 (0%)
+[381] local 0.0.0.0 port 60010 connected with 192.0.0.11 port 37413
+[381]  0.0-10.0 sec  11.9 MBytes  10.0 Mbits/sec   0.143 ms    0/ 8505 (0%)
+[383] local 0.0.0.0 port 60010 connected with 192.0.0.11 port 37914
+[383]  0.0-10.0 sec  10.7 MBytes  9.00 Mbits/sec   0.135 ms    0/ 7655 (0%)
+[385] local 0.0.0.0 port 60010 connected with 192.0.0.11 port 47982
+[385]  0.0-10.0 sec  10.7 MBytes  9.00 Mbits/sec   0.152 ms    0/ 7655 (0%)
+[387] local 0.0.0.0 port 60010 connected with 192.0.0.11 port 60190
+[387]  0.0-10.0 sec  9.54 MBytes  8.00 Mbits/sec   0.141 ms    0/ 6804 (0%)
+[389] local 0.0.0.0 port 60010 connected with 192.0.0.11 port 40372
+[389]  0.0-10.0 sec  10.7 MBytes  9.00 Mbits/sec   0.153 ms    0/ 7655 (0%)
+[391] local 0.0.0.0 port 60010 connected with 192.0.0.11 port 33432
+[391]  0.0-10.0 sec  10.7 MBytes  9.00 Mbits/sec   0.103 ms    0/ 7655 (0%)
+[393] local 0.0.0.0 port 60010 connected with 192.0.0.11 port 44982
+[393]  0.0-10.0 sec  14.3 MBytes  12.0 Mbits/sec   0.102 ms    0/10206 (0%)
+[395] local 0.0.0.0 port 60010 connected with 192.0.0.11 port 53929
+[395]  0.0-10.0 sec  9.54 MBytes  8.00 Mbits/sec   0.162 ms    0/ 6804 (0%)
+[397] local 0.0.0.0 port 60010 connected with 192.0.0.11 port 60885
+[397]  0.0-10.0 sec  13.1 MBytes  11.0 Mbits/sec   0.159 ms    0/ 9355 (0%)
+[399] local 0.0.0.0 port 60010 connected with 192.0.0.11 port 42363
+[399]  0.0-10.0 sec  11.9 MBytes  10.0 Mbits/sec   0.182 ms    0/ 8505 (0%)
+[401] local 0.0.0.0 port 60010 connected with 192.0.0.11 port 38978
+[401]  0.0-10.0 sec  9.54 MBytes  8.00 Mbits/sec   0.170 ms    0/ 6804 (0%)
+[403] local 0.0.0.0 port 60010 connected with 192.0.0.11 port 45072
+[403]  0.0-10.0 sec  10.7 MBytes  9.00 Mbits/sec   0.138 ms    0/ 7655 (0%)
+[405] local 0.0.0.0 port 60010 connected with 192.0.0.11 port 33282
+[405]  0.0-10.0 sec  8.35 MBytes  7.00 Mbits/sec   0.158 ms    0/ 5954 (0%)
+[407] local 0.0.0.0 port 60010 connected with 192.0.0.11 port 46402
+[407]  0.0-10.0 sec  13.1 MBytes  11.0 Mbits/sec   0.156 ms    0/ 9355 (0%)
+[409] local 0.0.0.0 port 60010 connected with 192.0.0.11 port 55540
+[409]  0.0-10.0 sec  8.35 MBytes  7.00 Mbits/sec   0.134 ms    0/ 5954 (0%)
+[411] local 0.0.0.0 port 60010 connected with 192.0.0.11 port 34531
+[411]  0.0-10.0 sec  9.54 MBytes  8.00 Mbits/sec   0.177 ms    0/ 6804 (0%)
+[413] local 0.0.0.0 port 60010 connected with 192.0.0.11 port 58341
+[413]  0.0-10.0 sec  5.96 MBytes  5.00 Mbits/sec   0.174 ms    0/ 4253 (0%)
+[415] local 0.0.0.0 port 60010 connected with 192.0.0.11 port 41721
+[415]  0.0-10.0 sec  10.7 MBytes  9.00 Mbits/sec   0.111 ms    0/ 7655 (0%)
+[417] local 0.0.0.0 port 60010 connected with 192.0.0.11 port 32816
+[417]  0.0-10.0 sec  13.1 MBytes  11.0 Mbits/sec   0.157 ms    0/ 9355 (0%)
+[419] local 0.0.0.0 port 60010 connected with 192.0.0.11 port 53171
+[419]  0.0-10.0 sec  9.54 MBytes  8.00 Mbits/sec   0.116 ms    0/ 6804 (0%)
+[421] local 0.0.0.0 port 60010 connected with 192.0.0.11 port 59859
+[421]  0.0-10.0 sec  10.7 MBytes  9.00 Mbits/sec   0.160 ms    0/ 7654 (0%)
+[423] local 0.0.0.0 port 60010 connected with 192.0.0.11 port 60835
+[423]  0.0-10.0 sec  11.9 MBytes  10.0 Mbits/sec   0.149 ms    0/ 8505 (0%)
+[425] local 0.0.0.0 port 60010 connected with 192.0.0.11 port 37793
+[425]  0.0-10.0 sec  9.54 MBytes  8.00 Mbits/sec   0.113 ms    0/ 6804 (0%)
+[427] local 0.0.0.0 port 60010 connected with 192.0.0.11 port 46947
+[427]  0.0-10.0 sec  10.7 MBytes  9.00 Mbits/sec   0.121 ms    0/ 7655 (0%)
+[429] local 0.0.0.0 port 60010 connected with 192.0.0.11 port 60231
+[429]  0.0-10.0 sec  9.54 MBytes  8.00 Mbits/sec   0.217 ms    0/ 6804 (0%)
+[431] local 0.0.0.0 port 60010 connected with 192.0.0.11 port 36238
+[431]  0.0-10.0 sec  11.9 MBytes  10.0 Mbits/sec   0.155 ms    0/ 8505 (0%)
+[433] local 0.0.0.0 port 60010 connected with 192.0.0.11 port 50406
+[433]  0.0-10.0 sec  14.3 MBytes  12.0 Mbits/sec   0.131 ms    0/10206 (0%)
+[435] local 0.0.0.0 port 60010 connected with 192.0.0.11 port 50803
+[435]  0.0-10.0 sec  9.54 MBytes  8.00 Mbits/sec   0.149 ms    0/ 6804 (0%)
+[437] local 0.0.0.0 port 60010 connected with 192.0.0.11 port 50857
+[437]  0.0-10.0 sec  14.3 MBytes  12.0 Mbits/sec   0.142 ms    0/10206 (0%)
+[439] local 0.0.0.0 port 60010 connected with 192.0.0.11 port 32958
+[439]  0.0-10.0 sec  10.7 MBytes  9.00 Mbits/sec   0.149 ms    0/ 7655 (0%)
+[441] local 0.0.0.0 port 60010 connected with 192.0.0.11 port 34028
+[441]  0.0-10.0 sec  14.3 MBytes  12.0 Mbits/sec   0.118 ms    0/10206 (0%)
+[443] local 0.0.0.0 port 60010 connected with 192.0.0.11 port 37376
+[443]  0.0-10.0 sec  11.9 MBytes  10.0 Mbits/sec   0.173 ms    0/ 8505 (0%)
+[445] local 0.0.0.0 port 60010 connected with 192.0.0.11 port 33823
+[445]  0.0-10.0 sec  13.1 MBytes  11.0 Mbits/sec   0.212 ms    0/ 9355 (0%)
+[447] local 0.0.0.0 port 60010 connected with 192.0.0.11 port 42822
+[447]  0.0-10.0 sec  11.9 MBytes  10.0 Mbits/sec   0.172 ms    0/ 8505 (0%)
+[449] local 0.0.0.0 port 60010 connected with 192.0.0.11 port 33674
+[449]  0.0-10.0 sec  10.7 MBytes  9.00 Mbits/sec   0.113 ms    0/ 7655 (0%)
+[451] local 0.0.0.0 port 60010 connected with 192.0.0.11 port 46069
+[451]  0.0-10.0 sec  13.1 MBytes  11.0 Mbits/sec   0.106 ms    0/ 9355 (0%)
+[453] local 0.0.0.0 port 60010 connected with 192.0.0.11 port 32863
+[453]  0.0-10.0 sec  10.7 MBytes  9.00 Mbits/sec   0.102 ms    0/ 7655 (0%)
+[455] local 0.0.0.0 port 60010 connected with 192.0.0.11 port 41408
+[455]  0.0-10.0 sec  10.7 MBytes  9.00 Mbits/sec   0.177 ms    0/ 7655 (0%)
+[457] local 0.0.0.0 port 60010 connected with 192.0.0.11 port 46717
+[457]  0.0-10.0 sec  14.3 MBytes  12.0 Mbits/sec   0.131 ms    0/10206 (0%)
+[459] local 0.0.0.0 port 60010 connected with 192.0.0.11 port 54740
+[459]  0.0-10.0 sec  8.35 MBytes  7.00 Mbits/sec   0.152 ms    0/ 5954 (0%)
+[461] local 0.0.0.0 port 60010 connected with 192.0.0.11 port 40125
+[461]  0.0-10.0 sec  11.9 MBytes  10.0 Mbits/sec   0.140 ms    0/ 8505 (0%)
+[463] local 0.0.0.0 port 60010 connected with 192.0.0.11 port 53009
+[463]  0.0-10.0 sec  13.1 MBytes  11.0 Mbits/sec   0.135 ms    0/ 9355 (0%)
+[465] local 0.0.0.0 port 60010 connected with 192.0.0.11 port 57204
+[465]  0.0-10.0 sec  9.54 MBytes  8.00 Mbits/sec   0.160 ms    0/ 6804 (0%)
+[467] local 0.0.0.0 port 60010 connected with 192.0.0.11 port 34728
+[467]  0.0-10.0 sec  10.7 MBytes  9.00 Mbits/sec   0.117 ms    0/ 7655 (0%)
+[469] local 0.0.0.0 port 60010 connected with 192.0.0.11 port 49093
+[469]  0.0-10.0 sec  15.5 MBytes  13.0 Mbits/sec   0.144 ms    0/11056 (0%)
+[471] local 0.0.0.0 port 60010 connected with 192.0.0.11 port 35998
+[471]  0.0-10.0 sec  9.54 MBytes  8.00 Mbits/sec   0.163 ms    0/ 6804 (0%)
+[473] local 0.0.0.0 port 60010 connected with 192.0.0.11 port 54420
+[473]  0.0-10.0 sec  9.54 MBytes  8.00 Mbits/sec   0.168 ms    0/ 6804 (0%)
+[475] local 0.0.0.0 port 60010 connected with 192.0.0.11 port 37254
+[475]  0.0-10.0 sec  11.9 MBytes  10.0 Mbits/sec   0.122 ms    0/ 8505 (0%)
+[477] local 0.0.0.0 port 60010 connected with 192.0.0.11 port 49819
+[477]  0.0-10.0 sec  8.35 MBytes  7.00 Mbits/sec   0.160 ms    0/ 5954 (0%)
+[479] local 0.0.0.0 port 60010 connected with 192.0.0.11 port 50861
+[479]  0.0-10.0 sec  15.5 MBytes  13.0 Mbits/sec   0.152 ms    0/11056 (0%)
+[481] local 0.0.0.0 port 60010 connected with 192.0.0.11 port 48864
+[481]  0.0-10.0 sec  9.54 MBytes  8.00 Mbits/sec   0.136 ms    0/ 6804 (0%)
+[483] local 0.0.0.0 port 60010 connected with 192.0.0.11 port 35433
+[483]  0.0-10.0 sec  14.3 MBytes  12.0 Mbits/sec   0.141 ms    0/10206 (0%)
+[485] local 0.0.0.0 port 60010 connected with 192.0.0.11 port 56999
+[485]  0.0-10.0 sec  11.9 MBytes  10.0 Mbits/sec   0.142 ms    0/ 8505 (0%)
+[487] local 0.0.0.0 port 60010 connected with 192.0.0.11 port 48861
+[487]  0.0-10.0 sec  10.7 MBytes  9.00 Mbits/sec   0.110 ms    0/ 7655 (0%)
+[489] local 0.0.0.0 port 60010 connected with 192.0.0.11 port 53907
+[489]  0.0-10.0 sec  11.9 MBytes  10.0 Mbits/sec   0.147 ms    1/ 8505 (0.012%)
+[491] local 0.0.0.0 port 60010 connected with 192.0.0.11 port 53235
+[491]  0.0-10.0 sec  8.35 MBytes  7.00 Mbits/sec   0.167 ms    0/ 5954 (0%)
+[493] local 0.0.0.0 port 60010 connected with 192.0.0.11 port 37247
+[493]  0.0-10.0 sec  11.9 MBytes  10.0 Mbits/sec   0.120 ms    0/ 8505 (0%)
+[495] local 0.0.0.0 port 60010 connected with 192.0.0.11 port 37165
+[495]  0.0-10.0 sec  9.54 MBytes  8.00 Mbits/sec   0.179 ms    0/ 6804 (0%)
+[497] local 0.0.0.0 port 60010 connected with 192.0.0.11 port 57532
+[497]  0.0-10.0 sec  10.7 MBytes  9.00 Mbits/sec   0.132 ms    0/ 7655 (0%)
+[499] local 0.0.0.0 port 60010 connected with 192.0.0.11 port 55849
+[499]  0.0-10.0 sec  9.54 MBytes  8.00 Mbits/sec   0.101 ms    0/ 6804 (0%)
+[501] local 0.0.0.0 port 60010 connected with 192.0.0.11 port 43340
+[501]  0.0-10.0 sec  11.9 MBytes  10.0 Mbits/sec   0.146 ms    0/ 8505 (0%)
+[503] local 0.0.0.0 port 60010 connected with 192.0.0.11 port 46356
+[503]  0.0-10.0 sec  15.5 MBytes  13.0 Mbits/sec   0.172 ms    0/11056 (0%)
+[505] local 0.0.0.0 port 60010 connected with 192.0.0.11 port 51022
+[505]  0.0-10.0 sec  9.54 MBytes  8.00 Mbits/sec   0.168 ms    0/ 6804 (0%)
+[507] local 0.0.0.0 port 60010 connected with 192.0.0.11 port 45021
+[507]  0.0-10.0 sec  8.35 MBytes  7.00 Mbits/sec   0.146 ms    0/ 5954 (0%)
+[509] local 0.0.0.0 port 60010 connected with 192.0.0.11 port 57918
+[509]  0.0-10.0 sec  15.5 MBytes  13.0 Mbits/sec   0.157 ms    0/11056 (0%)
+[511] local 0.0.0.0 port 60010 connected with 192.0.0.11 port 38003
+[511]  0.0-10.0 sec  8.35 MBytes  7.00 Mbits/sec   0.178 ms    0/ 5954 (0%)
+[513] local 0.0.0.0 port 60010 connected with 192.0.0.11 port 48478
+[513]  0.0-10.0 sec  13.1 MBytes  11.0 Mbits/sec   0.155 ms    0/ 9355 (0%)
+[515] local 0.0.0.0 port 60010 connected with 192.0.0.11 port 40082
+[515]  0.0-10.0 sec  13.1 MBytes  11.0 Mbits/sec   0.103 ms    0/ 9355 (0%)
+[517] local 0.0.0.0 port 60010 connected with 192.0.0.11 port 54369
+[517]  0.0-10.0 sec  14.3 MBytes  12.0 Mbits/sec   0.110 ms    0/10206 (0%)
+[519] local 0.0.0.0 port 60010 connected with 192.0.0.11 port 35786
+[519]  0.0-10.0 sec  8.35 MBytes  7.00 Mbits/sec   0.109 ms    0/ 5954 (0%)
+[521] local 0.0.0.0 port 60010 connected with 192.0.0.11 port 60846
+[521]  0.0-10.0 sec  10.7 MBytes  9.00 Mbits/sec   0.142 ms    0/ 7655 (0%)
+[523] local 0.0.0.0 port 60010 connected with 192.0.0.11 port 41142
+[523]  0.0-10.0 sec  9.54 MBytes  8.00 Mbits/sec   0.153 ms    0/ 6804 (0%)
+[525] local 0.0.0.0 port 60010 connected with 192.0.0.11 port 60624
+[525]  0.0-10.0 sec  8.35 MBytes  7.00 Mbits/sec   0.127 ms    0/ 5954 (0%)
+[527] local 0.0.0.0 port 60010 connected with 192.0.0.11 port 40957
+[527]  0.0-10.0 sec  10.7 MBytes  9.00 Mbits/sec   0.162 ms    0/ 7655 (0%)
+[529] local 0.0.0.0 port 60010 connected with 192.0.0.11 port 57471
+[529]  0.0-10.0 sec  13.1 MBytes  11.0 Mbits/sec   0.170 ms    0/ 9355 (0%)
+[531] local 0.0.0.0 port 60010 connected with 192.0.0.11 port 60517
+[531]  0.0-10.0 sec  9.54 MBytes  8.00 Mbits/sec   0.210 ms    0/ 6804 (0%)
+[533] local 0.0.0.0 port 60010 connected with 192.0.0.11 port 38438
+[533]  0.0-10.0 sec  14.3 MBytes  12.0 Mbits/sec   0.143 ms    0/10206 (0%)
+[535] local 0.0.0.0 port 60010 connected with 192.0.0.11 port 39673
+[535]  0.0-10.0 sec  16.7 MBytes  14.0 Mbits/sec   0.146 ms    0/11906 (0%)
+[537] local 0.0.0.0 port 60010 connected with 192.0.0.11 port 37538
+[537]  0.0-10.0 sec  7.16 MBytes  6.00 Mbits/sec   0.115 ms    0/ 5104 (0%)
+[539] local 0.0.0.0 port 60010 connected with 192.0.0.11 port 40950
+[539]  0.0-10.0 sec  10.7 MBytes  9.00 Mbits/sec   0.135 ms    0/ 7655 (0%)
+[541] local 0.0.0.0 port 60010 connected with 192.0.0.11 port 41234
+[541]  0.0-10.0 sec  9.54 MBytes  8.00 Mbits/sec   0.194 ms    0/ 6804 (0%)
+[543] local 0.0.0.0 port 60010 connected with 192.0.0.11 port 59024
+[543]  0.0-10.0 sec  14.3 MBytes  12.0 Mbits/sec   0.139 ms    0/10206 (0%)
+[545] local 0.0.0.0 port 60010 connected with 192.0.0.11 port 44406
+[545]  0.0-10.0 sec  9.54 MBytes  8.00 Mbits/sec   0.144 ms    0/ 6804 (0%)
+[547] local 0.0.0.0 port 60010 connected with 192.0.0.11 port 49003
+[547]  0.0-10.0 sec  11.9 MBytes  10.0 Mbits/sec   0.321 ms    0/ 8505 (0%)
+[549] local 0.0.0.0 port 60010 connected with 192.0.0.11 port 53246
+[549]  0.0-10.0 sec  15.5 MBytes  13.0 Mbits/sec   0.125 ms    0/11056 (0%)
+[551] local 0.0.0.0 port 60010 connected with 192.0.0.11 port 53393
+[551]  0.0-10.0 sec  10.7 MBytes  9.00 Mbits/sec   0.089 ms    0/ 7655 (0%)
+[553] local 0.0.0.0 port 60010 connected with 192.0.0.11 port 40982
+[553]  0.0-10.0 sec  11.9 MBytes  10.0 Mbits/sec   0.098 ms    0/ 8505 (0%)
+[555] local 0.0.0.0 port 60010 connected with 192.0.0.11 port 56683
+[555]  0.0-10.0 sec  10.7 MBytes  9.00 Mbits/sec   0.113 ms    0/ 7655 (0%)
+[557] local 0.0.0.0 port 60010 connected with 192.0.0.11 port 54844
+[557]  0.0-10.0 sec  14.3 MBytes  12.0 Mbits/sec   0.171 ms    0/10206 (0%)
+[559] local 0.0.0.0 port 60010 connected with 192.0.0.11 port 42278
+[559]  0.0-10.0 sec  10.7 MBytes  9.00 Mbits/sec   0.102 ms    0/ 7655 (0%)
+[561] local 0.0.0.0 port 60010 connected with 192.0.0.11 port 56589
+[561]  0.0-10.0 sec  11.9 MBytes  10.0 Mbits/sec   0.157 ms    0/ 8505 (0%)
+[563] local 0.0.0.0 port 60010 connected with 192.0.0.11 port 58736
+[563]  0.0-10.0 sec  10.7 MBytes  9.00 Mbits/sec   0.130 ms    0/ 7655 (0%)
+[565] local 0.0.0.0 port 60010 connected with 192.0.0.11 port 39974
+[565]  0.0-10.0 sec  10.7 MBytes  9.00 Mbits/sec   0.098 ms    0/ 7655 (0%)
+[567] local 0.0.0.0 port 60010 connected with 192.0.0.11 port 47739
+[567]  0.0-10.0 sec  8.35 MBytes  7.00 Mbits/sec   0.142 ms    0/ 5954 (0%)
+[569] local 0.0.0.0 port 60010 connected with 192.0.0.11 port 50893
+[569]  0.0-10.0 sec  8.35 MBytes  7.00 Mbits/sec   0.183 ms    0/ 5954 (0%)
+[571] local 0.0.0.0 port 60010 connected with 192.0.0.11 port 42847
+[571]  0.0-10.0 sec  9.54 MBytes  8.00 Mbits/sec   0.151 ms    0/ 6804 (0%)
+[573] local 0.0.0.0 port 60010 connected with 192.0.0.11 port 52680
+[573]  0.0-10.0 sec  14.3 MBytes  12.0 Mbits/sec   0.125 ms    0/10206 (0%)
+[575] local 0.0.0.0 port 60010 connected with 192.0.0.11 port 51053
+[575]  0.0-10.0 sec  11.9 MBytes  10.0 Mbits/sec   0.135 ms    0/ 8505 (0%)
+[577] local 0.0.0.0 port 60010 connected with 192.0.0.11 port 45293
+[577]  0.0-10.0 sec  11.9 MBytes  10.0 Mbits/sec   0.145 ms    0/ 8505 (0%)
+[579] local 0.0.0.0 port 60010 connected with 192.0.0.11 port 42649
+[579]  0.0-10.0 sec  13.1 MBytes  11.0 Mbits/sec   0.151 ms    0/ 9355 (0%)
+[581] local 0.0.0.0 port 60010 connected with 192.0.0.11 port 58789
+[581]  0.0-10.0 sec  15.5 MBytes  13.0 Mbits/sec   0.188 ms    1/11056 (0.009%)
+[583] local 0.0.0.0 port 60010 connected with 192.0.0.11 port 46133
+[583]  0.0-10.0 sec  9.54 MBytes  8.00 Mbits/sec   0.154 ms    0/ 6804 (0%)
+[585] local 0.0.0.0 port 60010 connected with 192.0.0.11 port 59936
+[585]  0.0-10.0 sec  9.54 MBytes  8.00 Mbits/sec   0.169 ms    0/ 6804 (0%)
+[587] local 0.0.0.0 port 60010 connected with 192.0.0.11 port 58002
+[587]  0.0-10.0 sec  14.3 MBytes  12.0 Mbits/sec   0.162 ms    0/10206 (0%)
+[589] local 0.0.0.0 port 60010 connected with 192.0.0.11 port 37518
+[589]  0.0-10.0 sec  9.54 MBytes  8.00 Mbits/sec   0.206 ms    0/ 6804 (0%)
+[591] local 0.0.0.0 port 60010 connected with 192.0.0.11 port 55790
+[591]  0.0-10.0 sec  10.7 MBytes  9.00 Mbits/sec   0.159 ms    0/ 7655 (0%)
+[593] local 0.0.0.0 port 60010 connected with 192.0.0.11 port 49586
+[593]  0.0-10.0 sec  13.1 MBytes  11.0 Mbits/sec   0.151 ms    0/ 9355 (0%)
+[595] local 0.0.0.0 port 60010 connected with 192.0.0.11 port 37601
+[595]  0.0-10.0 sec  9.54 MBytes  8.00 Mbits/sec   0.185 ms    0/ 6804 (0%)
+[597] local 0.0.0.0 port 60010 connected with 192.0.0.11 port 58412
+[597]  0.0-10.0 sec  14.3 MBytes  12.0 Mbits/sec   0.176 ms    0/10206 (0%)
+[599] local 0.0.0.0 port 60010 connected with 192.0.0.11 port 39467
+[599]  0.0-10.0 sec  14.3 MBytes  12.0 Mbits/sec   0.153 ms    0/10206 (0%)

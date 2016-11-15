@@ -1,0 +1,540 @@
+------------------------------------------------------------
+Server listening on UDP port 60010
+Receiving 1470 byte datagrams
+UDP buffer size: 0.41 MByte (WARNING: requested 0.59 MByte)
+------------------------------------------------------------
+[  1] local 0.0.0.0 port 60010 connected with 192.0.0.124 port 56260
+[ ID] Interval       Transfer     Bandwidth        Jitter   Lost/Total  Latency avg/min/max/stdev PPS
+[  1] 0.00-10.00 sec  9.54 MBytes  8.00 Mbits/sec   0.166 ms    0/ 6804 (0%) 3155.670/3155.318/3159.434/38.262 ms  680 pps
+[  3] local 0.0.0.0 port 60010 connected with 192.0.0.124 port 33648
+[  3] 0.00-10.00 sec  11.9 MBytes  10.0 Mbits/sec   0.089 ms    0/ 8505 (0%) 3155.973/3155.540/3162.520/34.228 ms  850 pps
+[  5] local 0.0.0.0 port 60010 connected with 192.0.0.124 port 39767
+[  5] 0.00-10.00 sec  13.1 MBytes  11.0 Mbits/sec   0.085 ms    0/ 9355 (0%) 3156.231/3155.825/3161.018/32.638 ms  935 pps
+[  7] local 0.0.0.0 port 60010 connected with 192.0.0.124 port 46624
+[  7] 0.00-10.00 sec  10.7 MBytes  9.00 Mbits/sec   0.106 ms    0/ 7655 (0%) 3156.493/3156.072/3162.196/36.083 ms  765 pps
+[  9] local 0.0.0.0 port 60010 connected with 192.0.0.124 port 39352
+[  9] 0.00-10.00 sec  13.1 MBytes  11.0 Mbits/sec   0.159 ms    0/ 9355 (0%) 3156.730/3156.315/3160.722/32.641 ms  935 pps
+[ 11] local 0.0.0.0 port 60010 connected with 192.0.0.124 port 47111
+[ 11] 0.00-10.00 sec  13.1 MBytes  11.0 Mbits/sec   0.114 ms    0/ 9355 (0%) 3156.977/3156.541/3163.246/32.645 ms  935 pps
+------------------------------------------------------------
+Server listening on UDP port 60010
+Receiving 1470 byte datagrams
+UDP buffer size: 0.41 MByte (WARNING: requested 0.59 MByte)
+------------------------------------------------------------
+[  1] local 0.0.0.0 port 60010 connected with 192.0.0.124 port 53493
+[ ID] Interval       Transfer     Bandwidth        Jitter   Lost/Total  Latency avg/min/max/stdev PPS
+[  1] 0.00-10.00 sec  9.54 MBytes  8.00 Mbits/sec   0.141 ms    0/ 6804 (0%) 3157.328/3156.936/3164.239/38.279 ms  680 pps
+[  3] local 0.0.0.0 port 60010 connected with 192.0.0.124 port 52500
+[  3] 0.00-10.00 sec  11.9 MBytes  10.0 Mbits/sec   0.135 ms    0/ 8505 (0%) 3157.556/3157.186/3164.332/34.241 ms  850 pps
+[  5] local 0.0.0.0 port 60010 connected with 192.0.0.124 port 39339
+[  5] 0.00-10.00 sec  14.3 MBytes  12.0 Mbits/sec   0.096 ms    0/10206 (0%) 3157.808/3157.438/3165.531/31.263 ms 1020 pps
+[  7] local 0.0.0.0 port 60010 connected with 192.0.0.124 port 48906
+[  7] 0.00-10.00 sec  10.7 MBytes  9.00 Mbits/sec   0.118 ms    0/ 7655 (0%) 3158.061/3157.674/3161.803/36.098 ms  765 pps
+[  9] local 0.0.0.0 port 60010 connected with 192.0.0.124 port 53399
+[  9] 0.00-10.00 sec  10.7 MBytes  9.00 Mbits/sec   0.115 ms    0/ 7655 (0%) 3158.330/3157.915/3166.227/36.104 ms  765 pps
+[ 11] local 0.0.0.0 port 60010 connected with 192.0.0.124 port 36506
+[ 11] 0.00-10.00 sec  13.1 MBytes  11.0 Mbits/sec   0.145 ms    0/ 9355 (0%) 3158.549/3158.173/3163.557/32.660 ms  935 pps
+------------------------------------------------------------
+Server listening on UDP port 60010
+Receiving 1470 byte datagrams
+UDP buffer size: 0.41 MByte (WARNING: requested 0.59 MByte)
+------------------------------------------------------------
+[  1] local 0.0.0.0 port 60010 connected with 192.0.0.124 port 35072
+[ ID] Interval       Transfer     Bandwidth        Jitter   Lost/Total  Latency avg/min/max/stdev PPS
+[  1] 0.00-10.00 sec  11.9 MBytes  10.0 Mbits/sec   0.096 ms    0/ 8505 (0%) 3158.917/3158.521/3164.326/34.257 ms  850 pps
+[  3] local 0.0.0.0 port 60010 connected with 192.0.0.124 port 47453
+[  3] 0.00-10.00 sec  10.7 MBytes  9.00 Mbits/sec   0.107 ms    0/ 7654 (0%) 3159.197/3158.721/3164.772/36.111 ms  765 pps
+[  5] local 0.0.0.0 port 60010 connected with 192.0.0.124 port 35921
+[  5] 0.00-10.00 sec  11.9 MBytes  10.0 Mbits/sec   0.165 ms    0/ 8505 (0%) 3159.416/3159.012/3165.625/34.264 ms  850 pps
+[  7] local 0.0.0.0 port 60010 connected with 192.0.0.124 port 39185
+[  7] 0.00-10.00 sec  11.9 MBytes  10.0 Mbits/sec   0.142 ms    0/ 8505 (0%) 3159.627/3159.247/3165.181/34.267 ms  850 pps
+[  9] local 0.0.0.0 port 60010 connected with 192.0.0.124 port 52586
+[  9] 0.00-10.00 sec  9.54 MBytes  8.00 Mbits/sec   0.147 ms    0/ 6804 (0%) 3159.875/3159.504/3165.234/38.310 ms  680 pps
+[ 11] local 0.0.0.0 port 60010 connected with 192.0.0.124 port 50838
+[ 11] 0.00-10.00 sec  10.7 MBytes  9.00 Mbits/sec   0.157 ms    0/ 7655 (0%) 3160.163/3159.708/3168.139/36.125 ms  765 pps
+------------------------------------------------------------
+Server listening on UDP port 60010
+Receiving 1470 byte datagrams
+UDP buffer size: 0.41 MByte (WARNING: requested 0.59 MByte)
+------------------------------------------------------------
+[  1] local 0.0.0.0 port 60010 connected with 192.0.0.124 port 54056
+[ ID] Interval       Transfer     Bandwidth        Jitter   Lost/Total  Latency avg/min/max/stdev PPS
+[  1] 0.00-10.00 sec  13.1 MBytes  11.0 Mbits/sec   0.357 ms    0/ 9355 (0%) 3160.499/3160.078/3166.520/32.682 ms  935 pps
+[  3] local 0.0.0.0 port 60010 connected with 192.0.0.124 port 55433
+[  3] 0.00-10.00 sec  13.1 MBytes  11.0 Mbits/sec   0.112 ms    0/ 9355 (0%) 3160.743/3160.303/3167.508/32.679 ms  935 pps
+[  5] local 0.0.0.0 port 60010 connected with 192.0.0.124 port 43987
+[  5] 0.00-10.00 sec  13.1 MBytes  11.0 Mbits/sec   0.165 ms    0/ 9355 (0%) 3160.983/3160.521/3166.488/32.680 ms  935 pps
+[  7] local 0.0.0.0 port 60010 connected with 192.0.0.124 port 38442
+[  7] 0.00-10.00 sec  14.3 MBytes  12.0 Mbits/sec   0.163 ms    0/10206 (0%) 3161.202/3160.785/3165.998/31.294 ms 1020 pps
+[  9] local 0.0.0.0 port 60010 connected with 192.0.0.124 port 40702
+[  9] 0.00-10.00 sec  10.7 MBytes  9.00 Mbits/sec   0.112 ms    0/ 7655 (0%) 3161.451/3161.024/3167.070/36.137 ms  765 pps
+[ 11] local 0.0.0.0 port 60010 connected with 192.0.0.124 port 51406
+[ 11] 0.00-10.00 sec  11.9 MBytes  10.0 Mbits/sec   0.194 ms    0/ 8505 (0%) 3161.674/3161.278/3167.897/34.286 ms  850 pps
+------------------------------------------------------------
+Server listening on UDP port 60010
+Receiving 1470 byte datagrams
+UDP buffer size: 0.41 MByte (WARNING: requested 0.59 MByte)
+------------------------------------------------------------
+[  1] local 0.0.0.0 port 60010 connected with 192.0.0.124 port 57938
+[ ID] Interval       Transfer     Bandwidth        Jitter   Lost/Total  Latency avg/min/max/stdev PPS
+[  1] 0.00-10.00 sec  13.1 MBytes  11.0 Mbits/sec   0.177 ms    0/ 9355 (0%) 3162.086/3161.622/3167.760/32.704 ms  935 pps
+[  3] local 0.0.0.0 port 60010 connected with 192.0.0.124 port 59097
+[  3] 0.00-10.00 sec  13.1 MBytes  11.0 Mbits/sec   0.113 ms    0/ 9355 (0%) 3162.288/3161.884/3168.971/32.698 ms  935 pps
+[  5] local 0.0.0.0 port 60010 connected with 192.0.0.124 port 36268
+[  5] 0.00-10.00 sec  13.1 MBytes  11.0 Mbits/sec   0.155 ms    0/ 9355 (0%) 3162.551/3162.134/3168.180/32.702 ms  935 pps
+[  7] local 0.0.0.0 port 60010 connected with 192.0.0.124 port 43539
+[  7] 0.00-10.00 sec  10.7 MBytes  9.00 Mbits/sec   0.150 ms    0/ 7655 (0%) 3162.765/3162.360/3169.579/36.154 ms  765 pps
+[  9] local 0.0.0.0 port 60010 connected with 192.0.0.124 port 37566
+[  9] 0.00-10.00 sec  13.1 MBytes  11.0 Mbits/sec   0.103 ms    0/ 9355 (0%) 3163.029/3162.615/3171.388/32.704 ms  935 pps
+[ 11] local 0.0.0.0 port 60010 connected with 192.0.0.124 port 43163
+[ 11] 0.00-10.00 sec  11.9 MBytes  10.0 Mbits/sec   0.138 ms    0/ 8505 (0%) 3163.259/3162.861/3168.538/34.303 ms  850 pps
+------------------------------------------------------------
+Server listening on UDP port 60010
+Receiving 1470 byte datagrams
+UDP buffer size: 0.41 MByte (WARNING: requested 0.59 MByte)
+------------------------------------------------------------
+[  1] local 0.0.0.0 port 60010 connected with 192.0.0.124 port 48186
+[ ID] Interval       Transfer     Bandwidth        Jitter   Lost/Total  Latency avg/min/max/stdev PPS
+[  1] 0.00-10.00 sec  10.7 MBytes  9.00 Mbits/sec   0.160 ms    0/ 7655 (0%) 3163.645/3163.231/3169.485/36.161 ms  765 pps
+[  3] local 0.0.0.0 port 60010 connected with 192.0.0.124 port 37177
+[  3] 0.00-10.00 sec  13.1 MBytes  11.0 Mbits/sec   0.105 ms    0/ 9355 (0%) 3163.866/3163.426/3173.542/32.715 ms  935 pps
+[  5] local 0.0.0.0 port 60010 connected with 192.0.0.124 port 60364
+[  5] 0.00-10.00 sec  9.54 MBytes  8.00 Mbits/sec   0.109 ms    0/ 6804 (0%) 3164.106/3163.686/3170.419/38.363 ms  680 pps
+[  7] local 0.0.0.0 port 60010 connected with 192.0.0.124 port 42791
+[  7] 0.00-10.00 sec  11.9 MBytes  10.0 Mbits/sec   0.116 ms    0/ 8505 (0%) 3164.345/3163.948/3170.484/34.317 ms  850 pps
+[  9] local 0.0.0.0 port 60010 connected with 192.0.0.124 port 58380
+[  9] 0.00-10.00 sec  11.9 MBytes  10.0 Mbits/sec   0.104 ms    0/ 8505 (0%) 3164.558/3164.160/3173.362/34.316 ms  850 pps
+[ 11] local 0.0.0.0 port 60010 connected with 192.0.0.124 port 56094
+[ 11] 0.00-10.00 sec  11.9 MBytes  10.0 Mbits/sec   0.128 ms    0/ 8505 (0%) 3164.794/3164.426/3172.479/34.319 ms  850 pps
+------------------------------------------------------------
+Server listening on UDP port 60010
+Receiving 1470 byte datagrams
+UDP buffer size: 0.41 MByte (WARNING: requested 0.59 MByte)
+------------------------------------------------------------
+[  1] local 0.0.0.0 port 60010 connected with 192.0.0.124 port 53281
+[ ID] Interval       Transfer     Bandwidth        Jitter   Lost/Total  Latency avg/min/max/stdev PPS
+[  1] 0.00-10.00 sec  11.9 MBytes  10.0 Mbits/sec   0.174 ms    0/ 8505 (0%) 3165.172/3164.780/3169.485/34.323 ms  850 pps
+[  3] local 0.0.0.0 port 60010 connected with 192.0.0.124 port 51511
+[  3] 0.00-10.00 sec  9.54 MBytes  8.00 Mbits/sec   0.174 ms    0/ 6804 (0%) 3165.394/3164.956/3172.263/38.379 ms  680 pps
+[  5] local 0.0.0.0 port 60010 connected with 192.0.0.124 port 47746
+[  5] 0.00-10.00 sec  11.9 MBytes  10.0 Mbits/sec   0.150 ms    0/ 8505 (0%) 3165.659/3165.218/3170.606/34.328 ms  850 pps
+[  7] local 0.0.0.0 port 60010 connected with 192.0.0.124 port 50692
+[  7] 0.00-10.01 sec  9.54 MBytes  8.00 Mbits/sec   0.159 ms    0/ 6804 (0%) 3165.907/3165.460/3171.383/38.381 ms  680 pps
+[  9] local 0.0.0.0 port 60010 connected with 192.0.0.124 port 43581
+[  9] 0.00-10.00 sec  11.9 MBytes  10.0 Mbits/sec   0.367 ms    0/ 8505 (0%) 3166.135/3165.700/3174.195/34.335 ms  850 pps
+[ 11] local 0.0.0.0 port 60010 connected with 192.0.0.124 port 50507
+[ 11] 0.00-10.00 sec  11.9 MBytes  10.0 Mbits/sec   0.120 ms    0/ 8505 (0%) 3166.357/3165.976/3174.801/34.336 ms  850 pps
+------------------------------------------------------------
+Server listening on UDP port 60010
+Receiving 1470 byte datagrams
+UDP buffer size: 0.41 MByte (WARNING: requested 0.59 MByte)
+------------------------------------------------------------
+[  1] local 0.0.0.0 port 60010 connected with 192.0.0.124 port 56055
+[ ID] Interval       Transfer     Bandwidth        Jitter   Lost/Total  Latency avg/min/max/stdev PPS
+[  1] 0.00-10.00 sec  11.9 MBytes  10.0 Mbits/sec   0.153 ms    0/ 8505 (0%) 3166.766/3166.325/3172.416/34.342 ms  850 pps
+[  3] local 0.0.0.0 port 60010 connected with 192.0.0.124 port 36286
+[  3] 0.00-10.00 sec  11.9 MBytes  10.0 Mbits/sec   0.141 ms    0/ 8505 (0%) 3166.981/3166.577/3175.003/34.344 ms  850 pps
+[  5] local 0.0.0.0 port 60010 connected with 192.0.0.124 port 45940
+[  5] 0.00-10.00 sec  10.7 MBytes  9.00 Mbits/sec   0.154 ms    0/ 7655 (0%) 3167.224/3166.804/3181.280/36.205 ms  765 pps
+[  7] local 0.0.0.0 port 60010 connected with 192.0.0.124 port 44789
+[  7] 0.00-10.00 sec  10.7 MBytes  9.00 Mbits/sec   0.144 ms    0/ 7655 (0%) 3167.456/3167.038/3173.641/36.205 ms  765 pps
+[  9] local 0.0.0.0 port 60010 connected with 192.0.0.124 port 51652
+[  9] 0.00-10.00 sec  11.9 MBytes  10.0 Mbits/sec   0.115 ms    0/ 8505 (0%) 3167.672/3167.275/3176.787/34.353 ms  850 pps
+[ 11] local 0.0.0.0 port 60010 connected with 192.0.0.124 port 40942
+[ 11] 0.00-10.00 sec  10.7 MBytes  9.00 Mbits/sec   0.126 ms    0/ 7655 (0%) 3167.938/3167.476/3174.829/36.211 ms  765 pps
+------------------------------------------------------------
+Server listening on UDP port 60010
+Receiving 1470 byte datagrams
+UDP buffer size: 0.41 MByte (WARNING: requested 0.59 MByte)
+------------------------------------------------------------
+[  1] local 0.0.0.0 port 60010 connected with 192.0.0.124 port 35787
+[ ID] Interval       Transfer     Bandwidth        Jitter   Lost/Total  Latency avg/min/max/stdev PPS
+[  1] 0.00-10.00 sec  10.7 MBytes  9.00 Mbits/sec   0.136 ms    0/ 7655 (0%) 3168.346/3167.887/3174.645/36.215 ms  765 pps
+[  3] local 0.0.0.0 port 60010 connected with 192.0.0.124 port 60794
+[  3] 0.00-10.00 sec  10.7 MBytes  9.00 Mbits/sec   0.168 ms    0/ 7655 (0%) 3168.521/3168.118/3172.599/36.218 ms  765 pps
+[  5] local 0.0.0.0 port 60010 connected with 192.0.0.124 port 53514
+[  5] 0.00-10.00 sec  11.9 MBytes  10.0 Mbits/sec   0.133 ms    0/ 8505 (0%) 3168.768/3168.353/3178.048/34.361 ms  850 pps
+[  7] local 0.0.0.0 port 60010 connected with 192.0.0.124 port 52499
+[  7] 0.00-10.00 sec  10.7 MBytes  9.00 Mbits/sec   0.083 ms    0/ 7655 (0%) 3169.030/3168.584/3175.221/36.224 ms  765 pps
+[  9] local 0.0.0.0 port 60010 connected with 192.0.0.124 port 43311
+[  9] 0.00-10.00 sec  11.9 MBytes  10.0 Mbits/sec   0.164 ms    0/ 8505 (0%) 3169.269/3168.832/3175.490/34.370 ms  850 pps
+[ 11] local 0.0.0.0 port 60010 connected with 192.0.0.124 port 37174
+[ 11] 0.00-10.00 sec  13.1 MBytes  11.0 Mbits/sec   0.133 ms    0/ 9355 (0%) 3169.507/3169.091/3177.102/32.771 ms  935 pps
+------------------------------------------------------------
+Server listening on UDP port 60010
+Receiving 1470 byte datagrams
+UDP buffer size: 0.41 MByte (WARNING: requested 0.59 MByte)
+------------------------------------------------------------
+[  1] local 0.0.0.0 port 60010 connected with 192.0.0.124 port 34143
+[ ID] Interval       Transfer     Bandwidth        Jitter   Lost/Total  Latency avg/min/max/stdev PPS
+[  1] 0.00-10.00 sec  10.7 MBytes  9.00 Mbits/sec   0.159 ms    0/ 7655 (0%) 3169.911/3169.443/3176.032/36.234 ms  765 pps
+[  3] local 0.0.0.0 port 60010 connected with 192.0.0.124 port 53237
+[  3] 0.00-10.00 sec  11.9 MBytes  10.0 Mbits/sec   0.148 ms    0/ 8505 (0%) 3170.116/3169.686/3176.049/34.379 ms  850 pps
+[  5] local 0.0.0.0 port 60010 connected with 192.0.0.124 port 53217
+[  5] 0.00-10.00 sec  11.9 MBytes  10.0 Mbits/sec   0.143 ms    0/ 8505 (0%) 3170.343/3169.941/3175.732/34.380 ms  850 pps
+[  7] local 0.0.0.0 port 60010 connected with 192.0.0.124 port 36354
+[  7] 0.00-10.00 sec  14.3 MBytes  12.0 Mbits/sec   0.140 ms    0/10206 (0%) 3170.582/3170.147/3178.734/31.386 ms 1020 pps
+[  9] local 0.0.0.0 port 60010 connected with 192.0.0.124 port 47907
+[  9] 0.00-10.00 sec  11.9 MBytes  10.0 Mbits/sec   0.120 ms    0/ 8505 (0%) 3170.826/3170.366/3178.831/34.387 ms  850 pps
+[ 11] local 0.0.0.0 port 60010 connected with 192.0.0.124 port 60936
+[ 11] 0.00-10.00 sec  10.7 MBytes  9.00 Mbits/sec   0.120 ms    0/ 7655 (0%) 3171.029/3170.643/3177.159/36.247 ms  765 pps
+------------------------------------------------------------
+Server listening on UDP port 60010
+Receiving 1470 byte datagrams
+UDP buffer size: 0.41 MByte (WARNING: requested 0.59 MByte)
+------------------------------------------------------------
+[  1] local 0.0.0.0 port 60010 connected with 192.0.0.124 port 42295
+[ ID] Interval       Transfer     Bandwidth        Jitter   Lost/Total  Latency avg/min/max/stdev PPS
+[  1] 0.00-10.00 sec  11.9 MBytes  10.0 Mbits/sec   0.144 ms    0/ 8502 (0%) 3171.519/3171.034/3177.854/34.398 ms  850 pps
+[  3] local 0.0.0.0 port 60010 connected with 192.0.0.124 port 37754
+[  3] 0.00-10.00 sec  10.7 MBytes  9.00 Mbits/sec   0.108 ms    0/ 7654 (0%) 3171.713/3171.278/3180.656/36.259 ms  765 pps
+[  5] local 0.0.0.0 port 60010 connected with 192.0.0.124 port 41507
+[  5] 0.00-10.00 sec  10.7 MBytes  9.00 Mbits/sec   0.085 ms    0/ 7654 (0%) 3171.931/3171.523/3181.130/36.258 ms  765 pps
+[  7] local 0.0.0.0 port 60010 connected with 192.0.0.124 port 37678
+[  7] 0.00-10.00 sec  13.1 MBytes  11.0 Mbits/sec   0.135 ms    0/ 9355 (0%) 3172.146/3171.765/3180.186/32.799 ms  935 pps
+[  9] local 0.0.0.0 port 60010 connected with 192.0.0.124 port 56953
+[  9] 0.00-10.00 sec  10.7 MBytes  9.00 Mbits/sec   0.123 ms    0/ 7655 (0%) 3172.370/3171.999/3179.284/36.262 ms  765 pps
+[ 11] local 0.0.0.0 port 60010 connected with 192.0.0.124 port 37792
+[ 11] 0.00-10.00 sec  11.9 MBytes  10.0 Mbits/sec   0.164 ms    0/ 8505 (0%) 3172.656/3172.242/3177.981/34.403 ms  850 pps
+------------------------------------------------------------
+Server listening on UDP port 60010
+Receiving 1470 byte datagrams
+UDP buffer size: 0.41 MByte (WARNING: requested 0.59 MByte)
+------------------------------------------------------------
+[  1] local 0.0.0.0 port 60010 connected with 192.0.0.124 port 47871
+[ ID] Interval       Transfer     Bandwidth        Jitter   Lost/Total  Latency avg/min/max/stdev PPS
+[  1] 0.00-10.00 sec  10.7 MBytes  9.00 Mbits/sec   0.206 ms    0/ 7655 (0%) 3173.024/3172.624/3180.417/36.270 ms  765 pps
+[  3] local 0.0.0.0 port 60010 connected with 192.0.0.124 port 45228
+[  3] 0.00-10.00 sec  11.9 MBytes  10.0 Mbits/sec   0.107 ms    0/ 8505 (0%) 3173.253/3172.831/3180.211/34.410 ms  850 pps
+[  5] local 0.0.0.0 port 60010 connected with 192.0.0.124 port 45281
+[  5] 0.00-10.00 sec  13.1 MBytes  11.0 Mbits/sec   0.151 ms    0/ 9355 (0%) 3173.482/3173.063/3180.674/32.814 ms  935 pps
+[  7] local 0.0.0.0 port 60010 connected with 192.0.0.124 port 56575
+[  7] 0.00-10.00 sec  10.7 MBytes  9.00 Mbits/sec   0.181 ms    0/ 7655 (0%) 3173.707/3173.308/3179.196/36.279 ms  765 pps
+[  9] local 0.0.0.0 port 60010 connected with 192.0.0.124 port 45543
+[  9] 0.00-10.00 sec  11.9 MBytes  10.0 Mbits/sec   0.135 ms    0/ 8505 (0%) 3173.961/3173.536/3179.745/34.418 ms  850 pps
+[ 11] local 0.0.0.0 port 60010 connected with 192.0.0.124 port 37732
+[ 11] 0.00-10.00 sec  10.7 MBytes  9.00 Mbits/sec   0.174 ms    0/ 7655 (0%) 3174.199/3173.788/3183.677/36.282 ms  765 pps
+------------------------------------------------------------
+Server listening on UDP port 60010
+Receiving 1470 byte datagrams
+UDP buffer size: 0.41 MByte (WARNING: requested 0.59 MByte)
+------------------------------------------------------------
+[  1] local 0.0.0.0 port 60010 connected with 192.0.0.124 port 34010
+[ ID] Interval       Transfer     Bandwidth        Jitter   Lost/Total  Latency avg/min/max/stdev PPS
+[  1] 0.00-10.00 sec  9.54 MBytes  8.00 Mbits/sec   0.144 ms    0/ 6804 (0%) 3174.551/3174.122/3180.929/38.488 ms  680 pps
+[  3] local 0.0.0.0 port 60010 connected with 192.0.0.124 port 57826
+[  3] 0.00-10.00 sec  11.9 MBytes  10.0 Mbits/sec   0.129 ms    0/ 8505 (0%) 3174.810/3174.374/3181.002/34.427 ms  850 pps
+[  5] local 0.0.0.0 port 60010 connected with 192.0.0.124 port 54994
+[  5] 0.00-10.00 sec  11.9 MBytes  10.0 Mbits/sec   0.141 ms    0/ 8505 (0%) 3175.043/3174.598/3181.541/34.429 ms  850 pps
+[  7] local 0.0.0.0 port 60010 connected with 192.0.0.124 port 45665
+[  7] 0.00-10.00 sec  10.7 MBytes  9.00 Mbits/sec   0.198 ms    0/ 7655 (0%) 3175.280/3174.873/3183.722/36.296 ms  765 pps
+[  9] local 0.0.0.0 port 60010 connected with 192.0.0.124 port 56703
+[  9] 0.00-10.00 sec  13.1 MBytes  11.0 Mbits/sec   0.146 ms    0/ 9355 (0%) 3175.532/3175.100/3181.830/32.833 ms  935 pps
+[ 11] local 0.0.0.0 port 60010 connected with 192.0.0.124 port 55331
+[ 11] 0.00-10.00 sec  9.54 MBytes  8.00 Mbits/sec   0.167 ms    0/ 6804 (0%) 3175.763/3175.347/3181.768/38.504 ms  680 pps
+------------------------------------------------------------
+Server listening on UDP port 60010
+Receiving 1470 byte datagrams
+UDP buffer size: 0.41 MByte (WARNING: requested 0.59 MByte)
+------------------------------------------------------------
+[  1] local 0.0.0.0 port 60010 connected with 192.0.0.124 port 40276
+[ ID] Interval       Transfer     Bandwidth        Jitter   Lost/Total  Latency avg/min/max/stdev PPS
+[  1] 0.00-10.00 sec  13.1 MBytes  11.0 Mbits/sec   0.109 ms    0/ 9355 (0%) 3176.197/3175.730/3182.569/32.840 ms  935 pps
+[  3] local 0.0.0.0 port 60010 connected with 192.0.0.124 port 60031
+[  3] 0.00-10.00 sec  11.9 MBytes  10.0 Mbits/sec   0.127 ms    0/ 8505 (0%) 3176.380/3175.966/3182.412/34.447 ms  850 pps
+[  5] local 0.0.0.0 port 60010 connected with 192.0.0.124 port 34330
+[  5] 0.00-10.00 sec  9.54 MBytes  8.00 Mbits/sec   0.111 ms    0/ 6804 (0%) 3176.655/3176.213/3183.232/38.517 ms  680 pps
+[  7] local 0.0.0.0 port 60010 connected with 192.0.0.124 port 39550
+[  7] 0.00-10.00 sec  9.54 MBytes  8.00 Mbits/sec   0.132 ms    0/ 6804 (0%) 3176.862/3176.476/3183.021/38.515 ms  680 pps
+[  9] local 0.0.0.0 port 60010 connected with 192.0.0.124 port 45094
+[  9] 0.00-10.00 sec  10.7 MBytes  9.00 Mbits/sec   0.116 ms    0/ 7655 (0%) 3177.086/3176.658/3183.407/36.315 ms  765 pps
+[ 11] local 0.0.0.0 port 60010 connected with 192.0.0.124 port 56224
+[ 11] 0.00-10.00 sec  9.54 MBytes  8.00 Mbits/sec   0.079 ms    0/ 6804 (0%) 3177.319/3176.921/3186.986/38.524 ms  680 pps
+------------------------------------------------------------
+Server listening on UDP port 60010
+Receiving 1470 byte datagrams
+UDP buffer size: 0.41 MByte (WARNING: requested 0.59 MByte)
+------------------------------------------------------------
+[  1] local 0.0.0.0 port 60010 connected with 192.0.0.124 port 42108
+[ ID] Interval       Transfer     Bandwidth        Jitter   Lost/Total  Latency avg/min/max/stdev PPS
+[  1] 0.00-10.00 sec  10.7 MBytes  9.00 Mbits/sec   0.207 ms    0/ 7655 (0%) 3177.741/3177.301/3183.622/36.325 ms  765 pps
+[  3] local 0.0.0.0 port 60010 connected with 192.0.0.124 port 51860
+[  3] 0.00-10.00 sec  10.7 MBytes  9.00 Mbits/sec   0.129 ms    0/ 7655 (0%) 3177.979/3177.575/3183.951/36.328 ms  765 pps
+[  5] local 0.0.0.0 port 60010 connected with 192.0.0.124 port 37871
+[  5] 0.00-10.00 sec  10.7 MBytes  9.00 Mbits/sec   0.164 ms    0/ 7655 (0%) 3178.183/3177.821/3183.498/36.327 ms  765 pps
+[  7] local 0.0.0.0 port 60010 connected with 192.0.0.124 port 40259
+[  7] 0.00-10.00 sec  10.7 MBytes  9.00 Mbits/sec   0.184 ms    0/ 7654 (0%) 3178.417/3178.020/3183.999/36.331 ms  765 pps
+[  9] local 0.0.0.0 port 60010 connected with 192.0.0.124 port 52174
+[  9] 0.00-10.00 sec  10.7 MBytes  9.00 Mbits/sec   0.120 ms    0/ 7655 (0%) 3178.681/3178.278/3185.098/36.334 ms  765 pps
+[ 11] local 0.0.0.0 port 60010 connected with 192.0.0.124 port 54397
+[ 11] 0.00-10.00 sec  10.7 MBytes  9.00 Mbits/sec   0.190 ms    0/ 7655 (0%) 3178.913/3178.485/3185.904/36.336 ms  765 pps
+------------------------------------------------------------
+Server listening on UDP port 60010
+Receiving 1470 byte datagrams
+UDP buffer size: 0.41 MByte (WARNING: requested 0.59 MByte)
+------------------------------------------------------------
+[  1] local 0.0.0.0 port 60010 connected with 192.0.0.124 port 39757
+[ ID] Interval       Transfer     Bandwidth        Jitter   Lost/Total  Latency avg/min/max/stdev PPS
+[  1] 0.00-10.00 sec  10.7 MBytes  9.00 Mbits/sec   0.202 ms    0/ 7655 (0%) 3179.332/3178.853/3185.465/36.341 ms  765 pps
+[  3] local 0.0.0.0 port 60010 connected with 192.0.0.124 port 52380
+[  3] 0.00-10.00 sec  11.9 MBytes  10.0 Mbits/sec   0.136 ms    0/ 8505 (0%) 3179.527/3179.074/3184.406/34.480 ms  850 pps
+[  5] local 0.0.0.0 port 60010 connected with 192.0.0.124 port 49440
+[  5] 0.00-10.00 sec  13.1 MBytes  11.0 Mbits/sec   0.129 ms    0/ 9355 (0%) 3179.739/3179.355/3188.869/32.879 ms  935 pps
+[  7] local 0.0.0.0 port 60010 connected with 192.0.0.124 port 42148
+[  7] 0.00-10.00 sec  11.9 MBytes  10.0 Mbits/sec   0.148 ms    0/ 8505 (0%) 3179.967/3179.545/3185.144/34.482 ms  850 pps
+[  9] local 0.0.0.0 port 60010 connected with 192.0.0.124 port 58163
+[  9] 0.00-10.00 sec  10.7 MBytes  9.00 Mbits/sec   0.112 ms    0/ 7655 (0%) 3180.245/3179.795/3187.153/36.349 ms  765 pps
+[ 11] local 0.0.0.0 port 60010 connected with 192.0.0.124 port 57181
+[ 11] 0.00-10.00 sec  11.9 MBytes  10.0 Mbits/sec   0.128 ms    0/ 8505 (0%) 3180.442/3180.049/3185.477/34.488 ms  850 pps
+------------------------------------------------------------
+Server listening on UDP port 60010
+Receiving 1470 byte datagrams
+UDP buffer size: 0.41 MByte (WARNING: requested 0.59 MByte)
+------------------------------------------------------------
+[  1] local 0.0.0.0 port 60010 connected with 192.0.0.124 port 45591
+[ ID] Interval       Transfer     Bandwidth        Jitter   Lost/Total  Latency avg/min/max/stdev PPS
+[  1] 0.00-10.00 sec  9.54 MBytes  8.00 Mbits/sec   0.108 ms    0/ 6804 (0%) 3180.861/3180.405/3186.196/38.564 ms  680 pps
+[  3] local 0.0.0.0 port 60010 connected with 192.0.0.124 port 34684
+[  3] 0.00-10.00 sec  10.7 MBytes  9.00 Mbits/sec   0.148 ms    0/ 7655 (0%) 3181.074/3180.645/3188.216/36.363 ms  765 pps
+[  5] local 0.0.0.0 port 60010 connected with 192.0.0.124 port 56724
+[  5] 0.00-10.00 sec  9.54 MBytes  8.00 Mbits/sec   0.399 ms    0/ 6804 (0%) 3181.297/3180.846/3187.273/38.572 ms  680 pps
+[  7] local 0.0.0.0 port 60010 connected with 192.0.0.124 port 35908
+[  7] 0.00-10.00 sec  10.7 MBytes  9.00 Mbits/sec   0.102 ms    0/ 7655 (0%) 3181.498/3181.111/3187.455/36.366 ms  765 pps
+[  9] local 0.0.0.0 port 60010 connected with 192.0.0.124 port 34029
+[  9] 0.00-10.00 sec  11.9 MBytes  10.0 Mbits/sec   0.161 ms    0/ 8505 (0%) 3181.761/3181.323/3188.347/34.505 ms  850 pps
+[ 11] local 0.0.0.0 port 60010 connected with 192.0.0.124 port 54320
+[ 11] 0.00-10.00 sec  10.7 MBytes  9.00 Mbits/sec   0.176 ms    0/ 7655 (0%) 3181.990/3181.590/3188.562/36.370 ms  765 pps
+------------------------------------------------------------
+Server listening on UDP port 60010
+Receiving 1470 byte datagrams
+UDP buffer size: 0.41 MByte (WARNING: requested 0.59 MByte)
+------------------------------------------------------------
+[  1] local 0.0.0.0 port 60010 connected with 192.0.0.124 port 52995
+[ ID] Interval       Transfer     Bandwidth        Jitter   Lost/Total  Latency avg/min/max/stdev PPS
+[  1] 0.00-10.00 sec  9.54 MBytes  8.00 Mbits/sec   0.169 ms    0/ 6804 (0%) 3182.406/3181.923/3188.539/38.584 ms  680 pps
+[  3] local 0.0.0.0 port 60010 connected with 192.0.0.124 port 46739
+[  3] 0.00-10.00 sec  13.1 MBytes  11.0 Mbits/sec   0.240 ms    0/ 9355 (0%) 3182.621/3182.179/3191.156/32.905 ms  935 pps
+[  5] local 0.0.0.0 port 60010 connected with 192.0.0.124 port 53714
+[  5] 0.00-10.00 sec  10.7 MBytes  9.00 Mbits/sec   0.110 ms    0/ 7655 (0%) 3182.843/3182.392/3189.356/36.377 ms  765 pps
+[  7] local 0.0.0.0 port 60010 connected with 192.0.0.124 port 47311
+[  7] 0.00-10.00 sec  10.7 MBytes  9.00 Mbits/sec   0.139 ms    0/ 7655 (0%) 3183.061/3182.664/3190.655/36.385 ms  765 pps
+[  9] local 0.0.0.0 port 60010 connected with 192.0.0.124 port 53655
+[  9] 0.00-10.00 sec  11.9 MBytes  10.0 Mbits/sec   0.151 ms    0/ 8505 (0%) 3183.287/3182.887/3192.120/34.518 ms  850 pps
+[ 11] local 0.0.0.0 port 60010 connected with 192.0.0.124 port 41838
+[ 11] 0.00-10.00 sec  13.1 MBytes  11.0 Mbits/sec   0.175 ms    0/ 9355 (0%) 3183.521/3183.125/3190.102/32.916 ms  935 pps
+------------------------------------------------------------
+Server listening on UDP port 60010
+Receiving 1470 byte datagrams
+UDP buffer size: 0.41 MByte (WARNING: requested 0.59 MByte)
+------------------------------------------------------------
+[  1] local 0.0.0.0 port 60010 connected with 192.0.0.124 port 39419
+[ ID] Interval       Transfer     Bandwidth        Jitter   Lost/Total  Latency avg/min/max/stdev PPS
+[  1] 0.00-10.00 sec  9.54 MBytes  8.00 Mbits/sec   0.113 ms    0/ 6804 (0%) 3183.974/3183.486/3190.146/38.602 ms  680 pps
+[  3] local 0.0.0.0 port 60010 connected with 192.0.0.124 port 41279
+[  3] 0.00-10.00 sec  10.7 MBytes  9.00 Mbits/sec   0.124 ms    0/ 7654 (0%) 3184.197/3183.736/3191.452/36.401 ms  765 pps
+[  5] local 0.0.0.0 port 60010 connected with 192.0.0.124 port 41139
+[  5] 0.00-10.00 sec  8.35 MBytes  7.00 Mbits/sec   0.116 ms    0/ 5954 (0%) 3184.358/3183.944/3190.452/41.274 ms  595 pps
+[  7] local 0.0.0.0 port 60010 connected with 192.0.0.124 port 45537
+[  7] 0.00-10.00 sec  13.1 MBytes  11.0 Mbits/sec   0.123 ms    0/ 9350 (0%) 3184.636/3184.242/3191.752/32.934 ms  934 pps
+[  9] local 0.0.0.0 port 60010 connected with 192.0.0.124 port 50411
+[  9] 0.00-10.00 sec  11.9 MBytes  10.0 Mbits/sec   0.165 ms    0/ 8505 (0%) 3184.888/3184.469/3192.643/34.539 ms  850 pps
+[ 11] local 0.0.0.0 port 60010 connected with 192.0.0.124 port 46116
+[ 11] 0.00-10.00 sec  11.9 MBytes  10.0 Mbits/sec   0.121 ms    0/ 8505 (0%) 3185.141/3184.738/3192.095/34.541 ms  850 pps
+------------------------------------------------------------
+Server listening on UDP port 60010
+Receiving 1470 byte datagrams
+UDP buffer size: 0.41 MByte (WARNING: requested 0.59 MByte)
+------------------------------------------------------------
+[  1] local 0.0.0.0 port 60010 connected with 192.0.0.124 port 37996
+[ ID] Interval       Transfer     Bandwidth        Jitter   Lost/Total  Latency avg/min/max/stdev PPS
+[  1] 0.00-10.00 sec  13.1 MBytes  11.0 Mbits/sec   0.147 ms    0/ 9355 (0%) 3185.558/3185.042/3190.392/32.934 ms  935 pps
+[  3] local 0.0.0.0 port 60010 connected with 192.0.0.124 port 56921
+[  3] 0.00-10.00 sec  11.9 MBytes  10.0 Mbits/sec   0.086 ms    0/ 8505 (0%) 3185.742/3185.314/3190.380/34.546 ms  850 pps
+[  5] local 0.0.0.0 port 60010 connected with 192.0.0.124 port 33134
+[  5] 0.00-10.00 sec  11.9 MBytes  10.0 Mbits/sec   0.091 ms    0/ 8505 (0%) 3185.951/3185.555/3193.815/34.548 ms  850 pps
+[  7] local 0.0.0.0 port 60010 connected with 192.0.0.124 port 44253
+[  7] 0.00-10.00 sec  13.1 MBytes  11.0 Mbits/sec   0.156 ms    0/ 9355 (0%) 3186.216/3185.802/3193.041/32.947 ms  935 pps
+[  9] local 0.0.0.0 port 60010 connected with 192.0.0.124 port 39914
+[  9] 0.00-10.00 sec  10.7 MBytes  9.00 Mbits/sec   0.150 ms    0/ 7655 (0%) 3186.439/3186.035/3193.759/36.423 ms  765 pps
+[ 11] local 0.0.0.0 port 60010 connected with 192.0.0.124 port 53871
+[ 11] 0.00-10.00 sec  13.1 MBytes  11.0 Mbits/sec   0.157 ms    0/ 9355 (0%) 3186.672/3186.283/3194.026/32.951 ms  935 pps
+------------------------------------------------------------
+Server listening on UDP port 60010
+Receiving 1470 byte datagrams
+UDP buffer size: 0.41 MByte (WARNING: requested 0.59 MByte)
+------------------------------------------------------------
+[  1] local 0.0.0.0 port 60010 connected with 192.0.0.124 port 35159
+[ ID] Interval       Transfer     Bandwidth        Jitter   Lost/Total  Latency avg/min/max/stdev PPS
+[  1] 0.00-10.00 sec  11.9 MBytes  10.0 Mbits/sec   0.113 ms    0/ 8505 (0%) 3187.183/3186.748/3192.590/34.561 ms  850 pps
+[  3] local 0.0.0.0 port 60010 connected with 192.0.0.124 port 47830
+[  3] 0.00-10.00 sec  13.1 MBytes  11.0 Mbits/sec   0.441 ms    0/ 9355 (0%) 3187.327/3186.924/3193.346/32.954 ms  935 pps
+[  5] local 0.0.0.0 port 60010 connected with 192.0.0.124 port 32984
+[  5] 0.00-10.00 sec  10.7 MBytes  9.00 Mbits/sec   0.130 ms    0/ 7655 (0%) 3187.548/3187.142/3195.863/36.435 ms  765 pps
+[  7] local 0.0.0.0 port 60010 connected with 192.0.0.124 port 49175
+[  7] 0.00-10.00 sec  11.9 MBytes  10.0 Mbits/sec   0.196 ms    0/ 8505 (0%) 3187.795/3187.399/3193.866/34.570 ms  850 pps
+[  9] local 0.0.0.0 port 60010 connected with 192.0.0.124 port 53240
+[  9] 0.00-10.00 sec  10.7 MBytes  9.00 Mbits/sec   0.104 ms    0/ 7655 (0%) 3188.035/3187.631/3193.294/36.439 ms  765 pps
+[ 11] local 0.0.0.0 port 60010 connected with 192.0.0.124 port 43686
+[ 11] 0.00-10.00 sec  13.1 MBytes  11.0 Mbits/sec   0.387 ms    0/ 9355 (0%) 3188.297/3187.903/3197.242/32.966 ms  935 pps
+------------------------------------------------------------
+Server listening on UDP port 60010
+Receiving 1470 byte datagrams
+UDP buffer size: 0.41 MByte (WARNING: requested 0.59 MByte)
+------------------------------------------------------------
+[  1] local 0.0.0.0 port 60010 connected with 192.0.0.124 port 55429
+[ ID] Interval       Transfer     Bandwidth        Jitter   Lost/Total  Latency avg/min/max/stdev PPS
+[  1] 0.00-10.00 sec  10.7 MBytes  9.00 Mbits/sec   0.113 ms    0/ 7655 (0%) 3188.791/3188.304/3194.239/36.451 ms  765 pps
+[  3] local 0.0.0.0 port 60010 connected with 192.0.0.124 port 41442
+[  3] 0.00-10.00 sec  11.9 MBytes  10.0 Mbits/sec   0.135 ms    0/ 8505 (0%) 3188.968/3188.511/3195.588/34.580 ms  850 pps
+[  5] local 0.0.0.0 port 60010 connected with 192.0.0.124 port 48767
+[  5] 0.00-10.00 sec  13.1 MBytes  11.0 Mbits/sec   0.141 ms    0/ 9355 (0%) 3189.193/3188.794/3194.028/32.974 ms  935 pps
+[  7] local 0.0.0.0 port 60010 connected with 192.0.0.124 port 34364
+[  7] 0.00-10.00 sec  9.54 MBytes  8.00 Mbits/sec   0.200 ms    0/ 6804 (0%) 3189.414/3189.011/3196.774/38.668 ms  680 pps
+[  9] local 0.0.0.0 port 60010 connected with 192.0.0.124 port 37839
+[  9] 0.00-10.00 sec  10.7 MBytes  9.00 Mbits/sec   0.102 ms    0/ 7655 (0%) 3189.679/3189.248/3196.989/36.459 ms  765 pps
+[ 11] local 0.0.0.0 port 60010 connected with 192.0.0.124 port 50826
+[ 11] 0.00-10.00 sec  10.7 MBytes  9.00 Mbits/sec   0.144 ms    0/ 7655 (0%) 3189.918/3189.504/3196.507/36.465 ms  765 pps
+------------------------------------------------------------
+Server listening on UDP port 60010
+Receiving 1470 byte datagrams
+UDP buffer size: 0.41 MByte (WARNING: requested 0.59 MByte)
+------------------------------------------------------------
+[  1] local 0.0.0.0 port 60010 connected with 192.0.0.124 port 55491
+[ ID] Interval       Transfer     Bandwidth        Jitter   Lost/Total  Latency avg/min/max/stdev PPS
+[  1] 0.00-10.00 sec  9.54 MBytes  8.00 Mbits/sec   0.121 ms    0/ 6804 (0%) 3190.333/3189.872/3196.606/38.680 ms  680 pps
+[  3] local 0.0.0.0 port 60010 connected with 192.0.0.124 port 34899
+[  3] 0.00-10.00 sec  13.1 MBytes  11.0 Mbits/sec   0.145 ms    0/ 9355 (0%) 3190.510/3190.087/3198.768/32.989 ms  935 pps
+[  5] local 0.0.0.0 port 60010 connected with 192.0.0.124 port 42045
+[  5] 0.00-10.00 sec  10.7 MBytes  9.00 Mbits/sec   0.158 ms    0/ 7655 (0%) 3190.736/3190.311/3197.804/36.471 ms  765 pps
+[  7] local 0.0.0.0 port 60010 connected with 192.0.0.124 port 39171
+[  7] 0.00-10.00 sec  9.54 MBytes  8.00 Mbits/sec   0.128 ms    0/ 6804 (0%) 3190.992/3190.556/3196.170/38.687 ms  680 pps
+[  9] local 0.0.0.0 port 60010 connected with 192.0.0.124 port 56407
+[  9] 0.00-10.00 sec  11.9 MBytes  10.0 Mbits/sec   0.119 ms    0/ 8505 (0%) 3191.221/3190.811/3198.239/34.606 ms  850 pps
+[ 11] local 0.0.0.0 port 60010 connected with 192.0.0.124 port 51254
+[ 11] 0.00-10.00 sec  10.7 MBytes  9.00 Mbits/sec   0.132 ms    0/ 7655 (0%) 3191.481/3191.053/3197.366/36.480 ms  765 pps
+------------------------------------------------------------
+Server listening on UDP port 60010
+Receiving 1470 byte datagrams
+UDP buffer size: 0.41 MByte (WARNING: requested 0.59 MByte)
+------------------------------------------------------------
+[  1] local 0.0.0.0 port 60010 connected with 192.0.0.124 port 40979
+[ ID] Interval       Transfer     Bandwidth        Jitter   Lost/Total  Latency avg/min/max/stdev PPS
+[  1] 0.00-10.00 sec  11.9 MBytes  10.0 Mbits/sec   0.282 ms    0/ 8505 (0%) 3191.896/3191.408/3199.563/34.614 ms  850 pps
+[  3] local 0.0.0.0 port 60010 connected with 192.0.0.124 port 51214
+[  3] 0.00-10.00 sec  10.7 MBytes  9.00 Mbits/sec   0.127 ms    0/ 7655 (0%) 3192.083/3191.661/3197.244/36.484 ms  765 pps
+[  5] local 0.0.0.0 port 60010 connected with 192.0.0.124 port 46672
+[  5] 0.00-10.00 sec  10.7 MBytes  9.00 Mbits/sec   0.147 ms    0/ 7655 (0%) 3192.262/3191.873/3200.988/36.488 ms  765 pps
+[  7] local 0.0.0.0 port 60010 connected with 192.0.0.124 port 55493
+[  7] 0.00-10.00 sec  9.54 MBytes  8.00 Mbits/sec   0.118 ms    0/ 6804 (0%) 3192.505/3192.091/3201.570/38.706 ms  680 pps
+[  9] local 0.0.0.0 port 60010 connected with 192.0.0.124 port 39732
+[  9] 0.00-10.00 sec  11.9 MBytes  10.0 Mbits/sec   0.144 ms    0/ 8505 (0%) 3192.758/3192.331/3199.705/34.623 ms  850 pps
+[ 11] local 0.0.0.0 port 60010 connected with 192.0.0.124 port 59504
+[ 11] 0.00-10.00 sec  10.7 MBytes  9.00 Mbits/sec   0.129 ms    0/ 7655 (0%) 3192.989/3192.561/3199.590/36.497 ms  765 pps
+------------------------------------------------------------
+Server listening on UDP port 60010
+Receiving 1470 byte datagrams
+UDP buffer size: 0.41 MByte (WARNING: requested 0.59 MByte)
+------------------------------------------------------------
+[  1] local 0.0.0.0 port 60010 connected with 192.0.0.124 port 33552
+[ ID] Interval       Transfer     Bandwidth        Jitter   Lost/Total  Latency avg/min/max/stdev PPS
+[  1] 0.00-10.00 sec  9.54 MBytes  8.00 Mbits/sec   0.138 ms    0/ 6804 (0%) 3193.403/3192.923/3200.012/38.719 ms  680 pps
+[  3] local 0.0.0.0 port 60010 connected with 192.0.0.124 port 57383
+[  3] 0.00-10.00 sec  10.7 MBytes  9.00 Mbits/sec   0.158 ms    0/ 7655 (0%) 3193.605/3193.140/3203.777/36.505 ms  765 pps
+[  5] local 0.0.0.0 port 60010 connected with 192.0.0.124 port 49946
+[  5] 0.00-10.00 sec  13.1 MBytes  11.0 Mbits/sec   0.116 ms    0/ 9355 (0%) 3193.840/3193.418/3203.783/33.022 ms  935 pps
+[  7] local 0.0.0.0 port 60010 connected with 192.0.0.124 port 47455
+[  7] 0.00-10.00 sec  9.54 MBytes  8.00 Mbits/sec   0.159 ms    0/ 6804 (0%) 3194.091/3193.650/3201.898/38.723 ms  680 pps
+[  9] local 0.0.0.0 port 60010 connected with 192.0.0.124 port 42769
+[  9] 0.00-10.00 sec  9.54 MBytes  8.00 Mbits/sec   0.137 ms    0/ 6804 (0%) 3194.312/3193.898/3199.869/38.729 ms  680 pps
+[ 11] local 0.0.0.0 port 60010 connected with 192.0.0.124 port 59792
+[ 11] 0.00-10.00 sec  9.54 MBytes  8.00 Mbits/sec   0.114 ms    0/ 6804 (0%) 3194.620/3194.146/3201.092/38.732 ms  680 pps
+------------------------------------------------------------
+Server listening on UDP port 60010
+Receiving 1470 byte datagrams
+UDP buffer size: 0.41 MByte (WARNING: requested 0.59 MByte)
+------------------------------------------------------------
+[  1] local 0.0.0.0 port 60010 connected with 192.0.0.124 port 40305
+[ ID] Interval       Transfer     Bandwidth        Jitter   Lost/Total  Latency avg/min/max/stdev PPS
+[  1] 0.00-10.00 sec  11.9 MBytes  10.0 Mbits/sec   0.150 ms    0/ 8505 (0%) 3195.001/3194.463/3205.922/34.646 ms  850 pps
+[  3] local 0.0.0.0 port 60010 connected with 192.0.0.124 port 50945
+[  3] 0.00-10.00 sec  10.7 MBytes  9.00 Mbits/sec   0.141 ms    0/ 7655 (0%) 3195.171/3194.731/3202.881/36.522 ms  765 pps
+[  5] local 0.0.0.0 port 60010 connected with 192.0.0.124 port 36476
+[  5] 0.00-10.00 sec  10.7 MBytes  9.00 Mbits/sec   0.143 ms    0/ 7655 (0%) 3195.363/3194.930/3201.222/36.520 ms  765 pps
+[  7] local 0.0.0.0 port 60010 connected with 192.0.0.124 port 36712
+[  7] 0.00-10.00 sec  10.7 MBytes  9.00 Mbits/sec   0.144 ms    0/ 7655 (0%) 3195.602/3195.178/3202.665/36.529 ms  765 pps
+[  9] local 0.0.0.0 port 60010 connected with 192.0.0.124 port 52294
+[  9] 0.00-10.00 sec  11.9 MBytes  10.0 Mbits/sec   0.293 ms    0/ 8505 (0%) 3195.854/3195.429/3203.438/34.655 ms  850 pps
+[ 11] local 0.0.0.0 port 60010 connected with 192.0.0.124 port 58068
+[ 11] 0.00-10.00 sec  11.9 MBytes  10.0 Mbits/sec   0.149 ms    0/ 8505 (0%) 3196.073/3195.645/3200.063/34.658 ms  850 pps
+------------------------------------------------------------
+Server listening on UDP port 60010
+Receiving 1470 byte datagrams
+UDP buffer size: 0.41 MByte (WARNING: requested 0.59 MByte)
+------------------------------------------------------------
+[  1] local 0.0.0.0 port 60010 connected with 192.0.0.124 port 37485
+[ ID] Interval       Transfer     Bandwidth        Jitter   Lost/Total  Latency avg/min/max/stdev PPS
+[  1] 0.00-10.00 sec  10.7 MBytes  9.00 Mbits/sec   0.178 ms    0/ 7655 (0%) 3196.491/3196.009/3204.826/36.540 ms  765 pps
+[  3] local 0.0.0.0 port 60010 connected with 192.0.0.124 port 48554
+[  3] 0.00-10.00 sec  11.9 MBytes  10.0 Mbits/sec   0.115 ms    0/ 8505 (0%) 3196.687/3196.242/3202.052/34.667 ms  850 pps
+[  5] local 0.0.0.0 port 60010 connected with 192.0.0.124 port 51008
+[  5] 0.00-10.00 sec  10.7 MBytes  9.00 Mbits/sec   0.151 ms    0/ 7655 (0%) 3196.905/3196.493/3205.152/36.542 ms  765 pps
+[  7] local 0.0.0.0 port 60010 connected with 192.0.0.124 port 38223
+[  7] 0.00-10.00 sec  13.1 MBytes  11.0 Mbits/sec   0.197 ms    0/ 9355 (0%) 3197.136/3196.733/3204.141/33.056 ms  935 pps
+[  9] local 0.0.0.0 port 60010 connected with 192.0.0.124 port 56901
+[  9] 0.00-10.00 sec  11.9 MBytes  10.0 Mbits/sec   0.121 ms    0/ 8505 (0%) 3197.417/3196.985/3204.201/34.673 ms  850 pps
+[ 11] local 0.0.0.0 port 60010 connected with 192.0.0.124 port 48766
+[ 11] 0.00-10.00 sec  13.1 MBytes  11.0 Mbits/sec   0.140 ms    0/ 9355 (0%) 3197.657/3197.219/3203.697/33.061 ms  935 pps
+------------------------------------------------------------
+Server listening on UDP port 60010
+Receiving 1470 byte datagrams
+UDP buffer size: 0.41 MByte (WARNING: requested 0.59 MByte)
+------------------------------------------------------------
+[  1] local 0.0.0.0 port 60010 connected with 192.0.0.124 port 51903
+[ ID] Interval       Transfer     Bandwidth        Jitter   Lost/Total  Latency avg/min/max/stdev PPS
+[  1] 0.00-10.00 sec  11.9 MBytes  10.0 Mbits/sec   0.327 ms    0/ 8505 (0%) 3198.120/3197.645/3204.411/34.681 ms  850 pps
+[  3] local 0.0.0.0 port 60010 connected with 192.0.0.124 port 40277
+[  3] 0.00-10.00 sec  4.22 MBytes  3.54 Mbits/sec   0.200 ms 5495/ 8505 (65%) 3362.801/3197.840/9749.371/1023.591 ms  300 pps
+[  5] local 0.0.0.0 port 60010 connected with 192.0.0.124 port 43875
+[  5] 0.00-10.00 sec  10.7 MBytes  9.00 Mbits/sec   0.111 ms    0/ 7655 (0%) 3198.521/3198.120/3204.526/36.563 ms  765 pps
+[  7] local 0.0.0.0 port 60010 connected with 192.0.0.124 port 37906
+[  7] 0.00-10.00 sec  10.7 MBytes  9.00 Mbits/sec   0.242 ms    0/ 7655 (0%) 3198.746/3198.352/3206.125/36.565 ms  765 pps
+[  9] local 0.0.0.0 port 60010 connected with 192.0.0.124 port 47707
+[  9] 0.00-10.00 sec  10.7 MBytes  9.00 Mbits/sec   0.189 ms    0/ 7655 (0%) 3199.001/3198.579/3204.766/36.566 ms  765 pps
+[ 11] local 0.0.0.0 port 60010 connected with 192.0.0.124 port 56504
+[ 11] 0.00-10.00 sec  10.7 MBytes  9.00 Mbits/sec   0.157 ms    0/ 7655 (0%) 3199.246/3198.821/3208.976/36.570 ms  765 pps
+------------------------------------------------------------
+Server listening on UDP port 60010
+Receiving 1470 byte datagrams
+UDP buffer size: 0.41 MByte (WARNING: requested 0.59 MByte)
+------------------------------------------------------------
+[  1] local 0.0.0.0 port 60010 connected with 192.0.0.124 port 58621
+[ ID] Interval       Transfer     Bandwidth        Jitter   Lost/Total  Latency avg/min/max/stdev PPS
+[  1] 0.00-10.00 sec  11.9 MBytes  10.0 Mbits/sec   0.182 ms    0/ 8505 (0%) 3199.638/3199.184/3205.079/34.696 ms  850 pps
+[  3] local 0.0.0.0 port 60010 connected with 192.0.0.124 port 56065
+[  3] 0.00-10.00 sec  11.9 MBytes  10.0 Mbits/sec   0.150 ms    0/ 8505 (0%) 3199.834/3199.437/3208.187/34.697 ms  850 pps
+[  5] local 0.0.0.0 port 60010 connected with 192.0.0.124 port 58721
+[  5] 0.00-10.00 sec  10.7 MBytes  9.00 Mbits/sec   0.159 ms    0/ 7655 (0%) 3200.085/3199.673/3206.734/36.576 ms  765 pps
+[  7] local 0.0.0.0 port 60010 connected with 192.0.0.124 port 39112
+[  7] 0.00-10.00 sec  11.9 MBytes  10.0 Mbits/sec   0.178 ms    0/ 8505 (0%) 3200.283/3199.888/3206.175/34.701 ms  850 pps
+[  9] local 0.0.0.0 port 60010 connected with 192.0.0.124 port 39485
+[  9] 0.00-10.00 sec  11.9 MBytes  10.0 Mbits/sec   0.165 ms    0/ 8505 (0%) 3200.555/3200.141/3207.688/34.707 ms  850 pps
+[ 11] local 0.0.0.0 port 60010 connected with 192.0.0.124 port 39535
+[ 11] 0.00-10.00 sec  11.9 MBytes  10.0 Mbits/sec   0.114 ms    0/ 8505 (0%) 3200.794/3200.359/3206.689/34.708 ms  850 pps
+------------------------------------------------------------
+Server listening on UDP port 60010
+Receiving 1470 byte datagrams
+UDP buffer size: 0.41 MByte (WARNING: requested 0.59 MByte)
+------------------------------------------------------------
+[  1] local 0.0.0.0 port 60010 connected with 192.0.0.124 port 36947
+[ ID] Interval       Transfer     Bandwidth        Jitter   Lost/Total  Latency avg/min/max/stdev PPS
+[  1] 0.00-10.00 sec  14.3 MBytes  12.0 Mbits/sec   0.155 ms    0/10206 (0%) 3201.242/3200.731/3208.812/31.690 ms 1020 pps
+[  3] local 0.0.0.0 port 60010 connected with 192.0.0.124 port 43550
+[  3] 0.00-10.00 sec  10.7 MBytes  9.00 Mbits/sec   0.138 ms    0/ 7655 (0%) 3201.408/3200.984/3206.000/36.591 ms  765 pps
+[  5] local 0.0.0.0 port 60010 connected with 192.0.0.124 port 47284
+[  5] 0.00-10.00 sec  11.9 MBytes  10.0 Mbits/sec   0.126 ms    0/ 8505 (0%) 3201.616/3201.204/3209.399/34.718 ms  850 pps
+[  7] local 0.0.0.0 port 60010 connected with 192.0.0.124 port 42701
+[  7] 0.00-10.00 sec  11.9 MBytes  10.0 Mbits/sec   0.109 ms    0/ 8505 (0%) 3201.861/3201.444/3207.975/34.722 ms  850 pps
+[  9] local 0.0.0.0 port 60010 connected with 192.0.0.124 port 60844
+[  9] 0.00-10.00 sec  10.7 MBytes  9.00 Mbits/sec   0.140 ms    0/ 7655 (0%) 3202.086/3201.693/3210.024/36.601 ms  765 pps
+[ 11] local 0.0.0.0 port 60010 connected with 192.0.0.124 port 37544
+[ 11] 0.00-10.00 sec  9.54 MBytes  8.00 Mbits/sec   0.137 ms    0/ 6804 (0%) 3202.382/3201.949/3207.987/38.825 ms  680 pps

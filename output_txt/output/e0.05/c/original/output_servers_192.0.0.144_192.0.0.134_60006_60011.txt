@@ -1,0 +1,539 @@
+------------------------------------------------------------
+Server listening on UDP port 60006
+Receiving 1470 byte datagrams
+UDP buffer size: 0.41 MByte (WARNING: requested 0.59 MByte)
+------------------------------------------------------------
+[  1] local 0.0.0.0 port 60006 connected with 192.0.0.134 port 40821
+[ ID] Interval       Transfer     Bandwidth        Jitter   Lost/Total  Latency avg/min/max/stdev PPS
+[  1] 0.00-10.00 sec  10.7 MBytes  9.00 Mbits/sec   0.121 ms    0/ 7655 (0%) 10463.574/10463.096/10472.273/119.603 ms  765 pps
+[  3] local 0.0.0.0 port 60006 connected with 192.0.0.134 port 52089
+[  3] 0.00-10.00 sec  10.7 MBytes  9.00 Mbits/sec   0.087 ms    0/ 7655 (0%) 10464.465/10464.012/10469.135/119.610 ms  765 pps
+[  5] local 0.0.0.0 port 60006 connected with 192.0.0.134 port 47895
+[  5] 0.00-10.00 sec  10.7 MBytes  9.00 Mbits/sec   0.117 ms    0/ 7655 (0%) 10465.340/10464.921/10469.389/119.621 ms  765 pps
+[  7] local 0.0.0.0 port 60006 connected with 192.0.0.134 port 40202
+[  7] 0.00-10.00 sec  11.9 MBytes  10.0 Mbits/sec   0.087 ms    0/ 8505 (0%) 10466.187/10465.709/10473.066/113.494 ms  850 pps
+[  9] local 0.0.0.0 port 60006 connected with 192.0.0.134 port 46576
+[  9] 0.00-10.00 sec  9.54 MBytes  8.00 Mbits/sec   0.101 ms    0/ 6804 (0%) 10467.034/10466.565/10471.947/126.901 ms  680 pps
+[ 11] local 0.0.0.0 port 60006 connected with 192.0.0.134 port 45274
+[ 11] 0.00-10.00 sec  11.3 MBytes  9.50 Mbits/sec   0.088 ms  425/ 8505 (5%) 10469.391/10467.358/10995.055/119.785 ms  807 pps
+------------------------------------------------------------
+Server listening on UDP port 60006
+Receiving 1470 byte datagrams
+UDP buffer size: 0.41 MByte (WARNING: requested 0.59 MByte)
+------------------------------------------------------------
+[  1] local 0.0.0.0 port 60006 connected with 192.0.0.134 port 49090
+[ ID] Interval       Transfer     Bandwidth        Jitter   Lost/Total  Latency avg/min/max/stdev PPS
+[  1] 0.00-10.00 sec  14.3 MBytes  12.0 Mbits/sec   0.141 ms    0/10206 (0%) 10469.100/10468.667/10472.979/103.635 ms 1020 pps
+[  3] local 0.0.0.0 port 60006 connected with 192.0.0.134 port 58693
+[  3] 0.00-10.00 sec  9.54 MBytes  8.00 Mbits/sec   0.105 ms    0/ 6804 (0%) 10469.974/10469.477/10473.786/126.939 ms  680 pps
+[  5] local 0.0.0.0 port 60006 connected with 192.0.0.134 port 50703
+[  5] 0.00-10.00 sec  9.54 MBytes  8.00 Mbits/sec   0.146 ms    0/ 6804 (0%) 10470.793/10470.402/10475.473/126.948 ms  680 pps
+[  7] local 0.0.0.0 port 60006 connected with 192.0.0.134 port 50948
+[  7] 0.00-10.00 sec  14.3 MBytes  12.0 Mbits/sec   0.110 ms    0/10206 (0%) 10471.663/10471.189/10476.301/103.659 ms 1020 pps
+[  9] local 0.0.0.0 port 60006 connected with 192.0.0.134 port 40300
+[  9] 0.00-10.00 sec  9.54 MBytes  8.00 Mbits/sec   0.459 ms    0/ 6804 (0%) 10472.500/10472.022/10476.942/126.969 ms  680 pps
+[ 11] local 0.0.0.0 port 60006 connected with 192.0.0.134 port 43227
+[ 11] 0.00-10.00 sec  10.7 MBytes  9.00 Mbits/sec   0.096 ms    0/ 7655 (0%) 10473.364/10472.932/10476.110/119.713 ms  765 pps
+------------------------------------------------------------
+Server listening on UDP port 60006
+Receiving 1470 byte datagrams
+UDP buffer size: 0.41 MByte (WARNING: requested 0.59 MByte)
+------------------------------------------------------------
+[  1] local 0.0.0.0 port 60006 connected with 192.0.0.134 port 59953
+[ ID] Interval       Transfer     Bandwidth        Jitter   Lost/Total  Latency avg/min/max/stdev PPS
+[  1] 0.00-10.00 sec  13.1 MBytes  11.0 Mbits/sec   0.110 ms    0/ 9355 (0%) 10474.650/10474.206/10480.583/108.301 ms  935 pps
+[  3] local 0.0.0.0 port 60006 connected with 192.0.0.134 port 57369
+[  3] 0.00-10.00 sec  9.54 MBytes  8.00 Mbits/sec   0.198 ms    0/ 6804 (0%) 10475.434/10474.938/10481.784/127.003 ms  680 pps
+[  5] local 0.0.0.0 port 60006 connected with 192.0.0.134 port 35582
+[  5] 0.00-10.00 sec  11.9 MBytes  10.0 Mbits/sec   0.124 ms    0/ 8505 (0%) 10476.289/10475.790/10481.334/113.604 ms  850 pps
+[  7] local 0.0.0.0 port 60006 connected with 192.0.0.134 port 41292
+[  7] 0.00-10.00 sec  10.7 MBytes  9.00 Mbits/sec   0.142 ms    0/ 7655 (0%) 10477.165/10476.691/10482.637/119.753 ms  765 pps
+[  9] local 0.0.0.0 port 60006 connected with 192.0.0.134 port 54671
+[  9] 0.00-10.00 sec  10.7 MBytes  9.00 Mbits/sec   0.183 ms    0/ 7655 (0%) 10477.994/10477.563/10483.705/119.765 ms  765 pps
+[ 11] local 0.0.0.0 port 60006 connected with 192.0.0.134 port 45812
+[ 11] 0.00-10.00 sec  10.7 MBytes  9.00 Mbits/sec   0.159 ms    0/ 7655 (0%) 10478.774/10478.292/10484.322/119.773 ms  765 pps
+------------------------------------------------------------
+Server listening on UDP port 60006
+Receiving 1470 byte datagrams
+UDP buffer size: 0.41 MByte (WARNING: requested 0.59 MByte)
+------------------------------------------------------------
+[  1] local 0.0.0.0 port 60006 connected with 192.0.0.134 port 37627
+[ ID] Interval       Transfer     Bandwidth        Jitter   Lost/Total  Latency avg/min/max/stdev PPS
+[  1] 0.00-10.00 sec  11.9 MBytes  10.0 Mbits/sec   0.125 ms    0/ 8505 (0%) 10480.096/10479.617/10485.532/113.645 ms  850 pps
+[  3] local 0.0.0.0 port 60006 connected with 192.0.0.134 port 35431
+[  3] 0.00-10.00 sec  10.7 MBytes  9.00 Mbits/sec   0.139 ms    0/ 7655 (0%) 10480.902/10480.416/10485.234/119.797 ms  765 pps
+[  5] local 0.0.0.0 port 60006 connected with 192.0.0.134 port 52246
+[  5] 0.00-10.00 sec  13.1 MBytes  11.0 Mbits/sec   0.098 ms    0/ 9355 (0%) 10481.795/10481.270/10487.309/108.375 ms  935 pps
+[  7] local 0.0.0.0 port 60006 connected with 192.0.0.134 port 47010
+[  7] 0.00-10.00 sec  13.1 MBytes  11.0 Mbits/sec   0.187 ms    0/ 9355 (0%) 10482.601/10482.078/10486.395/108.384 ms  935 pps
+[  9] local 0.0.0.0 port 60006 connected with 192.0.0.134 port 43167
+[  9] 0.00-10.00 sec  9.54 MBytes  8.00 Mbits/sec   0.122 ms    0/ 6804 (0%) 10483.491/10482.949/10488.525/127.103 ms  680 pps
+[ 11] local 0.0.0.0 port 60006 connected with 192.0.0.134 port 55025
+[ 11] 0.00-10.00 sec  11.9 MBytes  10.0 Mbits/sec   0.101 ms    0/ 8505 (0%) 10484.310/10483.808/10491.432/113.693 ms  850 pps
+------------------------------------------------------------
+Server listening on UDP port 60006
+Receiving 1470 byte datagrams
+UDP buffer size: 0.41 MByte (WARNING: requested 0.59 MByte)
+------------------------------------------------------------
+[  1] local 0.0.0.0 port 60006 connected with 192.0.0.134 port 55524
+[ ID] Interval       Transfer     Bandwidth        Jitter   Lost/Total  Latency avg/min/max/stdev PPS
+[  1] 0.00-10.00 sec  10.7 MBytes  9.00 Mbits/sec   0.658 ms    0/ 7655 (0%) 10485.617/10485.053/10491.846/119.853 ms  765 pps
+[  3] local 0.0.0.0 port 60006 connected with 192.0.0.134 port 57090
+[  3] 0.00-10.00 sec  11.9 MBytes  10.0 Mbits/sec   0.171 ms    0/ 8505 (0%) 10486.415/10485.929/10490.253/113.714 ms  850 pps
+[  5] local 0.0.0.0 port 60006 connected with 192.0.0.134 port 38908
+[  5] 0.00-10.00 sec  10.7 MBytes  9.00 Mbits/sec   0.116 ms    0/ 7655 (0%) 10487.214/10486.718/10491.678/119.870 ms  765 pps
+[  7] local 0.0.0.0 port 60006 connected with 192.0.0.134 port 39530
+[  7] 0.00-10.00 sec  13.1 MBytes  11.0 Mbits/sec   0.146 ms    0/ 9355 (0%) 10488.083/10487.603/10493.024/108.440 ms  935 pps
+[  9] local 0.0.0.0 port 60006 connected with 192.0.0.134 port 38027
+[  9] 0.00-10.00 sec  10.7 MBytes  9.00 Mbits/sec   0.177 ms    0/ 7655 (0%) 10488.869/10488.370/10492.680/119.888 ms  765 pps
+[ 11] local 0.0.0.0 port 60006 connected with 192.0.0.134 port 46728
+[ 11] 0.00-10.00 sec  13.1 MBytes  11.0 Mbits/sec   0.116 ms    0/ 9355 (0%) 10489.717/10489.228/10496.336/108.457 ms  935 pps
+------------------------------------------------------------
+Server listening on UDP port 60006
+Receiving 1470 byte datagrams
+UDP buffer size: 0.41 MByte (WARNING: requested 0.59 MByte)
+------------------------------------------------------------
+[  1] local 0.0.0.0 port 60006 connected with 192.0.0.134 port 33007
+[ ID] Interval       Transfer     Bandwidth        Jitter   Lost/Total  Latency avg/min/max/stdev PPS
+[  1] 0.00-10.00 sec  11.9 MBytes  10.0 Mbits/sec   0.142 ms    0/ 8505 (0%) 10491.442/10490.910/10495.756/113.767 ms  850 pps
+[  3] local 0.0.0.0 port 60006 connected with 192.0.0.134 port 53286
+[  3] 0.00-10.00 sec  9.54 MBytes  8.00 Mbits/sec   0.146 ms    0/ 6804 (0%) 10492.204/10491.704/10497.219/127.207 ms  680 pps
+[  5] local 0.0.0.0 port 60006 connected with 192.0.0.134 port 53968
+[  5] 0.00-10.00 sec  9.54 MBytes  8.00 Mbits/sec   0.119 ms    0/ 6804 (0%) 10493.055/10492.583/10499.280/127.215 ms  680 pps
+[  7] local 0.0.0.0 port 60006 connected with 192.0.0.134 port 55911
+[  7] 0.00-10.00 sec  11.9 MBytes  10.0 Mbits/sec   0.131 ms    0/ 8505 (0%) 10493.905/10493.411/10500.960/113.796 ms  850 pps
+[  9] local 0.0.0.0 port 60006 connected with 192.0.0.134 port 39951
+[  9] 0.00-10.00 sec  11.9 MBytes  10.0 Mbits/sec   0.106 ms    0/ 8505 (0%) 10494.672/10494.165/10499.587/113.802 ms  850 pps
+[ 11] local 0.0.0.0 port 60006 connected with 192.0.0.134 port 51602
+[ 11] 0.00-10.00 sec  10.7 MBytes  9.00 Mbits/sec   0.141 ms    0/ 7655 (0%) 10495.717/10495.235/10502.622/119.967 ms  765 pps
+------------------------------------------------------------
+Server listening on UDP port 60006
+Receiving 1470 byte datagrams
+UDP buffer size: 0.41 MByte (WARNING: requested 0.59 MByte)
+------------------------------------------------------------
+[  1] local 0.0.0.0 port 60006 connected with 192.0.0.134 port 35512
+[ ID] Interval       Transfer     Bandwidth        Jitter   Lost/Total  Latency avg/min/max/stdev PPS
+[  1] 0.00-10.00 sec  10.7 MBytes  9.00 Mbits/sec   0.136 ms    0/ 7655 (0%) 10496.989/10496.483/10502.301/119.980 ms  765 pps
+[  3] local 0.0.0.0 port 60006 connected with 192.0.0.134 port 34626
+[  3] 0.00-10.00 sec  10.7 MBytes  9.00 Mbits/sec   0.145 ms    0/ 7655 (0%) 10497.779/10497.227/10501.969/119.991 ms  765 pps
+[  5] local 0.0.0.0 port 60006 connected with 192.0.0.134 port 53979
+[  5] 0.00-10.00 sec  13.1 MBytes  11.0 Mbits/sec   0.133 ms    0/ 9355 (0%) 10498.609/10498.137/10506.289/108.553 ms  935 pps
+[  7] local 0.0.0.0 port 60006 connected with 192.0.0.134 port 51180
+[  7] 0.00-10.00 sec  10.7 MBytes  9.00 Mbits/sec   0.189 ms    0/ 7655 (0%) 10499.423/10498.959/10505.400/120.010 ms  765 pps
+[  9] local 0.0.0.0 port 60006 connected with 192.0.0.134 port 57990
+[  9] 0.00-10.00 sec  10.7 MBytes  9.00 Mbits/sec   0.122 ms    0/ 7655 (0%) 10500.262/10499.772/10504.490/120.018 ms  765 pps
+[ 11] local 0.0.0.0 port 60006 connected with 192.0.0.134 port 37264
+[ 11] 0.00-10.00 sec  11.9 MBytes  10.0 Mbits/sec   0.141 ms    0/ 8505 (0%) 10501.093/10500.584/10509.640/113.871 ms  850 pps
+------------------------------------------------------------
+Server listening on UDP port 60006
+Receiving 1470 byte datagrams
+UDP buffer size: 0.41 MByte (WARNING: requested 0.59 MByte)
+------------------------------------------------------------
+[  1] local 0.0.0.0 port 60006 connected with 192.0.0.134 port 38075
+[ ID] Interval       Transfer     Bandwidth        Jitter   Lost/Total  Latency avg/min/max/stdev PPS
+[  1] 0.00-10.00 sec  10.7 MBytes  9.00 Mbits/sec   0.133 ms    0/ 7655 (0%) 10502.537/10502.039/10510.184/120.044 ms  765 pps
+[  3] local 0.0.0.0 port 60006 connected with 192.0.0.134 port 33360
+[  3] 0.00-10.00 sec  9.54 MBytes  8.00 Mbits/sec   0.124 ms    0/ 6804 (0%) 10503.355/10502.888/10509.568/127.341 ms  680 pps
+[  5] local 0.0.0.0 port 60006 connected with 192.0.0.134 port 45074
+[  5] 0.00-10.00 sec  10.7 MBytes  9.00 Mbits/sec   0.151 ms    0/ 7654 (0%) 10504.169/10503.687/10510.779/120.073 ms  765 pps
+[  7] local 0.0.0.0 port 60006 connected with 192.0.0.134 port 38323
+[  7] 0.00-10.00 sec  13.1 MBytes  11.0 Mbits/sec   0.119 ms    0/ 9355 (0%) 10505.017/10504.556/10512.581/108.614 ms  935 pps
+[  9] local 0.0.0.0 port 60006 connected with 192.0.0.134 port 44791
+[  9] 0.00-10.00 sec  11.9 MBytes  10.0 Mbits/sec   0.078 ms    0/ 8505 (0%) 10505.843/10505.341/10511.659/113.922 ms  850 pps
+[ 11] local 0.0.0.0 port 60006 connected with 192.0.0.134 port 46238
+[ 11] 0.00-10.00 sec  10.7 MBytes  9.00 Mbits/sec   0.156 ms    0/ 7655 (0%) 10506.640/10506.203/10512.824/120.094 ms  765 pps
+------------------------------------------------------------
+Server listening on UDP port 60006
+Receiving 1470 byte datagrams
+UDP buffer size: 0.41 MByte (WARNING: requested 0.59 MByte)
+------------------------------------------------------------
+[  1] local 0.0.0.0 port 60006 connected with 192.0.0.134 port 56540
+[ ID] Interval       Transfer     Bandwidth        Jitter   Lost/Total  Latency avg/min/max/stdev PPS
+[  1] 0.00-10.00 sec  11.9 MBytes  10.0 Mbits/sec   0.115 ms    0/ 8505 (0%) 10508.082/10507.566/10512.267/113.954 ms  850 pps
+[  3] local 0.0.0.0 port 60006 connected with 192.0.0.134 port 36187
+[  3] 0.00-10.00 sec  11.9 MBytes  10.0 Mbits/sec   0.134 ms    0/ 8505 (0%) 10508.927/10508.436/10515.062/113.957 ms  850 pps
+[  5] local 0.0.0.0 port 60006 connected with 192.0.0.134 port 53955
+[  5] 0.00-10.00 sec  13.1 MBytes  11.0 Mbits/sec   0.093 ms    0/ 9355 (0%) 10509.778/10509.278/10516.258/108.663 ms  935 pps
+[  7] local 0.0.0.0 port 60006 connected with 192.0.0.134 port 52337
+[  7] 0.00-10.00 sec  10.7 MBytes  9.00 Mbits/sec   0.137 ms    0/ 7655 (0%) 10510.533/10510.050/10514.071/120.134 ms  765 pps
+[  9] local 0.0.0.0 port 60006 connected with 192.0.0.134 port 38011
+[  9] 0.00-10.00 sec  11.9 MBytes  10.0 Mbits/sec   0.169 ms    0/ 8505 (0%) 10511.404/10510.909/10517.706/113.985 ms  850 pps
+[ 11] local 0.0.0.0 port 60006 connected with 192.0.0.134 port 48449
+[ 11] 0.00-10.00 sec  14.3 MBytes  12.0 Mbits/sec   0.093 ms    0/10206 (0%) 10512.214/10511.709/10519.110/104.060 ms 1020 pps
+------------------------------------------------------------
+Server listening on UDP port 60006
+Receiving 1470 byte datagrams
+UDP buffer size: 0.41 MByte (WARNING: requested 0.59 MByte)
+------------------------------------------------------------
+[  1] local 0.0.0.0 port 60006 connected with 192.0.0.134 port 42032
+[ ID] Interval       Transfer     Bandwidth        Jitter   Lost/Total  Latency avg/min/max/stdev PPS
+[  1] 0.00-10.00 sec  10.7 MBytes  9.00 Mbits/sec   0.123 ms    0/ 7655 (0%) 10513.489/10513.009/10518.185/120.170 ms  765 pps
+[  3] local 0.0.0.0 port 60006 connected with 192.0.0.134 port 54137
+[  3] 0.00-10.00 sec  9.54 MBytes  8.00 Mbits/sec   0.118 ms    0/ 6804 (0%) 10514.338/10513.832/10520.500/127.475 ms  680 pps
+[  5] local 0.0.0.0 port 60006 connected with 192.0.0.134 port 57497
+[  5] 0.00-10.00 sec  9.54 MBytes  8.00 Mbits/sec   0.141 ms    0/ 6804 (0%) 10515.124/10514.651/10524.868/127.484 ms  680 pps
+[  7] local 0.0.0.0 port 60006 connected with 192.0.0.134 port 38589
+[  7] 0.00-10.00 sec  10.7 MBytes  9.00 Mbits/sec   0.103 ms    0/ 7655 (0%) 10515.934/10515.476/10522.217/120.200 ms  765 pps
+[  9] local 0.0.0.0 port 60006 connected with 192.0.0.134 port 39546
+[  9] 0.00-10.00 sec  10.7 MBytes  9.00 Mbits/sec   0.233 ms    0/ 7655 (0%) 10516.810/10516.327/10521.880/120.208 ms  765 pps
+[ 11] local 0.0.0.0 port 60006 connected with 192.0.0.134 port 50948
+[ 11] 0.00-10.00 sec  9.54 MBytes  8.00 Mbits/sec   0.215 ms    0/ 6804 (0%) 10517.619/10517.104/10522.505/127.513 ms  680 pps
+------------------------------------------------------------
+Server listening on UDP port 60006
+Receiving 1470 byte datagrams
+UDP buffer size: 0.41 MByte (WARNING: requested 0.59 MByte)
+------------------------------------------------------------
+[  1] local 0.0.0.0 port 60006 connected with 192.0.0.134 port 33271
+[ ID] Interval       Transfer     Bandwidth        Jitter   Lost/Total  Latency avg/min/max/stdev PPS
+[  1] 0.00-10.00 sec  11.9 MBytes  10.0 Mbits/sec   0.116 ms    0/ 8505 (0%) 10518.945/10518.398/10525.448/114.065 ms  850 pps
+[  3] local 0.0.0.0 port 60006 connected with 192.0.0.134 port 35239
+[  3] 0.00-10.00 sec  11.9 MBytes  10.0 Mbits/sec   0.130 ms    0/ 8505 (0%) 10519.755/10519.248/10527.207/114.074 ms  850 pps
+[  5] local 0.0.0.0 port 60006 connected with 192.0.0.134 port 55353
+[  5] 0.00-10.00 sec  11.9 MBytes  10.0 Mbits/sec   0.127 ms    0/ 8505 (0%) 10520.544/10520.035/10526.146/114.084 ms  850 pps
+[  7] local 0.0.0.0 port 60006 connected with 192.0.0.134 port 37535
+[  7] 0.00-10.00 sec  10.7 MBytes  9.00 Mbits/sec   0.111 ms    0/ 7655 (0%) 10521.348/10520.866/10526.908/120.260 ms  765 pps
+[  9] local 0.0.0.0 port 60006 connected with 192.0.0.134 port 42463
+[  9] 0.00-10.00 sec  13.1 MBytes  11.0 Mbits/sec   0.142 ms    0/ 9355 (0%) 10522.194/10521.690/10528.648/108.794 ms  935 pps
+[ 11] local 0.0.0.0 port 60006 connected with 192.0.0.134 port 37471
+------------------------------------------------------------
+Server listening on UDP port 60006
+Receiving 1470 byte datagrams
+UDP buffer size: 0.41 MByte (WARNING: requested 0.59 MByte)
+------------------------------------------------------------
+[  1] local 0.0.0.0 port 60006 connected with 192.0.0.134 port 37062
+[ ID] Interval       Transfer     Bandwidth        Jitter   Lost/Total  Latency avg/min/max/stdev PPS
+[  1] 0.00-10.00 sec  9.54 MBytes  8.00 Mbits/sec   0.126 ms    0/ 6804 (0%) 10524.411/10523.912/10529.124/127.597 ms  680 pps
+[  3] local 0.0.0.0 port 60006 connected with 192.0.0.134 port 32782
+[  3] 0.00-10.00 sec  9.54 MBytes  8.00 Mbits/sec   0.130 ms    0/ 6804 (0%) 10525.241/10524.733/10531.404/127.604 ms  680 pps
+[  5] local 0.0.0.0 port 60006 connected with 192.0.0.134 port 43127
+[  5] 0.00-10.00 sec  11.9 MBytes  10.0 Mbits/sec   0.129 ms    0/ 8505 (0%) 10526.057/10525.603/10534.219/114.143 ms  850 pps
+[  7] local 0.0.0.0 port 60006 connected with 192.0.0.134 port 44609
+[  7] 0.00-10.00 sec  9.54 MBytes  8.00 Mbits/sec   0.126 ms    0/ 6804 (0%) 10526.873/10526.409/10534.979/127.627 ms  680 pps
+[  9] local 0.0.0.0 port 60006 connected with 192.0.0.134 port 57198
+[  9] 0.00-10.00 sec  9.54 MBytes  8.00 Mbits/sec   0.169 ms    0/ 6804 (0%) 10527.733/10527.215/10533.740/127.636 ms  680 pps
+[ 11] local 0.0.0.0 port 60006 connected with 192.0.0.134 port 47490
+[ 11] 0.00-10.00 sec  10.7 MBytes  9.00 Mbits/sec   0.096 ms    0/ 7655 (0%) 10528.594/10528.120/10534.087/120.344 ms  765 pps
+------------------------------------------------------------
+Server listening on UDP port 60006
+Receiving 1470 byte datagrams
+UDP buffer size: 0.41 MByte (WARNING: requested 0.59 MByte)
+------------------------------------------------------------
+[  1] local 0.0.0.0 port 60006 connected with 192.0.0.134 port 53091
+[ ID] Interval       Transfer     Bandwidth        Jitter   Lost/Total  Latency avg/min/max/stdev PPS
+[  1] 0.00-10.00 sec  9.54 MBytes  8.00 Mbits/sec   0.108 ms    0/ 6804 (0%) 10529.918/10529.346/10537.132/127.665 ms  680 pps
+[  3] local 0.0.0.0 port 60006 connected with 192.0.0.134 port 55202
+[  3] 0.00-10.00 sec  10.7 MBytes  9.00 Mbits/sec   0.116 ms    0/ 7655 (0%) 10530.669/10530.176/10536.088/120.365 ms  765 pps
+[  5] local 0.0.0.0 port 60006 connected with 192.0.0.134 port 60315
+[  5] 0.00-10.00 sec  10.7 MBytes  9.00 Mbits/sec   0.183 ms    0/ 7655 (0%) 10531.521/10530.987/10537.541/120.374 ms  765 pps
+[  7] local 0.0.0.0 port 60006 connected with 192.0.0.134 port 54646
+[  7] 0.00-10.00 sec  11.9 MBytes  10.0 Mbits/sec   0.127 ms    0/ 8505 (0%) 10532.365/10531.890/10541.115/114.211 ms  850 pps
+[  9] local 0.0.0.0 port 60006 connected with 192.0.0.134 port 41637
+[  9] 0.00-10.00 sec  10.7 MBytes  9.00 Mbits/sec   0.143 ms    0/ 7655 (0%) 10533.180/10532.666/10539.640/120.396 ms  765 pps
+[ 11] local 0.0.0.0 port 60006 connected with 192.0.0.134 port 54871
+[ 11] 0.00-10.00 sec  9.54 MBytes  8.00 Mbits/sec   0.200 ms    0/ 6804 (0%) 10534.008/10533.534/10540.232/127.712 ms  680 pps
+------------------------------------------------------------
+Server listening on UDP port 60006
+Receiving 1470 byte datagrams
+UDP buffer size: 0.41 MByte (WARNING: requested 0.59 MByte)
+------------------------------------------------------------
+[  1] local 0.0.0.0 port 60006 connected with 192.0.0.134 port 46039
+[ ID] Interval       Transfer     Bandwidth        Jitter   Lost/Total  Latency avg/min/max/stdev PPS
+[  1] 0.00-10.00 sec  10.7 MBytes  9.00 Mbits/sec   0.157 ms    0/ 7655 (0%) 10535.489/10534.997/10542.115/120.419 ms  765 pps
+[  3] local 0.0.0.0 port 60006 connected with 192.0.0.134 port 57051
+[  3] 0.00-10.00 sec  11.9 MBytes  10.0 Mbits/sec   0.150 ms    0/ 8505 (0%) 10536.244/10535.775/10542.634/114.254 ms  850 pps
+[  5] local 0.0.0.0 port 60006 connected with 192.0.0.134 port 51472
+[  5] 0.00-10.00 sec  9.54 MBytes  8.00 Mbits/sec   0.103 ms    0/ 6804 (0%) 10537.109/10536.614/10542.440/127.748 ms  680 pps
+[  7] local 0.0.0.0 port 60006 connected with 192.0.0.134 port 43448
+[  7] 0.00-10.00 sec  11.9 MBytes  10.0 Mbits/sec   0.144 ms    0/ 8505 (0%) 10537.912/10537.411/10543.120/114.272 ms  850 pps
+[  9] local 0.0.0.0 port 60006 connected with 192.0.0.134 port 58778
+[  9] 0.00-10.00 sec  10.7 MBytes  9.00 Mbits/sec   0.111 ms    0/ 7655 (0%) 10538.764/10538.279/10544.495/120.456 ms  765 pps
+[ 11] local 0.0.0.0 port 60006 connected with 192.0.0.134 port 50095
+[ 11] 0.00-10.00 sec  13.1 MBytes  11.0 Mbits/sec   0.102 ms    0/ 9355 (0%) 10539.619/10539.118/10546.703/108.973 ms  935 pps
+------------------------------------------------------------
+Server listening on UDP port 60006
+Receiving 1470 byte datagrams
+UDP buffer size: 0.41 MByte (WARNING: requested 0.59 MByte)
+------------------------------------------------------------
+[  1] local 0.0.0.0 port 60006 connected with 192.0.0.134 port 44290
+[ ID] Interval       Transfer     Bandwidth        Jitter   Lost/Total  Latency avg/min/max/stdev PPS
+[  1] 0.00-10.00 sec  11.9 MBytes  10.0 Mbits/sec   0.191 ms    0/ 8505 (0%) 10540.887/10540.373/10547.194/114.303 ms  850 pps
+[  3] local 0.0.0.0 port 60006 connected with 192.0.0.134 port 49960
+[  3] 0.00-10.00 sec  11.9 MBytes  10.0 Mbits/sec   0.329 ms    0/ 8505 (0%) 10541.656/10541.122/10549.743/114.312 ms  850 pps
+[  5] local 0.0.0.0 port 60006 connected with 192.0.0.134 port 54463
+[  5] 0.00-10.00 sec  11.9 MBytes  10.0 Mbits/sec   0.097 ms    0/ 8505 (0%) 10542.495/10541.999/10546.692/114.320 ms  850 pps
+[  7] local 0.0.0.0 port 60006 connected with 192.0.0.134 port 44830
+[  7] 0.00-10.00 sec  11.9 MBytes  10.0 Mbits/sec   0.109 ms    0/ 8505 (0%) 10543.302/10542.840/10548.928/114.329 ms  850 pps
+[  9] local 0.0.0.0 port 60006 connected with 192.0.0.134 port 48701
+[  9] 0.00-10.00 sec  10.7 MBytes  9.00 Mbits/sec   0.555 ms    0/ 7655 (0%) 10544.141/10543.578/10551.281/120.519 ms  765 pps
+[ 11] local 0.0.0.0 port 60006 connected with 192.0.0.134 port 34477
+[ 11] 0.00-10.00 sec  11.9 MBytes  10.0 Mbits/sec   0.116 ms    0/ 8505 (0%) 10544.922/10544.414/10550.500/114.346 ms  850 pps
+------------------------------------------------------------
+Server listening on UDP port 60006
+Receiving 1470 byte datagrams
+UDP buffer size: 0.41 MByte (WARNING: requested 0.59 MByte)
+------------------------------------------------------------
+[  1] local 0.0.0.0 port 60006 connected with 192.0.0.134 port 36931
+[ ID] Interval       Transfer     Bandwidth        Jitter   Lost/Total  Latency avg/min/max/stdev PPS
+[  1] 0.00-10.00 sec  11.9 MBytes  10.0 Mbits/sec   0.324 ms    0/ 8505 (0%) 10546.193/10545.624/10551.993/114.360 ms  850 pps
+[  3] local 0.0.0.0 port 60006 connected with 192.0.0.134 port 45625
+[  3] 0.00-10.00 sec  10.7 MBytes  9.00 Mbits/sec   0.177 ms    0/ 7655 (0%) 10546.967/10546.459/10552.857/120.551 ms  765 pps
+[  5] local 0.0.0.0 port 60006 connected with 192.0.0.134 port 43226
+[  5] 0.00-10.00 sec  10.7 MBytes  9.00 Mbits/sec   0.269 ms    0/ 7655 (0%) 10547.849/10547.331/10552.945/120.562 ms  765 pps
+[  7] local 0.0.0.0 port 60006 connected with 192.0.0.134 port 53598
+[  7] 0.00-10.00 sec  11.9 MBytes  10.0 Mbits/sec   0.115 ms    0/ 8505 (0%) 10548.652/10548.118/10555.946/114.389 ms  850 pps
+[  9] local 0.0.0.0 port 60006 connected with 192.0.0.134 port 49851
+[  9] 0.00-10.00 sec  10.7 MBytes  9.00 Mbits/sec   0.169 ms    0/ 7655 (0%) 10549.514/10548.972/10558.468/120.581 ms  765 pps
+[ 11] local 0.0.0.0 port 60006 connected with 192.0.0.134 port 46891
+[ 11] 0.00-10.00 sec  10.7 MBytes  9.00 Mbits/sec   0.208 ms    0/ 7655 (0%) 10550.321/10549.849/10554.965/120.592 ms  765 pps
+------------------------------------------------------------
+Server listening on UDP port 60006
+Receiving 1470 byte datagrams
+UDP buffer size: 0.41 MByte (WARNING: requested 0.59 MByte)
+------------------------------------------------------------
+[  1] local 0.0.0.0 port 60006 connected with 192.0.0.134 port 58142
+[ ID] Interval       Transfer     Bandwidth        Jitter   Lost/Total  Latency avg/min/max/stdev PPS
+[  1] 0.00-10.00 sec  11.9 MBytes  10.0 Mbits/sec   0.266 ms    0/ 8505 (0%) 10551.574/10551.043/10556.902/114.418 ms  850 pps
+[  3] local 0.0.0.0 port 60006 connected with 192.0.0.134 port 36994
+[  3] 0.00-10.00 sec  9.54 MBytes  8.00 Mbits/sec   0.146 ms    0/ 6804 (0%) 10552.359/10551.831/10558.611/127.933 ms  680 pps
+[  5] local 0.0.0.0 port 60006 connected with 192.0.0.134 port 59559
+[  5] 0.00-10.00 sec  10.7 MBytes  9.00 Mbits/sec   0.135 ms    0/ 7655 (0%) 10553.107/10552.663/10558.237/120.622 ms  765 pps
+[  7] local 0.0.0.0 port 60006 connected with 192.0.0.134 port 46751
+[  7] 0.00-10.00 sec  13.1 MBytes  11.0 Mbits/sec   0.165 ms    0/ 9355 (0%) 10553.939/10553.443/10562.903/109.120 ms  935 pps
+[  9] local 0.0.0.0 port 60006 connected with 192.0.0.134 port 42592
+[  9] 0.00-10.00 sec  13.1 MBytes  11.0 Mbits/sec   0.122 ms    0/ 9355 (0%) 10554.746/10554.283/10560.646/109.128 ms  935 pps
+[ 11] local 0.0.0.0 port 60006 connected with 192.0.0.134 port 55119
+[ 11] 0.00-10.00 sec  10.7 MBytes  9.00 Mbits/sec   0.118 ms    0/ 7655 (0%) 10555.563/10555.057/10561.574/120.648 ms  765 pps
+------------------------------------------------------------
+Server listening on UDP port 60006
+Receiving 1470 byte datagrams
+UDP buffer size: 0.41 MByte (WARNING: requested 0.59 MByte)
+------------------------------------------------------------
+[  1] local 0.0.0.0 port 60006 connected with 192.0.0.134 port 43874
+[ ID] Interval       Transfer     Bandwidth        Jitter   Lost/Total  Latency avg/min/max/stdev PPS
+[  1] 0.00-10.00 sec  9.54 MBytes  8.00 Mbits/sec   0.168 ms    0/ 6804 (0%) 10556.804/10556.321/10560.796/127.990 ms  680 pps
+[  3] local 0.0.0.0 port 60006 connected with 192.0.0.134 port 42857
+[  3] 0.00-10.00 sec  9.54 MBytes  8.00 Mbits/sec   0.198 ms    0/ 6804 (0%) 10557.608/10557.102/10563.761/128.000 ms  680 pps
+[  5] local 0.0.0.0 port 60006 connected with 192.0.0.134 port 57521
+[  5] 0.00-10.00 sec  11.9 MBytes  10.0 Mbits/sec   0.131 ms    0/ 8505 (0%) 10558.429/10557.965/10563.572/114.493 ms  850 pps
+[  7] local 0.0.0.0 port 60006 connected with 192.0.0.134 port 57180
+[  7] 0.00-10.00 sec  13.1 MBytes  11.0 Mbits/sec   0.154 ms    0/ 9355 (0%) 10559.258/10558.781/10564.246/109.177 ms  935 pps
+[  9] local 0.0.0.0 port 60006 connected with 192.0.0.134 port 49291
+[  9] 0.00-10.00 sec  10.7 MBytes  9.00 Mbits/sec   0.126 ms    0/ 7655 (0%) 10560.109/10559.580/10565.063/120.701 ms  765 pps
+[ 11] local 0.0.0.0 port 60006 connected with 192.0.0.134 port 46803
+[ 11] 0.00-10.00 sec  10.7 MBytes  9.00 Mbits/sec   0.106 ms    0/ 7655 (0%) 10560.971/10560.482/10566.508/120.711 ms  765 pps
+------------------------------------------------------------
+Server listening on UDP port 60006
+Receiving 1470 byte datagrams
+UDP buffer size: 0.41 MByte (WARNING: requested 0.59 MByte)
+------------------------------------------------------------
+[  1] local 0.0.0.0 port 60006 connected with 192.0.0.134 port 55622
+[ ID] Interval       Transfer     Bandwidth        Jitter   Lost/Total  Latency avg/min/max/stdev PPS
+[  1] 0.00-10.00 sec  11.9 MBytes  10.0 Mbits/sec   0.073 ms    0/ 8505 (0%) 10562.212/10561.668/10571.539/114.534 ms  850 pps
+[  3] local 0.0.0.0 port 60006 connected with 192.0.0.134 port 36962
+[  3] 0.00-10.00 sec  11.9 MBytes  10.0 Mbits/sec   0.152 ms    0/ 8505 (0%) 10562.976/10562.487/10569.984/114.543 ms  850 pps
+[  5] local 0.0.0.0 port 60006 connected with 192.0.0.134 port 38838
+[  5] 0.00-10.00 sec  10.7 MBytes  9.00 Mbits/sec   0.121 ms    0/ 7655 (0%) 10563.867/10563.404/10569.602/120.745 ms  765 pps
+[  7] local 0.0.0.0 port 60006 connected with 192.0.0.134 port 41054
+[  7] 0.00-10.00 sec  11.9 MBytes  10.0 Mbits/sec   0.131 ms    0/ 8505 (0%) 10564.667/10564.165/10569.105/114.558 ms  850 pps
+[  9] local 0.0.0.0 port 60006 connected with 192.0.0.134 port 43716
+[  9] 0.00-10.00 sec  11.9 MBytes  10.0 Mbits/sec   0.211 ms    0/ 8505 (0%) 10565.503/10565.046/10572.344/114.573 ms  850 pps
+[ 11] local 0.0.0.0 port 60006 connected with 192.0.0.134 port 52576
+[ 11] 0.00-10.00 sec  11.9 MBytes  10.0 Mbits/sec   0.141 ms    0/ 8505 (0%) 10566.341/10565.858/10572.232/114.579 ms  850 pps
+------------------------------------------------------------
+Server listening on UDP port 60006
+Receiving 1470 byte datagrams
+UDP buffer size: 0.41 MByte (WARNING: requested 0.59 MByte)
+------------------------------------------------------------
+[  1] local 0.0.0.0 port 60006 connected with 192.0.0.134 port 35620
+[ ID] Interval       Transfer     Bandwidth        Jitter   Lost/Total  Latency avg/min/max/stdev PPS
+[  1] 0.00-10.00 sec  10.7 MBytes  9.00 Mbits/sec   0.157 ms    0/ 7655 (0%) 10567.591/10567.085/10574.543/120.789 ms  765 pps
+[  3] local 0.0.0.0 port 60006 connected with 192.0.0.134 port 32881
+[  3] 0.00-10.00 sec  10.7 MBytes  9.00 Mbits/sec   0.153 ms    0/ 7655 (0%) 10568.445/10567.950/10579.280/120.796 ms  765 pps
+[  5] local 0.0.0.0 port 60006 connected with 192.0.0.134 port 53762
+[  5] 0.00-10.00 sec  11.9 MBytes  10.0 Mbits/sec   0.123 ms    0/ 8505 (0%) 10569.312/10568.799/10574.618/114.613 ms  850 pps
+[  7] local 0.0.0.0 port 60006 connected with 192.0.0.134 port 54853
+[  7] 0.00-10.00 sec  10.7 MBytes  9.00 Mbits/sec   0.117 ms    0/ 7655 (0%) 10570.104/10569.618/10577.106/120.814 ms  765 pps
+[  9] local 0.0.0.0 port 60006 connected with 192.0.0.134 port 59446
+[  9] 0.00-10.00 sec  10.7 MBytes  9.00 Mbits/sec   0.129 ms    0/ 7655 (0%) 10570.960/10570.490/10574.818/120.825 ms  765 pps
+[ 11] local 0.0.0.0 port 60006 connected with 192.0.0.134 port 46796
+[ 11] 0.00-10.00 sec  9.54 MBytes  8.00 Mbits/sec   0.153 ms    0/ 6804 (0%) 10571.840/10571.350/10578.273/128.170 ms  680 pps
+------------------------------------------------------------
+Server listening on UDP port 60006
+Receiving 1470 byte datagrams
+UDP buffer size: 0.41 MByte (WARNING: requested 0.59 MByte)
+------------------------------------------------------------
+[  1] local 0.0.0.0 port 60006 connected with 192.0.0.134 port 55632
+[ ID] Interval       Transfer     Bandwidth        Jitter   Lost/Total  Latency avg/min/max/stdev PPS
+[  1] 0.00-10.00 sec  10.7 MBytes  9.00 Mbits/sec   0.129 ms    0/ 7655 (0%) 10573.028/10572.491/10578.370/120.857 ms  765 pps
+[  3] local 0.0.0.0 port 60006 connected with 192.0.0.134 port 56149
+[  3] 0.00-10.00 sec  13.1 MBytes  11.0 Mbits/sec   0.123 ms    0/ 9355 (0%) 10573.812/10573.280/10579.888/109.324 ms  935 pps
+[  5] local 0.0.0.0 port 60006 connected with 192.0.0.134 port 56658
+[  5] 0.00-10.00 sec  11.9 MBytes  10.0 Mbits/sec   0.129 ms    0/ 8505 (0%) 10574.684/10574.158/10578.696/114.668 ms  850 pps
+[  7] local 0.0.0.0 port 60006 connected with 192.0.0.134 port 59218
+[  7] 0.00-10.00 sec  14.3 MBytes  12.0 Mbits/sec   0.167 ms    0/10206 (0%) 10575.478/10574.932/10579.997/104.685 ms 1020 pps
+[  9] local 0.0.0.0 port 60006 connected with 192.0.0.134 port 43265
+[  9] 0.00-10.00 sec  11.9 MBytes  10.0 Mbits/sec   0.142 ms    0/ 8505 (0%) 10576.341/10575.855/10581.032/114.689 ms  850 pps
+[ 11] local 0.0.0.0 port 60006 connected with 192.0.0.134 port 34516
+[ 11] 0.00-10.00 sec  11.9 MBytes  10.0 Mbits/sec   0.116 ms    0/ 8505 (0%) 10577.141/10576.670/10583.251/114.698 ms  850 pps
+------------------------------------------------------------
+Server listening on UDP port 60006
+Receiving 1470 byte datagrams
+UDP buffer size: 0.41 MByte (WARNING: requested 0.59 MByte)
+------------------------------------------------------------
+[  1] local 0.0.0.0 port 60006 connected with 192.0.0.134 port 39080
+[ ID] Interval       Transfer     Bandwidth        Jitter   Lost/Total  Latency avg/min/max/stdev PPS
+[  1] 0.00-10.00 sec  10.7 MBytes  9.00 Mbits/sec   0.128 ms    0/ 7655 (0%) 10578.359/10577.798/10583.125/120.912 ms  765 pps
+[  3] local 0.0.0.0 port 60006 connected with 192.0.0.134 port 54700
+[  3] 0.00-10.00 sec  9.54 MBytes  8.00 Mbits/sec   0.127 ms    0/ 6804 (0%) 10579.182/10578.648/10583.290/128.258 ms  680 pps
+[  5] local 0.0.0.0 port 60006 connected with 192.0.0.134 port 40989
+[  5] 0.00-10.00 sec  11.9 MBytes  10.0 Mbits/sec   0.129 ms    0/ 8505 (0%) 10579.918/10579.469/10585.334/114.728 ms  850 pps
+[  7] local 0.0.0.0 port 60006 connected with 192.0.0.134 port 49236
+[  7] 0.00-10.01 sec  10.7 MBytes  9.00 Mbits/sec   0.481 ms    0/ 7655 (0%) 10580.798/10580.330/10585.760/120.938 ms  765 pps
+[  9] local 0.0.0.0 port 60006 connected with 192.0.0.134 port 37625
+[  9] 0.00-10.00 sec  10.7 MBytes  9.00 Mbits/sec   0.110 ms    0/ 7655 (0%) 10581.579/10581.084/10588.747/120.948 ms  765 pps
+[ 11] local 0.0.0.0 port 60006 connected with 192.0.0.134 port 48721
+[ 11] 0.00-10.00 sec  11.9 MBytes  10.0 Mbits/sec   0.092 ms    0/ 8505 (0%) 10582.409/10581.950/10585.981/114.754 ms  850 pps
+------------------------------------------------------------
+Server listening on UDP port 60006
+Receiving 1470 byte datagrams
+UDP buffer size: 0.41 MByte (WARNING: requested 0.59 MByte)
+------------------------------------------------------------
+[  1] local 0.0.0.0 port 60006 connected with 192.0.0.134 port 37538
+[ ID] Interval       Transfer     Bandwidth        Jitter   Lost/Total  Latency avg/min/max/stdev PPS
+[  1] 0.00-10.00 sec  11.9 MBytes  10.0 Mbits/sec   0.200 ms    0/ 8505 (0%) 10583.902/10583.383/10588.646/114.770 ms  850 pps
+[  3] local 0.0.0.0 port 60006 connected with 192.0.0.134 port 51926
+[  3] 0.00-10.00 sec  13.1 MBytes  11.0 Mbits/sec   0.188 ms    0/ 9355 (0%) 10584.715/10584.178/10592.287/109.439 ms  935 pps
+[  5] local 0.0.0.0 port 60006 connected with 192.0.0.134 port 56140
+[  5] 0.00-10.00 sec  9.54 MBytes  8.00 Mbits/sec   0.148 ms    0/ 6804 (0%) 10585.498/10584.977/10591.219/128.338 ms  680 pps
+[  7] local 0.0.0.0 port 60006 connected with 192.0.0.134 port 54718
+[  7] 0.00-10.00 sec  13.1 MBytes  11.0 Mbits/sec   0.204 ms    0/ 9355 (0%) 10586.305/10585.831/10592.164/109.456 ms  935 pps
+[  9] local 0.0.0.0 port 60006 connected with 192.0.0.134 port 51069
+[  9] 0.00-10.00 sec  10.7 MBytes  9.00 Mbits/sec   0.127 ms    0/ 7655 (0%) 10587.131/10586.643/10593.679/121.012 ms  765 pps
+[ 11] local 0.0.0.0 port 60006 connected with 192.0.0.134 port 60820
+[ 11] 0.00-10.00 sec  11.9 MBytes  10.0 Mbits/sec   0.161 ms    0/ 8505 (0%) 10587.922/10587.465/10594.378/114.813 ms  850 pps
+------------------------------------------------------------
+Server listening on UDP port 60006
+Receiving 1470 byte datagrams
+UDP buffer size: 0.41 MByte (WARNING: requested 0.59 MByte)
+------------------------------------------------------------
+[  1] local 0.0.0.0 port 60006 connected with 192.0.0.134 port 34976
+[ ID] Interval       Transfer     Bandwidth        Jitter   Lost/Total  Latency avg/min/max/stdev PPS
+[  1] 0.00-10.00 sec  11.9 MBytes  10.0 Mbits/sec   0.312 ms    0/ 8505 (0%) 10589.163/10588.654/10596.396/114.826 ms  850 pps
+[  3] local 0.0.0.0 port 60006 connected with 192.0.0.134 port 48429
+[  3] 0.00-10.00 sec  11.9 MBytes  10.0 Mbits/sec   0.130 ms    0/ 8505 (0%) 10590.009/10589.462/10597.787/114.836 ms  850 pps
+[  5] local 0.0.0.0 port 60006 connected with 192.0.0.134 port 51629
+[  5] 0.00-10.00 sec  9.54 MBytes  8.00 Mbits/sec   0.128 ms    0/ 6804 (0%) 10590.840/10590.348/10598.716/128.402 ms  680 pps
+[  7] local 0.0.0.0 port 60006 connected with 192.0.0.134 port 40892
+[  7] 0.00-10.00 sec  11.9 MBytes  10.0 Mbits/sec   0.180 ms    0/ 8505 (0%) 10591.694/10591.189/10597.097/114.853 ms  850 pps
+[  9] local 0.0.0.0 port 60006 connected with 192.0.0.134 port 60376
+[  9] 0.00-10.00 sec  13.1 MBytes  11.0 Mbits/sec   0.097 ms    0/ 9355 (0%) 10592.488/10592.011/10597.891/109.517 ms  935 pps
+[ 11] local 0.0.0.0 port 60006 connected with 192.0.0.134 port 59689
+[ 11] 0.00-10.00 sec  9.54 MBytes  8.00 Mbits/sec   0.147 ms    0/ 6804 (0%) 10593.296/10592.837/10600.782/128.433 ms  680 pps
+------------------------------------------------------------
+Server listening on UDP port 60006
+Receiving 1470 byte datagrams
+UDP buffer size: 0.41 MByte (WARNING: requested 0.59 MByte)
+------------------------------------------------------------
+[  1] local 0.0.0.0 port 60006 connected with 192.0.0.134 port 43750
+[ ID] Interval       Transfer     Bandwidth        Jitter   Lost/Total  Latency avg/min/max/stdev PPS
+[  1] 0.00-10.00 sec  8.35 MBytes  7.00 Mbits/sec   0.384 ms    0/ 5954 (0%) 10594.958/10594.482/10601.998/137.317 ms  595 pps
+[  3] local 0.0.0.0 port 60006 connected with 192.0.0.134 port 35809
+[  3] 0.00-10.00 sec  10.7 MBytes  9.00 Mbits/sec   0.132 ms    0/ 7655 (0%) 10595.876/10595.348/10601.648/121.111 ms  765 pps
+[  5] local 0.0.0.0 port 60006 connected with 192.0.0.134 port 60835
+[  5] 0.00-10.00 sec  10.7 MBytes  9.00 Mbits/sec   0.120 ms    0/ 7655 (0%) 10596.679/10596.185/10602.834/121.121 ms  765 pps
+[  7] local 0.0.0.0 port 60006 connected with 192.0.0.134 port 43506
+[  7] 0.00-10.00 sec  10.7 MBytes  9.00 Mbits/sec   0.114 ms    0/ 7655 (0%) 10597.578/10597.078/10603.144/121.130 ms  765 pps
+[  9] local 0.0.0.0 port 60006 connected with 192.0.0.134 port 59798
+[  9] 0.00-10.00 sec  9.54 MBytes  8.00 Mbits/sec   0.128 ms    0/ 6804 (0%) 10598.361/10597.832/10604.515/128.493 ms  680 pps
+[ 11] local 0.0.0.0 port 60006 connected with 192.0.0.134 port 55986
+[ 11] 0.00-10.00 sec  11.9 MBytes  10.0 Mbits/sec   0.139 ms    0/ 8505 (0%) 10599.172/10598.650/10611.471/114.936 ms  850 pps
+------------------------------------------------------------
+Server listening on UDP port 60006
+Receiving 1470 byte datagrams
+UDP buffer size: 0.41 MByte (WARNING: requested 0.59 MByte)
+------------------------------------------------------------
+[  1] local 0.0.0.0 port 60006 connected with 192.0.0.134 port 44048
+[ ID] Interval       Transfer     Bandwidth        Jitter   Lost/Total  Latency avg/min/max/stdev PPS
+[  1] 0.00-10.00 sec  11.9 MBytes  10.0 Mbits/sec   0.138 ms    0/ 8505 (0%) 10600.390/10599.938/10608.440/114.948 ms  850 pps
+[  3] local 0.0.0.0 port 60006 connected with 192.0.0.134 port 53269
+[  3] 0.00-10.00 sec  11.9 MBytes  10.0 Mbits/sec   0.098 ms    0/ 8505 (0%) 10601.227/10600.674/10607.117/114.958 ms  850 pps
+[  5] local 0.0.0.0 port 60006 connected with 192.0.0.134 port 45793
+[  5] 0.00-10.00 sec  9.54 MBytes  8.00 Mbits/sec   0.148 ms    0/ 6804 (0%) 10602.073/10601.548/10605.524/128.538 ms  680 pps
+[  7] local 0.0.0.0 port 60006 connected with 192.0.0.134 port 50249
+[  7] 0.00-10.00 sec  13.1 MBytes  11.0 Mbits/sec   0.111 ms    0/ 9355 (0%) 10602.845/10602.313/10608.520/109.624 ms  935 pps
+[  9] local 0.0.0.0 port 60006 connected with 192.0.0.134 port 60385
+[  9] 0.00-10.00 sec  13.1 MBytes  11.0 Mbits/sec   0.098 ms    0/ 9355 (0%) 10603.651/10603.139/10615.604/109.636 ms  935 pps
+[ 11] local 0.0.0.0 port 60006 connected with 192.0.0.134 port 39997
+[ 11] 0.00-10.00 sec  10.7 MBytes  9.00 Mbits/sec   0.080 ms    0/ 7655 (0%) 10604.472/10603.963/10609.677/121.210 ms  765 pps
+------------------------------------------------------------
+Server listening on UDP port 60006
+Receiving 1470 byte datagrams
+UDP buffer size: 0.41 MByte (WARNING: requested 0.59 MByte)
+------------------------------------------------------------
+[  1] local 0.0.0.0 port 60006 connected with 192.0.0.134 port 48529
+[ ID] Interval       Transfer     Bandwidth        Jitter   Lost/Total  Latency avg/min/max/stdev PPS
+[  1] 0.00-10.00 sec  11.9 MBytes  10.0 Mbits/sec   0.129 ms    0/ 8505 (0%) 10605.698/10605.174/10611.201/115.006 ms  850 pps
+[  3] local 0.0.0.0 port 60006 connected with 192.0.0.134 port 56903
+[  3] 0.00-10.00 sec  11.9 MBytes  10.0 Mbits/sec   0.184 ms    0/ 8505 (0%) 10606.582/10606.065/10614.939/115.024 ms  850 pps
+[  5] local 0.0.0.0 port 60006 connected with 192.0.0.134 port 44988
+[  5] 0.00-10.00 sec  10.7 MBytes  9.00 Mbits/sec   0.158 ms    0/ 7654 (0%) 10607.408/10606.873/10617.627/121.251 ms  765 pps
+[  7] local 0.0.0.0 port 60006 connected with 192.0.0.134 port 52198
+[  7] 0.00-10.00 sec  11.9 MBytes  10.0 Mbits/sec   0.111 ms    0/ 8505 (0%) 10608.222/10607.696/10614.793/115.035 ms  850 pps
+[  9] local 0.0.0.0 port 60006 connected with 192.0.0.134 port 47674
+[  9] 0.00-10.00 sec  10.7 MBytes  9.00 Mbits/sec   0.090 ms    0/ 7655 (0%) 10609.033/10608.557/10613.963/121.261 ms  765 pps
+[ 11] local 0.0.0.0 port 60006 connected with 192.0.0.134 port 52794
+[ 11] 0.00-10.00 sec  11.9 MBytes  10.0 Mbits/sec   0.125 ms    0/ 8505 (0%) 10609.881/10609.378/10615.160/115.054 ms  850 pps
+------------------------------------------------------------
+Server listening on UDP port 60006
+Receiving 1470 byte datagrams
+UDP buffer size: 0.41 MByte (WARNING: requested 0.59 MByte)
+------------------------------------------------------------
+[  1] local 0.0.0.0 port 60006 connected with 192.0.0.134 port 33962
+[ ID] Interval       Transfer     Bandwidth        Jitter   Lost/Total  Latency avg/min/max/stdev PPS
+[  1] 0.00-10.00 sec  13.1 MBytes  11.0 Mbits/sec   0.125 ms    0/ 9355 (0%) 10611.204/10610.686/10616.844/109.712 ms  935 pps
+[  3] local 0.0.0.0 port 60006 connected with 192.0.0.134 port 43710
+[  3] 0.00-10.00 sec  10.7 MBytes  9.00 Mbits/sec   0.114 ms    0/ 7655 (0%) 10612.035/10611.522/10618.236/121.296 ms  765 pps
+[  5] local 0.0.0.0 port 60006 connected with 192.0.0.134 port 48774
+[  5] 0.00-10.00 sec  13.1 MBytes  11.0 Mbits/sec   0.109 ms    0/ 9355 (0%) 10612.852/10612.332/10620.665/109.733 ms  935 pps
+[  7] local 0.0.0.0 port 60006 connected with 192.0.0.134 port 34986
+[  7] 0.00-10.00 sec  10.7 MBytes  9.00 Mbits/sec   0.133 ms    0/ 7655 (0%) 10613.663/10613.187/10621.731/121.315 ms  765 pps
+[  9] local 0.0.0.0 port 60006 connected with 192.0.0.134 port 35670
+[  9] 0.00-10.00 sec  9.54 MBytes  8.00 Mbits/sec   0.101 ms    0/ 6804 (0%) 10614.447/10613.999/10619.605/128.690 ms  680 pps
+[ 11] local 0.0.0.0 port 60006 connected with 192.0.0.134 port 51208
+[ 11] 0.00-10.00 sec  11.9 MBytes  10.0 Mbits/sec   0.112 ms    0/ 8505 (0%) 10615.320/10614.821/10622.442/115.110 ms  850 pps
+------------------------------------------------------------
+Server listening on UDP port 60006
+Receiving 1470 byte datagrams
+UDP buffer size: 0.41 MByte (WARNING: requested 0.59 MByte)
+------------------------------------------------------------
+[  1] local 0.0.0.0 port 60006 connected with 192.0.0.134 port 44419
+[ ID] Interval       Transfer     Bandwidth        Jitter   Lost/Total  Latency avg/min/max/stdev PPS
+[  1] 0.00-10.00 sec  10.7 MBytes  9.00 Mbits/sec   0.127 ms    0/ 7655 (0%) 10616.601/10616.045/10621.934/121.348 ms  765 pps
+[  3] local 0.0.0.0 port 60006 connected with 192.0.0.134 port 47139
+[  3] 0.00-10.00 sec  9.54 MBytes  8.00 Mbits/sec   0.162 ms    0/ 6804 (0%) 10617.382/10616.901/10624.207/128.722 ms  680 pps
+[  5] local 0.0.0.0 port 60006 connected with 192.0.0.134 port 60088
+[  5] 0.00-10.00 sec  10.7 MBytes  9.00 Mbits/sec   0.088 ms    0/ 7655 (0%) 10618.227/10617.707/10624.159/121.378 ms  765 pps
+[  7] local 0.0.0.0 port 60006 connected with 192.0.0.134 port 44641
+[  7] 0.00-10.00 sec  10.7 MBytes  9.00 Mbits/sec   0.153 ms    0/ 7655 (0%) 10619.076/10618.549/10623.353/121.379 ms  765 pps
+[  9] local 0.0.0.0 port 60006 connected with 192.0.0.134 port 52395
+[  9] 0.00-10.00 sec  10.7 MBytes  9.00 Mbits/sec   0.094 ms    0/ 7655 (0%) 10619.907/10619.430/10625.829/121.388 ms  765 pps
+[ 11] local 0.0.0.0 port 60006 connected with 192.0.0.134 port 48322
+[ 11] 0.00-10.00 sec  11.9 MBytes  10.0 Mbits/sec   0.158 ms    0/ 8505 (0%) 10620.742/10620.231/10627.102/115.167 ms  850 pps
+------------------------------------------------------------
+Server listening on UDP port 60006
+Receiving 1470 byte datagrams
+UDP buffer size: 0.41 MByte (WARNING: requested 0.59 MByte)
+------------------------------------------------------------
+[  1] local 0.0.0.0 port 60006 connected with 192.0.0.134 port 53074
+[ ID] Interval       Transfer     Bandwidth        Jitter   Lost/Total  Latency avg/min/max/stdev PPS
+[  1] 0.00-10.00 sec  14.3 MBytes  12.0 Mbits/sec   0.155 ms    0/10206 (0%) 10621.939/10621.457/10630.917/105.145 ms 1020 pps
+[  3] local 0.0.0.0 port 60006 connected with 192.0.0.134 port 47593
+[  3] 0.00-10.00 sec  11.9 MBytes  10.0 Mbits/sec   0.149 ms    0/ 8505 (0%) 10622.786/10622.272/10630.149/115.189 ms  850 pps
+[  5] local 0.0.0.0 port 60006 connected with 192.0.0.134 port 36822
+[  5] 0.00-10.00 sec  13.1 MBytes  11.0 Mbits/sec   0.133 ms    0/ 9355 (0%) 10623.654/10623.140/10628.813/109.840 ms  935 pps
+[  7] local 0.0.0.0 port 60006 connected with 192.0.0.134 port 37292
+[  7] 0.00-10.00 sec  10.7 MBytes  9.00 Mbits/sec   0.095 ms    0/ 7655 (0%) 10624.484/10623.984/10629.838/121.439 ms  765 pps
+[  9] local 0.0.0.0 port 60006 connected with 192.0.0.134 port 39952
+[  9] 0.00-10.00 sec  10.7 MBytes  9.00 Mbits/sec   0.130 ms    0/ 7655 (0%) 10625.295/10624.778/10629.319/121.447 ms  765 pps
+[ 11] local 0.0.0.0 port 60006 connected with 192.0.0.134 port 53466
+[ 11] 0.00-10.00 sec  9.54 MBytes  8.00 Mbits/sec   0.230 ms    0/ 6804 (0%) 10626.149/10625.657/10631.828/128.828 ms  680 pps

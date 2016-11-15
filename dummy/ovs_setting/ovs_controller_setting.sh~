@@ -1,0 +1,46 @@
+#!/bin/bash
+
+
+##############################
+####### Basic setting ########
+##############################
+
+echo 'ovs 1'
+ssh ovs1@192.168.0.130 ./basic_setting.sh
+echo 'ovs 2'
+ssh ovs2@192.168.0.103 ./basic_setting.sh
+echo 'ovs 3'
+ssh ovs3@192.168.0.105 ./basic_setting.sh
+echo 'ovs 4'
+ssh ovs4@192.168.0.104 ./basic_setting.sh
+
+
+###################################
+####### Controller setting ########
+###################################
+
+
+echo 'ovs 1'
+/home/controller/IoT/arp_setting/arp_setting.sh
+ssh ovs1@192.168.0.130 ./arp_setting.sh
+ssh ovs1@192.168.0.130 sudo ovs-vsctl set-controller br tcp:192.0.0.200:6633
+ssh ovs1@192.168.0.130 ./arp_setting.sh
+
+echo 'ovs 2'
+/home/controller/IoT/arp_setting/arp_setting.sh
+ssh ovs2@192.168.0.103 ./arp_setting.sh
+ssh ovs2@192.168.0.103 sudo ovs-vsctl set-controller br tcp:192.0.0.200:6633
+ssh ovs2@192.168.0.103 ./arp_setting.sh
+
+echo 'ovs 3'
+/home/controller/IoT/arp_setting/arp_setting.sh
+ssh ovs3@192.168.0.105 ./arp_setting.sh
+ssh ovs3@192.168.0.105 sudo ovs-vsctl set-controller br tcp:192.0.0.200:6633
+ssh ovs3@192.168.0.105 ./arp_setting.sh
+
+echo 'ovs 4'
+/home/controller/IoT/arp_setting/arp_setting.sh
+ssh ovs4@192.168.0.104 ./arp_setting.sh
+ssh ovs4@192.168.0.104 sudo ovs-vsctl set-controller br tcp:192.0.0.200:6633
+ssh ovs4@192.168.0.104 ./arp_setting.sh
+

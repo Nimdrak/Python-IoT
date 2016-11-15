@@ -1,0 +1,184 @@
+------------------------------------------------------------
+Server listening on UDP port 5001
+Receiving 1470 byte datagrams
+UDP buffer size: 0.16 MByte (default)
+------------------------------------------------------------
+[  3] local 192.0.0.110 port 5001 connected with 192.0.0.140 port 40607
+[ ID] Interval       Transfer     Bandwidth        Jitter   Lost/Total Datagrams
+[  3]  0.0-10.0 sec  25.0 MBytes  21.0 Mbits/sec   0.286 ms    2/17857 (0.011%)
+[  3]  0.0-10.0 sec  3 datagrams received out-of-order
+[  4] local 192.0.0.110 port 5001 connected with 192.0.0.140 port 51320
+[  4]  0.0-10.0 sec  25.0 MBytes  21.0 Mbits/sec   0.132 ms    2/17857 (0.011%)
+[  4]  0.0-10.0 sec  3 datagrams received out-of-order
+[  3] local 192.0.0.110 port 5001 connected with 192.0.0.140 port 50941
+[  3]  0.0-10.0 sec  25.0 MBytes  21.0 Mbits/sec   0.049 ms    1/17857 (0.0056%)
+[  3]  0.0-10.0 sec  2 datagrams received out-of-order
+[  4] local 192.0.0.110 port 5001 connected with 192.0.0.140 port 39607
+[  4]  0.0-10.0 sec  25.0 MBytes  21.0 Mbits/sec   0.032 ms   17/17857 (0.095%)
+[  4]  0.0-10.0 sec  17 datagrams received out-of-order
+[  3] local 192.0.0.110 port 5001 connected with 192.0.0.140 port 54570
+[  3]  0.0-10.0 sec  25.0 MBytes  21.0 Mbits/sec   0.040 ms    8/17857 (0.045%)
+[  3]  0.0-10.0 sec  8 datagrams received out-of-order
+[  4] local 192.0.0.110 port 5001 connected with 192.0.0.140 port 42302
+[  4]  0.0-10.0 sec  25.0 MBytes  21.0 Mbits/sec   0.075 ms    0/17857 (0%)
+[  4]  0.0-10.0 sec  1 datagrams received out-of-order
+[  3] local 192.0.0.110 port 5001 connected with 192.0.0.140 port 53631
+[  3]  0.0-10.0 sec  25.0 MBytes  21.0 Mbits/sec   0.046 ms    8/17857 (0.045%)
+[  3]  0.0-10.0 sec  9 datagrams received out-of-order
+[  4] local 192.0.0.110 port 5001 connected with 192.0.0.140 port 37889
+[  4]  0.0-10.0 sec  25.0 MBytes  21.0 Mbits/sec   0.034 ms    9/17857 (0.05%)
+[  4]  0.0-10.0 sec  9 datagrams received out-of-order
+[  3] local 192.0.0.110 port 5001 connected with 192.0.0.140 port 59789
+[  3]  0.0-10.0 sec  25.0 MBytes  21.0 Mbits/sec   0.068 ms    1/17857 (0.0056%)
+[  3]  0.0-10.0 sec  2 datagrams received out-of-order
+[  4] local 192.0.0.110 port 5001 connected with 192.0.0.140 port 33830
+[  4]  0.0-10.0 sec  25.0 MBytes  21.0 Mbits/sec   0.146 ms    1/17858 (0.0056%)
+[  4]  0.0-10.0 sec  5 datagrams received out-of-order
+[  3] local 192.0.0.110 port 5001 connected with 192.0.0.140 port 40816
+[  3]  0.0-10.0 sec  25.0 MBytes  21.0 Mbits/sec   0.061 ms    4/17857 (0.022%)
+[  3]  0.0-10.0 sec  5 datagrams received out-of-order
+[  4] local 192.0.0.110 port 5001 connected with 192.0.0.140 port 53476
+[  4]  0.0-10.0 sec  25.0 MBytes  21.0 Mbits/sec   0.070 ms    5/17857 (0.028%)
+[  4]  0.0-10.0 sec  5 datagrams received out-of-order
+[  3] local 192.0.0.110 port 5001 connected with 192.0.0.140 port 38519
+[  3]  0.0-10.0 sec  25.0 MBytes  21.0 Mbits/sec   0.146 ms    5/17857 (0.028%)
+[  3]  0.0-10.0 sec  6 datagrams received out-of-order
+[  4] local 192.0.0.110 port 5001 connected with 192.0.0.140 port 56022
+[  4]  0.0-10.0 sec  25.0 MBytes  21.0 Mbits/sec   0.067 ms    4/17857 (0.022%)
+[  4]  0.0-10.0 sec  4 datagrams received out-of-order
+[  3] local 192.0.0.110 port 5001 connected with 192.0.0.140 port 46917
+[  3]  0.0-10.0 sec  25.0 MBytes  21.0 Mbits/sec   0.141 ms    1/17857 (0.0056%)
+[  3]  0.0-10.0 sec  2 datagrams received out-of-order
+[  4] local 192.0.0.110 port 5001 connected with 192.0.0.140 port 34383
+[  4]  0.0-10.0 sec  25.0 MBytes  21.0 Mbits/sec   0.155 ms    3/17857 (0.017%)
+[  4]  0.0-10.0 sec  4 datagrams received out-of-order
+[  3] local 192.0.0.110 port 5001 connected with 192.0.0.140 port 60062
+[  3]  0.0-10.0 sec  25.0 MBytes  21.0 Mbits/sec   0.152 ms    1/17858 (0.0056%)
+[  3]  0.0-10.0 sec  3 datagrams received out-of-order
+[  4] local 192.0.0.110 port 5001 connected with 192.0.0.140 port 48851
+[  4]  0.0-10.0 sec  25.0 MBytes  21.0 Mbits/sec   0.172 ms    1/17857 (0.0056%)
+[  4]  0.0-10.0 sec  2 datagrams received out-of-order
+[  3] local 192.0.0.110 port 5001 connected with 192.0.0.140 port 53592
+[  3]  0.0-10.0 sec  25.0 MBytes  21.0 Mbits/sec   0.176 ms    3/17857 (0.017%)
+[  3]  0.0-10.0 sec  4 datagrams received out-of-order
+[  4] local 192.0.0.110 port 5001 connected with 192.0.0.140 port 44626
+[  4]  0.0-10.0 sec  25.0 MBytes  21.0 Mbits/sec   0.196 ms    1/17857 (0.0056%)
+[  4]  0.0-10.0 sec  1 datagrams received out-of-order
+[  3] local 192.0.0.110 port 5001 connected with 192.0.0.140 port 36119
+[  3]  0.0-10.0 sec  25.0 MBytes  21.0 Mbits/sec   0.129 ms    6/17857 (0.034%)
+[  3]  0.0-10.0 sec  7 datagrams received out-of-order
+[  4] local 192.0.0.110 port 5001 connected with 192.0.0.140 port 34921
+[  4]  0.0-10.0 sec  25.0 MBytes  21.0 Mbits/sec   0.201 ms    1/17857 (0.0056%)
+[  4]  0.0-10.0 sec  2 datagrams received out-of-order
+[  3] local 192.0.0.110 port 5001 connected with 192.0.0.140 port 57974
+[  3]  0.0-10.0 sec  25.0 MBytes  21.0 Mbits/sec   0.096 ms    5/17858 (0.028%)
+[  3]  0.0-10.0 sec  5 datagrams received out-of-order
+[  4] local 192.0.0.110 port 5001 connected with 192.0.0.140 port 55231
+[  4]  0.0-10.0 sec  25.0 MBytes  21.0 Mbits/sec   0.202 ms    1/17857 (0.0056%)
+[  4]  0.0-10.0 sec  2 datagrams received out-of-order
+[  3] local 192.0.0.110 port 5001 connected with 192.0.0.140 port 53974
+[  3]  0.0-10.0 sec  25.0 MBytes  21.0 Mbits/sec   0.126 ms    3/17857 (0.017%)
+[  3]  0.0-10.0 sec  4 datagrams received out-of-order
+[  4] local 192.0.0.110 port 5001 connected with 192.0.0.140 port 39917
+[  4]  0.0-10.0 sec  25.0 MBytes  21.0 Mbits/sec   0.100 ms    8/17857 (0.045%)
+[  4]  0.0-10.0 sec  8 datagrams received out-of-order
+[  3] local 192.0.0.110 port 5001 connected with 192.0.0.140 port 43328
+[  3]  0.0-10.0 sec  25.0 MBytes  21.0 Mbits/sec   0.098 ms    3/17857 (0.017%)
+[  3]  0.0-10.0 sec  4 datagrams received out-of-order
+[  4] local 192.0.0.110 port 5001 connected with 192.0.0.140 port 53572
+[  4]  0.0-10.0 sec  25.0 MBytes  21.0 Mbits/sec   0.159 ms    1/17858 (0.0056%)
+[  3] local 192.0.0.110 port 5001 connected with 192.0.0.140 port 39558
+[  3]  0.0-10.0 sec  25.0 MBytes  21.0 Mbits/sec   0.154 ms    5/17857 (0.028%)
+[  3]  0.0-10.0 sec  6 datagrams received out-of-order
+[  4] local 192.0.0.110 port 5001 connected with 192.0.0.140 port 32823
+[  4]  0.0-10.0 sec  25.0 MBytes  21.0 Mbits/sec   0.120 ms    7/17857 (0.039%)
+[  4]  0.0-10.0 sec  7 datagrams received out-of-order
+[  3] local 192.0.0.110 port 5001 connected with 192.0.0.140 port 60495
+[  3]  0.0-10.0 sec  25.0 MBytes  21.0 Mbits/sec   0.114 ms    0/17858 (0%)
+[  4] local 192.0.0.110 port 5001 connected with 192.0.0.140 port 56267
+[  4]  0.0-10.0 sec  25.0 MBytes  21.0 Mbits/sec   0.128 ms    7/17857 (0.039%)
+[  4]  0.0-10.0 sec  8 datagrams received out-of-order
+[  3] local 192.0.0.110 port 5001 connected with 192.0.0.140 port 43911
+[  3]  0.0-10.0 sec  25.0 MBytes  21.0 Mbits/sec   0.119 ms    0/17857 (0%)
+[  3]  0.0-10.0 sec  1 datagrams received out-of-order
+[  4] local 192.0.0.110 port 5001 connected with 192.0.0.140 port 41562
+[  4]  0.0-10.0 sec  25.0 MBytes  21.0 Mbits/sec   0.135 ms    1/17858 (0.0056%)
+[  4]  0.0-10.0 sec  1 datagrams received out-of-order
+[  3] local 192.0.0.110 port 5001 connected with 192.0.0.140 port 52267
+[  3]  0.0-10.0 sec  25.0 MBytes  21.0 Mbits/sec   0.154 ms    3/17857 (0.017%)
+[  3]  0.0-10.0 sec  4 datagrams received out-of-order
+[  4] local 192.0.0.110 port 5001 connected with 192.0.0.140 port 42520
+[  4]  0.0-10.0 sec  25.0 MBytes  21.0 Mbits/sec   0.150 ms    4/17857 (0.022%)
+[  4]  0.0-10.0 sec  5 datagrams received out-of-order
+[  3] local 192.0.0.110 port 5001 connected with 192.0.0.140 port 54907
+[  3]  0.0-10.0 sec  25.0 MBytes  21.0 Mbits/sec   0.142 ms    2/17857 (0.011%)
+[  3]  0.0-10.0 sec  3 datagrams received out-of-order
+[  4] local 192.0.0.110 port 5001 connected with 192.0.0.140 port 38927
+[  4]  0.0-10.0 sec  25.0 MBytes  21.0 Mbits/sec   0.125 ms    1/17858 (0.0056%)
+[  4]  0.0-10.0 sec  5 datagrams received out-of-order
+[  3] local 192.0.0.110 port 5001 connected with 192.0.0.140 port 43127
+[  3]  0.0-10.0 sec  25.0 MBytes  21.0 Mbits/sec   0.131 ms    4/17858 (0.022%)
+[  3]  0.0-10.0 sec  4 datagrams received out-of-order
+[  4] local 192.0.0.110 port 5001 connected with 192.0.0.140 port 46920
+[  4]  0.0-10.0 sec  25.0 MBytes  21.0 Mbits/sec   0.158 ms    6/17857 (0.034%)
+[  4]  0.0-10.0 sec  6 datagrams received out-of-order
+[  3] local 192.0.0.110 port 5001 connected with 192.0.0.140 port 44764
+[  3]  0.0-10.0 sec  25.0 MBytes  21.0 Mbits/sec   0.132 ms    3/17857 (0.017%)
+[  3]  0.0-10.0 sec  4 datagrams received out-of-order
+[  4] local 192.0.0.110 port 5001 connected with 192.0.0.140 port 59517
+[  4]  0.0-10.0 sec  25.0 MBytes  21.0 Mbits/sec   0.185 ms    3/17855 (0.017%)
+[  4]  0.0-10.0 sec  3 datagrams received out-of-order
+[  3] local 192.0.0.110 port 5001 connected with 192.0.0.140 port 39895
+[  3]  0.0-10.0 sec  25.0 MBytes  21.0 Mbits/sec   0.225 ms    8/17857 (0.045%)
+[  3]  0.0-10.0 sec  8 datagrams received out-of-order
+[  4] local 192.0.0.110 port 5001 connected with 192.0.0.140 port 60411
+[  4]  0.0-10.0 sec  25.0 MBytes  21.0 Mbits/sec   0.096 ms    3/17857 (0.017%)
+[  4]  0.0-10.0 sec  3 datagrams received out-of-order
+[  3] local 192.0.0.110 port 5001 connected with 192.0.0.140 port 51297
+[  3]  0.0-10.0 sec  25.0 MBytes  21.0 Mbits/sec   0.143 ms    4/17857 (0.022%)
+[  3]  0.0-10.0 sec  5 datagrams received out-of-order
+[  4] local 192.0.0.110 port 5001 connected with 192.0.0.140 port 33408
+[  4]  0.0-10.0 sec  25.0 MBytes  21.0 Mbits/sec   0.131 ms    4/17857 (0.022%)
+[  4]  0.0-10.0 sec  5 datagrams received out-of-order
+[  3] local 192.0.0.110 port 5001 connected with 192.0.0.140 port 40658
+[  3]  0.0-10.0 sec  25.0 MBytes  21.0 Mbits/sec   0.165 ms    2/17857 (0.011%)
+[  3]  0.0-10.0 sec  3 datagrams received out-of-order
+[  4] local 192.0.0.110 port 5001 connected with 192.0.0.140 port 41843
+[  4]  0.0-10.0 sec  25.0 MBytes  21.0 Mbits/sec   0.169 ms    3/17857 (0.017%)
+[  4]  0.0-10.0 sec  4 datagrams received out-of-order
+[  3] local 192.0.0.110 port 5001 connected with 192.0.0.140 port 60721
+[  3]  0.0-10.0 sec  25.0 MBytes  21.0 Mbits/sec   0.147 ms    4/17857 (0.022%)
+[  3]  0.0-10.0 sec  5 datagrams received out-of-order
+[  4] local 192.0.0.110 port 5001 connected with 192.0.0.140 port 57452
+[  4]  0.0-10.0 sec  25.0 MBytes  21.0 Mbits/sec   0.110 ms    6/17857 (0.034%)
+[  4]  0.0-10.0 sec  6 datagrams received out-of-order
+[  3] local 192.0.0.110 port 5001 connected with 192.0.0.140 port 38566
+[  3]  0.0-10.0 sec  25.0 MBytes  21.0 Mbits/sec   0.149 ms    4/17857 (0.022%)
+[  3]  0.0-10.0 sec  5 datagrams received out-of-order
+[  4] local 192.0.0.110 port 5001 connected with 192.0.0.140 port 55022
+[  4]  0.0-10.0 sec  25.0 MBytes  21.0 Mbits/sec   0.155 ms    2/17857 (0.011%)
+[  4]  0.0-10.0 sec  3 datagrams received out-of-order
+[  3] local 192.0.0.110 port 5001 connected with 192.0.0.140 port 45790
+[  3]  0.0-10.0 sec  25.0 MBytes  21.0 Mbits/sec   0.176 ms    2/17857 (0.011%)
+[  3]  0.0-10.0 sec  3 datagrams received out-of-order
+[  4] local 192.0.0.110 port 5001 connected with 192.0.0.140 port 48114
+[  4]  0.0-10.0 sec  25.0 MBytes  21.0 Mbits/sec   0.132 ms    4/17857 (0.022%)
+[  4]  0.0-10.0 sec  5 datagrams received out-of-order
+[  3] local 192.0.0.110 port 5001 connected with 192.0.0.140 port 53578
+[  3]  0.0-10.0 sec  25.0 MBytes  21.0 Mbits/sec   0.132 ms    6/17857 (0.034%)
+[  3]  0.0-10.0 sec  7 datagrams received out-of-order
+[  4] local 192.0.0.110 port 5001 connected with 192.0.0.140 port 51232
+[  4]  0.0-10.0 sec  25.0 MBytes  21.0 Mbits/sec   0.167 ms    4/17857 (0.022%)
+[  4]  0.0-10.0 sec  5 datagrams received out-of-order
+[  3] local 192.0.0.110 port 5001 connected with 192.0.0.140 port 44003
+[  3]  0.0-10.0 sec  25.0 MBytes  21.0 Mbits/sec   0.144 ms    4/17857 (0.022%)
+[  3]  0.0-10.0 sec  5 datagrams received out-of-order
+[  4] local 192.0.0.110 port 5001 connected with 192.0.0.140 port 52681
+[  4]  0.0-10.0 sec  25.0 MBytes  21.0 Mbits/sec   0.137 ms    4/17857 (0.022%)
+[  4]  0.0-10.0 sec  4 datagrams received out-of-order
+[  3] local 192.0.0.110 port 5001 connected with 192.0.0.140 port 55988
+[  3]  0.0-10.0 sec  25.0 MBytes  21.0 Mbits/sec   0.137 ms    5/17857 (0.028%)
+[  3]  0.0-10.0 sec  6 datagrams received out-of-order
+[  4] local 192.0.0.110 port 5001 connected with 192.0.0.140 port 56229
+[  4]  0.0-10.0 sec  25.0 MBytes  21.0 Mbits/sec   0.193 ms    8/17857 (0.045%)
+[  4]  0.0-10.0 sec  9 datagrams received out-of-order

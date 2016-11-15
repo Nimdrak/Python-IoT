@@ -1,0 +1,22 @@
+from scipy.stats import norm
+import math
+import sys
+
+mean=float(sys.argv[1])
+
+std_dev=float(sys.argv[2])
+
+
+alpha=(-1)*(mean/std_dev)
+alpha_tilt_phi=norm.pdf(alpha)
+alpha_phi=norm.cdf(alpha)
+
+
+trun_mean=mean+(std_dev)*(alpha_tilt_phi)/(1-alpha_phi)
+trun_var=pow(std_dev,2) * (1+ (alpha)*(alpha_tilt_phi)/(1-alpha_phi) - pow((alpha_tilt_phi)/(1-alpha_phi),2))
+
+
+print mean
+print pow(std_dev,2)
+print trun_mean
+print trun_var

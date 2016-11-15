@@ -1,0 +1,540 @@
+------------------------------------------------------------
+Server listening on UDP port 60000
+Receiving 1470 byte datagrams
+UDP buffer size: 0.41 MByte (WARNING: requested 0.59 MByte)
+------------------------------------------------------------
+[  1] local 0.0.0.0 port 60000 connected with 192.0.0.133 port 34700
+[ ID] Interval       Transfer     Bandwidth        Jitter   Lost/Total  Latency avg/min/max/stdev PPS
+[  1] 0.00-10.00 sec  5.96 MBytes  5.00 Mbits/sec   0.066 ms    0/ 4253 (0%) 5505.309/5504.928/5508.569/84.428 ms  425 pps
+[  3] local 0.0.0.0 port 60000 connected with 192.0.0.133 port 43187
+[  3] 0.00-10.00 sec  9.54 MBytes  8.00 Mbits/sec   0.096 ms    0/ 6804 (0%) 5505.645/5505.310/5509.960/66.754 ms  680 pps
+[  5] local 0.0.0.0 port 60000 connected with 192.0.0.133 port 60710
+[  5] 0.00-10.00 sec  11.9 MBytes  10.0 Mbits/sec   0.134 ms    0/ 8505 (0%) 5506.100/5505.715/5510.335/59.712 ms  850 pps
+[  7] local 0.0.0.0 port 60000 connected with 192.0.0.133 port 55110
+[  7] 0.00-10.00 sec  8.35 MBytes  7.00 Mbits/sec   0.128 ms    0/ 5954 (0%) 5506.419/5506.063/5510.982/71.367 ms  595 pps
+[  9] local 0.0.0.0 port 60000 connected with 192.0.0.133 port 38438
+[  9] 0.00-10.00 sec  5.96 MBytes  5.00 Mbits/sec   0.217 ms    0/ 4253 (0%) 5506.812/5506.473/5512.786/84.450 ms  425 pps
+[ 11] local 0.0.0.0 port 60000 connected with 192.0.0.133 port 52063
+[ 11] 0.00-10.00 sec  8.35 MBytes  7.00 Mbits/sec   0.092 ms    0/ 5954 (0%) 5507.146/5506.802/5511.478/71.386 ms  595 pps
+------------------------------------------------------------
+Server listening on UDP port 60000
+Receiving 1470 byte datagrams
+UDP buffer size: 0.41 MByte (WARNING: requested 0.59 MByte)
+------------------------------------------------------------
+[  1] local 0.0.0.0 port 60000 connected with 192.0.0.133 port 43240
+[ ID] Interval       Transfer     Bandwidth        Jitter   Lost/Total  Latency avg/min/max/stdev PPS
+[  1] 0.00-10.00 sec  10.7 MBytes  9.00 Mbits/sec   0.188 ms    0/ 7655 (0%) 5507.737/5507.398/5512.465/62.953 ms  765 pps
+[  3] local 0.0.0.0 port 60000 connected with 192.0.0.133 port 34820
+[  3] 0.00-10.00 sec  11.9 MBytes  10.0 Mbits/sec   0.122 ms    0/ 8505 (0%) 5508.096/5507.752/5514.162/59.745 ms  850 pps
+[  5] local 0.0.0.0 port 60000 connected with 192.0.0.133 port 43836
+[  5] 0.00-10.00 sec  11.9 MBytes  10.0 Mbits/sec   0.088 ms    0/ 8505 (0%) 5508.460/5508.108/5513.870/59.735 ms  850 pps
+[  7] local 0.0.0.0 port 60000 connected with 192.0.0.133 port 34081
+[  7] 0.00-10.00 sec  13.1 MBytes  11.0 Mbits/sec   0.115 ms    0/ 9355 (0%) 5508.887/5508.526/5514.403/56.958 ms  935 pps
+[  9] local 0.0.0.0 port 60000 connected with 192.0.0.133 port 47946
+[  9] 0.00-10.00 sec  11.9 MBytes  10.0 Mbits/sec   0.098 ms    0/ 8505 (0%) 5509.224/5508.873/5514.632/59.744 ms  850 pps
+[ 11] local 0.0.0.0 port 60000 connected with 192.0.0.133 port 57991
+[ 11] 0.00-10.00 sec  8.35 MBytes  7.00 Mbits/sec   0.083 ms    0/ 5954 (0%) 5509.597/5509.235/5514.425/71.408 ms  595 pps
+------------------------------------------------------------
+Server listening on UDP port 60000
+Receiving 1470 byte datagrams
+UDP buffer size: 0.41 MByte (WARNING: requested 0.59 MByte)
+------------------------------------------------------------
+[  1] local 0.0.0.0 port 60000 connected with 192.0.0.133 port 33395
+[ ID] Interval       Transfer     Bandwidth        Jitter   Lost/Total  Latency avg/min/max/stdev PPS
+[  1] 0.00-10.00 sec  9.54 MBytes  8.00 Mbits/sec   0.151 ms    0/ 6804 (0%) 5510.175/5509.803/5515.472/66.804 ms  680 pps
+[  3] local 0.0.0.0 port 60000 connected with 192.0.0.133 port 44302
+[  3] 0.00-10.00 sec  11.9 MBytes  10.0 Mbits/sec   0.115 ms    0/ 8505 (0%) 5510.568/5510.186/5514.885/59.760 ms  850 pps
+[  5] local 0.0.0.0 port 60000 connected with 192.0.0.133 port 56217
+[  5] 0.00-10.00 sec  13.1 MBytes  11.0 Mbits/sec   0.112 ms    0/ 9355 (0%) 5510.888/5510.556/5519.449/56.981 ms  935 pps
+[  7] local 0.0.0.0 port 60000 connected with 192.0.0.133 port 50855
+[  7] 0.00-10.00 sec  9.54 MBytes  8.00 Mbits/sec   0.152 ms    0/ 6804 (0%) 5511.274/5510.928/5515.956/66.819 ms  680 pps
+[  9] local 0.0.0.0 port 60000 connected with 192.0.0.133 port 56847
+[  9] 0.00-10.00 sec  10.7 MBytes  9.00 Mbits/sec   0.082 ms    0/ 7654 (0%) 5511.682/5511.293/5517.498/63.002 ms  765 pps
+[ 11] local 0.0.0.0 port 60000 connected with 192.0.0.133 port 45689
+[ 11] 0.00-10.00 sec  11.9 MBytes  10.0 Mbits/sec   0.160 ms    0/ 8505 (0%) 5512.007/5511.634/5520.626/59.772 ms  850 pps
+------------------------------------------------------------
+Server listening on UDP port 60000
+Receiving 1470 byte datagrams
+UDP buffer size: 0.41 MByte (WARNING: requested 0.59 MByte)
+------------------------------------------------------------
+[  1] local 0.0.0.0 port 60000 connected with 192.0.0.133 port 52103
+[ ID] Interval       Transfer     Bandwidth        Jitter   Lost/Total  Latency avg/min/max/stdev PPS
+[  1] 0.00-10.00 sec  14.3 MBytes  12.0 Mbits/sec   0.135 ms    0/10205 (0%) 5512.635/5512.212/5517.839/54.571 ms 1020 pps
+[  3] local 0.0.0.0 port 60000 connected with 192.0.0.133 port 50539
+[  3] 0.00-10.00 sec  8.35 MBytes  7.00 Mbits/sec   0.128 ms    0/ 5954 (0%) 5512.940/5512.628/5517.310/71.454 ms  595 pps
+[  5] local 0.0.0.0 port 60000 connected with 192.0.0.133 port 45155
+[  5] 0.00-10.00 sec  10.7 MBytes  9.00 Mbits/sec   0.086 ms    0/ 7654 (0%) 5513.293/5512.963/5517.578/63.021 ms  765 pps
+[  7] local 0.0.0.0 port 60000 connected with 192.0.0.133 port 33495
+[  7] 0.00-10.00 sec  9.54 MBytes  8.00 Mbits/sec   0.116 ms    0/ 6804 (0%) 5513.691/5513.296/5517.150/66.850 ms  680 pps
+[  9] local 0.0.0.0 port 60000 connected with 192.0.0.133 port 42100
+[  9] 0.00-10.00 sec  8.35 MBytes  7.00 Mbits/sec   0.288 ms    0/ 5954 (0%) 5514.091/5513.723/5517.257/71.467 ms  595 pps
+[ 11] local 0.0.0.0 port 60000 connected with 192.0.0.133 port 57013
+[ 11] 0.00-10.00 sec  4.77 MBytes  4.00 Mbits/sec   0.080 ms    0/ 3403 (0%) 5514.448/5514.102/5519.613/94.545 ms  340 pps
+------------------------------------------------------------
+Server listening on UDP port 60000
+Receiving 1470 byte datagrams
+UDP buffer size: 0.41 MByte (WARNING: requested 0.59 MByte)
+------------------------------------------------------------
+[  1] local 0.0.0.0 port 60000 connected with 192.0.0.133 port 38258
+[ ID] Interval       Transfer     Bandwidth        Jitter   Lost/Total  Latency avg/min/max/stdev PPS
+[  1] 0.00-10.00 sec  11.9 MBytes  10.0 Mbits/sec   0.196 ms    0/ 8505 (0%) 5515.046/5514.636/5519.249/59.805 ms  850 pps
+[  3] local 0.0.0.0 port 60000 connected with 192.0.0.133 port 46457
+[  3] 0.00-10.00 sec  8.35 MBytes  7.00 Mbits/sec   0.140 ms    0/ 5954 (0%) 5515.344/5514.961/5519.244/71.483 ms  595 pps
+[  5] local 0.0.0.0 port 60000 connected with 192.0.0.133 port 43526
+[  5] 0.00-10.00 sec  9.54 MBytes  8.00 Mbits/sec   0.141 ms    0/ 6804 (0%) 5515.736/5515.359/5522.116/66.873 ms  680 pps
+[  7] local 0.0.0.0 port 60000 connected with 192.0.0.133 port 53139
+[  7] 0.00-10.00 sec  7.15 MBytes  6.00 Mbits/sec   0.143 ms    0/ 5103 (0%) 5516.109/5515.714/5519.743/77.223 ms  510 pps
+[  9] local 0.0.0.0 port 60000 connected with 192.0.0.133 port 54479
+[  9] 0.00-10.00 sec  7.16 MBytes  6.00 Mbits/sec   0.151 ms    0/ 5104 (0%) 5516.456/5516.110/5524.689/77.223 ms  510 pps
+[ 11] local 0.0.0.0 port 60000 connected with 192.0.0.133 port 49445
+[ 11] 0.00-10.00 sec  7.15 MBytes  6.00 Mbits/sec   0.149 ms    0/ 5103 (0%) 5516.817/5516.468/5520.876/77.237 ms  510 pps
+------------------------------------------------------------
+Server listening on UDP port 60000
+Receiving 1470 byte datagrams
+UDP buffer size: 0.41 MByte (WARNING: requested 0.59 MByte)
+------------------------------------------------------------
+[  1] local 0.0.0.0 port 60000 connected with 192.0.0.133 port 60207
+[ ID] Interval       Transfer     Bandwidth        Jitter   Lost/Total  Latency avg/min/max/stdev PPS
+[  1] 0.00-10.00 sec  10.7 MBytes  9.00 Mbits/sec   0.119 ms    0/ 7654 (0%) 5517.471/5517.002/5523.295/63.069 ms  765 pps
+[  3] local 0.0.0.0 port 60000 connected with 192.0.0.133 port 47408
+[  3] 0.00-10.00 sec  10.7 MBytes  9.00 Mbits/sec   0.112 ms    0/ 7655 (0%) 5517.751/5517.384/5522.319/63.071 ms  765 pps
+[  5] local 0.0.0.0 port 60000 connected with 192.0.0.133 port 37003
+[  5] 0.00-10.00 sec  9.54 MBytes  8.00 Mbits/sec   0.113 ms    0/ 6804 (0%) 5518.109/5517.736/5524.063/66.902 ms  680 pps
+[  7] local 0.0.0.0 port 60000 connected with 192.0.0.133 port 38071
+[  7] 0.00-10.00 sec  9.54 MBytes  8.00 Mbits/sec   0.091 ms    0/ 6804 (0%) 5518.442/5518.060/5522.543/66.904 ms  680 pps
+[  9] local 0.0.0.0 port 60000 connected with 192.0.0.133 port 58200
+[  9] 0.00-10.00 sec  3.58 MBytes  3.00 Mbits/sec   0.109 ms    0/ 2552 (0%) 5518.787/5518.502/5524.574/109.266 ms  255 pps
+[ 11] local 0.0.0.0 port 60000 connected with 192.0.0.133 port 36238
+[ 11] 0.00-10.00 sec  8.35 MBytes  7.00 Mbits/sec   0.170 ms    0/ 5954 (0%) 5519.200/5518.868/5526.568/71.531 ms  595 pps
+------------------------------------------------------------
+Server listening on UDP port 60000
+Receiving 1470 byte datagrams
+UDP buffer size: 0.41 MByte (WARNING: requested 0.59 MByte)
+------------------------------------------------------------
+[  1] local 0.0.0.0 port 60000 connected with 192.0.0.133 port 57552
+[ ID] Interval       Transfer     Bandwidth        Jitter   Lost/Total  Latency avg/min/max/stdev PPS
+[  1] 0.00-10.00 sec  9.54 MBytes  8.00 Mbits/sec   0.110 ms    0/ 6804 (0%) 5519.820/5519.396/5523.528/66.923 ms  680 pps
+[  3] local 0.0.0.0 port 60000 connected with 192.0.0.133 port 46211
+[  3] 0.00-10.00 sec  9.54 MBytes  8.00 Mbits/sec   0.188 ms    0/ 6804 (0%) 5520.200/5519.793/5524.814/66.925 ms  680 pps
+[  5] local 0.0.0.0 port 60000 connected with 192.0.0.133 port 33659
+[  5] 0.00-10.00 sec  11.9 MBytes  10.0 Mbits/sec   0.117 ms    0/ 8505 (0%) 5520.524/5520.169/5526.288/59.863 ms  850 pps
+[  7] local 0.0.0.0 port 60000 connected with 192.0.0.133 port 35835
+[  7] 0.00-10.00 sec  10.7 MBytes  9.00 Mbits/sec   0.105 ms    0/ 7654 (0%) 5520.924/5520.542/5528.240/63.109 ms  765 pps
+[  9] local 0.0.0.0 port 60000 connected with 192.0.0.133 port 51715
+[  9] 0.00-10.00 sec  9.54 MBytes  8.00 Mbits/sec   0.123 ms    0/ 6804 (0%) 5521.289/5520.922/5525.379/66.940 ms  680 pps
+[ 11] local 0.0.0.0 port 60000 connected with 192.0.0.133 port 58993
+[ 11] 0.00-10.00 sec  10.7 MBytes  9.00 Mbits/sec   0.157 ms    0/ 7654 (0%) 5521.648/5521.269/5524.767/63.120 ms  765 pps
+------------------------------------------------------------
+Server listening on UDP port 60000
+Receiving 1470 byte datagrams
+UDP buffer size: 0.41 MByte (WARNING: requested 0.59 MByte)
+------------------------------------------------------------
+[  1] local 0.0.0.0 port 60000 connected with 192.0.0.133 port 36412
+[ ID] Interval       Transfer     Bandwidth        Jitter   Lost/Total  Latency avg/min/max/stdev PPS
+[  1] 0.00-10.00 sec  10.7 MBytes  9.00 Mbits/sec   0.106 ms    0/ 7654 (0%) 5522.274/5521.859/5527.245/63.125 ms  765 pps
+[  3] local 0.0.0.0 port 60000 connected with 192.0.0.133 port 41020
+[  3] 0.00-10.00 sec  9.54 MBytes  8.00 Mbits/sec   0.134 ms    0/ 6804 (0%) 5522.584/5522.224/5526.785/66.955 ms  680 pps
+[  5] local 0.0.0.0 port 60000 connected with 192.0.0.133 port 39550
+[  5] 0.00-10.00 sec  10.7 MBytes  9.00 Mbits/sec   0.233 ms    0/ 7654 (0%) 5523.066/5522.595/5526.847/63.132 ms  765 pps
+[  7] local 0.0.0.0 port 60000 connected with 192.0.0.133 port 35440
+[  7] 0.00-10.00 sec  9.54 MBytes  8.00 Mbits/sec   0.160 ms    0/ 6804 (0%) 5523.426/5523.045/5528.955/66.965 ms  680 pps
+[  9] local 0.0.0.0 port 60000 connected with 192.0.0.133 port 52527
+[  9] 0.00-10.00 sec  7.15 MBytes  6.00 Mbits/sec   0.104 ms    0/ 5103 (0%) 5523.717/5523.330/5528.455/77.331 ms  510 pps
+[ 11] local 0.0.0.0 port 60000 connected with 192.0.0.133 port 34810
+[ 11] 0.00-10.00 sec  9.54 MBytes  8.00 Mbits/sec   0.115 ms    0/ 6804 (0%) 5524.087/5523.708/5531.018/66.975 ms  680 pps
+------------------------------------------------------------
+Server listening on UDP port 60000
+Receiving 1470 byte datagrams
+UDP buffer size: 0.41 MByte (WARNING: requested 0.59 MByte)
+------------------------------------------------------------
+[  1] local 0.0.0.0 port 60000 connected with 192.0.0.133 port 46483
+[ ID] Interval       Transfer     Bandwidth        Jitter   Lost/Total  Latency avg/min/max/stdev PPS
+[  1] 0.00-10.00 sec  5.96 MBytes  5.00 Mbits/sec   0.140 ms    0/ 4253 (0%) 5524.678/5524.280/5530.083/84.727 ms  425 pps
+[  3] local 0.0.0.0 port 60000 connected with 192.0.0.133 port 51861
+[  3] 0.00-10.00 sec  9.54 MBytes  8.00 Mbits/sec   0.132 ms    0/ 6804 (0%) 5525.067/5524.618/5528.862/66.985 ms  680 pps
+[  5] local 0.0.0.0 port 60000 connected with 192.0.0.133 port 48130
+[  5] 0.00-10.00 sec  9.54 MBytes  8.00 Mbits/sec   0.145 ms    0/ 6804 (0%) 5525.357/5524.969/5530.115/66.992 ms  680 pps
+[  7] local 0.0.0.0 port 60000 connected with 192.0.0.133 port 41161
+[  7] 0.00-10.00 sec  11.9 MBytes  10.0 Mbits/sec   0.141 ms    0/ 8505 (0%) 5525.733/5525.360/5530.204/59.920 ms  850 pps
+[  9] local 0.0.0.0 port 60000 connected with 192.0.0.133 port 42332
+[  9] 0.00-10.00 sec  9.54 MBytes  8.00 Mbits/sec   0.127 ms    0/ 6804 (0%) 5526.115/5525.753/5529.604/66.998 ms  680 pps
+[ 11] local 0.0.0.0 port 60000 connected with 192.0.0.133 port 38155
+[ 11] 0.00-10.00 sec  9.54 MBytes  8.00 Mbits/sec   0.112 ms    0/ 6804 (0%) 5526.518/5526.107/5531.392/67.007 ms  680 pps
+------------------------------------------------------------
+Server listening on UDP port 60000
+Receiving 1470 byte datagrams
+UDP buffer size: 0.41 MByte (WARNING: requested 0.59 MByte)
+------------------------------------------------------------
+[  1] local 0.0.0.0 port 60000 connected with 192.0.0.133 port 34243
+[ ID] Interval       Transfer     Bandwidth        Jitter   Lost/Total  Latency avg/min/max/stdev PPS
+[  1] 0.00-10.00 sec  11.9 MBytes  10.0 Mbits/sec   0.085 ms    0/ 8505 (0%) 5527.102/5526.703/5532.762/59.935 ms  850 pps
+[  3] local 0.0.0.0 port 60000 connected with 192.0.0.133 port 54295
+[  3] 0.00-10.00 sec  11.9 MBytes  10.0 Mbits/sec   0.375 ms    0/ 8505 (0%) 5527.468/5527.047/5535.839/59.939 ms  850 pps
+[  5] local 0.0.0.0 port 60000 connected with 192.0.0.133 port 33882
+[  5] 0.00-10.00 sec  11.9 MBytes  10.0 Mbits/sec   0.110 ms    0/ 8505 (0%) 5527.792/5527.440/5532.689/59.942 ms  850 pps
+[  7] local 0.0.0.0 port 60000 connected with 192.0.0.133 port 50660
+[  7] 0.00-10.00 sec  10.7 MBytes  9.00 Mbits/sec   0.122 ms    0/ 7654 (0%) 5528.217/5527.793/5537.584/63.191 ms  765 pps
+[  9] local 0.0.0.0 port 60000 connected with 192.0.0.133 port 35827
+[  9] 0.00-10.00 sec  9.54 MBytes  8.00 Mbits/sec   0.153 ms    0/ 6804 (0%) 5528.568/5528.106/5534.208/67.029 ms  680 pps
+[ 11] local 0.0.0.0 port 60000 connected with 192.0.0.133 port 50388
+[ 11] 0.00-10.00 sec  9.54 MBytes  8.00 Mbits/sec   0.106 ms    0/ 6804 (0%) 5528.876/5528.467/5532.601/67.031 ms  680 pps
+------------------------------------------------------------
+Server listening on UDP port 60000
+Receiving 1470 byte datagrams
+UDP buffer size: 0.41 MByte (WARNING: requested 0.59 MByte)
+------------------------------------------------------------
+[  1] local 0.0.0.0 port 60000 connected with 192.0.0.133 port 33216
+[ ID] Interval       Transfer     Bandwidth        Jitter   Lost/Total  Latency avg/min/max/stdev PPS
+[  1] 0.00-10.00 sec  11.9 MBytes  10.0 Mbits/sec   0.177 ms    0/ 8505 (0%) 5529.451/5529.066/5535.523/59.963 ms  850 pps
+[  3] local 0.0.0.0 port 60000 connected with 192.0.0.133 port 33993
+[  3] 0.00-10.00 sec  8.35 MBytes  7.00 Mbits/sec   0.171 ms    0/ 5954 (0%) 5529.894/5529.431/5537.269/71.673 ms  595 pps
+[  5] local 0.0.0.0 port 60000 connected with 192.0.0.133 port 46271
+[  5] 0.00-10.00 sec  7.16 MBytes  6.00 Mbits/sec   0.162 ms    0/ 5104 (0%) 5530.194/5529.846/5537.369/77.415 ms  510 pps
+[  7] local 0.0.0.0 port 60000 connected with 192.0.0.133 port 47649
+[  7] 0.00-10.00 sec  8.35 MBytes  7.00 Mbits/sec   0.133 ms    0/ 5954 (0%) 5530.585/5530.219/5535.278/71.679 ms  595 pps
+[  9] local 0.0.0.0 port 60000 connected with 192.0.0.133 port 52036
+[  9] 0.00-10.00 sec  9.54 MBytes  8.00 Mbits/sec   0.225 ms    0/ 6804 (0%) 5530.955/5530.541/5535.831/67.059 ms  680 pps
+[ 11] local 0.0.0.0 port 60000 connected with 192.0.0.133 port 32864
+[ 11] 0.00-10.00 sec  10.7 MBytes  9.00 Mbits/sec   0.121 ms    0/ 7655 (0%) 5531.300/5530.910/5537.099/63.224 ms  765 pps
+------------------------------------------------------------
+Server listening on UDP port 60000
+Receiving 1470 byte datagrams
+UDP buffer size: 0.41 MByte (WARNING: requested 0.59 MByte)
+------------------------------------------------------------
+[  1] local 0.0.0.0 port 60000 connected with 192.0.0.133 port 47726
+[ ID] Interval       Transfer     Bandwidth        Jitter   Lost/Total  Latency avg/min/max/stdev PPS
+[  1] 0.00-10.00 sec  9.54 MBytes  8.00 Mbits/sec   0.155 ms    0/ 6804 (0%) 5531.935/5531.489/5538.719/67.071 ms  680 pps
+[  3] local 0.0.0.0 port 60000 connected with 192.0.0.133 port 60042
+[  3] 0.00-10.00 sec  11.9 MBytes  10.0 Mbits/sec   0.153 ms    0/ 8505 (0%) 5532.298/5531.850/5538.128/59.991 ms  850 pps
+[  5] local 0.0.0.0 port 60000 connected with 192.0.0.133 port 44266
+[  5] 0.00-10.00 sec  8.35 MBytes  7.00 Mbits/sec   0.142 ms    0/ 5954 (0%) 5532.609/5532.212/5538.773/71.705 ms  595 pps
+[  7] local 0.0.0.0 port 60000 connected with 192.0.0.133 port 60472
+[  7] 0.00-10.00 sec  8.35 MBytes  7.00 Mbits/sec   0.139 ms    0/ 5954 (0%) 5532.948/5532.568/5538.087/71.708 ms  595 pps
+[  9] local 0.0.0.0 port 60000 connected with 192.0.0.133 port 45762
+[  9] 0.00-10.00 sec  11.9 MBytes  10.0 Mbits/sec   0.109 ms    0/ 8505 (0%) 5533.312/5532.946/5538.844/60.003 ms  850 pps
+[ 11] local 0.0.0.0 port 60000 connected with 192.0.0.133 port 34762
+[ 11] 0.00-10.00 sec  9.54 MBytes  8.00 Mbits/sec   0.131 ms    0/ 6804 (0%) 5533.733/5533.336/5539.022/67.090 ms  680 pps
+------------------------------------------------------------
+Server listening on UDP port 60000
+Receiving 1470 byte datagrams
+UDP buffer size: 0.41 MByte (WARNING: requested 0.59 MByte)
+------------------------------------------------------------
+[  1] local 0.0.0.0 port 60000 connected with 192.0.0.133 port 49385
+[ ID] Interval       Transfer     Bandwidth        Jitter   Lost/Total  Latency avg/min/max/stdev PPS
+[  1] 0.00-10.00 sec  13.1 MBytes  11.0 Mbits/sec   0.151 ms    0/ 9355 (0%) 5534.279/5533.875/5539.051/57.220 ms  935 pps
+[  3] local 0.0.0.0 port 60000 connected with 192.0.0.133 port 47411
+[  3] 0.00-10.00 sec  10.7 MBytes  9.00 Mbits/sec   0.120 ms    0/ 7654 (0%) 5534.632/5534.250/5541.211/63.266 ms  765 pps
+[  5] local 0.0.0.0 port 60000 connected with 192.0.0.133 port 32817
+[  5] 0.00-10.00 sec  10.7 MBytes  9.00 Mbits/sec   0.109 ms    0/ 7655 (0%) 5535.031/5534.606/5544.514/63.269 ms  765 pps
+[  7] local 0.0.0.0 port 60000 connected with 192.0.0.133 port 39386
+[  7] 0.00-10.00 sec  8.35 MBytes  7.00 Mbits/sec   0.133 ms    0/ 5954 (0%) 5535.372/5534.993/5543.045/71.744 ms  595 pps
+[  9] local 0.0.0.0 port 60000 connected with 192.0.0.133 port 52146
+[  9] 0.00-10.00 sec  7.16 MBytes  6.00 Mbits/sec   0.112 ms    0/ 5104 (0%) 5535.765/5535.370/5539.545/77.492 ms  510 pps
+[ 11] local 0.0.0.0 port 60000 connected with 192.0.0.133 port 51191
+[ 11] 0.00-10.01 sec  4.77 MBytes  4.00 Mbits/sec   0.107 ms    0/ 3403 (0%) 5536.137/5535.740/5541.563/94.911 ms  340 pps
+------------------------------------------------------------
+Server listening on UDP port 60000
+Receiving 1470 byte datagrams
+UDP buffer size: 0.41 MByte (WARNING: requested 0.59 MByte)
+------------------------------------------------------------
+[  1] local 0.0.0.0 port 60000 connected with 192.0.0.133 port 38629
+[ ID] Interval       Transfer     Bandwidth        Jitter   Lost/Total  Latency avg/min/max/stdev PPS
+[  1] 0.00-10.00 sec  14.3 MBytes  12.0 Mbits/sec   0.157 ms    0/10206 (0%) 5536.647/5536.263/5540.186/54.808 ms 1020 pps
+[  3] local 0.0.0.0 port 60000 connected with 192.0.0.133 port 45538
+[  3] 0.00-10.00 sec  9.54 MBytes  8.00 Mbits/sec   0.153 ms    0/ 6804 (0%) 5537.006/5536.607/5542.718/67.131 ms  680 pps
+[  5] local 0.0.0.0 port 60000 connected with 192.0.0.133 port 60025
+[  5] 0.00-10.00 sec  14.3 MBytes  12.0 Mbits/sec   0.341 ms    0/10206 (0%) 5537.337/5536.938/5543.527/54.815 ms 1020 pps
+[  7] local 0.0.0.0 port 60000 connected with 192.0.0.133 port 40234
+[  7] 0.00-10.00 sec  8.35 MBytes  7.00 Mbits/sec   0.175 ms    0/ 5954 (0%) 5537.705/5537.294/5542.770/71.772 ms  595 pps
+[  9] local 0.0.0.0 port 60000 connected with 192.0.0.133 port 53007
+[  9] 0.00-10.00 sec  8.35 MBytes  7.00 Mbits/sec   0.196 ms    0/ 5954 (0%) 5538.012/5537.619/5542.742/71.776 ms  595 pps
+[ 11] local 0.0.0.0 port 60000 connected with 192.0.0.133 port 35807
+[ 11] 0.00-10.00 sec  9.54 MBytes  8.00 Mbits/sec   0.138 ms    0/ 6804 (0%) 5538.370/5538.011/5543.461/67.148 ms  680 pps
+------------------------------------------------------------
+Server listening on UDP port 60000
+Receiving 1470 byte datagrams
+UDP buffer size: 0.41 MByte (WARNING: requested 0.59 MByte)
+------------------------------------------------------------
+[  1] local 0.0.0.0 port 60000 connected with 192.0.0.133 port 53985
+[ ID] Interval       Transfer     Bandwidth        Jitter   Lost/Total  Latency avg/min/max/stdev PPS
+[  1] 0.00-10.00 sec  11.9 MBytes  10.0 Mbits/sec   0.115 ms    0/ 8505 (0%) 5538.880/5538.500/5544.079/60.063 ms  850 pps
+[  3] local 0.0.0.0 port 60000 connected with 192.0.0.133 port 38732
+[  3] 0.00-10.00 sec  10.7 MBytes  9.00 Mbits/sec   0.139 ms    0/ 7654 (0%) 5539.214/5538.841/5545.255/63.321 ms  765 pps
+[  5] local 0.0.0.0 port 60000 connected with 192.0.0.133 port 59888
+[  5] 0.00-10.00 sec  10.7 MBytes  9.00 Mbits/sec   0.148 ms    0/ 7654 (0%) 5539.589/5539.166/5544.344/63.320 ms  765 pps
+[  7] local 0.0.0.0 port 60000 connected with 192.0.0.133 port 52200
+[  7] 0.00-10.00 sec  11.9 MBytes  10.0 Mbits/sec   0.441 ms    0/ 8505 (0%) 5539.927/5539.505/5546.030/60.076 ms  850 pps
+[  9] local 0.0.0.0 port 60000 connected with 192.0.0.133 port 58119
+[  9] 0.00-10.00 sec  10.7 MBytes  9.00 Mbits/sec   0.147 ms    0/ 7655 (0%) 5540.227/5539.863/5544.788/63.328 ms  765 pps
+[ 11] local 0.0.0.0 port 60000 connected with 192.0.0.133 port 59453
+[ 11] 0.00-10.00 sec  13.1 MBytes  11.0 Mbits/sec   0.096 ms    0/ 9355 (0%) 5540.598/5540.204/5546.950/57.289 ms  935 pps
+------------------------------------------------------------
+Server listening on UDP port 60000
+Receiving 1470 byte datagrams
+UDP buffer size: 0.41 MByte (WARNING: requested 0.59 MByte)
+------------------------------------------------------------
+[  1] local 0.0.0.0 port 60000 connected with 192.0.0.133 port 33589
+[ ID] Interval       Transfer     Bandwidth        Jitter   Lost/Total  Latency avg/min/max/stdev PPS
+[  1] 0.00-10.00 sec  9.54 MBytes  8.00 Mbits/sec   0.129 ms    0/ 6804 (0%) 5541.215/5540.773/5545.869/67.183 ms  680 pps
+[  3] local 0.0.0.0 port 60000 connected with 192.0.0.133 port 37386
+[  3] 0.00-10.00 sec  9.54 MBytes  8.00 Mbits/sec   0.151 ms    0/ 6804 (0%) 5541.493/5541.086/5545.072/67.182 ms  680 pps
+[  5] local 0.0.0.0 port 60000 connected with 192.0.0.133 port 34273
+[  5] 0.00-10.00 sec  8.35 MBytes  7.00 Mbits/sec   0.123 ms    0/ 5954 (0%) 5541.885/5541.430/5547.909/71.825 ms  595 pps
+[  7] local 0.0.0.0 port 60000 connected with 192.0.0.133 port 33073
+[  7] 0.00-10.00 sec  9.54 MBytes  8.00 Mbits/sec   0.162 ms    0/ 6804 (0%) 5542.229/5541.804/5549.579/67.193 ms  680 pps
+[  9] local 0.0.0.0 port 60000 connected with 192.0.0.133 port 58083
+[  9] 0.00-10.00 sec  7.15 MBytes  6.00 Mbits/sec   0.137 ms    0/ 5103 (0%) 5542.558/5542.196/5548.794/77.596 ms  510 pps
+[ 11] local 0.0.0.0 port 60000 connected with 192.0.0.133 port 55141
+[ 11] 0.00-10.00 sec  13.1 MBytes  11.0 Mbits/sec   0.169 ms    0/ 9355 (0%) 5542.886/5542.491/5546.249/57.308 ms  935 pps
+------------------------------------------------------------
+Server listening on UDP port 60000
+Receiving 1470 byte datagrams
+UDP buffer size: 0.41 MByte (WARNING: requested 0.59 MByte)
+------------------------------------------------------------
+[  1] local 0.0.0.0 port 60000 connected with 192.0.0.133 port 35614
+[ ID] Interval       Transfer     Bandwidth        Jitter   Lost/Total  Latency avg/min/max/stdev PPS
+[  1] 0.00-10.00 sec  11.9 MBytes  10.0 Mbits/sec   0.176 ms    0/ 8505 (0%) 5543.530/5543.037/5548.398/60.119 ms  850 pps
+[  3] local 0.0.0.0 port 60000 connected with 192.0.0.133 port 37113
+[  3] 0.00-10.00 sec  10.7 MBytes  9.00 Mbits/sec   0.119 ms    0/ 7655 (0%) 5543.724/5543.372/5547.501/63.366 ms  765 pps
+[  5] local 0.0.0.0 port 60000 connected with 192.0.0.133 port 55479
+[  5] 0.00-10.00 sec  11.9 MBytes  10.0 Mbits/sec   0.113 ms    0/ 8505 (0%) 5544.115/5543.737/5548.745/60.120 ms  850 pps
+[  7] local 0.0.0.0 port 60000 connected with 192.0.0.133 port 41288
+[  7] 0.00-10.00 sec  13.1 MBytes  11.0 Mbits/sec   0.108 ms    0/ 9355 (0%) 5544.478/5544.083/5548.682/57.325 ms  935 pps
+[  9] local 0.0.0.0 port 60000 connected with 192.0.0.133 port 53567
+[  9] 0.00-10.00 sec  11.9 MBytes  10.0 Mbits/sec   0.127 ms    0/ 8505 (0%) 5544.816/5544.411/5551.470/60.128 ms  850 pps
+[ 11] local 0.0.0.0 port 60000 connected with 192.0.0.133 port 54119
+[ 11] 0.00-10.00 sec  10.7 MBytes  9.00 Mbits/sec   0.104 ms    0/ 7655 (0%) 5545.174/5544.806/5550.381/63.381 ms  765 pps
+------------------------------------------------------------
+Server listening on UDP port 60000
+Receiving 1470 byte datagrams
+UDP buffer size: 0.41 MByte (WARNING: requested 0.59 MByte)
+------------------------------------------------------------
+[  1] local 0.0.0.0 port 60000 connected with 192.0.0.133 port 38150
+[ ID] Interval       Transfer     Bandwidth        Jitter   Lost/Total  Latency avg/min/max/stdev PPS
+[  1] 0.00-10.00 sec  11.9 MBytes  10.0 Mbits/sec   0.125 ms    0/ 8505 (0%) 5545.804/5545.409/5551.546/60.140 ms  850 pps
+[  3] local 0.0.0.0 port 60000 connected with 192.0.0.133 port 56295
+[  3] 0.00-10.00 sec  9.54 MBytes  8.00 Mbits/sec   0.158 ms    0/ 6804 (0%) 5546.152/5545.762/5550.187/67.240 ms  680 pps
+[  5] local 0.0.0.0 port 60000 connected with 192.0.0.133 port 54748
+[  5] 0.00-10.00 sec  4.77 MBytes  4.00 Mbits/sec   0.166 ms    0/ 3403 (0%) 5546.534/5546.092/5551.288/95.097 ms  340 pps
+[  7] local 0.0.0.0 port 60000 connected with 192.0.0.133 port 50653
+[  7] 0.00-10.00 sec  7.15 MBytes  6.00 Mbits/sec   0.154 ms    0/ 5103 (0%) 5546.854/5546.454/5550.261/77.657 ms  510 pps
+[  9] local 0.0.0.0 port 60000 connected with 192.0.0.133 port 51995
+[  9] 0.00-10.00 sec  14.3 MBytes  12.0 Mbits/sec   0.135 ms    0/10206 (0%) 5547.186/5546.793/5554.111/54.910 ms 1020 pps
+[ 11] local 0.0.0.0 port 60000 connected with 192.0.0.133 port 57572
+[ 11] 0.00-10.00 sec  9.54 MBytes  8.00 Mbits/sec   0.159 ms    0/ 6804 (0%) 5547.561/5547.154/5555.443/67.257 ms  680 pps
+------------------------------------------------------------
+Server listening on UDP port 60000
+Receiving 1470 byte datagrams
+UDP buffer size: 0.41 MByte (WARNING: requested 0.59 MByte)
+------------------------------------------------------------
+[  1] local 0.0.0.0 port 60000 connected with 192.0.0.133 port 48154
+[ ID] Interval       Transfer     Bandwidth        Jitter   Lost/Total  Latency avg/min/max/stdev PPS
+[  1] 0.00-10.00 sec  5.96 MBytes  5.00 Mbits/sec   0.186 ms    0/ 4253 (0%) 5548.066/5547.704/5552.183/85.081 ms  425 pps
+[  3] local 0.0.0.0 port 60000 connected with 192.0.0.133 port 55000
+[  3] 0.00-10.00 sec  13.1 MBytes  11.0 Mbits/sec   0.206 ms    0/ 9355 (0%) 5548.428/5548.041/5557.483/57.369 ms  935 pps
+[  5] local 0.0.0.0 port 60000 connected with 192.0.0.133 port 42507
+[  5] 0.00-10.00 sec  10.7 MBytes  9.00 Mbits/sec   0.120 ms    0/ 7655 (0%) 5548.826/5548.391/5554.542/63.422 ms  765 pps
+[  7] local 0.0.0.0 port 60000 connected with 192.0.0.133 port 47916
+[  7] 0.00-10.00 sec  9.54 MBytes  8.00 Mbits/sec   0.166 ms    0/ 6804 (0%) 5549.168/5548.746/5554.821/67.276 ms  680 pps
+[  9] local 0.0.0.0 port 60000 connected with 192.0.0.133 port 56866
+[  9] 0.00-10.00 sec  9.54 MBytes  8.00 Mbits/sec   0.172 ms    0/ 6804 (0%) 5549.501/5549.125/5552.916/67.282 ms  680 pps
+[ 11] local 0.0.0.0 port 60000 connected with 192.0.0.133 port 39378
+[ 11] 0.00-10.00 sec  8.35 MBytes  7.00 Mbits/sec   0.177 ms    0/ 5954 (0%) 5549.831/5549.475/5554.251/71.929 ms  595 pps
+------------------------------------------------------------
+Server listening on UDP port 60000
+Receiving 1470 byte datagrams
+UDP buffer size: 0.41 MByte (WARNING: requested 0.59 MByte)
+------------------------------------------------------------
+[  1] local 0.0.0.0 port 60000 connected with 192.0.0.133 port 50686
+[ ID] Interval       Transfer     Bandwidth        Jitter   Lost/Total  Latency avg/min/max/stdev PPS
+[  1] 0.00-10.00 sec  11.9 MBytes  10.0 Mbits/sec   0.206 ms    0/ 8505 (0%) 5550.397/5550.014/5560.111/60.187 ms  850 pps
+[  3] local 0.0.0.0 port 60000 connected with 192.0.0.133 port 56878
+[  3] 0.00-10.00 sec  9.54 MBytes  8.00 Mbits/sec   0.093 ms    0/ 6804 (0%) 5550.757/5550.331/5553.957/67.297 ms  680 pps
+[  5] local 0.0.0.0 port 60000 connected with 192.0.0.133 port 39621
+[  5] 0.00-10.00 sec  9.54 MBytes  8.00 Mbits/sec   0.150 ms    0/ 6804 (0%) 5551.124/5550.695/5560.149/67.301 ms  680 pps
+[  7] local 0.0.0.0 port 60000 connected with 192.0.0.133 port 53287
+[  7] 0.00-10.00 sec  7.15 MBytes  6.00 Mbits/sec   0.136 ms    0/ 5103 (0%) 5551.482/5551.075/5557.120/77.720 ms  510 pps
+[  9] local 0.0.0.0 port 60000 connected with 192.0.0.133 port 58442
+[  9] 0.00-10.00 sec  9.54 MBytes  8.00 Mbits/sec   0.149 ms    0/ 6804 (0%) 5551.801/5551.419/5557.748/67.308 ms  680 pps
+[ 11] local 0.0.0.0 port 60000 connected with 192.0.0.133 port 45082
+[ 11] 0.00-10.00 sec  8.35 MBytes  7.00 Mbits/sec   0.144 ms    0/ 5954 (0%) 5552.166/5551.784/5558.613/71.959 ms  595 pps
+------------------------------------------------------------
+Server listening on UDP port 60000
+Receiving 1470 byte datagrams
+UDP buffer size: 0.41 MByte (WARNING: requested 0.59 MByte)
+------------------------------------------------------------
+[  1] local 0.0.0.0 port 60000 connected with 192.0.0.133 port 45207
+[ ID] Interval       Transfer     Bandwidth        Jitter   Lost/Total  Latency avg/min/max/stdev PPS
+[  1] 0.00-10.00 sec  11.9 MBytes  10.0 Mbits/sec   0.115 ms    0/ 8505 (0%) 5552.756/5552.369/5558.986/60.214 ms  850 pps
+[  3] local 0.0.0.0 port 60000 connected with 192.0.0.133 port 48655
+[  3] 0.00-10.00 sec  7.16 MBytes  6.00 Mbits/sec   0.163 ms    0/ 5104 (0%) 5553.092/5552.681/5558.842/77.732 ms  510 pps
+[  5] local 0.0.0.0 port 60000 connected with 192.0.0.133 port 56132
+[  5] 0.00-10.00 sec  10.7 MBytes  9.00 Mbits/sec   0.156 ms    0/ 7654 (0%) 5553.426/5553.001/5559.348/63.479 ms  765 pps
+[  7] local 0.0.0.0 port 60000 connected with 192.0.0.133 port 46545
+[  7] 0.00-10.00 sec  10.7 MBytes  9.00 Mbits/sec   0.116 ms    0/ 7654 (0%) 5553.865/5553.446/5558.061/63.485 ms  765 pps
+[  9] local 0.0.0.0 port 60000 connected with 192.0.0.133 port 51398
+[  9] 0.00-10.00 sec  8.35 MBytes  7.00 Mbits/sec   0.139 ms    0/ 5954 (0%) 5554.151/5553.719/5558.998/71.984 ms  595 pps
+[ 11] local 0.0.0.0 port 60000 connected with 192.0.0.133 port 33400
+[ 11] 0.00-10.00 sec  8.35 MBytes  7.00 Mbits/sec   0.090 ms    0/ 5954 (0%) 5554.495/5554.072/5560.777/71.987 ms  595 pps
+------------------------------------------------------------
+Server listening on UDP port 60000
+Receiving 1470 byte datagrams
+UDP buffer size: 0.41 MByte (WARNING: requested 0.59 MByte)
+------------------------------------------------------------
+[  1] local 0.0.0.0 port 60000 connected with 192.0.0.133 port 45195
+[ ID] Interval       Transfer     Bandwidth        Jitter   Lost/Total  Latency avg/min/max/stdev PPS
+[  1] 0.00-10.00 sec  9.54 MBytes  8.00 Mbits/sec   0.130 ms    0/ 6804 (0%) 5555.048/5554.656/5559.546/67.348 ms  680 pps
+[  3] local 0.0.0.0 port 60000 connected with 192.0.0.133 port 54296
+[  3] 0.00-10.00 sec  11.9 MBytes  10.0 Mbits/sec   0.154 ms    0/ 8505 (0%) 5555.355/5554.966/5562.183/60.240 ms  850 pps
+[  5] local 0.0.0.0 port 60000 connected with 192.0.0.133 port 49840
+[  5] 0.00-10.00 sec  13.1 MBytes  11.0 Mbits/sec   0.142 ms    0/ 9355 (0%) 5555.723/5555.325/5570.885/57.445 ms  935 pps
+[  7] local 0.0.0.0 port 60000 connected with 192.0.0.133 port 54975
+[  7] 0.00-10.00 sec  15.5 MBytes  13.0 Mbits/sec   0.164 ms    0/11056 (0%) 5556.110/5555.682/5563.861/52.844 ms 1105 pps
+[  9] local 0.0.0.0 port 60000 connected with 192.0.0.133 port 57426
+[  9] 0.00-10.00 sec  10.7 MBytes  9.00 Mbits/sec   0.175 ms    0/ 7655 (0%) 5556.443/5556.058/5562.466/63.511 ms  765 pps
+[ 11] local 0.0.0.0 port 60000 connected with 192.0.0.133 port 38065
+[ 11] 0.00-10.00 sec  9.54 MBytes  8.00 Mbits/sec   0.100 ms    0/ 6804 (0%) 5556.806/5556.373/5561.937/67.370 ms  680 pps
+------------------------------------------------------------
+Server listening on UDP port 60000
+Receiving 1470 byte datagrams
+UDP buffer size: 0.41 MByte (WARNING: requested 0.59 MByte)
+------------------------------------------------------------
+[  1] local 0.0.0.0 port 60000 connected with 192.0.0.133 port 43697
+[ ID] Interval       Transfer     Bandwidth        Jitter   Lost/Total  Latency avg/min/max/stdev PPS
+[  1] 0.00-10.00 sec  14.3 MBytes  12.0 Mbits/sec   0.116 ms    0/10205 (0%) 5557.363/5556.925/5563.101/55.015 ms 1020 pps
+[  3] local 0.0.0.0 port 60000 connected with 192.0.0.133 port 38448
+[  3] 0.00-10.00 sec  7.16 MBytes  6.00 Mbits/sec   0.101 ms    0/ 5104 (0%) 5557.669/5557.281/5564.128/77.799 ms  510 pps
+[  5] local 0.0.0.0 port 60000 connected with 192.0.0.133 port 58485
+[  5] 0.00-10.00 sec  8.35 MBytes  7.00 Mbits/sec   0.145 ms    0/ 5954 (0%) 5558.043/5557.678/5562.609/72.036 ms  595 pps
+[  7] local 0.0.0.0 port 60000 connected with 192.0.0.133 port 52979
+[  7] 0.00-10.00 sec  11.9 MBytes  10.0 Mbits/sec   0.176 ms    0/ 8505 (0%) 5558.438/5558.036/5562.805/60.276 ms  850 pps
+[  9] local 0.0.0.0 port 60000 connected with 192.0.0.133 port 45444
+[  9] 0.00-10.00 sec  11.9 MBytes  10.0 Mbits/sec   0.139 ms    0/ 8505 (0%) 5558.806/5558.395/5569.672/60.279 ms  850 pps
+[ 11] local 0.0.0.0 port 60000 connected with 192.0.0.133 port 45773
+[ 11] 0.00-10.00 sec  10.7 MBytes  9.00 Mbits/sec   0.096 ms    0/ 7655 (0%) 5559.154/5558.787/5565.031/63.542 ms  765 pps
+------------------------------------------------------------
+Server listening on UDP port 60000
+Receiving 1470 byte datagrams
+UDP buffer size: 0.41 MByte (WARNING: requested 0.59 MByte)
+------------------------------------------------------------
+[  1] local 0.0.0.0 port 60000 connected with 192.0.0.133 port 33685
+[ ID] Interval       Transfer     Bandwidth        Jitter   Lost/Total  Latency avg/min/max/stdev PPS
+[  1] 0.00-10.00 sec  10.7 MBytes  9.00 Mbits/sec   0.161 ms    0/ 7654 (0%) 5559.703/5559.292/5565.122/63.554 ms  765 pps
+[  3] local 0.0.0.0 port 60000 connected with 192.0.0.133 port 55142
+[  3] 0.00-10.00 sec  16.7 MBytes  14.0 Mbits/sec   0.130 ms    0/11906 (0%) 5560.045/5559.656/5568.355/50.957 ms 1190 pps
+[  5] local 0.0.0.0 port 60000 connected with 192.0.0.133 port 40027
+[  5] 0.00-10.00 sec  13.1 MBytes  11.0 Mbits/sec   0.145 ms    0/ 9355 (0%) 5560.410/5560.054/5565.940/57.490 ms  935 pps
+[  7] local 0.0.0.0 port 60000 connected with 192.0.0.133 port 39196
+[  7] 0.00-10.00 sec  13.1 MBytes  11.0 Mbits/sec   0.229 ms    0/ 9355 (0%) 5560.769/5560.397/5568.337/57.497 ms  935 pps
+[  9] local 0.0.0.0 port 60000 connected with 192.0.0.133 port 56455
+[  9] 0.00-10.00 sec  11.9 MBytes  10.0 Mbits/sec   0.118 ms    0/ 8505 (0%) 5561.193/5560.774/5566.626/60.306 ms  850 pps
+[ 11] local 0.0.0.0 port 60000 connected with 192.0.0.133 port 49815
+[ 11] 0.00-10.00 sec  10.7 MBytes  9.00 Mbits/sec   0.113 ms    0/ 7654 (0%) 5561.515/5561.102/5566.361/63.574 ms  765 pps
+------------------------------------------------------------
+Server listening on UDP port 60000
+Receiving 1470 byte datagrams
+UDP buffer size: 0.41 MByte (WARNING: requested 0.59 MByte)
+------------------------------------------------------------
+[  1] local 0.0.0.0 port 60000 connected with 192.0.0.133 port 60218
+[ ID] Interval       Transfer     Bandwidth        Jitter   Lost/Total  Latency avg/min/max/stdev PPS
+[  1] 0.00-10.00 sec  10.7 MBytes  9.00 Mbits/sec   0.160 ms    0/ 7655 (0%) 5562.038/5561.640/5567.339/63.577 ms  765 pps
+[  3] local 0.0.0.0 port 60000 connected with 192.0.0.133 port 44240
+[  3] 0.00-10.00 sec  10.7 MBytes  9.00 Mbits/sec   0.167 ms    0/ 7655 (0%) 5562.438/5562.005/5568.819/63.581 ms  765 pps
+[  5] local 0.0.0.0 port 60000 connected with 192.0.0.133 port 36148
+[  5] 0.00-10.00 sec  9.54 MBytes  8.00 Mbits/sec   0.121 ms    0/ 6804 (0%) 5562.767/5562.361/5566.145/67.442 ms  680 pps
+[  7] local 0.0.0.0 port 60000 connected with 192.0.0.133 port 45475
+[  7] 0.00-10.00 sec  10.7 MBytes  9.00 Mbits/sec   0.113 ms    0/ 7655 (0%) 5563.129/5562.724/5571.732/63.585 ms  765 pps
+[  9] local 0.0.0.0 port 60000 connected with 192.0.0.133 port 37521
+[  9] 0.00-10.00 sec  9.54 MBytes  8.00 Mbits/sec   0.169 ms    0/ 6804 (0%) 5563.513/5563.050/5569.063/67.453 ms  680 pps
+[ 11] local 0.0.0.0 port 60000 connected with 192.0.0.133 port 37845
+[ 11] 0.00-10.00 sec  11.9 MBytes  10.0 Mbits/sec   0.172 ms    0/ 8505 (0%) 5563.899/5563.483/5570.761/60.334 ms  850 pps
+------------------------------------------------------------
+Server listening on UDP port 60000
+Receiving 1470 byte datagrams
+UDP buffer size: 0.41 MByte (WARNING: requested 0.59 MByte)
+------------------------------------------------------------
+[  1] local 0.0.0.0 port 60000 connected with 192.0.0.133 port 42498
+[ ID] Interval       Transfer     Bandwidth        Jitter   Lost/Total  Latency avg/min/max/stdev PPS
+[  1] 0.00-10.00 sec  10.7 MBytes  9.00 Mbits/sec   0.181 ms    0/ 7655 (0%) 5564.407/5564.020/5568.834/63.603 ms  765 pps
+[  3] local 0.0.0.0 port 60000 connected with 192.0.0.133 port 50973
+[  3] 0.00-10.00 sec  13.1 MBytes  11.0 Mbits/sec   0.137 ms    0/ 9355 (0%) 5564.759/5564.381/5569.966/57.535 ms  935 pps
+[  5] local 0.0.0.0 port 60000 connected with 192.0.0.133 port 59707
+[  5] 0.00-10.00 sec  8.35 MBytes  7.00 Mbits/sec   0.124 ms    0/ 5954 (0%) 5565.134/5564.706/5569.201/72.129 ms  595 pps
+[  7] local 0.0.0.0 port 60000 connected with 192.0.0.133 port 34475
+[  7] 0.00-10.00 sec  7.16 MBytes  6.00 Mbits/sec   0.163 ms    0/ 5104 (0%) 5565.461/5565.070/5570.357/77.907 ms  510 pps
+[  9] local 0.0.0.0 port 60000 connected with 192.0.0.133 port 40028
+[  9] 0.00-10.00 sec  7.15 MBytes  6.00 Mbits/sec   0.166 ms    0/ 5103 (0%) 5565.879/5565.479/5571.687/77.926 ms  510 pps
+[ 11] local 0.0.0.0 port 60000 connected with 192.0.0.133 port 48106
+[ 11] 0.00-10.00 sec  8.35 MBytes  7.00 Mbits/sec   0.348 ms    0/ 5954 (0%) 5566.266/5565.882/5572.864/72.144 ms  595 pps
+------------------------------------------------------------
+Server listening on UDP port 60000
+Receiving 1470 byte datagrams
+UDP buffer size: 0.41 MByte (WARNING: requested 0.59 MByte)
+------------------------------------------------------------
+[  1] local 0.0.0.0 port 60000 connected with 192.0.0.133 port 42535
+[ ID] Interval       Transfer     Bandwidth        Jitter   Lost/Total  Latency avg/min/max/stdev PPS
+[  1] 0.00-10.00 sec  9.54 MBytes  8.00 Mbits/sec   0.118 ms    0/ 6804 (0%) 5566.868/5566.459/5574.640/67.493 ms  680 pps
+[  3] local 0.0.0.0 port 60000 connected with 192.0.0.133 port 53499
+[  3] 0.00-10.00 sec  10.7 MBytes  9.00 Mbits/sec   0.076 ms    0/ 7654 (0%) 5567.151/5566.777/5574.660/63.639 ms  765 pps
+[  5] local 0.0.0.0 port 60000 connected with 192.0.0.133 port 40241
+[  5] 0.00-10.00 sec  11.9 MBytes  10.0 Mbits/sec   0.143 ms    0/ 8505 (0%) 5567.537/5567.135/5572.991/60.372 ms  850 pps
+[  7] local 0.0.0.0 port 60000 connected with 192.0.0.133 port 56986
+[  7] 0.00-10.00 sec  14.3 MBytes  12.0 Mbits/sec   0.160 ms    0/10205 (0%) 5567.873/5567.498/5574.179/55.120 ms 1020 pps
+[  9] local 0.0.0.0 port 60000 connected with 192.0.0.133 port 42663
+[  9] 0.00-10.00 sec  10.7 MBytes  9.00 Mbits/sec   0.126 ms    0/ 7654 (0%) 5568.286/5567.848/5574.600/63.652 ms  765 pps
+[ 11] local 0.0.0.0 port 60000 connected with 192.0.0.133 port 54585
+[ 11] 0.00-10.00 sec  7.15 MBytes  6.00 Mbits/sec   0.180 ms    0/ 5103 (0%) 5568.647/5568.281/5576.154/77.958 ms  510 pps
+------------------------------------------------------------
+Server listening on UDP port 60000
+Receiving 1470 byte datagrams
+UDP buffer size: 0.41 MByte (WARNING: requested 0.59 MByte)
+------------------------------------------------------------
+[  1] local 0.0.0.0 port 60000 connected with 192.0.0.133 port 34719
+[ ID] Interval       Transfer     Bandwidth        Jitter   Lost/Total  Latency avg/min/max/stdev PPS
+[  1] 0.00-10.00 sec  11.9 MBytes  10.0 Mbits/sec   0.150 ms    0/ 8505 (0%) 5569.166/5568.790/5575.165/60.391 ms  850 pps
+[  3] local 0.0.0.0 port 60000 connected with 192.0.0.133 port 50266
+[  3] 0.00-10.00 sec  11.9 MBytes  10.0 Mbits/sec   0.131 ms    0/ 8505 (0%) 5569.506/5569.132/5573.482/60.395 ms  850 pps
+[  5] local 0.0.0.0 port 60000 connected with 192.0.0.133 port 39543
+[  5] 0.00-10.00 sec  8.35 MBytes  7.00 Mbits/sec   0.139 ms    0/ 5954 (0%) 5569.865/5569.519/5573.669/72.190 ms  595 pps
+[  7] local 0.0.0.0 port 60000 connected with 192.0.0.133 port 42582
+[  7] 0.00-10.00 sec  8.35 MBytes  7.00 Mbits/sec   0.172 ms    0/ 5954 (0%) 5570.225/5569.844/5575.412/72.193 ms  595 pps
+[  9] local 0.0.0.0 port 60000 connected with 192.0.0.133 port 40970
+[  9] 0.00-10.00 sec  8.35 MBytes  7.00 Mbits/sec   0.223 ms    0/ 5954 (0%) 5570.622/5570.207/5576.436/72.197 ms  595 pps
+[ 11] local 0.0.0.0 port 60000 connected with 192.0.0.133 port 36296
+[ 11] 0.00-10.00 sec  10.7 MBytes  9.00 Mbits/sec   0.119 ms    0/ 7654 (0%) 5571.021/5570.605/5578.968/63.680 ms  765 pps
+------------------------------------------------------------
+Server listening on UDP port 60000
+Receiving 1470 byte datagrams
+UDP buffer size: 0.41 MByte (WARNING: requested 0.59 MByte)
+------------------------------------------------------------
+[  1] local 0.0.0.0 port 60000 connected with 192.0.0.133 port 42870
+[ ID] Interval       Transfer     Bandwidth        Jitter   Lost/Total  Latency avg/min/max/stdev PPS
+[  1] 0.00-10.00 sec  5.96 MBytes  5.00 Mbits/sec   0.157 ms    0/ 4253 (0%) 5571.503/5571.170/5576.520/85.450 ms  425 pps
+[  3] local 0.0.0.0 port 60000 connected with 192.0.0.133 port 45098
+[  3] 0.00-10.00 sec  10.7 MBytes  9.00 Mbits/sec   0.145 ms    0/ 7654 (0%) 5571.850/5571.489/5576.927/63.691 ms  765 pps
+[  5] local 0.0.0.0 port 60000 connected with 192.0.0.133 port 48658
+[  5] 0.00-10.00 sec  14.3 MBytes  12.0 Mbits/sec   0.137 ms    0/10206 (0%) 5572.268/5571.859/5580.165/55.162 ms 1020 pps
+[  7] local 0.0.0.0 port 60000 connected with 192.0.0.133 port 46436
+[  7] 0.00-10.00 sec  10.7 MBytes  9.00 Mbits/sec   0.132 ms    0/ 7655 (0%) 5572.599/5572.208/5577.631/63.696 ms  765 pps
+[  9] local 0.0.0.0 port 60000 connected with 192.0.0.133 port 35540
+[  9] 0.00-10.00 sec  11.9 MBytes  10.0 Mbits/sec   0.103 ms    0/ 8505 (0%) 5572.959/5572.572/5579.716/60.432 ms  850 pps
+[ 11] local 0.0.0.0 port 60000 connected with 192.0.0.133 port 59878
+[ 11] 0.00-10.00 sec  7.15 MBytes  6.00 Mbits/sec   0.101 ms    0/ 5103 (0%) 5573.376/5572.983/5578.318/78.026 ms  510 pps
+------------------------------------------------------------
+Server listening on UDP port 60000
+Receiving 1470 byte datagrams
+UDP buffer size: 0.41 MByte (WARNING: requested 0.59 MByte)
+------------------------------------------------------------
+[  1] local 0.0.0.0 port 60000 connected with 192.0.0.133 port 47397
+[ ID] Interval       Transfer     Bandwidth        Jitter   Lost/Total  Latency avg/min/max/stdev PPS
+[  1] 0.00-10.00 sec  10.7 MBytes  9.00 Mbits/sec   0.124 ms    0/ 7655 (0%) 5573.895/5573.507/5578.545/63.711 ms  765 pps
+[  3] local 0.0.0.0 port 60000 connected with 192.0.0.133 port 51181
+[  3] 0.00-10.00 sec  7.15 MBytes  6.00 Mbits/sec   0.173 ms    0/ 5103 (0%) 5574.249/5573.850/5580.329/78.041 ms  510 pps
+[  5] local 0.0.0.0 port 60000 connected with 192.0.0.133 port 35855
+[  5] 0.00-10.00 sec  10.7 MBytes  9.00 Mbits/sec   0.212 ms    0/ 7655 (0%) 5574.630/5574.241/5581.404/63.719 ms  765 pps
+[  7] local 0.0.0.0 port 60000 connected with 192.0.0.133 port 39029
+[  7] 0.00-10.00 sec  13.1 MBytes  11.0 Mbits/sec   0.109 ms    0/ 9355 (0%) 5574.941/5574.572/5580.432/57.642 ms  935 pps
+[  9] local 0.0.0.0 port 60000 connected with 192.0.0.133 port 50877
+[  9] 0.00-10.00 sec  8.35 MBytes  7.00 Mbits/sec   0.130 ms    0/ 5954 (0%) 5575.343/5574.963/5580.051/72.258 ms  595 pps
+[ 11] local 0.0.0.0 port 60000 connected with 192.0.0.133 port 39017
+[ 11] 0.00-10.00 sec  5.96 MBytes  5.00 Mbits/sec   0.124 ms    0/ 4253 (0%) 5575.704/5575.323/5580.011/85.506 ms  425 pps

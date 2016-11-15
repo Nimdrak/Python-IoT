@@ -1,0 +1,35 @@
+------------------------------------------------------------
+Server listening on UDP port 60011
+Receiving 1470 byte datagrams
+UDP buffer size: 0.20 MByte (default)
+------------------------------------------------------------
+[  1] local 0.0.0.0 port 60011 connected with 192.0.0.21 port 50787
+[ ID] Interval       Transfer     Bandwidth        Jitter   Lost/Total Datagrams
+[  1]  0.0-10.0 sec  10.7 MBytes  9.00 Mbits/sec   0.112 ms    0/ 7657 (0%)
+[  1]  0.0-10.0 sec  1 datagrams received out-of-order
+[  3] local 0.0.0.0 port 60011 connected with 192.0.0.21 port 38475
+[  3]  0.0-10.0 sec  10.7 MBytes  9.00 Mbits/sec   0.092 ms    0/ 7657 (0%)
+[  3]  0.0-10.0 sec  1 datagrams received out-of-order
+[  5] local 0.0.0.0 port 60011 connected with 192.0.0.21 port 50360
+[  5]  0.0-10.0 sec  8.35 MBytes  7.00 Mbits/sec   0.076 ms    0/ 5953 (0%)
+[  5]  0.0-10.0 sec  1 datagrams received out-of-order
+[  7] local 0.0.0.0 port 60011 connected with 192.0.0.21 port 51678
+[  7]  0.0-10.0 sec  7.15 MBytes  6.00 Mbits/sec   0.065 ms    0/ 5103 (0%)
+[  9] local 0.0.0.0 port 60011 connected with 192.0.0.21 port 34995
+[  9]  0.0-10.0 sec  10.7 MBytes  9.00 Mbits/sec   0.076 ms    0/ 7657 (0%)
+[  9]  0.0-10.0 sec  1 datagrams received out-of-order
+[ 11] local 0.0.0.0 port 60011 connected with 192.0.0.21 port 40732
+[ 11]  0.0-10.0 sec  13.1 MBytes  11.0 Mbits/sec   0.073 ms    0/ 9355 (0%)
+[ 11]  0.0-10.0 sec  1 datagrams received out-of-order
+[ 13] local 0.0.0.0 port 60011 connected with 192.0.0.21 port 35082
+[ 13]  0.0-10.0 sec  15.5 MBytes  13.0 Mbits/sec   0.093 ms    0/11062 (0%)
+[ 13]  0.0-10.0 sec  1 datagrams received out-of-order
+[ 15] local 0.0.0.0 port 60011 connected with 192.0.0.21 port 34381
+[ 15]  0.0-10.0 sec  9.54 MBytes  8.00 Mbits/sec   0.071 ms    0/ 6803 (0%)
+[ 15]  0.0-10.0 sec  1 datagrams received out-of-order
+[ 17] local 0.0.0.0 port 60011 connected with 192.0.0.21 port 60967
+[ 17]  0.0-10.0 sec  11.9 MBytes  10.0 Mbits/sec   0.088 ms    0/ 8504 (0%)
+[ 17]  0.0-10.0 sec  1 datagrams received out-of-order
+[ 19] local 0.0.0.0 port 60011 connected with 192.0.0.21 port 51204
+[ 19]  0.0-10.0 sec  11.9 MBytes  10.0 Mbits/sec   0.097 ms    1/ 8504 (0.012%)
+[ 19]  0.0-10.0 sec  1 datagrams received out-of-order

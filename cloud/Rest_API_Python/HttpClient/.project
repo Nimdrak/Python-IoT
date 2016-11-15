@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>HttpClient</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+		<buildCommand>
+			<name>org.python.pydev.PyDevBuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+	</buildSpec>
+	<natures>
+		<nature>org.python.pydev.pythonNature</nature>
+	</natures>
+	<linkedResources>
+		<link>
+			<name>pre_processing/cal_trun.py</name>
+			<type>1</type>
+			<location>/home/controller/IoT/cloud/Rest_API_Python/HttpClient/pre_processing/cal_trun.py</location>
+		</link>
+	</linkedResources>
+</projectDescription>

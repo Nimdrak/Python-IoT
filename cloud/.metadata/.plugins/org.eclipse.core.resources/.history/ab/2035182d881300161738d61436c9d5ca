@@ -1,0 +1,25 @@
+'''
+Created on May 6, 2016
+
+@author: cloud1
+'''
+
+import function_string_to_list
+
+#######################
+#### load two file ####
+#######################
+f_length = open("/home/cloud1/IoT/link_length.txt",'r')
+
+line1=f_length.readline()    
+a=line1[1:-1].split(',')
+for i in range(0,len(a)):
+    a[i]=a[i].strip()
+
+print a
+
+f_input_length=open("/home/cloud1/IoT/input_link_lenth.txt",'w')
+for i in range(0,len(a)-1):
+    data=str(a[i]) + ','
+    print data
+

@@ -1,0 +1,82 @@
+import function_string_to_list
+from scipy.stats import norm
+import sys
+
+mean=float(sys.argv[1])
+
+std_dev=float(sys.argv[2])
+
+
+alpha=(-1)*(mean/std_dev)
+alpha_tilt_phi=norm.pdf(alpha)
+alpha_phi=norm.cdf(alpha)
+
+
+trun_mean=mean+(std_dev)*(alpha_tilt_phi)/(1-alpha_phi)
+trun_var=pow(std_dev,2) * (1+ (alpha)*(alpha_tilt_phi)/(1-alpha_phi) - pow((alpha_tilt_phi)/(1-alpha_phi),2))
+
+
+
+#######################
+#### load two file ####
+#######################
+f_mean = open("/home/controller/IoT/input_mean.txt",'r')
+
+
+line2=f_mean.readline()
+result=line2.split()
+
+
+#### first line case
+final_output=[]
+output=[]
+
+
+output.append(result[0])
+output.append(result[1])       
+final_output.append(output)
+
+print output
+#### after first line
+while line2:
+    output=[]
+
+    line1=f_ip.readline()
+    list_temp1 = function_string_to_list.str_to_list(line1)
+    line2=f_mean.readline()
+    result=line2.split()
+
+    if result ==[]:
+        break
+    
+    
+    output.append(list_temp1[0])
+    output.append(list_temp1[len(list_temp1)-1])
+    output.append(result[0])
+    output.append(result[1])    
+    
+    print output
+    final_output.append(output)
+    output=[]
+    
+
+    
+print final_output
+
+
+f_allo_result=open("/home/controller/IoT/output_txt/output_ip_mean.txt",'w')
+for i in range(0,len(final_output)):
+    for j in range(0,len(final_output[i])-2)    :
+        data = str(final_output[i][j]).strip()[0:-3] + ','
+        f_allo_result.write(data)
+    
+    for j in range(2,len(final_output[i])-1):
+        data = str(final_output[i][j]) + ','
+        f_allo_result.write(data)
+        
+    for j in range(3,len(final_output[i])):
+        data = str(final_output[i][j])
+        f_allo_result.write(data)        
+    
+    f_allo_result.write('\n')    
+f_allo_result.close()

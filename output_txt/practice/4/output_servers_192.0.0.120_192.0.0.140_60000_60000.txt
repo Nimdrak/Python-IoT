@@ -1,0 +1,10 @@
+------------------------------------------------------------
+Server listening on UDP port 60000
+Receiving 1470 byte datagrams
+UDP buffer size: 0.16 MByte (default)
+------------------------------------------------------------
+[  3] local 192.0.0.120 port 60000 connected with 192.0.0.140 port 41037
+[ ID] Interval       Transfer     Bandwidth        Jitter   Lost/Total Datagrams
+[  3]  0.0-31.0 sec  0.04 MBytes  0.01 Mbits/sec   0.055 ms    0/   31 (0%)
+[  4] local 192.0.0.120 port 60000 connected with 192.0.0.140 port 50337
+[  4]  0.0-31.0 sec  0.04 MBytes  0.01 Mbits/sec   0.065 ms    0/   31 (0%)

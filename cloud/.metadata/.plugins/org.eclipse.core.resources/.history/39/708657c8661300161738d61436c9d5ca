@@ -1,0 +1,33 @@
+
+algo_output = ['192.0.0.121/32','2','4','3','192.0.0.130/32']
+link_output=[]
+current = 0
+after = 0
+        
+for x in range(1,len(algo_output)-2):
+    current = algo_output[x]
+    after = algo_output[x+1]
+    print '\n'
+    print 'current:',current,',after:',after
+        
+##############################################
+###allocate routing dst port from OVS Table###
+##############################################
+
+    f = open("/home/cloud1/IoT/cloud/Rest_API_Python/HttpClient/table/LINK_TABLE.txt",'r')
+    line=f.readline()
+
+    while line:
+        result=line.split()
+        line=f.readline()
+        print line
+    
+        if result[0]==current and result[1]==after:
+            print result
+            link_output.append(result[2])
+            print 'According to LINK table',current,'between',after,'There are link :',link_output
+            break
+        
+        if not line:
+            break
+        

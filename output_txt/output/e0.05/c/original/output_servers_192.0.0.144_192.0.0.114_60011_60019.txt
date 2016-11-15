@@ -1,0 +1,540 @@
+------------------------------------------------------------
+Server listening on UDP port 60011
+Receiving 1470 byte datagrams
+UDP buffer size: 0.41 MByte (WARNING: requested 0.59 MByte)
+------------------------------------------------------------
+[  1] local 0.0.0.0 port 60011 connected with 192.0.0.114 port 52740
+[ ID] Interval       Transfer     Bandwidth        Jitter   Lost/Total  Latency avg/min/max/stdev PPS
+[  1] 0.00-10.00 sec  10.7 MBytes  9.00 Mbits/sec   0.117 ms    0/ 7654 (0%) 8250.817/8250.015/8256.385/94.310 ms  765 pps
+[  3] local 0.0.0.0 port 60011 connected with 192.0.0.114 port 60760
+[  3] 0.00-10.00 sec  11.9 MBytes  10.0 Mbits/sec   0.160 ms    0/ 8505 (0%) 8252.726/8252.058/8260.024/89.491 ms  850 pps
+[  5] local 0.0.0.0 port 60011 connected with 192.0.0.114 port 40447
+[  5] 0.00-10.00 sec  13.1 MBytes  11.0 Mbits/sec   0.146 ms    0/ 9355 (0%) 8254.860/8254.065/8260.927/85.346 ms  935 pps
+[  7] local 0.0.0.0 port 60011 connected with 192.0.0.114 port 51792
+[  7] 0.00-10.00 sec  8.35 MBytes  7.00 Mbits/sec   0.141 ms    0/ 5954 (0%) 8256.739/8256.013/8266.590/107.008 ms  595 pps
+[  9] local 0.0.0.0 port 60011 connected with 192.0.0.114 port 47329
+[  9] 0.00-10.00 sec  9.54 MBytes  8.00 Mbits/sec   0.126 ms    0/ 6804 (0%) 8258.548/8257.809/8263.150/100.120 ms  680 pps
+[ 11] local 0.0.0.0 port 60011 connected with 192.0.0.114 port 42805
+[ 11] 0.00-10.00 sec  11.9 MBytes  10.0 Mbits/sec   0.151 ms    0/ 8505 (0%) 8260.459/8259.695/8267.180/89.574 ms  850 pps
+------------------------------------------------------------
+Server listening on UDP port 60011
+Receiving 1470 byte datagrams
+UDP buffer size: 0.41 MByte (WARNING: requested 0.59 MByte)
+------------------------------------------------------------
+[  1] local 0.0.0.0 port 60011 connected with 192.0.0.114 port 44306
+[ ID] Interval       Transfer     Bandwidth        Jitter   Lost/Total  Latency avg/min/max/stdev PPS
+[  1] 0.00-10.00 sec  13.1 MBytes  11.0 Mbits/sec   0.142 ms    3/ 9355 (0.032%) 8263.709/8262.837/8269.666/85.453 ms  934 pps
+[  3] local 0.0.0.0 port 60011 connected with 192.0.0.114 port 56592
+[  3] 0.00-10.01 sec  9.54 MBytes  7.99 Mbits/sec   0.094 ms    0/ 6802 (0%) 8265.495/8264.758/8270.982/100.224 ms  679 pps
+[  5] local 0.0.0.0 port 60011 connected with 192.0.0.114 port 41839
+[  5] 0.00-10.00 sec  10.7 MBytes  9.00 Mbits/sec   0.131 ms    0/ 7654 (0%) 8267.308/8266.528/8272.896/94.498 ms  765 pps
+[  7] local 0.0.0.0 port 60011 connected with 192.0.0.114 port 60585
+[  7] 0.00-10.00 sec  13.1 MBytes  11.0 Mbits/sec   0.159 ms    0/ 9355 (0%) 8269.125/8268.346/8277.619/85.494 ms  935 pps
+[  9] local 0.0.0.0 port 60011 connected with 192.0.0.114 port 40280
+[  9] 0.00-10.00 sec  9.54 MBytes  8.00 Mbits/sec   0.141 ms    0/ 6804 (0%) 8270.966/8270.227/8277.073/100.273 ms  680 pps
+[ 11] local 0.0.0.0 port 60011 connected with 192.0.0.114 port 54094
+[ 11] 0.00-10.00 sec  14.3 MBytes  12.0 Mbits/sec   0.089 ms    0/10203 (0%) 8273.351/8272.419/8282.178/81.905 ms 1020 pps
+------------------------------------------------------------
+Server listening on UDP port 60011
+Receiving 1470 byte datagrams
+UDP buffer size: 0.41 MByte (WARNING: requested 0.59 MByte)
+------------------------------------------------------------
+[  1] local 0.0.0.0 port 60011 connected with 192.0.0.114 port 45552
+[ ID] Interval       Transfer     Bandwidth        Jitter   Lost/Total  Latency avg/min/max/stdev PPS
+[  1] 0.00-10.00 sec  11.9 MBytes  10.0 Mbits/sec   0.143 ms    0/ 8505 (0%) 8276.148/8275.332/8280.693/89.741 ms  850 pps
+[  3] local 0.0.0.0 port 60011 connected with 192.0.0.114 port 57505
+[  3] 0.00-10.00 sec  11.9 MBytes  10.0 Mbits/sec   0.189 ms    0/ 8505 (0%) 8277.951/8277.024/8287.360/89.762 ms  850 pps
+[  5] local 0.0.0.0 port 60011 connected with 192.0.0.114 port 57382
+[  5] 0.00-10.00 sec  13.1 MBytes  11.0 Mbits/sec   0.162 ms    0/ 9355 (0%) 8279.778/8278.923/8285.849/85.606 ms  935 pps
+[  7] local 0.0.0.0 port 60011 connected with 192.0.0.114 port 43703
+[  7] 0.00-10.00 sec  10.7 MBytes  9.00 Mbits/sec   0.130 ms    0/ 7655 (0%) 8281.565/8280.755/8287.122/94.658 ms  765 pps
+[  9] local 0.0.0.0 port 60011 connected with 192.0.0.114 port 52920
+[  9] 0.00-10.00 sec  11.9 MBytes  10.0 Mbits/sec   0.142 ms    0/ 8505 (0%) 8283.480/8282.711/8289.603/89.819 ms  850 pps
+[ 11] local 0.0.0.0 port 60011 connected with 192.0.0.114 port 51496
+[ 11] 0.00-10.00 sec  10.7 MBytes  9.00 Mbits/sec   0.138 ms    0/ 7655 (0%) 8285.266/8284.428/8291.211/94.696 ms  765 pps
+------------------------------------------------------------
+Server listening on UDP port 60011
+Receiving 1470 byte datagrams
+UDP buffer size: 0.41 MByte (WARNING: requested 0.59 MByte)
+------------------------------------------------------------
+[  1] local 0.0.0.0 port 60011 connected with 192.0.0.114 port 35578
+[ ID] Interval       Transfer     Bandwidth        Jitter   Lost/Total  Latency avg/min/max/stdev PPS
+[  1] 0.00-10.00 sec  11.9 MBytes  10.0 Mbits/sec   0.159 ms    0/ 8505 (0%) 8288.461/8287.628/8296.443/89.876 ms  850 pps
+[  3] local 0.0.0.0 port 60011 connected with 192.0.0.114 port 58751
+[  3] 0.00-10.00 sec  10.7 MBytes  9.00 Mbits/sec   0.116 ms    0/ 7655 (0%) 8290.329/8289.542/8296.795/94.755 ms  765 pps
+[  5] local 0.0.0.0 port 60011 connected with 192.0.0.114 port 40586
+[  5] 0.00-10.00 sec  11.9 MBytes  10.0 Mbits/sec   0.129 ms    0/ 8505 (0%) 8292.273/8291.456/8296.981/89.917 ms  850 pps
+[  7] local 0.0.0.0 port 60011 connected with 192.0.0.114 port 37355
+[  7] 0.00-10.00 sec  13.1 MBytes  11.0 Mbits/sec   0.208 ms    0/ 9355 (0%) 8294.284/8293.343/8303.036/85.754 ms  935 pps
+[  9] local 0.0.0.0 port 60011 connected with 192.0.0.114 port 52035
+[  9] 0.00-10.00 sec  11.9 MBytes  10.0 Mbits/sec   0.177 ms    0/ 8505 (0%) 8296.025/8295.189/8301.710/89.956 ms  850 pps
+[ 11] local 0.0.0.0 port 60011 connected with 192.0.0.114 port 54190
+[ 11] 0.00-10.00 sec  13.1 MBytes  11.0 Mbits/sec   0.191 ms    0/ 9355 (0%) 8297.883/8296.985/8304.463/85.793 ms  935 pps
+------------------------------------------------------------
+Server listening on UDP port 60011
+Receiving 1470 byte datagrams
+UDP buffer size: 0.41 MByte (WARNING: requested 0.59 MByte)
+------------------------------------------------------------
+[  1] local 0.0.0.0 port 60011 connected with 192.0.0.114 port 47843
+[ ID] Interval       Transfer     Bandwidth        Jitter   Lost/Total  Latency avg/min/max/stdev PPS
+[  1] 0.00-10.00 sec  9.54 MBytes  8.00 Mbits/sec   0.150 ms    0/ 6804 (0%) 8301.015/8300.185/8305.900/100.640 ms  680 pps
+[  3] local 0.0.0.0 port 60011 connected with 192.0.0.114 port 51732
+[  3] 0.00-10.00 sec  11.9 MBytes  10.0 Mbits/sec   0.181 ms    0/ 8505 (0%) 8303.346/8302.550/8308.711/90.037 ms  850 pps
+[  5] local 0.0.0.0 port 60011 connected with 192.0.0.114 port 54628
+[  5] 0.00-10.00 sec  13.1 MBytes  11.0 Mbits/sec   0.107 ms    0/ 9355 (0%) 8305.277/8304.469/8310.316/85.868 ms  935 pps
+[  7] local 0.0.0.0 port 60011 connected with 192.0.0.114 port 42130
+[  7] 0.00-10.00 sec  8.35 MBytes  7.00 Mbits/sec   0.154 ms    0/ 5954 (0%) 8307.054/8306.204/8311.782/107.660 ms  595 pps
+[  9] local 0.0.0.0 port 60011 connected with 192.0.0.114 port 55757
+[  9] 0.00-10.00 sec  11.9 MBytes  10.0 Mbits/sec   0.124 ms    0/ 8505 (0%) 8308.962/8308.166/8313.933/90.100 ms  850 pps
+[ 11] local 0.0.0.0 port 60011 connected with 192.0.0.114 port 37060
+[ 11] 0.00-10.00 sec  13.1 MBytes  11.0 Mbits/sec   0.127 ms    0/ 9355 (0%) 8311.085/8310.202/8318.522/85.929 ms  935 pps
+------------------------------------------------------------
+Server listening on UDP port 60011
+Receiving 1470 byte datagrams
+UDP buffer size: 0.41 MByte (WARNING: requested 0.59 MByte)
+------------------------------------------------------------
+[  1] local 0.0.0.0 port 60011 connected with 192.0.0.114 port 47489
+[ ID] Interval       Transfer     Bandwidth        Jitter   Lost/Total  Latency avg/min/max/stdev PPS
+[  1] 0.00-10.00 sec  8.35 MBytes  7.00 Mbits/sec   0.141 ms    0/ 5954 (0%) 8313.801/8313.018/8319.397/107.750 ms  595 pps
+[  3] local 0.0.0.0 port 60011 connected with 192.0.0.114 port 58537
+[  3] 0.00-10.00 sec  11.9 MBytes  10.0 Mbits/sec   0.129 ms    0/ 8505 (0%) 8315.730/8314.922/8320.814/90.173 ms  850 pps
+[  5] local 0.0.0.0 port 60011 connected with 192.0.0.114 port 37045
+[  5] 0.00-10.00 sec  11.9 MBytes  10.0 Mbits/sec   0.158 ms    0/ 8505 (0%) 8317.562/8316.739/8322.056/90.190 ms  850 pps
+[  7] local 0.0.0.0 port 60011 connected with 192.0.0.114 port 35828
+[  7] 0.00-10.00 sec  11.9 MBytes  10.0 Mbits/sec   0.151 ms    0/ 8505 (0%) 8319.449/8318.525/8325.263/90.213 ms  850 pps
+[  9] local 0.0.0.0 port 60011 connected with 192.0.0.114 port 48944
+[  9] 0.00-10.00 sec  13.1 MBytes  11.0 Mbits/sec   0.146 ms    0/ 9355 (0%) 8321.296/8320.496/8326.498/86.033 ms  935 pps
+[ 11] local 0.0.0.0 port 60011 connected with 192.0.0.114 port 44590
+[ 11] 0.00-10.00 sec  11.9 MBytes  10.0 Mbits/sec   0.088 ms    0/ 8505 (0%) 8323.275/8322.462/8327.944/90.252 ms  850 pps
+------------------------------------------------------------
+Server listening on UDP port 60011
+Receiving 1470 byte datagrams
+UDP buffer size: 0.41 MByte (WARNING: requested 0.59 MByte)
+------------------------------------------------------------
+[  1] local 0.0.0.0 port 60011 connected with 192.0.0.114 port 42682
+[ ID] Interval       Transfer     Bandwidth        Jitter   Lost/Total  Latency avg/min/max/stdev PPS
+[  1] 0.00-10.00 sec  10.7 MBytes  9.00 Mbits/sec   0.197 ms    1/ 7655 (0.013%) 8326.379/8325.585/8331.895/95.175 ms  765 pps
+[  3] local 0.0.0.0 port 60011 connected with 192.0.0.114 port 60488
+[  3] 0.00-10.00 sec  10.7 MBytes  9.00 Mbits/sec   0.149 ms    0/ 7655 (0%) 8328.290/8327.553/8332.318/95.190 ms  765 pps
+[  5] local 0.0.0.0 port 60011 connected with 192.0.0.114 port 40751
+[  5] 0.00-10.00 sec  11.9 MBytes  10.0 Mbits/sec   0.180 ms    0/ 8505 (0%) 8330.317/8329.478/8336.777/90.330 ms  850 pps
+[  7] local 0.0.0.0 port 60011 connected with 192.0.0.114 port 56682
+[  7] 0.00-10.00 sec  14.3 MBytes  12.0 Mbits/sec   0.350 ms    0/10206 (0%) 8332.125/8331.298/8338.944/82.475 ms 1020 pps
+[  9] local 0.0.0.0 port 60011 connected with 192.0.0.114 port 58203
+[  9] 0.00-10.00 sec  10.7 MBytes  9.00 Mbits/sec   0.204 ms    0/ 7655 (0%) 8333.909/8333.044/8338.266/95.254 ms  765 pps
+[ 11] local 0.0.0.0 port 60011 connected with 192.0.0.114 port 51705
+[ 11] 0.00-10.00 sec  9.54 MBytes  8.00 Mbits/sec   0.180 ms    0/ 6804 (0%) 8335.813/8334.940/8340.463/101.061 ms  680 pps
+------------------------------------------------------------
+Server listening on UDP port 60011
+Receiving 1470 byte datagrams
+UDP buffer size: 0.41 MByte (WARNING: requested 0.59 MByte)
+------------------------------------------------------------
+[  1] local 0.0.0.0 port 60011 connected with 192.0.0.114 port 54346
+[ ID] Interval       Transfer     Bandwidth        Jitter   Lost/Total  Latency avg/min/max/stdev PPS
+[  1] 0.00-10.00 sec  9.54 MBytes  8.00 Mbits/sec   0.149 ms    0/ 6804 (0%) 8338.551/8337.692/8343.067/101.092 ms  680 pps
+[  3] local 0.0.0.0 port 60011 connected with 192.0.0.114 port 60452
+[  3] 0.00-10.00 sec  10.7 MBytes  9.00 Mbits/sec   0.130 ms    0/ 7655 (0%) 8340.468/8339.637/8345.791/95.329 ms  765 pps
+[  5] local 0.0.0.0 port 60011 connected with 192.0.0.114 port 52708
+[  5] 0.00-10.00 sec  13.1 MBytes  11.0 Mbits/sec   0.144 ms    0/ 9355 (0%) 8342.359/8341.588/8349.710/86.253 ms  935 pps
+[  7] local 0.0.0.0 port 60011 connected with 192.0.0.114 port 34467
+[  7] 0.00-10.00 sec  9.54 MBytes  8.00 Mbits/sec   0.132 ms    0/ 6804 (0%) 8344.222/8343.385/8349.310/101.160 ms  680 pps
+[  9] local 0.0.0.0 port 60011 connected with 192.0.0.114 port 57870
+[  9] 0.00-10.00 sec  10.7 MBytes  9.00 Mbits/sec   0.147 ms    0/ 7655 (0%) 8346.028/8345.233/8350.244/95.391 ms  765 pps
+[ 11] local 0.0.0.0 port 60011 connected with 192.0.0.114 port 59956
+[ 11] 0.00-10.00 sec  11.9 MBytes  10.0 Mbits/sec   0.095 ms    0/ 8505 (0%) 8347.952/8347.098/8355.578/90.520 ms  850 pps
+------------------------------------------------------------
+Server listening on UDP port 60011
+Receiving 1470 byte datagrams
+UDP buffer size: 0.41 MByte (WARNING: requested 0.59 MByte)
+------------------------------------------------------------
+[  1] local 0.0.0.0 port 60011 connected with 192.0.0.114 port 33569
+[ ID] Interval       Transfer     Bandwidth        Jitter   Lost/Total  Latency avg/min/max/stdev PPS
+[  1] 0.00-10.00 sec  10.7 MBytes  9.00 Mbits/sec   0.134 ms    0/ 7655 (0%) 8350.658/8349.807/8355.169/95.448 ms  765 pps
+[  3] local 0.0.0.0 port 60011 connected with 192.0.0.114 port 33506
+[  3] 0.00-10.00 sec  11.9 MBytes  10.0 Mbits/sec   0.223 ms    0/ 8505 (0%) 8352.580/8351.732/8358.993/90.573 ms  850 pps
+[  5] local 0.0.0.0 port 60011 connected with 192.0.0.114 port 53237
+[  5] 0.00-10.00 sec  10.7 MBytes  9.00 Mbits/sec   0.066 ms    0/ 7655 (0%) 8354.412/8353.660/8358.688/95.490 ms  765 pps
+[  7] local 0.0.0.0 port 60011 connected with 192.0.0.114 port 59387
+[  7] 0.00-10.00 sec  13.1 MBytes  11.0 Mbits/sec   0.099 ms    0/ 9355 (0%) 8356.191/8355.409/8361.280/86.395 ms  935 pps
+[  9] local 0.0.0.0 port 60011 connected with 192.0.0.114 port 60397
+[  9] 0.00-10.00 sec  10.7 MBytes  9.00 Mbits/sec   0.220 ms    0/ 7655 (0%) 8357.984/8357.160/8363.080/95.530 ms  765 pps
+[ 11] local 0.0.0.0 port 60011 connected with 192.0.0.114 port 47169
+[ 11] 0.00-10.00 sec  13.1 MBytes  11.0 Mbits/sec   0.177 ms    0/ 9355 (0%) 8359.892/8359.000/8367.291/86.434 ms  935 pps
+------------------------------------------------------------
+Server listening on UDP port 60011
+Receiving 1470 byte datagrams
+UDP buffer size: 0.41 MByte (WARNING: requested 0.59 MByte)
+------------------------------------------------------------
+[  1] local 0.0.0.0 port 60011 connected with 192.0.0.114 port 54259
+[ ID] Interval       Transfer     Bandwidth        Jitter   Lost/Total  Latency avg/min/max/stdev PPS
+[  1] 0.00-10.00 sec  11.9 MBytes  10.0 Mbits/sec   0.125 ms    0/ 8505 (0%) 8362.597/8361.705/8369.878/90.680 ms  850 pps
+[  3] local 0.0.0.0 port 60011 connected with 192.0.0.114 port 35589
+[  3] 0.00-10.00 sec  13.1 MBytes  11.0 Mbits/sec   0.113 ms    0/ 9355 (0%) 8364.494/8363.664/8369.491/86.479 ms  935 pps
+[  5] local 0.0.0.0 port 60011 connected with 192.0.0.114 port 41847
+[  5] 0.00-10.00 sec  10.7 MBytes  9.00 Mbits/sec   0.452 ms    0/ 7655 (0%) 8366.433/8365.636/8373.652/95.623 ms  765 pps
+[  7] local 0.0.0.0 port 60011 connected with 192.0.0.114 port 42959
+[  7] 0.00-10.00 sec  10.7 MBytes  9.00 Mbits/sec   0.154 ms    0/ 7655 (0%) 8368.311/8367.527/8372.761/95.648 ms  765 pps
+[  9] local 0.0.0.0 port 60011 connected with 192.0.0.114 port 50085
+[  9] 0.00-10.00 sec  14.3 MBytes  12.0 Mbits/sec   0.163 ms    3/10206 (0.029%) 8370.213/8369.366/8374.288/82.869 ms 1020 pps
+[ 11] local 0.0.0.0 port 60011 connected with 192.0.0.114 port 41500
+[ 11] 0.00-10.00 sec  11.9 MBytes  10.0 Mbits/sec   0.177 ms    0/ 8505 (0%) 8372.142/8371.308/8377.341/90.781 ms  850 pps
+------------------------------------------------------------
+Server listening on UDP port 60011
+Receiving 1470 byte datagrams
+UDP buffer size: 0.41 MByte (WARNING: requested 0.59 MByte)
+------------------------------------------------------------
+[  1] local 0.0.0.0 port 60011 connected with 192.0.0.114 port 46595
+[ ID] Interval       Transfer     Bandwidth        Jitter   Lost/Total  Latency avg/min/max/stdev PPS
+[  1] 0.00-10.00 sec  9.54 MBytes  8.00 Mbits/sec   0.135 ms    0/ 6804 (0%) 8374.811/8373.980/8381.034/101.534 ms  680 pps
+[  3] local 0.0.0.0 port 60011 connected with 192.0.0.114 port 56311
+[  3] 0.00-10.00 sec  10.7 MBytes  9.00 Mbits/sec   0.141 ms    0/ 7655 (0%) 8376.586/8375.760/8380.862/95.740 ms  765 pps
+[  5] local 0.0.0.0 port 60011 connected with 192.0.0.114 port 50360
+[  5] 0.00-10.00 sec  14.3 MBytes  12.0 Mbits/sec   0.146 ms    0/10206 (0%) 8378.497/8377.679/8383.192/82.936 ms 1020 pps
+[  7] local 0.0.0.0 port 60011 connected with 192.0.0.114 port 36991
+[  7] 0.00-10.00 sec  10.7 MBytes  9.00 Mbits/sec   0.101 ms    0/ 7655 (0%) 8380.429/8379.608/8385.373/95.785 ms  765 pps
+[  9] local 0.0.0.0 port 60011 connected with 192.0.0.114 port 33785
+[  9] 0.00-10.00 sec  13.1 MBytes  11.0 Mbits/sec   0.181 ms    0/ 9355 (0%) 8382.755/8381.968/8388.075/86.670 ms  935 pps
+[ 11] local 0.0.0.0 port 60011 connected with 192.0.0.114 port 50403
+[ 11] 0.00-8.52 sec  8.14 MBytes  8.01 Mbits/sec   0.184 ms 1000/ 6804 (15%) 8384.669/8383.885/8394.963/110.204 ms  681 pps
+------------------------------------------------------------
+Server listening on UDP port 60011
+Receiving 1470 byte datagrams
+UDP buffer size: 0.41 MByte (WARNING: requested 0.59 MByte)
+------------------------------------------------------------
+[  1] local 0.0.0.0 port 60011 connected with 192.0.0.114 port 39480
+[ ID] Interval       Transfer     Bandwidth        Jitter   Lost/Total  Latency avg/min/max/stdev PPS
+[  1] 0.00-10.00 sec  13.1 MBytes  11.0 Mbits/sec   0.123 ms    0/ 9355 (0%) 8387.341/8386.544/8392.708/86.719 ms  935 pps
+[  3] local 0.0.0.0 port 60011 connected with 192.0.0.114 port 46662
+[  3] 0.00-10.00 sec  11.9 MBytes  10.0 Mbits/sec   0.157 ms    0/ 8505 (0%) 8389.235/8388.434/8397.421/90.970 ms  850 pps
+[  5] local 0.0.0.0 port 60011 connected with 192.0.0.114 port 59183
+[  5] 0.00-10.00 sec  10.7 MBytes  9.00 Mbits/sec   0.182 ms    0/ 7655 (0%) 8391.156/8390.358/8396.189/95.907 ms  765 pps
+[  7] local 0.0.0.0 port 60011 connected with 192.0.0.114 port 34568
+[  7] 0.00-10.00 sec  11.9 MBytes  10.0 Mbits/sec   0.279 ms    0/ 8505 (0%) 8393.103/8392.340/8399.908/91.009 ms  850 pps
+[  9] local 0.0.0.0 port 60011 connected with 192.0.0.114 port 41881
+[  9] 0.00-10.00 sec  10.7 MBytes  9.00 Mbits/sec   0.138 ms    0/ 7654 (0%) 8395.042/8394.295/8400.296/95.980 ms  765 pps
+[ 11] local 0.0.0.0 port 60011 connected with 192.0.0.114 port 38899
+[ 11] 0.00-10.00 sec  11.9 MBytes  10.0 Mbits/sec   0.146 ms    0/ 8505 (0%) 8396.948/8396.062/8405.087/91.051 ms  850 pps
+------------------------------------------------------------
+Server listening on UDP port 60011
+Receiving 1470 byte datagrams
+UDP buffer size: 0.41 MByte (WARNING: requested 0.59 MByte)
+------------------------------------------------------------
+[  1] local 0.0.0.0 port 60011 connected with 192.0.0.114 port 40804
+[ ID] Interval       Transfer     Bandwidth        Jitter   Lost/Total  Latency avg/min/max/stdev PPS
+[  1] 0.00-10.00 sec  11.9 MBytes  10.0 Mbits/sec   0.131 ms    0/ 8505 (0%) 8399.783/8398.924/8404.685/91.081 ms  850 pps
+[  3] local 0.0.0.0 port 60011 connected with 192.0.0.114 port 42415
+[  3] 0.00-10.00 sec  9.54 MBytes  8.00 Mbits/sec   0.186 ms    0/ 6804 (0%) 8401.711/8400.853/8406.638/101.859 ms  680 pps
+[  5] local 0.0.0.0 port 60011 connected with 192.0.0.114 port 35069
+[  5] 0.00-10.00 sec  10.7 MBytes  9.00 Mbits/sec   0.108 ms    0/ 7655 (0%) 8403.534/8402.725/8411.841/96.047 ms  765 pps
+[  7] local 0.0.0.0 port 60011 connected with 192.0.0.114 port 46251
+[  7] 0.00-10.00 sec  11.9 MBytes  10.0 Mbits/sec   0.138 ms    0/ 8505 (0%) 8405.351/8404.517/8411.802/91.145 ms  850 pps
+[  9] local 0.0.0.0 port 60011 connected with 192.0.0.114 port 44490
+[  9] 0.00-10.00 sec  10.7 MBytes  9.00 Mbits/sec   0.149 ms    0/ 7655 (0%) 8407.267/8406.416/8414.877/96.094 ms  765 pps
+[ 11] local 0.0.0.0 port 60011 connected with 192.0.0.114 port 50715
+[ 11] 0.00-10.00 sec  10.7 MBytes  9.00 Mbits/sec   0.162 ms    0/ 7655 (0%) 8409.105/8408.289/8416.671/96.112 ms  765 pps
+------------------------------------------------------------
+Server listening on UDP port 60011
+Receiving 1470 byte datagrams
+UDP buffer size: 0.41 MByte (WARNING: requested 0.59 MByte)
+------------------------------------------------------------
+[  1] local 0.0.0.0 port 60011 connected with 192.0.0.114 port 40467
+[ ID] Interval       Transfer     Bandwidth        Jitter   Lost/Total  Latency avg/min/max/stdev PPS
+[  1] 0.00-10.00 sec  11.9 MBytes  10.0 Mbits/sec   0.073 ms    3/ 8505 (0.035%) 8411.844/8411.044/8416.382/91.230 ms  849 pps
+[  3] local 0.0.0.0 port 60011 connected with 192.0.0.114 port 59644
+[  3] 0.00-10.00 sec  11.9 MBytes  10.0 Mbits/sec   0.135 ms    0/ 8505 (0%) 8413.625/8412.833/8423.330/91.234 ms  850 pps
+[  5] local 0.0.0.0 port 60011 connected with 192.0.0.114 port 42419
+[  5] 0.00-10.00 sec  11.9 MBytes  10.0 Mbits/sec   0.097 ms    0/ 8505 (0%) 8415.548/8414.764/8426.545/91.255 ms  850 pps
+[  7] local 0.0.0.0 port 60011 connected with 192.0.0.114 port 45802
+[  7] 0.00-10.00 sec  11.9 MBytes  10.0 Mbits/sec   0.146 ms    0/ 8505 (0%) 8417.419/8416.534/8422.994/91.274 ms  850 pps
+[  9] local 0.0.0.0 port 60011 connected with 192.0.0.114 port 36837
+[  9] 0.00-10.00 sec  9.54 MBytes  8.00 Mbits/sec   0.148 ms    2/ 6804 (0.029%) 8419.337/8418.528/8425.532/102.085 ms  680 pps
+[ 11] local 0.0.0.0 port 60011 connected with 192.0.0.114 port 48170
+[ 11] 0.00-10.00 sec  11.9 MBytes  10.0 Mbits/sec   0.160 ms    0/ 8505 (0%) 8421.250/8420.427/8427.491/91.319 ms  850 pps
+------------------------------------------------------------
+Server listening on UDP port 60011
+Receiving 1470 byte datagrams
+UDP buffer size: 0.41 MByte (WARNING: requested 0.59 MByte)
+------------------------------------------------------------
+[  1] local 0.0.0.0 port 60011 connected with 192.0.0.114 port 53195
+[ ID] Interval       Transfer     Bandwidth        Jitter   Lost/Total  Latency avg/min/max/stdev PPS
+[  1] 0.00-10.00 sec  10.7 MBytes  9.00 Mbits/sec   0.217 ms    0/ 7655 (0%) 8424.400/8423.553/8429.707/96.288 ms  765 pps
+[  3] local 0.0.0.0 port 60011 connected with 192.0.0.114 port 55504
+[  3] 0.00-10.00 sec  10.7 MBytes  9.00 Mbits/sec   0.118 ms    2/ 7655 (0.026%) 8426.210/8425.397/8431.402/96.324 ms  765 pps
+[  5] local 0.0.0.0 port 60011 connected with 192.0.0.114 port 50547
+[  5] 0.00-10.00 sec  11.9 MBytes  10.0 Mbits/sec   0.137 ms    0/ 8505 (0%) 8427.981/8427.178/8433.706/91.387 ms  850 pps
+[  7] local 0.0.0.0 port 60011 connected with 192.0.0.114 port 47171
+[  7] 0.00-10.00 sec  13.1 MBytes  11.0 Mbits/sec   0.118 ms    0/ 9355 (0%) 8429.836/8429.025/8435.075/87.159 ms  935 pps
+[  9] local 0.0.0.0 port 60011 connected with 192.0.0.114 port 38853
+[  9] 0.00-10.00 sec  10.7 MBytes  9.00 Mbits/sec   0.102 ms    0/ 7655 (0%) 8431.741/8430.926/8436.238/96.370 ms  765 pps
+[ 11] local 0.0.0.0 port 60011 connected with 192.0.0.114 port 40971
+[ 11] 0.00-10.00 sec  8.35 MBytes  7.00 Mbits/sec   0.145 ms    0/ 5954 (0%) 8433.526/8432.679/8438.529/109.297 ms  595 pps
+------------------------------------------------------------
+Server listening on UDP port 60011
+Receiving 1470 byte datagrams
+UDP buffer size: 0.41 MByte (WARNING: requested 0.59 MByte)
+------------------------------------------------------------
+[  1] local 0.0.0.0 port 60011 connected with 192.0.0.114 port 39261
+[ ID] Interval       Transfer     Bandwidth        Jitter   Lost/Total  Latency avg/min/max/stdev PPS
+[  1] 0.00-10.00 sec  13.1 MBytes  11.0 Mbits/sec   0.158 ms    0/ 9355 (0%) 8436.173/8435.351/8443.782/87.220 ms  935 pps
+[  3] local 0.0.0.0 port 60011 connected with 192.0.0.114 port 58863
+[  3] 0.00-10.00 sec  10.7 MBytes  9.00 Mbits/sec   0.122 ms    0/ 7654 (0%) 8438.019/8437.177/8447.490/96.452 ms  765 pps
+[  5] local 0.0.0.0 port 60011 connected with 192.0.0.114 port 60444
+[  5] 0.00-10.00 sec  10.7 MBytes  9.00 Mbits/sec   0.133 ms    0/ 7655 (0%) 8439.777/8438.904/8446.509/96.467 ms  765 pps
+[  7] local 0.0.0.0 port 60011 connected with 192.0.0.114 port 39664
+[  7] 0.00-10.00 sec  13.1 MBytes  11.0 Mbits/sec   0.398 ms    3/ 9355 (0.032%) 8441.555/8440.758/8446.093/87.291 ms  935 pps
+[  9] local 0.0.0.0 port 60011 connected with 192.0.0.114 port 53091
+[  9] 0.00-10.00 sec  11.9 MBytes  10.0 Mbits/sec   0.154 ms    0/ 8505 (0%) 8443.489/8442.716/8453.535/91.558 ms  850 pps
+[ 11] local 0.0.0.0 port 60011 connected with 192.0.0.114 port 57241
+[ 11] 0.00-10.00 sec  13.1 MBytes  11.0 Mbits/sec   0.115 ms    0/ 9355 (0%) 8445.372/8444.506/8452.269/87.317 ms  935 pps
+------------------------------------------------------------
+Server listening on UDP port 60011
+Receiving 1470 byte datagrams
+UDP buffer size: 0.41 MByte (WARNING: requested 0.59 MByte)
+------------------------------------------------------------
+[  1] local 0.0.0.0 port 60011 connected with 192.0.0.114 port 54790
+[ ID] Interval       Transfer     Bandwidth        Jitter   Lost/Total  Latency avg/min/max/stdev PPS
+[  1] 0.00-10.00 sec  10.7 MBytes  9.00 Mbits/sec   0.166 ms    0/ 7655 (0%) 8448.575/8447.715/8454.468/96.565 ms  765 pps
+[  3] local 0.0.0.0 port 60011 connected with 192.0.0.114 port 36317
+[  3] 0.00-10.00 sec  9.54 MBytes  8.00 Mbits/sec   0.154 ms    0/ 6804 (0%) 8450.425/8449.604/8456.534/102.446 ms  680 pps
+[  5] local 0.0.0.0 port 60011 connected with 192.0.0.114 port 57828
+[  5] 0.00-10.00 sec  10.7 MBytes  9.00 Mbits/sec   0.206 ms    0/ 7655 (0%) 8452.232/8451.417/8459.422/96.608 ms  765 pps
+[  7] local 0.0.0.0 port 60011 connected with 192.0.0.114 port 35068
+[  7] 0.00-10.00 sec  10.7 MBytes  9.00 Mbits/sec   0.159 ms    0/ 7654 (0%) 8454.013/8453.204/8458.573/96.632 ms  765 pps
+[  9] local 0.0.0.0 port 60011 connected with 192.0.0.114 port 47586
+[  9] 0.00-10.00 sec  8.35 MBytes  7.00 Mbits/sec   0.128 ms    0/ 5954 (0%) 8455.928/8455.116/8460.436/109.593 ms  595 pps
+[ 11] local 0.0.0.0 port 60011 connected with 192.0.0.114 port 58975
+[ 11] 0.00-10.00 sec  11.9 MBytes  10.0 Mbits/sec   0.150 ms    0/ 8505 (0%) 8457.742/8456.927/8464.313/91.712 ms  850 pps
+------------------------------------------------------------
+Server listening on UDP port 60011
+Receiving 1470 byte datagrams
+UDP buffer size: 0.41 MByte (WARNING: requested 0.59 MByte)
+------------------------------------------------------------
+[  1] local 0.0.0.0 port 60011 connected with 192.0.0.114 port 35044
+[ ID] Interval       Transfer     Bandwidth        Jitter   Lost/Total  Latency avg/min/max/stdev PPS
+[  1] 0.00-10.00 sec  11.9 MBytes  10.0 Mbits/sec   0.159 ms    0/ 8505 (0%) 8460.452/8459.692/8464.436/91.740 ms  850 pps
+[  3] local 0.0.0.0 port 60011 connected with 192.0.0.114 port 43371
+[  3] 0.00-10.00 sec  10.7 MBytes  9.00 Mbits/sec   0.186 ms    0/ 7655 (0%) 8462.276/8461.484/8467.556/96.723 ms  765 pps
+[  5] local 0.0.0.0 port 60011 connected with 192.0.0.114 port 49015
+[  5] 0.00-10.00 sec  10.7 MBytes  9.00 Mbits/sec   0.190 ms    0/ 7655 (0%) 8464.184/8463.362/8469.561/96.743 ms  765 pps
+[  7] local 0.0.0.0 port 60011 connected with 192.0.0.114 port 35525
+[  7] 0.00-10.00 sec  11.9 MBytes  10.0 Mbits/sec   0.230 ms    2/ 8505 (0.024%) 8466.068/8465.271/8470.944/91.811 ms  850 pps
+[  9] local 0.0.0.0 port 60011 connected with 192.0.0.114 port 33114
+[  9] 0.00-10.00 sec  10.7 MBytes  9.00 Mbits/sec   0.140 ms    0/ 7655 (0%) 8467.904/8467.115/8473.275/96.784 ms  765 pps
+[ 11] local 0.0.0.0 port 60011 connected with 192.0.0.114 port 59647
+[ 11] 0.00-10.00 sec  9.54 MBytes  8.00 Mbits/sec   0.106 ms    0/ 6804 (0%) 8469.931/8469.095/8475.468/102.686 ms  680 pps
+------------------------------------------------------------
+Server listening on UDP port 60011
+Receiving 1470 byte datagrams
+UDP buffer size: 0.41 MByte (WARNING: requested 0.59 MByte)
+------------------------------------------------------------
+[  1] local 0.0.0.0 port 60011 connected with 192.0.0.114 port 54726
+[ ID] Interval       Transfer     Bandwidth        Jitter   Lost/Total  Latency avg/min/max/stdev PPS
+[  1] 0.00-10.00 sec  11.9 MBytes  10.0 Mbits/sec   0.118 ms    0/ 8505 (0%) 8472.655/8471.793/8478.167/91.875 ms  850 pps
+[  3] local 0.0.0.0 port 60011 connected with 192.0.0.114 port 46270
+[  3] 0.00-10.00 sec  9.54 MBytes  8.00 Mbits/sec   0.128 ms    0/ 6804 (0%) 8474.554/8473.740/8479.027/102.743 ms  680 pps
+[  5] local 0.0.0.0 port 60011 connected with 192.0.0.114 port 50027
+[  5] 0.00-10.00 sec  14.3 MBytes  12.0 Mbits/sec   0.182 ms    0/10206 (0%) 8476.355/8475.632/8480.482/83.904 ms 1020 pps
+[  7] local 0.0.0.0 port 60011 connected with 192.0.0.114 port 55036
+[  7] 0.00-10.00 sec  11.9 MBytes  10.0 Mbits/sec   0.149 ms    0/ 8505 (0%) 8478.163/8477.402/8484.995/91.934 ms  850 pps
+[  9] local 0.0.0.0 port 60011 connected with 192.0.0.114 port 37465
+[  9] 0.00-10.00 sec  13.1 MBytes  11.0 Mbits/sec   0.211 ms    0/ 9355 (0%) 8480.502/8479.657/8485.884/87.681 ms  935 pps
+[ 11] local 0.0.0.0 port 60011 connected with 192.0.0.114 port 38275
+[ 11] 0.00-10.00 sec  10.7 MBytes  9.00 Mbits/sec   0.122 ms    0/ 7655 (0%) 8482.826/8481.960/8489.715/96.955 ms  765 pps
+------------------------------------------------------------
+Server listening on UDP port 60011
+Receiving 1470 byte datagrams
+UDP buffer size: 0.41 MByte (WARNING: requested 0.59 MByte)
+------------------------------------------------------------
+[  1] local 0.0.0.0 port 60011 connected with 192.0.0.114 port 40263
+[ ID] Interval       Transfer     Bandwidth        Jitter   Lost/Total  Latency avg/min/max/stdev PPS
+[  1] 0.00-10.00 sec  10.7 MBytes  9.00 Mbits/sec   0.133 ms    0/ 7655 (0%) 8485.551/8484.726/8491.476/96.985 ms  765 pps
+[  3] local 0.0.0.0 port 60011 connected with 192.0.0.114 port 39707
+[  3] 0.00-10.00 sec  10.7 MBytes  9.00 Mbits/sec   0.156 ms    0/ 7655 (0%) 8487.435/8486.656/8493.372/97.007 ms  765 pps
+[  5] local 0.0.0.0 port 60011 connected with 192.0.0.114 port 41984
+[  5] 0.00-10.00 sec  10.7 MBytes  9.00 Mbits/sec   0.246 ms    0/ 7655 (0%) 8489.282/8488.496/8494.220/97.030 ms  765 pps
+[  7] local 0.0.0.0 port 60011 connected with 192.0.0.114 port 46492
+[  7] 0.00-10.00 sec  10.7 MBytes  9.00 Mbits/sec   0.119 ms    0/ 7655 (0%) 8491.133/8490.352/8497.300/97.049 ms  765 pps
+[  9] local 0.0.0.0 port 60011 connected with 192.0.0.114 port 42851
+[  9] 0.00-10.00 sec  10.7 MBytes  9.00 Mbits/sec   0.227 ms    0/ 7655 (0%) 8493.079/8492.238/8498.242/97.074 ms  765 pps
+[ 11] local 0.0.0.0 port 60011 connected with 192.0.0.114 port 39568
+[ 11] 0.00-10.00 sec  10.7 MBytes  9.00 Mbits/sec   0.188 ms    0/ 7655 (0%) 8495.339/8494.478/8499.976/97.102 ms  765 pps
+------------------------------------------------------------
+Server listening on UDP port 60011
+Receiving 1470 byte datagrams
+UDP buffer size: 0.41 MByte (WARNING: requested 0.59 MByte)
+------------------------------------------------------------
+[  1] local 0.0.0.0 port 60011 connected with 192.0.0.114 port 58393
+[ ID] Interval       Transfer     Bandwidth        Jitter   Lost/Total  Latency avg/min/max/stdev PPS
+[  1] 0.00-10.00 sec  14.3 MBytes  12.0 Mbits/sec   0.227 ms    0/10206 (0%) 8498.172/8497.403/8503.652/84.118 ms 1020 pps
+[  3] local 0.0.0.0 port 60011 connected with 192.0.0.114 port 57964
+[  3] 0.00-10.00 sec  10.7 MBytes  9.00 Mbits/sec   0.155 ms    0/ 7655 (0%) 8499.950/8499.193/8505.939/97.151 ms  765 pps
+[  5] local 0.0.0.0 port 60011 connected with 192.0.0.114 port 34956
+[  5] 0.00-10.00 sec  10.7 MBytes  9.00 Mbits/sec   0.111 ms    0/ 7655 (0%) 8501.814/8500.999/8507.118/97.176 ms  765 pps
+[  7] local 0.0.0.0 port 60011 connected with 192.0.0.114 port 52771
+[  7] 0.00-10.00 sec  13.1 MBytes  11.0 Mbits/sec   0.148 ms    0/ 9355 (0%) 8503.702/8502.869/8512.765/87.920 ms  935 pps
+[  9] local 0.0.0.0 port 60011 connected with 192.0.0.114 port 50018
+[  9] 0.00-10.00 sec  11.9 MBytes  10.0 Mbits/sec   0.111 ms    0/ 8505 (0%) 8505.567/8504.682/8513.086/92.227 ms  850 pps
+[ 11] local 0.0.0.0 port 60011 connected with 192.0.0.114 port 46680
+[ 11] 0.00-10.00 sec  9.54 MBytes  8.00 Mbits/sec   0.241 ms    0/ 6804 (0%) 8507.505/8506.597/8514.845/103.139 ms  680 pps
+------------------------------------------------------------
+Server listening on UDP port 60011
+Receiving 1470 byte datagrams
+UDP buffer size: 0.41 MByte (WARNING: requested 0.59 MByte)
+------------------------------------------------------------
+[  1] local 0.0.0.0 port 60011 connected with 192.0.0.114 port 42845
+[ ID] Interval       Transfer     Bandwidth        Jitter   Lost/Total  Latency avg/min/max/stdev PPS
+[  1] 0.00-10.00 sec  13.1 MBytes  11.0 Mbits/sec   0.153 ms    0/ 9355 (0%) 8510.199/8509.418/8515.144/87.987 ms  935 pps
+[  3] local 0.0.0.0 port 60011 connected with 192.0.0.114 port 58573
+[  3] 0.00-10.00 sec  9.54 MBytes  8.00 Mbits/sec   0.120 ms    0/ 6804 (0%) 8512.028/8511.222/8516.768/103.194 ms  680 pps
+[  5] local 0.0.0.0 port 60011 connected with 192.0.0.114 port 60715
+[  5] 0.00-10.00 sec  11.9 MBytes  10.0 Mbits/sec   0.177 ms    0/ 8505 (0%) 8513.887/8513.089/8519.854/92.320 ms  850 pps
+[  7] local 0.0.0.0 port 60011 connected with 192.0.0.114 port 60088
+[  7] 0.00-10.00 sec  9.54 MBytes  8.00 Mbits/sec   0.156 ms    0/ 6804 (0%) 8515.720/8514.945/8525.519/103.243 ms  680 pps
+[  9] local 0.0.0.0 port 60011 connected with 192.0.0.114 port 60272
+[  9] 0.00-10.00 sec  11.9 MBytes  10.0 Mbits/sec   0.129 ms    0/ 8505 (0%) 8517.616/8516.796/8523.305/92.361 ms  850 pps
+[ 11] local 0.0.0.0 port 60011 connected with 192.0.0.114 port 45585
+[ 11] 0.00-10.00 sec  10.7 MBytes  9.00 Mbits/sec   0.113 ms    0/ 7655 (0%) 8519.486/8518.610/8524.156/97.377 ms  765 pps
+------------------------------------------------------------
+Server listening on UDP port 60011
+Receiving 1470 byte datagrams
+UDP buffer size: 0.41 MByte (WARNING: requested 0.59 MByte)
+------------------------------------------------------------
+[  1] local 0.0.0.0 port 60011 connected with 192.0.0.114 port 50802
+[ ID] Interval       Transfer     Bandwidth        Jitter   Lost/Total  Latency avg/min/max/stdev PPS
+[  1] 0.00-10.00 sec  13.1 MBytes  11.0 Mbits/sec   0.093 ms    0/ 9355 (0%) 8522.243/8521.451/8530.731/88.111 ms  935 pps
+[  3] local 0.0.0.0 port 60011 connected with 192.0.0.114 port 34177
+[  3] 0.00-10.00 sec  11.9 MBytes  10.0 Mbits/sec   0.166 ms    0/ 8505 (0%) 8524.123/8523.335/8529.538/92.431 ms  850 pps
+[  5] local 0.0.0.0 port 60011 connected with 192.0.0.114 port 46102
+[  5] 0.00-10.00 sec  11.9 MBytes  10.0 Mbits/sec   0.143 ms    0/ 8505 (0%) 8526.069/8525.223/8531.226/92.454 ms  850 pps
+[  7] local 0.0.0.0 port 60011 connected with 192.0.0.114 port 48675
+[  7] 0.00-10.00 sec  10.7 MBytes  9.00 Mbits/sec   0.142 ms    0/ 7655 (0%) 8527.971/8527.161/8532.211/97.472 ms  765 pps
+[  9] local 0.0.0.0 port 60011 connected with 192.0.0.114 port 60451
+[  9] 0.00-10.00 sec  9.54 MBytes  8.00 Mbits/sec   0.273 ms    0/ 6804 (0%) 8529.818/8528.923/8534.715/103.411 ms  680 pps
+[ 11] local 0.0.0.0 port 60011 connected with 192.0.0.114 port 55258
+[ 11] 0.00-10.00 sec  10.7 MBytes  9.00 Mbits/sec   0.146 ms    0/ 7655 (0%) 8532.117/8531.321/8537.133/97.518 ms  765 pps
+------------------------------------------------------------
+Server listening on UDP port 60011
+Receiving 1470 byte datagrams
+UDP buffer size: 0.41 MByte (WARNING: requested 0.59 MByte)
+------------------------------------------------------------
+[  1] local 0.0.0.0 port 60011 connected with 192.0.0.114 port 39280
+[ ID] Interval       Transfer     Bandwidth        Jitter   Lost/Total  Latency avg/min/max/stdev PPS
+[  1] 0.00-10.00 sec  11.9 MBytes  10.0 Mbits/sec   0.144 ms    0/ 8505 (0%) 8534.948/8534.164/8540.053/92.550 ms  850 pps
+[  3] local 0.0.0.0 port 60011 connected with 192.0.0.114 port 49123
+[  3] 0.00-10.00 sec  10.7 MBytes  9.00 Mbits/sec   0.105 ms    0/ 7655 (0%) 8536.871/8536.010/8542.251/97.572 ms  765 pps
+[  5] local 0.0.0.0 port 60011 connected with 192.0.0.114 port 37948
+[  5] 0.00-10.00 sec  11.9 MBytes  10.0 Mbits/sec   0.156 ms    0/ 8505 (0%) 8538.775/8537.962/8546.443/92.591 ms  850 pps
+[  7] local 0.0.0.0 port 60011 connected with 192.0.0.114 port 34357
+[  7] 0.00-10.00 sec  9.54 MBytes  8.00 Mbits/sec   0.147 ms    0/ 6804 (0%) 8540.571/8539.761/8545.436/103.541 ms  680 pps
+[  9] local 0.0.0.0 port 60011 connected with 192.0.0.114 port 42012
+[  9] 0.00-10.00 sec  11.9 MBytes  10.0 Mbits/sec   0.163 ms    0/ 8505 (0%) 8542.448/8541.605/8549.620/92.629 ms  850 pps
+[ 11] local 0.0.0.0 port 60011 connected with 192.0.0.114 port 46839
+[ 11] 0.00-10.00 sec  10.7 MBytes  9.00 Mbits/sec   0.135 ms    0/ 7654 (0%) 8544.334/8543.533/8551.009/97.668 ms  765 pps
+------------------------------------------------------------
+Server listening on UDP port 60011
+Receiving 1470 byte datagrams
+UDP buffer size: 0.41 MByte (WARNING: requested 0.59 MByte)
+------------------------------------------------------------
+[  1] local 0.0.0.0 port 60011 connected with 192.0.0.114 port 40143
+[ ID] Interval       Transfer     Bandwidth        Jitter   Lost/Total  Latency avg/min/max/stdev PPS
+[  1] 0.00-10.01 sec  10.7 MBytes  9.00 Mbits/sec   0.313 ms    0/ 7655 (0%) 8547.030/8546.280/8553.617/97.690 ms  765 pps
+[  3] local 0.0.0.0 port 60011 connected with 192.0.0.114 port 51126
+[  3] 0.00-10.00 sec  10.7 MBytes  9.00 Mbits/sec   0.146 ms    1/ 7655 (0.013%) 8548.903/8548.108/8557.336/97.721 ms  765 pps
+[  5] local 0.0.0.0 port 60011 connected with 192.0.0.114 port 44678
+[  5] 0.00-10.00 sec  14.3 MBytes  12.0 Mbits/sec   0.171 ms    0/10206 (0%) 8550.821/8550.011/8556.235/84.641 ms 1020 pps
+[  7] local 0.0.0.0 port 60011 connected with 192.0.0.114 port 41854
+[  7] 0.00-10.00 sec  13.1 MBytes  11.0 Mbits/sec   0.258 ms    0/ 9355 (0%) 8552.599/8551.784/8558.248/88.428 ms  935 pps
+[  9] local 0.0.0.0 port 60011 connected with 192.0.0.114 port 51531
+[  9] 0.00-10.00 sec  13.1 MBytes  11.0 Mbits/sec   0.152 ms    0/ 9355 (0%) 8554.424/8553.631/8562.381/88.446 ms  935 pps
+[ 11] local 0.0.0.0 port 60011 connected with 192.0.0.114 port 50618
+[ 11] 0.00-10.00 sec  10.7 MBytes  9.00 Mbits/sec   0.149 ms    0/ 7655 (0%) 8556.311/8555.531/8564.202/97.797 ms  765 pps
+------------------------------------------------------------
+Server listening on UDP port 60011
+Receiving 1470 byte datagrams
+UDP buffer size: 0.41 MByte (WARNING: requested 0.59 MByte)
+------------------------------------------------------------
+[  1] local 0.0.0.0 port 60011 connected with 192.0.0.114 port 41033
+[ ID] Interval       Transfer     Bandwidth        Jitter   Lost/Total  Latency avg/min/max/stdev PPS
+[  1] 0.00-10.00 sec  8.35 MBytes  7.00 Mbits/sec   0.150 ms    0/ 5954 (0%) 8559.061/8558.276/8565.483/110.925 ms  595 pps
+[  3] local 0.0.0.0 port 60011 connected with 192.0.0.114 port 54787
+[  3] 0.00-10.00 sec  11.9 MBytes  10.0 Mbits/sec   0.128 ms    0/ 8505 (0%) 8560.946/8560.141/8567.656/92.831 ms  850 pps
+[  5] local 0.0.0.0 port 60011 connected with 192.0.0.114 port 46960
+[  5] 0.00-10.00 sec  11.9 MBytes  10.0 Mbits/sec   0.164 ms    0/ 8505 (0%) 8562.728/8561.917/8567.436/92.850 ms  850 pps
+[  7] local 0.0.0.0 port 60011 connected with 192.0.0.114 port 34837
+[  7] 0.00-10.00 sec  10.7 MBytes  9.00 Mbits/sec   0.151 ms    0/ 7655 (0%) 8564.526/8563.772/8569.650/97.893 ms  765 pps
+[  9] local 0.0.0.0 port 60011 connected with 192.0.0.114 port 37527
+[  9] 0.00-10.00 sec  10.7 MBytes  9.00 Mbits/sec   0.205 ms    0/ 7655 (0%) 8566.426/8565.701/8572.421/97.912 ms  765 pps
+[ 11] local 0.0.0.0 port 60011 connected with 192.0.0.114 port 38360
+[ 11] 0.00-10.00 sec  11.9 MBytes  10.0 Mbits/sec   0.161 ms    0/ 8505 (0%) 8568.298/8567.496/8575.566/92.911 ms  850 pps
+------------------------------------------------------------
+Server listening on UDP port 60011
+Receiving 1470 byte datagrams
+UDP buffer size: 0.41 MByte (WARNING: requested 0.59 MByte)
+------------------------------------------------------------
+[  1] local 0.0.0.0 port 60011 connected with 192.0.0.114 port 60969
+[ ID] Interval       Transfer     Bandwidth        Jitter   Lost/Total  Latency avg/min/max/stdev PPS
+[  1] 0.00-10.00 sec  13.1 MBytes  11.0 Mbits/sec   0.154 ms    0/ 9355 (0%) 8571.471/8570.740/8581.824/88.620 ms  935 pps
+[  3] local 0.0.0.0 port 60011 connected with 192.0.0.114 port 45274
+[  3] 0.00-10.00 sec  11.9 MBytes  10.0 Mbits/sec   0.151 ms    0/ 8505 (0%) 8573.258/8572.469/8577.431/92.966 ms  850 pps
+[  5] local 0.0.0.0 port 60011 connected with 192.0.0.114 port 56045
+[  5] 0.00-10.00 sec  13.1 MBytes  11.0 Mbits/sec   0.155 ms    0/ 9355 (0%) 8575.214/8574.405/8580.877/88.660 ms  935 pps
+[  7] local 0.0.0.0 port 60011 connected with 192.0.0.114 port 50885
+[  7] 0.00-10.00 sec  8.35 MBytes  7.00 Mbits/sec   0.331 ms    0/ 5954 (0%) 8577.067/8576.336/8582.442/111.164 ms  595 pps
+[  9] local 0.0.0.0 port 60011 connected with 192.0.0.114 port 49198
+[  9] 0.00-10.00 sec  9.54 MBytes  8.00 Mbits/sec   0.143 ms    0/ 6804 (0%) 8578.991/8578.220/8584.528/104.006 ms  680 pps
+[ 11] local 0.0.0.0 port 60011 connected with 192.0.0.114 port 59222
+[ 11] 0.00-10.00 sec  10.7 MBytes  9.00 Mbits/sec   0.156 ms    0/ 7655 (0%) 8580.844/8580.071/8585.340/98.078 ms  765 pps
+------------------------------------------------------------
+Server listening on UDP port 60011
+Receiving 1470 byte datagrams
+UDP buffer size: 0.41 MByte (WARNING: requested 0.59 MByte)
+------------------------------------------------------------
+[  1] local 0.0.0.0 port 60011 connected with 192.0.0.114 port 44814
+[ ID] Interval       Transfer     Bandwidth        Jitter   Lost/Total  Latency avg/min/max/stdev PPS
+[  1] 0.00-10.00 sec  10.7 MBytes  9.00 Mbits/sec   0.155 ms    0/ 7655 (0%) 8584.037/8583.185/8589.955/98.113 ms  765 pps
+[  3] local 0.0.0.0 port 60011 connected with 192.0.0.114 port 45116
+[  3] 0.00-10.00 sec  10.7 MBytes  9.00 Mbits/sec   0.188 ms    0/ 7655 (0%) 8585.908/8585.053/8595.137/98.135 ms  765 pps
+[  5] local 0.0.0.0 port 60011 connected with 192.0.0.114 port 36787
+[  5] 0.00-10.00 sec  11.9 MBytes  10.0 Mbits/sec   0.136 ms    0/ 8505 (0%) 8587.842/8587.018/8594.362/93.121 ms  850 pps
+[  7] local 0.0.0.0 port 60011 connected with 192.0.0.114 port 57536
+[  7] 0.00-10.00 sec  11.9 MBytes  10.0 Mbits/sec   0.202 ms    0/ 8505 (0%) 8589.772/8588.878/8595.019/93.141 ms  850 pps
+[  9] local 0.0.0.0 port 60011 connected with 192.0.0.114 port 40324
+[  9] 0.00-10.00 sec  13.1 MBytes  11.0 Mbits/sec   0.127 ms    3/ 9355 (0.032%) 8591.692/8590.831/8597.859/88.846 ms  935 pps
+[ 11] local 0.0.0.0 port 60011 connected with 192.0.0.114 port 39575
+[ 11] 0.00-10.00 sec  9.54 MBytes  8.00 Mbits/sec   0.154 ms    0/ 6804 (0%) 8593.492/8592.701/8602.947/104.180 ms  680 pps
+------------------------------------------------------------
+Server listening on UDP port 60011
+Receiving 1470 byte datagrams
+UDP buffer size: 0.41 MByte (WARNING: requested 0.59 MByte)
+------------------------------------------------------------
+[  1] local 0.0.0.0 port 60011 connected with 192.0.0.114 port 47231
+[ ID] Interval       Transfer     Bandwidth        Jitter   Lost/Total  Latency avg/min/max/stdev PPS
+[  1] 0.00-10.00 sec  11.9 MBytes  10.0 Mbits/sec   0.131 ms    0/ 8505 (0%) 8596.169/8595.446/8600.835/93.211 ms  850 pps
+[  3] local 0.0.0.0 port 60011 connected with 192.0.0.114 port 46046
+[  3] 0.00-10.00 sec  10.7 MBytes  9.00 Mbits/sec   0.139 ms    0/ 7655 (0%) 8598.024/8597.240/8601.933/98.275 ms  765 pps
+[  5] local 0.0.0.0 port 60011 connected with 192.0.0.114 port 50868
+[  5] 0.00-10.00 sec  11.9 MBytes  10.0 Mbits/sec   0.155 ms    0/ 8505 (0%) 8599.783/8598.959/8606.512/93.251 ms  850 pps
+[  7] local 0.0.0.0 port 60011 connected with 192.0.0.114 port 46615
+[  7] 0.00-10.00 sec  10.7 MBytes  9.00 Mbits/sec   0.110 ms    0/ 7655 (0%) 8601.610/8600.777/8607.385/98.316 ms  765 pps
+[  9] local 0.0.0.0 port 60011 connected with 192.0.0.114 port 41174
+[  9] 0.00-10.00 sec  10.7 MBytes  9.00 Mbits/sec   0.209 ms    0/ 7655 (0%) 8603.381/8602.607/8609.461/98.333 ms  765 pps
+[ 11] local 0.0.0.0 port 60011 connected with 192.0.0.114 port 34069
+[ 11] 0.00-10.00 sec  11.9 MBytes  10.0 Mbits/sec   0.330 ms    0/ 8505 (0%) 8605.209/8604.350/8610.824/93.308 ms  850 pps
+------------------------------------------------------------
+Server listening on UDP port 60011
+Receiving 1470 byte datagrams
+UDP buffer size: 0.41 MByte (WARNING: requested 0.59 MByte)
+------------------------------------------------------------
+[  1] local 0.0.0.0 port 60011 connected with 192.0.0.114 port 44733
+[ ID] Interval       Transfer     Bandwidth        Jitter   Lost/Total  Latency avg/min/max/stdev PPS
+[  1] 0.00-10.00 sec  13.1 MBytes  11.0 Mbits/sec   0.087 ms    0/ 9355 (0%) 8608.073/8607.277/8613.595/88.999 ms  935 pps
+[  3] local 0.0.0.0 port 60011 connected with 192.0.0.114 port 34216
+[  3] 0.00-10.00 sec  13.1 MBytes  11.0 Mbits/sec   0.145 ms    0/ 9355 (0%) 8609.951/8609.174/8615.552/89.019 ms  935 pps
+[  5] local 0.0.0.0 port 60011 connected with 192.0.0.114 port 52414
+[  5] 0.00-10.00 sec  9.54 MBytes  8.00 Mbits/sec   0.116 ms    0/ 6804 (0%) 8611.753/8610.980/8616.765/104.406 ms  680 pps
+[  7] local 0.0.0.0 port 60011 connected with 192.0.0.114 port 41229
+[  7] 0.00-10.00 sec  10.7 MBytes  9.00 Mbits/sec   0.092 ms    0/ 7654 (0%) 8613.597/8612.854/8624.209/98.456 ms  765 pps
+[  9] local 0.0.0.0 port 60011 connected with 192.0.0.114 port 52794
+[  9] 0.00-10.00 sec  10.7 MBytes  9.00 Mbits/sec   0.140 ms    0/ 7655 (0%) 8615.528/8614.778/8620.468/98.472 ms  765 pps
+[ 11] local 0.0.0.0 port 60011 connected with 192.0.0.114 port 48926
+[ 11] 0.00-10.00 sec  13.1 MBytes  11.0 Mbits/sec   0.120 ms    0/ 9355 (0%) 8617.468/8616.632/8622.717/89.097 ms  935 pps

@@ -1,0 +1,83 @@
+'''
+Created on May 3, 2016
+
+@author: nimdrak
+'''
+####################
+#### File input ####
+####################
+import sys
+
+f = open("/home/cloud1/IoT/input.txt",'r')
+line=f.readline()
+result=line.split()
+
+src_ovs=result[0]
+dst_ovs=result[len(result)-1]
+
+print "############################"
+print "#####check ovs's server#####"
+print "############################"
+print '\n'
+
+print "SRC'S OVS is ", src_ovs
+print "DST'S OVS is ", dst_ovs
+
+
+print '\n'
+
+#################################
+#### Calculate server per DC ####
+#################################
+
+
+max_host = 0
+f_cal = open("/home/cloud1/IoT/cloud/Rest_API_Python/HttpClient/server_table/OVS1.txt",'r')
+line_cal=f_cal.readline()
+
+while line_cal:
+    result_cal=line_cal.split()
+    line_cal=f_cal.readline()
+
+    max_host=max_host+1
+
+max_host = max_host -1   
+print "Server number is " + str(max_host)
+print '\n'
+
+######################################
+#### Find source OVS and dest OVS ####
+######################################
+
+print 'Check whether datacenter is full or not'
+index_vector=[0,0,0,4]
+for x in range(0,len(index_vector)):
+    if index_vector[x]== max_host:
+        print "Datacenter " + str(x+1) + " is full"
+        print "If you use DC 4, Admission control is impossible"
+print '\n'
+
+if index_vector[int(src_ovs)-1]==max_host:
+            print >> sys.stderr, "Because DC" +str(src_ovs)+"is full",", Admission control is impossible"
+if index_vector[int(dst_ovs)-1]==max_host:
+            print >> sys.stderr, "Because DC" +str(dst_ovs)+"is full",", Admission control is impossible"            
+
+
+
+f_src = open("/home/cloud1/IoT/cloud/Rest_API_Python/HttpClient/server_table/"+"OVS"+src_ovs+".txt",'r')
+f_dst = open("/home/cloud1/IoT/cloud/Rest_API_Python/HttpClient/server_table/"+"OVS"+dst_ovs+".txt",'r')
+
+src_vector=[]
+dst_vector=[]
+
+index_vector=[0,0,0,0]
+
+line_src=f_src.readline()
+
+while line_src:
+    result_src=line_src.split()
+    line_src=f_src.readline()
+    print result_src
+
+
+

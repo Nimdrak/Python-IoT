@@ -1,0 +1,127 @@
+'''
+Created on Mar 30, 2016
+
+@author: nimdrak
+'''
+
+
+import requests
+import json
+from piston_mini_client.failhandlers import APIError
+
+
+def Routing_rule_post(Device_id, Priority, Type, Out_port, Src_IP, Dst_IP, ARP_IP, ARP_IP_Type):
+    
+
+    username = 'karaf'
+    password = 'karaf'
+
+    
+    task = {
+            
+          "deviceId": Device_id,
+          "isPermanent":"true",
+          "priority": Priority,
+          "state": "ADD",
+          "treatment": {
+                        "instructions": [
+                                         {
+                                         "type": Type,
+                                         "port": Out_port
+                                         }
+                                        ],
+                        "deferred": []
+                        },
+    
+          "selector": {
+                       "criteria": [
+                                         {
+                                         "type":"IPV4_SRC",
+                                         "ip": Src_IP
+                                         },
+                                         {
+                                         "type":"IPV4_DST",
+                                         "ip": Dst_IP
+                                         },
+                                         {
+                                          "ethType": ARP_IP,
+                                          "type": ARP_IP_Type
+                                         }
+                                             
+                                   ]
+                       }
+            
+                
+            }
+    
+    data=json.dumps(task)
+    
+    resp = requests.post("http://localhost:8181/onos/v1/flows/" + Device_id + "/",data,auth=(username,password))
+
+    
+    if resp.status_code != 201:
+        raise APIError('POST /tasks/ {}'.format(resp.status_code))
+    
+    print '\n'
+    print "Adding Routing Rule Success"
+
+
+def Routing_rule_post_arp_drop(Device_id, Priority, Type, Out_port, Src_IP, Dst_IP, ARP_IP, ARP_IP_Type):
+    
+
+    username = 'karaf'
+    password = 'karaf'
+
+    
+    task = {
+            
+          "deviceId": Device_id,
+          "isPermanent":"true",
+          "priority": Priority,
+          "state": "ADD",
+          "treatment": {
+                        "instructions": [
+                                         {
+                                         "type": Type,
+                                         "port": Out_port
+                                         }
+                                        ],
+                        "deferred": []
+                        },
+    
+          "selector": {
+                       "criteria": [
+                                         {
+                                         "type":"IPV4_SRC",
+                                         "ip": Src_IP
+                                         },
+                                         {
+                                         "type":"IPV4_DST",
+                                         "ip": Dst_IP
+                                         },
+                                         {
+                                          "ethType": ARP_IP,
+                                          "type": ARP_IP_Type
+                                         }
+                                             
+                                   ]
+                       }
+            
+                
+            }
+    
+    data=json.dumps(task)
+    
+    resp = requests.post("http://localhost:8181/onos/v1/flows/" + Device_id + "/",data,auth=(username,password))
+
+    
+    if resp.status_code != 201:
+        raise APIError('POST /tasks/ {}'.format(resp.status_code))
+    
+    print '\n'
+    print "Adding Routing Rule Success"
+
+    
+
+
+

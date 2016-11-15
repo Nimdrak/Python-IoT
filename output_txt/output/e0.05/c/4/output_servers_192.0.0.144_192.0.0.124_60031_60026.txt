@@ -1,0 +1,540 @@
+------------------------------------------------------------
+Server listening on UDP port 60031
+Receiving 1470 byte datagrams
+UDP buffer size: 0.41 MByte (WARNING: requested 0.59 MByte)
+------------------------------------------------------------
+[  1] local 0.0.0.0 port 60031 connected with 192.0.0.124 port 59383
+[ ID] Interval       Transfer     Bandwidth        Jitter   Lost/Total  Latency avg/min/max/stdev PPS
+[  1] 0.00-10.00 sec  10.7 MBytes  9.00 Mbits/sec   0.101 ms    0/ 7655 (0%) 3101.530/3101.134/3109.624/35.451 ms  765 pps
+[  3] local 0.0.0.0 port 60031 connected with 192.0.0.124 port 52239
+[  3] 0.00-10.00 sec  8.35 MBytes  7.00 Mbits/sec   0.121 ms    0/ 5954 (0%) 3101.787/3101.417/3104.242/40.207 ms  595 pps
+[  5] local 0.0.0.0 port 60031 connected with 192.0.0.124 port 51051
+[  5] 0.00-10.00 sec  8.35 MBytes  7.00 Mbits/sec   0.097 ms    0/ 5954 (0%) 3102.049/3101.700/3105.685/40.206 ms  595 pps
+[  7] local 0.0.0.0 port 60031 connected with 192.0.0.124 port 44402
+[  7] 0.00-10.00 sec  10.7 MBytes  9.00 Mbits/sec   0.361 ms    0/ 7655 (0%) 3102.320/3101.943/3111.593/35.462 ms  765 pps
+[  9] local 0.0.0.0 port 60031 connected with 192.0.0.124 port 33842
+[  9] 0.00-10.00 sec  10.7 MBytes  9.00 Mbits/sec   0.141 ms    0/ 7655 (0%) 3102.587/3102.174/3107.364/35.460 ms  765 pps
+[ 11] local 0.0.0.0 port 60031 connected with 192.0.0.124 port 38182
+[ 11] 0.00-10.00 sec  8.35 MBytes  7.00 Mbits/sec   0.160 ms    0/ 5954 (0%) 3102.835/3102.436/3106.859/40.214 ms  595 pps
+------------------------------------------------------------
+Server listening on UDP port 60031
+Receiving 1470 byte datagrams
+UDP buffer size: 0.41 MByte (WARNING: requested 0.59 MByte)
+------------------------------------------------------------
+[  1] local 0.0.0.0 port 60031 connected with 192.0.0.124 port 38641
+[ ID] Interval       Transfer     Bandwidth        Jitter   Lost/Total  Latency avg/min/max/stdev PPS
+[  1] 0.00-10.00 sec  7.16 MBytes  6.00 Mbits/sec   0.147 ms    0/ 5104 (0%) 3103.202/3102.827/3109.477/43.442 ms  510 pps
+[  3] local 0.0.0.0 port 60031 connected with 192.0.0.124 port 43875
+[  3] 0.00-10.00 sec  9.54 MBytes  8.00 Mbits/sec   0.123 ms    0/ 6804 (0%) 3103.464/3103.024/3109.390/37.627 ms  680 pps
+[  5] local 0.0.0.0 port 60031 connected with 192.0.0.124 port 54302
+[  5] 0.00-10.00 sec  4.77 MBytes  4.00 Mbits/sec   0.146 ms    0/ 3403 (0%) 3103.682/3103.284/3108.524/53.212 ms  340 pps
+[  7] local 0.0.0.0 port 60031 connected with 192.0.0.124 port 59775
+[  7] 0.00-10.00 sec  9.54 MBytes  8.00 Mbits/sec   0.374 ms    0/ 6804 (0%) 3103.894/3103.514/3108.936/37.630 ms  680 pps
+[  9] local 0.0.0.0 port 60031 connected with 192.0.0.124 port 38772
+[  9] 0.00-10.00 sec  8.35 MBytes  7.00 Mbits/sec   0.140 ms    0/ 5954 (0%) 3104.177/3103.759/3108.753/40.236 ms  595 pps
+[ 11] local 0.0.0.0 port 60031 connected with 192.0.0.124 port 41570
+[ 11] 0.00-10.00 sec  13.1 MBytes  11.0 Mbits/sec   0.181 ms    0/ 9355 (0%) 3104.412/3103.995/3110.241/32.099 ms  935 pps
+------------------------------------------------------------
+Server listening on UDP port 60031
+Receiving 1470 byte datagrams
+UDP buffer size: 0.41 MByte (WARNING: requested 0.59 MByte)
+------------------------------------------------------------
+[  1] local 0.0.0.0 port 60031 connected with 192.0.0.124 port 41038
+[ ID] Interval       Transfer     Bandwidth        Jitter   Lost/Total  Latency avg/min/max/stdev PPS
+[  1] 0.00-10.00 sec  9.54 MBytes  8.00 Mbits/sec   0.151 ms    0/ 6804 (0%) 3104.796/3104.387/3111.618/37.645 ms  680 pps
+[  3] local 0.0.0.0 port 60031 connected with 192.0.0.124 port 34967
+[  3] 0.00-10.00 sec  8.35 MBytes  7.00 Mbits/sec   0.135 ms    0/ 5954 (0%) 3105.032/3104.633/3109.062/40.246 ms  595 pps
+[  5] local 0.0.0.0 port 60031 connected with 192.0.0.124 port 44218
+[  5] 0.00-10.00 sec  11.9 MBytes  10.0 Mbits/sec   0.097 ms    0/ 8505 (0%) 3105.259/3104.862/3110.096/33.677 ms  850 pps
+[  7] local 0.0.0.0 port 60031 connected with 192.0.0.124 port 39104
+[  7] 0.00-10.00 sec  7.16 MBytes  6.00 Mbits/sec   0.503 ms    0/ 5104 (0%) 3105.517/3105.129/3109.986/43.473 ms  510 pps
+[  9] local 0.0.0.0 port 60031 connected with 192.0.0.124 port 49663
+[  9] 0.00-10.00 sec  4.77 MBytes  4.00 Mbits/sec   0.125 ms    0/ 3403 (0%) 3105.747/3105.339/3110.467/53.245 ms  340 pps
+[ 11] local 0.0.0.0 port 60031 connected with 192.0.0.124 port 38675
+[ 11] 0.00-10.00 sec  4.77 MBytes  4.00 Mbits/sec   0.129 ms    0/ 3403 (0%) 3106.017/3105.622/3110.450/53.253 ms  340 pps
+------------------------------------------------------------
+Server listening on UDP port 60031
+Receiving 1470 byte datagrams
+UDP buffer size: 0.41 MByte (WARNING: requested 0.59 MByte)
+------------------------------------------------------------
+[  1] local 0.0.0.0 port 60031 connected with 192.0.0.124 port 48116
+[ ID] Interval       Transfer     Bandwidth        Jitter   Lost/Total  Latency avg/min/max/stdev PPS
+[  1] 0.00-10.00 sec  7.16 MBytes  6.00 Mbits/sec   0.160 ms    0/ 5104 (0%) 3106.418/3105.962/3110.143/43.487 ms  510 pps
+[  3] local 0.0.0.0 port 60031 connected with 192.0.0.124 port 42632
+[  3] 0.00-10.00 sec  9.54 MBytes  8.00 Mbits/sec   0.131 ms    0/ 6804 (0%) 3106.607/3106.195/3111.570/37.666 ms  680 pps
+[  5] local 0.0.0.0 port 60031 connected with 192.0.0.124 port 57431
+[  5] 0.00-10.00 sec  7.16 MBytes  6.00 Mbits/sec   0.131 ms    0/ 5104 (0%) 3106.863/3106.440/3112.577/43.491 ms  510 pps
+[  7] local 0.0.0.0 port 60031 connected with 192.0.0.124 port 49498
+[  7] 0.00-10.00 sec  5.96 MBytes  5.00 Mbits/sec   0.141 ms    0/ 4253 (0%) 3107.130/3106.684/3111.353/47.649 ms  425 pps
+[  9] local 0.0.0.0 port 60031 connected with 192.0.0.124 port 59311
+[  9] 0.00-10.00 sec  8.35 MBytes  7.00 Mbits/sec   0.138 ms    0/ 5954 (0%) 3107.372/3106.889/3111.481/40.275 ms  595 pps
+[ 11] local 0.0.0.0 port 60031 connected with 192.0.0.124 port 53438
+[ 11] 0.00-10.00 sec  10.7 MBytes  9.00 Mbits/sec   0.141 ms    0/ 7655 (0%) 3107.602/3107.158/3112.107/35.521 ms  765 pps
+------------------------------------------------------------
+Server listening on UDP port 60031
+Receiving 1470 byte datagrams
+UDP buffer size: 0.41 MByte (WARNING: requested 0.59 MByte)
+------------------------------------------------------------
+[  1] local 0.0.0.0 port 60031 connected with 192.0.0.124 port 44727
+[ ID] Interval       Transfer     Bandwidth        Jitter   Lost/Total  Latency avg/min/max/stdev PPS
+[  1] 0.00-10.00 sec  7.16 MBytes  6.00 Mbits/sec   0.159 ms    0/ 5104 (0%) 3107.984/3107.574/3111.773/43.507 ms  510 pps
+[  3] local 0.0.0.0 port 60031 connected with 192.0.0.124 port 35797
+[  3] 0.00-10.00 sec  9.54 MBytes  8.00 Mbits/sec   0.105 ms    0/ 6804 (0%) 3108.224/3107.768/3112.797/37.685 ms  680 pps
+[  5] local 0.0.0.0 port 60031 connected with 192.0.0.124 port 40487
+[  5] 0.00-10.00 sec  7.16 MBytes  6.00 Mbits/sec   0.185 ms    0/ 5104 (0%) 3108.453/3108.039/3116.762/43.516 ms  510 pps
+[  7] local 0.0.0.0 port 60031 connected with 192.0.0.124 port 38021
+[  7] 0.00-10.00 sec  8.35 MBytes  7.00 Mbits/sec   0.126 ms    0/ 5954 (0%) 3108.709/3108.266/3112.397/40.292 ms  595 pps
+[  9] local 0.0.0.0 port 60031 connected with 192.0.0.124 port 38416
+[  9] 0.00-10.00 sec  10.7 MBytes  9.00 Mbits/sec   0.101 ms    0/ 7655 (0%) 3108.909/3108.497/3113.397/35.537 ms  765 pps
+[ 11] local 0.0.0.0 port 60031 connected with 192.0.0.124 port 47153
+[ 11] 0.00-10.00 sec  4.77 MBytes  4.00 Mbits/sec   0.161 ms    0/ 3403 (0%) 3109.152/3108.762/3113.591/53.308 ms  340 pps
+------------------------------------------------------------
+Server listening on UDP port 60031
+Receiving 1470 byte datagrams
+UDP buffer size: 0.41 MByte (WARNING: requested 0.59 MByte)
+------------------------------------------------------------
+[  1] local 0.0.0.0 port 60031 connected with 192.0.0.124 port 36857
+[ ID] Interval       Transfer     Bandwidth        Jitter   Lost/Total  Latency avg/min/max/stdev PPS
+[  1] 0.00-10.00 sec  13.1 MBytes  11.0 Mbits/sec   0.118 ms    0/ 9355 (0%) 3109.769/3109.344/3114.550/32.156 ms  935 pps
+[  3] local 0.0.0.0 port 60031 connected with 192.0.0.124 port 43605
+[  3] 0.00-10.00 sec  8.35 MBytes  7.00 Mbits/sec   0.270 ms    0/ 5954 (0%) 3109.985/3109.563/3114.008/40.309 ms  595 pps
+[  5] local 0.0.0.0 port 60031 connected with 192.0.0.124 port 48910
+[  5] 0.00-10.00 sec  7.16 MBytes  6.00 Mbits/sec   0.137 ms    0/ 5104 (0%) 3110.250/3109.828/3115.407/43.541 ms  510 pps
+[  7] local 0.0.0.0 port 60031 connected with 192.0.0.124 port 41949
+[  7] 0.00-10.00 sec  4.77 MBytes  4.00 Mbits/sec   0.128 ms    0/ 3403 (0%) 3110.551/3110.125/3117.860/53.324 ms  340 pps
+[  9] local 0.0.0.0 port 60031 connected with 192.0.0.124 port 38620
+[  9] 0.00-10.00 sec  5.96 MBytes  5.00 Mbits/sec   0.193 ms    0/ 4253 (0%) 3110.802/3110.373/3115.729/47.703 ms  425 pps
+[ 11] local 0.0.0.0 port 60031 connected with 192.0.0.124 port 57096
+[ 11] 0.00-10.00 sec  10.7 MBytes  9.00 Mbits/sec   0.164 ms    0/ 7655 (0%) 3111.148/3110.611/3118.866/35.562 ms  765 pps
+------------------------------------------------------------
+Server listening on UDP port 60031
+Receiving 1470 byte datagrams
+UDP buffer size: 0.41 MByte (WARNING: requested 0.59 MByte)
+------------------------------------------------------------
+[  1] local 0.0.0.0 port 60031 connected with 192.0.0.124 port 47895
+[ ID] Interval       Transfer     Bandwidth        Jitter   Lost/Total  Latency avg/min/max/stdev PPS
+[  1] 0.00-10.00 sec  15.5 MBytes  13.0 Mbits/sec   0.157 ms    0/11056 (0%) 3111.421/3110.936/3117.185/29.594 ms 1105 pps
+[  3] local 0.0.0.0 port 60031 connected with 192.0.0.124 port 35410
+[  3] 0.00-10.00 sec  9.54 MBytes  8.00 Mbits/sec   0.128 ms    0/ 6804 (0%) 3111.657/3111.222/3116.212/37.727 ms  680 pps
+[  5] local 0.0.0.0 port 60031 connected with 192.0.0.124 port 50451
+[  5] 0.00-10.00 sec  10.7 MBytes  9.00 Mbits/sec   0.143 ms    0/ 7655 (0%) 3111.904/3111.456/3117.206/35.570 ms  765 pps
+[  7] local 0.0.0.0 port 60031 connected with 192.0.0.124 port 51275
+[  7] 0.00-10.00 sec  10.7 MBytes  9.00 Mbits/sec   0.143 ms    0/ 7655 (0%) 3112.171/3111.688/3116.872/35.572 ms  765 pps
+[  9] local 0.0.0.0 port 60031 connected with 192.0.0.124 port 38085
+[  9] 0.00-10.00 sec  8.35 MBytes  7.00 Mbits/sec   0.105 ms    0/ 5954 (0%) 3112.393/3111.949/3121.297/40.341 ms  595 pps
+[ 11] local 0.0.0.0 port 60031 connected with 192.0.0.124 port 54275
+[ 11] 0.00-10.00 sec  7.16 MBytes  6.00 Mbits/sec   0.243 ms    0/ 5104 (0%) 3112.757/3112.257/3118.938/43.573 ms  510 pps
+------------------------------------------------------------
+Server listening on UDP port 60031
+Receiving 1470 byte datagrams
+UDP buffer size: 0.41 MByte (WARNING: requested 0.59 MByte)
+------------------------------------------------------------
+[  1] local 0.0.0.0 port 60031 connected with 192.0.0.124 port 40639
+[ ID] Interval       Transfer     Bandwidth        Jitter   Lost/Total  Latency avg/min/max/stdev PPS
+[  1] 0.00-10.00 sec  8.35 MBytes  7.00 Mbits/sec   0.162 ms    0/ 5954 (0%) 3113.028/3112.571/3118.674/40.347 ms  595 pps
+[  3] local 0.0.0.0 port 60031 connected with 192.0.0.124 port 44351
+[  3] 0.00-10.00 sec  11.9 MBytes  10.0 Mbits/sec   0.141 ms    0/ 8505 (0%) 3113.252/3112.823/3121.008/33.761 ms  850 pps
+[  5] local 0.0.0.0 port 60031 connected with 192.0.0.124 port 36546
+[  5] 0.00-10.00 sec  9.54 MBytes  8.00 Mbits/sec   0.157 ms    0/ 6804 (0%) 3113.458/3113.043/3116.860/37.748 ms  680 pps
+[  7] local 0.0.0.0 port 60031 connected with 192.0.0.124 port 38107
+[  7] 0.00-10.00 sec  13.1 MBytes  11.0 Mbits/sec   0.142 ms    0/ 9355 (0%) 3113.725/3113.253/3120.582/32.194 ms  935 pps
+[  9] local 0.0.0.0 port 60031 connected with 192.0.0.124 port 37451
+[  9] 0.00-10.00 sec  8.35 MBytes  7.00 Mbits/sec   0.140 ms    0/ 5954 (0%) 3113.937/3113.499/3119.498/40.359 ms  595 pps
+[ 11] local 0.0.0.0 port 60031 connected with 192.0.0.124 port 49472
+[ 11] 0.00-10.00 sec  9.54 MBytes  8.00 Mbits/sec   0.166 ms    0/ 6804 (0%) 3114.280/3113.782/3120.642/37.757 ms  680 pps
+------------------------------------------------------------
+Server listening on UDP port 60031
+Receiving 1470 byte datagrams
+UDP buffer size: 0.41 MByte (WARNING: requested 0.59 MByte)
+------------------------------------------------------------
+[  1] local 0.0.0.0 port 60031 connected with 192.0.0.124 port 53464
+[ ID] Interval       Transfer     Bandwidth        Jitter   Lost/Total  Latency avg/min/max/stdev PPS
+[  1] 0.00-10.00 sec  8.35 MBytes  7.00 Mbits/sec   0.137 ms    0/ 5954 (0%) 3114.600/3114.202/3119.532/40.368 ms  595 pps
+[  3] local 0.0.0.0 port 60031 connected with 192.0.0.124 port 57956
+[  3] 0.00-10.00 sec  9.54 MBytes  8.00 Mbits/sec   0.135 ms    0/ 6804 (0%) 3114.868/3114.412/3119.851/37.765 ms  680 pps
+[  5] local 0.0.0.0 port 60031 connected with 192.0.0.124 port 50746
+[  5] 0.00-10.00 sec  7.16 MBytes  6.00 Mbits/sec   0.124 ms    0/ 5104 (0%) 3115.117/3114.682/3119.465/43.609 ms  510 pps
+[  7] local 0.0.0.0 port 60031 connected with 192.0.0.124 port 38365
+[  7] 0.00-10.00 sec  11.9 MBytes  10.0 Mbits/sec   0.147 ms    0/ 8505 (0%) 3115.350/3114.900/3121.344/33.783 ms  850 pps
+[  9] local 0.0.0.0 port 60031 connected with 192.0.0.124 port 50726
+[  9] 0.00-10.00 sec  8.35 MBytes  7.00 Mbits/sec   0.099 ms    0/ 5954 (0%) 3115.603/3115.177/3120.044/40.381 ms  595 pps
+[ 11] local 0.0.0.0 port 60031 connected with 192.0.0.124 port 60319
+[ 11] 0.00-10.00 sec  10.7 MBytes  9.00 Mbits/sec   0.208 ms    0/ 7654 (0%) 3115.930/3115.457/3122.030/35.620 ms  765 pps
+------------------------------------------------------------
+Server listening on UDP port 60031
+Receiving 1470 byte datagrams
+UDP buffer size: 0.41 MByte (WARNING: requested 0.59 MByte)
+------------------------------------------------------------
+[  1] local 0.0.0.0 port 60031 connected with 192.0.0.124 port 40191
+[ ID] Interval       Transfer     Bandwidth        Jitter   Lost/Total  Latency avg/min/max/stdev PPS
+[  1] 0.00-10.00 sec  11.9 MBytes  10.0 Mbits/sec   0.135 ms    0/ 8505 (0%) 3116.241/3115.778/3123.941/33.793 ms  850 pps
+[  3] local 0.0.0.0 port 60031 connected with 192.0.0.124 port 42998
+[  3] 0.00-10.00 sec  9.54 MBytes  8.00 Mbits/sec   0.163 ms    0/ 6804 (0%) 3116.438/3116.032/3121.491/37.785 ms  680 pps
+[  5] local 0.0.0.0 port 60031 connected with 192.0.0.124 port 59760
+[  5] 0.00-10.00 sec  5.96 MBytes  5.00 Mbits/sec   0.224 ms    0/ 4253 (0%) 3116.746/3116.333/3120.552/47.798 ms  425 pps
+[  7] local 0.0.0.0 port 60031 connected with 192.0.0.124 port 33872
+[  7] 0.00-10.00 sec  8.35 MBytes  7.00 Mbits/sec   0.127 ms    0/ 5954 (0%) 3117.006/3116.526/3122.123/40.399 ms  595 pps
+[  9] local 0.0.0.0 port 60031 connected with 192.0.0.124 port 34036
+[  9] 0.00-10.00 sec  8.35 MBytes  7.00 Mbits/sec   0.139 ms    0/ 5954 (0%) 3117.210/3116.799/3121.279/40.401 ms  595 pps
+[ 11] local 0.0.0.0 port 60031 connected with 192.0.0.124 port 48493
+[ 11] 0.00-10.00 sec  5.96 MBytes  5.00 Mbits/sec   0.125 ms    0/ 4253 (0%) 3117.520/3117.053/3123.006/47.807 ms  425 pps
+------------------------------------------------------------
+Server listening on UDP port 60031
+Receiving 1470 byte datagrams
+UDP buffer size: 0.41 MByte (WARNING: requested 0.59 MByte)
+------------------------------------------------------------
+[  1] local 0.0.0.0 port 60031 connected with 192.0.0.124 port 43150
+[ ID] Interval       Transfer     Bandwidth        Jitter   Lost/Total  Latency avg/min/max/stdev PPS
+[  1] 0.00-10.00 sec  8.35 MBytes  7.00 Mbits/sec   0.110 ms    0/ 5954 (0%) 3117.854/3117.372/3122.038/40.408 ms  595 pps
+[  3] local 0.0.0.0 port 60031 connected with 192.0.0.124 port 36175
+[  3] 0.00-10.00 sec  8.35 MBytes  7.00 Mbits/sec   0.151 ms    0/ 5954 (0%) 3118.090/3117.640/3124.210/40.413 ms  595 pps
+[  5] local 0.0.0.0 port 60031 connected with 192.0.0.124 port 59890
+[  5] 0.00-10.00 sec  8.35 MBytes  7.00 Mbits/sec   0.114 ms    0/ 5954 (0%) 3118.320/3117.863/3123.997/40.415 ms  595 pps
+[  7] local 0.0.0.0 port 60031 connected with 192.0.0.124 port 45253
+[  7] 0.00-10.00 sec  11.9 MBytes  10.0 Mbits/sec   0.236 ms    0/ 8505 (0%) 3118.574/3118.111/3123.712/33.816 ms  850 pps
+[  9] local 0.0.0.0 port 60031 connected with 192.0.0.124 port 56297
+[  9] 0.00-10.00 sec  10.7 MBytes  9.00 Mbits/sec   0.155 ms    0/ 7654 (0%) 3118.811/3118.366/3123.968/35.650 ms  765 pps
+[ 11] local 0.0.0.0 port 60031 connected with 192.0.0.124 port 57482
+[ 11] 0.00-9.41 sec  6.73 MBytes  6.01 Mbits/sec   0.111 ms  300/ 5104 (5.9%) 3119.114/3118.632/3127.876/45.134 ms  510 pps
+------------------------------------------------------------
+Server listening on UDP port 60031
+Receiving 1470 byte datagrams
+UDP buffer size: 0.41 MByte (WARNING: requested 0.59 MByte)
+------------------------------------------------------------
+[  1] local 0.0.0.0 port 60031 connected with 192.0.0.124 port 42855
+[ ID] Interval       Transfer     Bandwidth        Jitter   Lost/Total  Latency avg/min/max/stdev PPS
+[  1] 0.00-10.00 sec  7.16 MBytes  6.00 Mbits/sec   0.157 ms    0/ 5104 (0%) 3119.411/3118.970/3125.345/43.665 ms  510 pps
+[  3] local 0.0.0.0 port 60031 connected with 192.0.0.124 port 48726
+[  3] 0.00-10.00 sec  13.1 MBytes  11.0 Mbits/sec   0.341 ms    0/ 9355 (0%) 3119.658/3119.233/3125.517/32.253 ms  935 pps
+[  5] local 0.0.0.0 port 60031 connected with 192.0.0.124 port 52009
+[  5] 0.00-10.00 sec  9.54 MBytes  8.00 Mbits/sec   0.139 ms    0/ 6804 (0%) 3119.903/3119.465/3124.777/37.826 ms  680 pps
+[  7] local 0.0.0.0 port 60031 connected with 192.0.0.124 port 55892
+[  7] 0.00-10.00 sec  9.54 MBytes  8.00 Mbits/sec   0.118 ms    0/ 6804 (0%) 3120.150/3119.724/3126.254/37.827 ms  680 pps
+[  9] local 0.0.0.0 port 60031 connected with 192.0.0.124 port 58882
+[  9] 0.00-10.00 sec  11.9 MBytes  10.0 Mbits/sec   0.096 ms    0/ 8505 (0%) 3120.420/3119.962/3128.546/33.836 ms  850 pps
+[ 11] local 0.0.0.0 port 60031 connected with 192.0.0.124 port 39516
+[ 11] 0.00-10.00 sec  5.96 MBytes  5.00 Mbits/sec   0.115 ms    0/ 4253 (0%) 3120.704/3120.182/3127.741/47.858 ms  425 pps
+------------------------------------------------------------
+Server listening on UDP port 60031
+Receiving 1470 byte datagrams
+UDP buffer size: 0.41 MByte (WARNING: requested 0.59 MByte)
+------------------------------------------------------------
+[  1] local 0.0.0.0 port 60031 connected with 192.0.0.124 port 33618
+[ ID] Interval       Transfer     Bandwidth        Jitter   Lost/Total  Latency avg/min/max/stdev PPS
+[  1] 0.00-10.00 sec  7.16 MBytes  6.00 Mbits/sec   0.175 ms    0/ 5104 (0%) 3120.997/3120.531/3128.683/43.688 ms  510 pps
+[  3] local 0.0.0.0 port 60031 connected with 192.0.0.124 port 41832
+[  3] 0.00-10.00 sec  10.7 MBytes  9.00 Mbits/sec   0.141 ms    0/ 7655 (0%) 3121.209/3120.782/3126.047/35.676 ms  765 pps
+[  5] local 0.0.0.0 port 60031 connected with 192.0.0.124 port 55151
+[  5] 0.00-10.00 sec  5.96 MBytes  5.00 Mbits/sec   0.101 ms    0/ 4253 (0%) 3121.429/3121.061/3126.663/47.869 ms  425 pps
+[  7] local 0.0.0.0 port 60031 connected with 192.0.0.124 port 47400
+[  7] 0.00-10.00 sec  14.3 MBytes  12.0 Mbits/sec   0.148 ms    0/10206 (0%) 3121.706/3121.272/3128.250/30.903 ms 1020 pps
+[  9] local 0.0.0.0 port 60031 connected with 192.0.0.124 port 45342
+[  9] 0.00-10.00 sec  4.77 MBytes  4.00 Mbits/sec   0.088 ms    0/ 3403 (0%) 3121.932/3121.519/3127.306/53.521 ms  340 pps
+[ 11] local 0.0.0.0 port 60031 connected with 192.0.0.124 port 51712
+[ 11] 0.00-10.00 sec  9.54 MBytes  8.00 Mbits/sec   0.137 ms    0/ 6804 (0%) 3122.195/3121.769/3127.078/37.856 ms  680 pps
+------------------------------------------------------------
+Server listening on UDP port 60031
+Receiving 1470 byte datagrams
+UDP buffer size: 0.41 MByte (WARNING: requested 0.59 MByte)
+------------------------------------------------------------
+[  1] local 0.0.0.0 port 60031 connected with 192.0.0.124 port 48274
+[ ID] Interval       Transfer     Bandwidth        Jitter   Lost/Total  Latency avg/min/max/stdev PPS
+[  1] 0.00-10.00 sec  7.16 MBytes  6.00 Mbits/sec   0.153 ms    0/ 5104 (0%) 3122.537/3122.142/3126.966/43.712 ms  510 pps
+[  3] local 0.0.0.0 port 60031 connected with 192.0.0.124 port 47466
+[  3] 0.00-10.00 sec  13.1 MBytes  11.0 Mbits/sec   0.132 ms    0/ 9355 (0%) 3122.817/3122.382/3132.067/32.289 ms  935 pps
+[  5] local 0.0.0.0 port 60031 connected with 192.0.0.124 port 47092
+[  5] 0.00-10.00 sec  7.15 MBytes  6.00 Mbits/sec   0.174 ms    0/ 5103 (0%) 3123.040/3122.601/3127.073/43.722 ms  510 pps
+[  7] local 0.0.0.0 port 60031 connected with 192.0.0.124 port 57623
+[  7] 0.00-10.00 sec  10.7 MBytes  9.00 Mbits/sec   0.156 ms    0/ 7655 (0%) 3123.282/3122.846/3130.272/35.699 ms  765 pps
+[  9] local 0.0.0.0 port 60031 connected with 192.0.0.124 port 60564
+[  9] 0.00-10.00 sec  9.54 MBytes  8.00 Mbits/sec   0.120 ms    0/ 6804 (0%) 3123.538/3123.094/3130.375/37.868 ms  680 pps
+[ 11] local 0.0.0.0 port 60031 connected with 192.0.0.124 port 39328
+[ 11] 0.00-10.00 sec  5.96 MBytes  5.00 Mbits/sec   0.103 ms    0/ 4253 (0%) 3123.796/3123.339/3127.923/47.908 ms  425 pps
+------------------------------------------------------------
+Server listening on UDP port 60031
+Receiving 1470 byte datagrams
+UDP buffer size: 0.41 MByte (WARNING: requested 0.59 MByte)
+------------------------------------------------------------
+[  1] local 0.0.0.0 port 60031 connected with 192.0.0.124 port 41034
+[ ID] Interval       Transfer     Bandwidth        Jitter   Lost/Total  Latency avg/min/max/stdev PPS
+[  1] 0.00-10.00 sec  5.96 MBytes  5.00 Mbits/sec   0.132 ms    0/ 4253 (0%) 3124.125/3123.711/3129.270/47.909 ms  425 pps
+[  3] local 0.0.0.0 port 60031 connected with 192.0.0.124 port 48462
+[  3] 0.00-10.00 sec  9.54 MBytes  8.00 Mbits/sec   0.112 ms    0/ 6804 (0%) 3124.329/3123.912/3130.492/37.883 ms  680 pps
+[  5] local 0.0.0.0 port 60031 connected with 192.0.0.124 port 38647
+[  5] 0.00-10.00 sec  13.1 MBytes  11.0 Mbits/sec   0.152 ms    0/ 9355 (0%) 3124.607/3124.159/3131.242/32.308 ms  935 pps
+[  7] local 0.0.0.0 port 60031 connected with 192.0.0.124 port 48730
+[  7] 0.00-10.00 sec  13.1 MBytes  11.0 Mbits/sec   0.113 ms    0/ 9355 (0%) 3124.838/3124.392/3134.617/32.311 ms  935 pps
+[  9] local 0.0.0.0 port 60031 connected with 192.0.0.124 port 55769
+[  9] 0.00-10.00 sec  7.16 MBytes  6.00 Mbits/sec   0.147 ms    0/ 5104 (0%) 3125.079/3124.648/3131.838/43.747 ms  510 pps
+[ 11] local 0.0.0.0 port 60031 connected with 192.0.0.124 port 41871
+[ 11] 0.00-10.00 sec  11.9 MBytes  10.0 Mbits/sec   0.456 ms    0/ 8505 (0%) 3125.389/3124.862/3131.960/33.892 ms  850 pps
+------------------------------------------------------------
+Server listening on UDP port 60031
+Receiving 1470 byte datagrams
+UDP buffer size: 0.41 MByte (WARNING: requested 0.59 MByte)
+------------------------------------------------------------
+[  1] local 0.0.0.0 port 60031 connected with 192.0.0.124 port 57850
+[ ID] Interval       Transfer     Bandwidth        Jitter   Lost/Total  Latency avg/min/max/stdev PPS
+[  1] 0.00-10.00 sec  7.16 MBytes  6.00 Mbits/sec   0.192 ms    0/ 5104 (0%) 3125.685/3125.250/3131.582/43.756 ms  510 pps
+[  3] local 0.0.0.0 port 60031 connected with 192.0.0.124 port 38544
+[  3] 0.00-10.00 sec  9.54 MBytes  8.00 Mbits/sec   0.180 ms    0/ 6804 (0%) 3125.937/3125.475/3135.072/37.900 ms  680 pps
+[  5] local 0.0.0.0 port 60031 connected with 192.0.0.124 port 57142
+[  5] 0.00-10.00 sec  11.9 MBytes  10.0 Mbits/sec   0.170 ms    0/ 8505 (0%) 3126.172/3125.727/3132.642/33.903 ms  850 pps
+[  7] local 0.0.0.0 port 60031 connected with 192.0.0.124 port 59559
+[  7] 0.00-10.00 sec  7.16 MBytes  6.00 Mbits/sec   0.138 ms    0/ 5104 (0%) 3126.435/3125.974/3131.987/43.770 ms  510 pps
+[  9] local 0.0.0.0 port 60031 connected with 192.0.0.124 port 48232
+[  9] 0.00-10.00 sec  9.54 MBytes  8.00 Mbits/sec   0.157 ms    0/ 6804 (0%) 3126.628/3126.193/3133.881/37.908 ms  680 pps
+[ 11] local 0.0.0.0 port 60031 connected with 192.0.0.124 port 60552
+[ 11] 0.00-10.00 sec  10.7 MBytes  9.00 Mbits/sec   0.172 ms    0/ 7655 (0%) 3126.953/3126.494/3132.387/35.743 ms  765 pps
+------------------------------------------------------------
+Server listening on UDP port 60031
+Receiving 1470 byte datagrams
+UDP buffer size: 0.41 MByte (WARNING: requested 0.59 MByte)
+------------------------------------------------------------
+[  1] local 0.0.0.0 port 60031 connected with 192.0.0.124 port 34441
+[ ID] Interval       Transfer     Bandwidth        Jitter   Lost/Total  Latency avg/min/max/stdev PPS
+[  1] 0.00-10.00 sec  8.35 MBytes  7.00 Mbits/sec   0.162 ms    0/ 5954 (0%) 3127.253/3126.831/3131.577/40.533 ms  595 pps
+[  3] local 0.0.0.0 port 60031 connected with 192.0.0.124 port 53705
+[  3] 0.00-10.00 sec  13.1 MBytes  11.0 Mbits/sec   0.147 ms    0/ 9355 (0%) 3127.473/3127.047/3135.385/32.337 ms  935 pps
+[  5] local 0.0.0.0 port 60031 connected with 192.0.0.124 port 36827
+[  5] 0.00-10.00 sec  8.35 MBytes  7.00 Mbits/sec   0.138 ms    0/ 5954 (0%) 3127.738/3127.294/3132.267/40.537 ms  595 pps
+[  7] local 0.0.0.0 port 60031 connected with 192.0.0.124 port 34808
+[  7] 0.00-10.00 sec  5.96 MBytes  5.00 Mbits/sec   0.159 ms    0/ 4253 (0%) 3127.956/3127.583/3131.080/47.966 ms  425 pps
+[  9] local 0.0.0.0 port 60031 connected with 192.0.0.124 port 52667
+[  9] 0.00-10.00 sec  9.54 MBytes  8.00 Mbits/sec   0.154 ms    0/ 6804 (0%) 3128.235/3127.747/3133.600/37.930 ms  680 pps
+[ 11] local 0.0.0.0 port 60031 connected with 192.0.0.124 port 59936
+[ 11] 0.00-10.00 sec  4.77 MBytes  4.00 Mbits/sec   0.100 ms    0/ 3403 (0%) 3128.543/3128.110/3132.909/53.639 ms  340 pps
+------------------------------------------------------------
+Server listening on UDP port 60031
+Receiving 1470 byte datagrams
+UDP buffer size: 0.41 MByte (WARNING: requested 0.59 MByte)
+------------------------------------------------------------
+[  1] local 0.0.0.0 port 60031 connected with 192.0.0.124 port 51175
+[ ID] Interval       Transfer     Bandwidth        Jitter   Lost/Total  Latency avg/min/max/stdev PPS
+[  1] 0.00-10.00 sec  11.9 MBytes  10.0 Mbits/sec   0.132 ms    0/ 8505 (0%) 3128.878/3128.401/3134.218/33.931 ms  850 pps
+[  3] local 0.0.0.0 port 60031 connected with 192.0.0.124 port 43504
+[  3] 0.00-10.00 sec  7.16 MBytes  6.00 Mbits/sec   0.256 ms    0/ 5104 (0%) 3129.085/3128.708/3134.384/43.804 ms  510 pps
+[  5] local 0.0.0.0 port 60031 connected with 192.0.0.124 port 52061
+[  5] 0.00-10.00 sec  9.54 MBytes  8.00 Mbits/sec   0.143 ms    0/ 6804 (0%) 3129.338/3128.913/3132.893/37.940 ms  680 pps
+[  7] local 0.0.0.0 port 60031 connected with 192.0.0.124 port 59004
+[  7] 0.00-10.00 sec  15.5 MBytes  13.0 Mbits/sec   0.139 ms    0/11056 (0%) 3129.594/3129.146/3135.219/29.767 ms 1105 pps
+[  9] local 0.0.0.0 port 60031 connected with 192.0.0.124 port 60095
+[  9] 0.00-10.00 sec  9.54 MBytes  8.00 Mbits/sec   0.160 ms    0/ 6804 (0%) 3129.797/3129.401/3133.827/37.946 ms  680 pps
+[ 11] local 0.0.0.0 port 60031 connected with 192.0.0.124 port 41240
+[ 11] 0.00-10.00 sec  9.54 MBytes  8.00 Mbits/sec   0.538 ms    0/ 6804 (0%) 3130.127/3129.690/3134.642/37.951 ms  680 pps
+------------------------------------------------------------
+Server listening on UDP port 60031
+Receiving 1470 byte datagrams
+UDP buffer size: 0.41 MByte (WARNING: requested 0.59 MByte)
+------------------------------------------------------------
+[  1] local 0.0.0.0 port 60031 connected with 192.0.0.124 port 54156
+[ ID] Interval       Transfer     Bandwidth        Jitter   Lost/Total  Latency avg/min/max/stdev PPS
+[  1] 0.00-10.00 sec  10.7 MBytes  9.00 Mbits/sec   0.211 ms    0/ 7655 (0%) 3130.462/3130.023/3135.449/35.783 ms  765 pps
+[  3] local 0.0.0.0 port 60031 connected with 192.0.0.124 port 36875
+[  3] 0.00-10.00 sec  11.9 MBytes  10.0 Mbits/sec   0.129 ms    0/ 8505 (0%) 3130.724/3130.251/3135.453/33.950 ms  850 pps
+[  5] local 0.0.0.0 port 60031 connected with 192.0.0.124 port 54187
+[  5] 0.00-10.00 sec  9.54 MBytes  8.00 Mbits/sec   0.131 ms    0/ 6804 (0%) 3130.932/3130.522/3135.628/37.959 ms  680 pps
+[  7] local 0.0.0.0 port 60031 connected with 192.0.0.124 port 39793
+[  7] 0.00-10.01 sec  4.77 MBytes  4.00 Mbits/sec   0.209 ms    0/ 3403 (0%) 3131.259/3130.835/3135.514/53.685 ms  340 pps
+[  9] local 0.0.0.0 port 60031 connected with 192.0.0.124 port 43207
+[  9] 0.00-10.00 sec  10.7 MBytes  9.00 Mbits/sec   0.186 ms    0/ 7655 (0%) 3131.495/3131.049/3136.102/35.796 ms  765 pps
+[ 11] local 0.0.0.0 port 60031 connected with 192.0.0.124 port 42373
+[ 11] 0.00-10.00 sec  10.7 MBytes  9.00 Mbits/sec   0.142 ms    0/ 7655 (0%) 3131.741/3131.289/3138.106/35.795 ms  765 pps
+------------------------------------------------------------
+Server listening on UDP port 60031
+Receiving 1470 byte datagrams
+UDP buffer size: 0.41 MByte (WARNING: requested 0.59 MByte)
+------------------------------------------------------------
+[  1] local 0.0.0.0 port 60031 connected with 192.0.0.124 port 57034
+[ ID] Interval       Transfer     Bandwidth        Jitter   Lost/Total  Latency avg/min/max/stdev PPS
+[  1] 0.00-10.00 sec  7.16 MBytes  6.00 Mbits/sec   0.103 ms    0/ 5104 (0%) 3132.168/3131.726/3137.511/43.847 ms  510 pps
+[  3] local 0.0.0.0 port 60031 connected with 192.0.0.124 port 44044
+[  3] 0.00-10.00 sec  9.54 MBytes  8.00 Mbits/sec   0.156 ms    0/ 6804 (0%) 3132.365/3131.937/3136.525/37.977 ms  680 pps
+[  5] local 0.0.0.0 port 60031 connected with 192.0.0.124 port 38504
+[  5] 0.00-10.00 sec  11.9 MBytes  10.0 Mbits/sec   0.193 ms    0/ 8505 (0%) 3132.585/3132.179/3138.653/33.969 ms  850 pps
+[  7] local 0.0.0.0 port 60031 connected with 192.0.0.124 port 53092
+[  7] 0.00-10.00 sec  8.35 MBytes  7.00 Mbits/sec   0.117 ms    0/ 5954 (0%) 3132.855/3132.442/3139.390/40.607 ms  595 pps
+[  9] local 0.0.0.0 port 60031 connected with 192.0.0.124 port 33735
+[  9] 0.00-10.00 sec  13.1 MBytes  11.0 Mbits/sec   0.166 ms    0/ 9355 (0%) 3133.124/3132.669/3138.388/32.396 ms  935 pps
+[ 11] local 0.0.0.0 port 60031 connected with 192.0.0.124 port 39857
+[ 11] 0.00-10.00 sec  11.9 MBytes  10.0 Mbits/sec   0.148 ms    0/ 8505 (0%) 3133.357/3132.907/3141.559/33.979 ms  850 pps
+------------------------------------------------------------
+Server listening on UDP port 60031
+Receiving 1470 byte datagrams
+UDP buffer size: 0.41 MByte (WARNING: requested 0.59 MByte)
+------------------------------------------------------------
+[  1] local 0.0.0.0 port 60031 connected with 192.0.0.124 port 42630
+[ ID] Interval       Transfer     Bandwidth        Jitter   Lost/Total  Latency avg/min/max/stdev PPS
+[  1] 0.00-10.00 sec  9.54 MBytes  8.00 Mbits/sec   0.151 ms    0/ 6804 (0%) 3133.728/3133.240/3138.084/37.995 ms  680 pps
+[  3] local 0.0.0.0 port 60031 connected with 192.0.0.124 port 55211
+[  3] 0.00-10.00 sec  10.7 MBytes  9.00 Mbits/sec   0.127 ms    0/ 7655 (0%) 3133.979/3133.548/3141.091/35.823 ms  765 pps
+[  5] local 0.0.0.0 port 60031 connected with 192.0.0.124 port 56670
+[  5] 0.00-10.00 sec  8.35 MBytes  7.00 Mbits/sec   0.154 ms    0/ 5954 (0%) 3134.167/3133.780/3139.686/40.621 ms  595 pps
+[  7] local 0.0.0.0 port 60031 connected with 192.0.0.124 port 50901
+[  7] 0.00-10.00 sec  8.35 MBytes  7.00 Mbits/sec   0.145 ms    0/ 5954 (0%) 3134.461/3134.017/3139.091/40.624 ms  595 pps
+[  9] local 0.0.0.0 port 60031 connected with 192.0.0.124 port 56532
+[  9] 0.00-10.00 sec  9.54 MBytes  8.00 Mbits/sec   0.167 ms    0/ 6804 (0%) 3134.751/3134.257/3140.313/38.008 ms  680 pps
+[ 11] local 0.0.0.0 port 60031 connected with 192.0.0.124 port 39149
+[ 11] 0.00-10.00 sec  9.54 MBytes  8.00 Mbits/sec   0.162 ms    0/ 6804 (0%) 3134.991/3134.492/3141.428/38.007 ms  680 pps
+------------------------------------------------------------
+Server listening on UDP port 60031
+Receiving 1470 byte datagrams
+UDP buffer size: 0.41 MByte (WARNING: requested 0.59 MByte)
+------------------------------------------------------------
+[  1] local 0.0.0.0 port 60031 connected with 192.0.0.124 port 36147
+[ ID] Interval       Transfer     Bandwidth        Jitter   Lost/Total  Latency avg/min/max/stdev PPS
+[  1] 0.00-10.00 sec  4.77 MBytes  4.00 Mbits/sec   0.163 ms    0/ 3403 (0%) 3135.283/3134.859/3140.326/53.752 ms  340 pps
+[  3] local 0.0.0.0 port 60031 connected with 192.0.0.124 port 34813
+[  3] 0.00-10.00 sec  10.7 MBytes  9.00 Mbits/sec   0.149 ms    0/ 7655 (0%) 3135.539/3135.127/3141.972/35.840 ms  765 pps
+[  5] local 0.0.0.0 port 60031 connected with 192.0.0.124 port 43571
+[  5] 0.00-10.00 sec  5.96 MBytes  5.00 Mbits/sec   0.124 ms    0/ 4253 (0%) 3135.804/3135.368/3140.427/48.091 ms  425 pps
+[  7] local 0.0.0.0 port 60031 connected with 192.0.0.124 port 60488
+[  7] 0.00-10.00 sec  8.35 MBytes  7.00 Mbits/sec   0.132 ms    0/ 5954 (0%) 3136.016/3135.598/3143.020/40.647 ms  595 pps
+[  9] local 0.0.0.0 port 60031 connected with 192.0.0.124 port 60344
+[  9] 0.00-10.00 sec  9.54 MBytes  8.00 Mbits/sec   0.182 ms    0/ 6804 (0%) 3136.281/3135.870/3142.294/38.027 ms  680 pps
+[ 11] local 0.0.0.0 port 60031 connected with 192.0.0.124 port 59215
+[ 11] 0.00-10.00 sec  10.7 MBytes  9.00 Mbits/sec   0.161 ms    0/ 7655 (0%) 3136.545/3136.076/3142.789/35.851 ms  765 pps
+------------------------------------------------------------
+Server listening on UDP port 60031
+Receiving 1470 byte datagrams
+UDP buffer size: 0.41 MByte (WARNING: requested 0.59 MByte)
+------------------------------------------------------------
+[  1] local 0.0.0.0 port 60031 connected with 192.0.0.124 port 48176
+[ ID] Interval       Transfer     Bandwidth        Jitter   Lost/Total  Latency avg/min/max/stdev PPS
+[  1] 0.00-10.00 sec  8.35 MBytes  7.00 Mbits/sec   0.122 ms    0/ 5954 (0%) 3136.861/3136.437/3143.420/40.659 ms  595 pps
+[  3] local 0.0.0.0 port 60031 connected with 192.0.0.124 port 55028
+[  3] 0.00-10.00 sec  8.35 MBytes  7.00 Mbits/sec   0.139 ms    0/ 5954 (0%) 3137.103/3136.674/3142.757/40.660 ms  595 pps
+[  5] local 0.0.0.0 port 60031 connected with 192.0.0.124 port 35851
+[  5] 0.00-10.00 sec  9.54 MBytes  8.00 Mbits/sec   0.132 ms    0/ 6804 (0%) 3137.332/3136.884/3143.668/38.040 ms  680 pps
+[  7] local 0.0.0.0 port 60031 connected with 192.0.0.124 port 38130
+[  7] 0.00-10.00 sec  10.7 MBytes  9.00 Mbits/sec   0.186 ms    0/ 7655 (0%) 3137.575/3137.146/3148.718/35.866 ms  765 pps
+[  9] local 0.0.0.0 port 60031 connected with 192.0.0.124 port 33742
+[  9] 0.00-10.00 sec  7.16 MBytes  6.00 Mbits/sec   0.117 ms    0/ 5104 (0%) 3137.857/3137.411/3143.122/43.927 ms  510 pps
+[ 11] local 0.0.0.0 port 60031 connected with 192.0.0.124 port 43424
+[ 11] 0.00-10.00 sec  8.35 MBytes  7.00 Mbits/sec   0.153 ms    0/ 5954 (0%) 3138.168/3137.699/3143.824/40.676 ms  595 pps
+------------------------------------------------------------
+Server listening on UDP port 60031
+Receiving 1470 byte datagrams
+UDP buffer size: 0.41 MByte (WARNING: requested 0.59 MByte)
+------------------------------------------------------------
+[  1] local 0.0.0.0 port 60031 connected with 192.0.0.124 port 49774
+[ ID] Interval       Transfer     Bandwidth        Jitter   Lost/Total  Latency avg/min/max/stdev PPS
+[  1] 0.00-10.00 sec  7.15 MBytes  6.00 Mbits/sec   0.117 ms    0/ 5103 (0%) 3138.495/3138.069/3142.593/43.940 ms  510 pps
+[  3] local 0.0.0.0 port 60031 connected with 192.0.0.124 port 54620
+[  3] 0.00-10.00 sec  8.35 MBytes  7.00 Mbits/sec   0.166 ms    0/ 5954 (0%) 3138.730/3138.334/3142.361/40.681 ms  595 pps
+[  5] local 0.0.0.0 port 60031 connected with 192.0.0.124 port 48671
+[  5] 0.00-10.00 sec  8.35 MBytes  7.00 Mbits/sec   0.234 ms    0/ 5954 (0%) 3138.992/3138.582/3144.788/40.687 ms  595 pps
+[  7] local 0.0.0.0 port 60031 connected with 192.0.0.124 port 60219
+[  7] 0.00-10.00 sec  8.35 MBytes  7.00 Mbits/sec   0.131 ms    0/ 5954 (0%) 3139.191/3138.796/3145.367/40.688 ms  595 pps
+[  9] local 0.0.0.0 port 60031 connected with 192.0.0.124 port 42567
+[  9] 0.00-10.00 sec  9.54 MBytes  8.00 Mbits/sec   0.145 ms    0/ 6804 (0%) 3139.476/3139.068/3145.207/38.063 ms  680 pps
+[ 11] local 0.0.0.0 port 60031 connected with 192.0.0.124 port 52599
+[ 11] 0.00-10.00 sec  9.54 MBytes  8.00 Mbits/sec   0.132 ms    0/ 6804 (0%) 3139.732/3139.312/3145.048/38.067 ms  680 pps
+------------------------------------------------------------
+Server listening on UDP port 60031
+Receiving 1470 byte datagrams
+UDP buffer size: 0.41 MByte (WARNING: requested 0.59 MByte)
+------------------------------------------------------------
+[  1] local 0.0.0.0 port 60031 connected with 192.0.0.124 port 55153
+[ ID] Interval       Transfer     Bandwidth        Jitter   Lost/Total  Latency avg/min/max/stdev PPS
+[  1] 0.00-10.00 sec  11.9 MBytes  10.0 Mbits/sec   0.155 ms    0/ 8505 (0%) 3140.113/3139.678/3144.796/34.053 ms  850 pps
+[  3] local 0.0.0.0 port 60031 connected with 192.0.0.124 port 36195
+[  3] 0.00-10.01 sec  3.58 MBytes  3.00 Mbits/sec   0.250 ms    0/ 2553 (0%) 3140.373/3139.946/3144.626/62.163 ms  255 pps
+[  5] local 0.0.0.0 port 60031 connected with 192.0.0.124 port 38265
+[  5] 0.00-10.00 sec  8.35 MBytes  7.00 Mbits/sec   0.128 ms    0/ 5954 (0%) 3140.564/3140.159/3146.285/40.703 ms  595 pps
+[  7] local 0.0.0.0 port 60031 connected with 192.0.0.124 port 36195
+[  7] 0.00-10.00 sec  9.54 MBytes  8.00 Mbits/sec   0.173 ms    0/ 6804 (0%) 3140.846/3140.391/3147.318/38.081 ms  680 pps
+[  9] local 0.0.0.0 port 60031 connected with 192.0.0.124 port 46565
+[  9] 0.00-10.00 sec  8.35 MBytes  7.00 Mbits/sec   0.137 ms    0/ 5954 (0%) 3141.081/3140.645/3146.321/40.709 ms  595 pps
+[ 11] local 0.0.0.0 port 60031 connected with 192.0.0.124 port 51248
+[ 11] 0.00-10.00 sec  7.16 MBytes  6.00 Mbits/sec   0.125 ms    0/ 5104 (0%) 3141.291/3140.913/3145.962/43.976 ms  510 pps
+------------------------------------------------------------
+Server listening on UDP port 60031
+Receiving 1470 byte datagrams
+UDP buffer size: 0.41 MByte (WARNING: requested 0.59 MByte)
+------------------------------------------------------------
+[  1] local 0.0.0.0 port 60031 connected with 192.0.0.124 port 34535
+[ ID] Interval       Transfer     Bandwidth        Jitter   Lost/Total  Latency avg/min/max/stdev PPS
+[  1] 0.00-10.00 sec  7.16 MBytes  6.00 Mbits/sec   0.163 ms    0/ 5104 (0%) 3141.774/3141.290/3145.451/43.980 ms  510 pps
+[  3] local 0.0.0.0 port 60031 connected with 192.0.0.124 port 58884
+[  3] 0.00-10.00 sec  8.35 MBytes  7.00 Mbits/sec   0.142 ms    0/ 5954 (0%) 3141.984/3141.523/3147.997/40.726 ms  595 pps
+[  5] local 0.0.0.0 port 60031 connected with 192.0.0.124 port 49673
+[  5] 0.00-10.00 sec  8.35 MBytes  7.00 Mbits/sec   0.119 ms    0/ 5954 (0%) 3142.207/3141.789/3147.366/40.727 ms  595 pps
+[  7] local 0.0.0.0 port 60031 connected with 192.0.0.124 port 52485
+[  7] 0.00-10.00 sec  13.1 MBytes  11.0 Mbits/sec   0.138 ms    0/ 9355 (0%) 3142.451/3142.000/3146.534/32.492 ms  935 pps
+[  9] local 0.0.0.0 port 60031 connected with 192.0.0.124 port 47680
+[  9] 0.00-10.00 sec  4.77 MBytes  4.00 Mbits/sec   0.194 ms    0/ 3403 (0%) 3142.704/3142.253/3149.670/53.880 ms  340 pps
+[ 11] local 0.0.0.0 port 60031 connected with 192.0.0.124 port 49545
+[ 11] 0.00-10.01 sec  3.58 MBytes  3.00 Mbits/sec   0.159 ms    0/ 2553 (0%) 3142.950/3142.517/3147.631/62.214 ms  255 pps
+------------------------------------------------------------
+Server listening on UDP port 60031
+Receiving 1470 byte datagrams
+UDP buffer size: 0.41 MByte (WARNING: requested 0.59 MByte)
+------------------------------------------------------------
+[  1] local 0.0.0.0 port 60031 connected with 192.0.0.124 port 44164
+[ ID] Interval       Transfer     Bandwidth        Jitter   Lost/Total  Latency avg/min/max/stdev PPS
+[  1] 0.00-10.00 sec  5.96 MBytes  5.00 Mbits/sec   0.134 ms    0/ 4253 (0%) 3143.329/3142.905/3153.069/48.201 ms  425 pps
+[  3] local 0.0.0.0 port 60031 connected with 192.0.0.124 port 42820
+[  3] 0.00-10.00 sec  9.54 MBytes  8.00 Mbits/sec   0.102 ms    0/ 6804 (0%) 3143.519/3143.148/3149.560/38.112 ms  680 pps
+[  5] local 0.0.0.0 port 60031 connected with 192.0.0.124 port 43721
+[  5] 0.00-10.00 sec  9.54 MBytes  8.00 Mbits/sec   0.167 ms    0/ 6804 (0%) 3143.775/3143.348/3148.816/38.117 ms  680 pps
+[  7] local 0.0.0.0 port 60031 connected with 192.0.0.124 port 56592
+[  7] 0.00-10.00 sec  9.54 MBytes  8.00 Mbits/sec   0.144 ms    0/ 6804 (0%) 3144.060/3143.634/3149.194/38.120 ms  680 pps
+[  9] local 0.0.0.0 port 60031 connected with 192.0.0.124 port 52985
+[  9] 0.00-10.00 sec  8.35 MBytes  7.00 Mbits/sec   0.103 ms    0/ 5954 (0%) 3144.321/3143.845/3149.727/40.755 ms  595 pps
+[ 11] local 0.0.0.0 port 60031 connected with 192.0.0.124 port 51250
+[ 11] 0.00-10.00 sec  10.7 MBytes  9.00 Mbits/sec   0.184 ms    0/ 7654 (0%) 3144.552/3144.075/3151.145/35.946 ms  765 pps
+------------------------------------------------------------
+Server listening on UDP port 60031
+Receiving 1470 byte datagrams
+UDP buffer size: 0.41 MByte (WARNING: requested 0.59 MByte)
+------------------------------------------------------------
+[  1] local 0.0.0.0 port 60031 connected with 192.0.0.124 port 51642
+[ ID] Interval       Transfer     Bandwidth        Jitter   Lost/Total  Latency avg/min/max/stdev PPS
+[  1] 0.00-10.00 sec  8.35 MBytes  7.00 Mbits/sec   0.134 ms    0/ 5954 (0%) 3144.949/3144.531/3151.387/40.759 ms  595 pps
+[  3] local 0.0.0.0 port 60031 connected with 192.0.0.124 port 46456
+[  3] 0.00-10.00 sec  7.15 MBytes  6.00 Mbits/sec   0.154 ms    0/ 5103 (0%) 3145.181/3144.727/3148.607/44.031 ms  510 pps
+[  5] local 0.0.0.0 port 60031 connected with 192.0.0.124 port 32813
+[  5] 0.00-10.00 sec  7.16 MBytes  6.00 Mbits/sec   0.156 ms    0/ 5104 (0%) 3145.407/3144.986/3150.977/44.031 ms  510 pps
+[  7] local 0.0.0.0 port 60031 connected with 192.0.0.124 port 55451
+[  7] 0.00-10.00 sec  10.7 MBytes  9.00 Mbits/sec   0.123 ms    0/ 7655 (0%) 3145.781/3145.352/3153.761/35.958 ms  765 pps
+[  9] local 0.0.0.0 port 60031 connected with 192.0.0.124 port 58997
+[  9] 0.00-10.00 sec  8.35 MBytes  7.00 Mbits/sec   0.134 ms    0/ 5954 (0%) 3146.042/3145.579/3153.920/40.774 ms  595 pps
+[ 11] local 0.0.0.0 port 60031 connected with 192.0.0.124 port 40340
+[ 11] 0.00-10.00 sec  8.35 MBytes  7.00 Mbits/sec   0.219 ms    0/ 5954 (0%) 3146.295/3145.821/3151.756/40.777 ms  595 pps
+------------------------------------------------------------
+Server listening on UDP port 60031
+Receiving 1470 byte datagrams
+UDP buffer size: 0.41 MByte (WARNING: requested 0.59 MByte)
+------------------------------------------------------------
+[  1] local 0.0.0.0 port 60031 connected with 192.0.0.124 port 35024
+[ ID] Interval       Transfer     Bandwidth        Jitter   Lost/Total  Latency avg/min/max/stdev PPS
+[  1] 0.00-10.00 sec  7.16 MBytes  6.00 Mbits/sec   0.174 ms    0/ 5104 (0%) 3146.660/3146.224/3150.337/44.048 ms  510 pps
+[  3] local 0.0.0.0 port 60031 connected with 192.0.0.124 port 58856
+[  3] 0.00-10.00 sec  5.96 MBytes  5.00 Mbits/sec   0.178 ms    0/ 4253 (0%) 3146.844/3146.419/3150.854/48.261 ms  425 pps
+[  5] local 0.0.0.0 port 60031 connected with 192.0.0.124 port 60837
+[  5] 0.00-10.00 sec  10.7 MBytes  9.00 Mbits/sec   0.095 ms    0/ 7654 (0%) 3147.096/3146.659/3152.716/35.974 ms  765 pps
+[  7] local 0.0.0.0 port 60031 connected with 192.0.0.124 port 50816
+[  7] 0.00-10.00 sec  10.7 MBytes  9.00 Mbits/sec   0.134 ms    0/ 7655 (0%) 3147.375/3146.911/3155.546/35.977 ms  765 pps
+[  9] local 0.0.0.0 port 60031 connected with 192.0.0.124 port 40338
+[  9] 0.00-10.00 sec  8.35 MBytes  7.00 Mbits/sec   0.152 ms    0/ 5954 (0%) 3147.597/3147.144/3152.700/40.798 ms  595 pps
+[ 11] local 0.0.0.0 port 60031 connected with 192.0.0.124 port 60800
+[ 11] 0.00-10.00 sec  8.35 MBytes  7.00 Mbits/sec   0.147 ms    0/ 5954 (0%) 3147.817/3147.391/3153.437/40.801 ms  595 pps
+------------------------------------------------------------
+Server listening on UDP port 60031
+Receiving 1470 byte datagrams
+UDP buffer size: 0.41 MByte (WARNING: requested 0.59 MByte)
+------------------------------------------------------------
+[  1] local 0.0.0.0 port 60031 connected with 192.0.0.124 port 54942
+[ ID] Interval       Transfer     Bandwidth        Jitter   Lost/Total  Latency avg/min/max/stdev PPS
+[  1] 0.00-10.00 sec  9.54 MBytes  8.00 Mbits/sec   0.152 ms    0/ 6804 (0%) 3148.212/3147.806/3152.663/38.168 ms  680 pps
+[  3] local 0.0.0.0 port 60031 connected with 192.0.0.124 port 39910
+[  3] 0.00-10.00 sec  4.77 MBytes  4.00 Mbits/sec   0.127 ms    0/ 3403 (0%) 3148.459/3148.072/3152.170/53.980 ms  340 pps
+[  5] local 0.0.0.0 port 60031 connected with 192.0.0.124 port 60721
+[  5] 0.00-10.00 sec  8.35 MBytes  7.00 Mbits/sec   0.160 ms    0/ 5954 (0%) 3148.720/3148.308/3154.879/40.808 ms  595 pps
+[  7] local 0.0.0.0 port 60031 connected with 192.0.0.124 port 57143
+[  7] 0.00-10.00 sec  9.54 MBytes  8.00 Mbits/sec   0.168 ms    0/ 6804 (0%) 3148.972/3148.528/3154.353/38.178 ms  680 pps
+[  9] local 0.0.0.0 port 60031 connected with 192.0.0.124 port 42450
+[  9] 0.00-10.00 sec  8.35 MBytes  7.00 Mbits/sec   0.136 ms    0/ 5954 (0%) 3149.336/3148.795/3157.781/40.819 ms  595 pps
+[ 11] local 0.0.0.0 port 60031 connected with 192.0.0.124 port 55904
+[ 11] 0.00-10.00 sec  13.1 MBytes  11.0 Mbits/sec   0.058 ms    0/ 9355 (0%) 3149.632/3149.039/3153.573/32.564 ms  935 pps

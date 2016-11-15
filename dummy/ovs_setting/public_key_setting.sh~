@@ -1,0 +1,23 @@
+#!/bin/bash
+
+#scp /home/controller/.ssh/id_rsa.pub pi@$1:id_rsa.pub
+#scp /home/controller/IoT/ssh_key_setting/ssh_setting.sh pi@$1:ssh_setting.sh
+
+#ssh pi@$1 ./ssh_setting.sh
+
+
+scp /home/controller/.ssh/id_rsa.pub switch1@191.0.0.1:id_rsa.pub
+scp /home/controller/IoT/ssh_key_setting/ssh_setting.sh switch1@191.0.0.1:ssh_setting.sh
+ssh switch1@191.0.0.1 ./ssh_setting.sh
+
+scp /home/controller/.ssh/id_rsa.pub switch2@191.0.0.2:id_rsa.pub
+scp /home/controller/IoT/ssh_key_setting/ssh_setting.sh switch2@191.0.0.2:ssh_setting.sh
+ssh switch2@191.0.0.2 ./ssh_setting.sh
+
+scp /home/controller/.ssh/id_rsa.pub switch3@191.0.0.3:id_rsa.pub
+scp /home/controller/IoT/ssh_key_setting/ssh_setting.sh switch3@191.0.0.3:ssh_setting.sh
+ssh switch3@191.0.0.3 ./ssh_setting.sh
+
+scp /home/controller/.ssh/id_rsa.pub switch4@191.0.0.4:id_rsa.pub
+scp /home/controller/IoT/ssh_key_setting/ssh_setting.sh switch4@191.0.0.4:ssh_setting.sh
+ssh switch4@191.0.0.4 ./ssh_setting.sh

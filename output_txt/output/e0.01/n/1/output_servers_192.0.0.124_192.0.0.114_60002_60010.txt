@@ -1,0 +1,540 @@
+------------------------------------------------------------
+Server listening on UDP port 60002
+Receiving 1470 byte datagrams
+UDP buffer size: 0.41 MByte (WARNING: requested 0.59 MByte)
+------------------------------------------------------------
+[  1] local 0.0.0.0 port 60002 connected with 192.0.0.114 port 57485
+[ ID] Interval       Transfer     Bandwidth        Jitter   Lost/Total  Latency avg/min/max/stdev PPS
+[  1] 0.00-10.00 sec  9.54 MBytes  8.00 Mbits/sec   0.109 ms    0/ 6804 (0%) 8152.792/8152.243/8157.983/98.841 ms  680 pps
+[  3] local 0.0.0.0 port 60002 connected with 192.0.0.114 port 52125
+[  3] 0.00-10.00 sec  13.1 MBytes  11.0 Mbits/sec   0.132 ms    0/ 9355 (0%) 8154.435/8153.820/8159.759/84.310 ms  935 pps
+[  5] local 0.0.0.0 port 60002 connected with 192.0.0.114 port 55209
+[  5] 0.00-10.00 sec  5.96 MBytes  5.00 Mbits/sec   0.156 ms    0/ 4253 (0%) 8156.001/8155.505/8159.396/125.074 ms  425 pps
+[  7] local 0.0.0.0 port 60002 connected with 192.0.0.114 port 51484
+[  7] 0.00-10.00 sec  8.35 MBytes  7.00 Mbits/sec   0.165 ms    0/ 5954 (0%) 8157.637/8156.941/8163.004/105.727 ms  595 pps
+[  9] local 0.0.0.0 port 60002 connected with 192.0.0.114 port 50751
+[  9] 0.00-10.00 sec  7.15 MBytes  6.00 Mbits/sec   0.125 ms    1/ 5104 (0.02%) 8159.193/8158.507/8164.457/114.221 ms  510 pps
+[ 11] local 0.0.0.0 port 60002 connected with 192.0.0.114 port 50137
+[ 11] 0.00-10.00 sec  10.7 MBytes  9.00 Mbits/sec   0.093 ms    0/ 7655 (0%) 8160.856/8160.198/8165.713/93.277 ms  765 pps
+------------------------------------------------------------
+Server listening on UDP port 60002
+Receiving 1470 byte datagrams
+UDP buffer size: 0.41 MByte (WARNING: requested 0.59 MByte)
+------------------------------------------------------------
+[  1] local 0.0.0.0 port 60002 connected with 192.0.0.114 port 47343
+[ ID] Interval       Transfer     Bandwidth        Jitter   Lost/Total  Latency avg/min/max/stdev PPS
+[  1] 0.00-10.00 sec  10.7 MBytes  9.00 Mbits/sec   0.125 ms    0/ 7655 (0%) 8163.264/8162.681/8168.181/93.305 ms  765 pps
+[  3] local 0.0.0.0 port 60002 connected with 192.0.0.114 port 43900
+[  3] 0.00-10.01 sec  2.39 MBytes  2.00 Mbits/sec   0.118 ms    0/ 1702 (0%) 8164.862/8164.330/8165.951/197.964 ms  170 pps
+[  5] local 0.0.0.0 port 60002 connected with 192.0.0.114 port 43604
+[  5] 0.00-10.00 sec  8.35 MBytes  7.00 Mbits/sec   0.080 ms    0/ 5954 (0%) 8166.578/8165.947/8171.098/105.839 ms  595 pps
+[  7] local 0.0.0.0 port 60002 connected with 192.0.0.114 port 49446
+[  7] 0.00-10.00 sec  10.7 MBytes  9.00 Mbits/sec   0.085 ms    0/ 7655 (0%) 8168.213/8167.575/8174.884/93.362 ms  765 pps
+[  9] local 0.0.0.0 port 60002 connected with 192.0.0.114 port 56211
+[  9] 0.00-10.00 sec  14.3 MBytes  12.0 Mbits/sec   0.116 ms    0/10206 (0%) 8169.805/8169.186/8178.511/80.870 ms 1020 pps
+[ 11] local 0.0.0.0 port 60002 connected with 192.0.0.114 port 59718
+[ 11] 0.00-10.00 sec  9.54 MBytes  8.00 Mbits/sec   0.257 ms    0/ 6804 (0%) 8171.390/8170.748/8175.284/99.068 ms  680 pps
+------------------------------------------------------------
+Server listening on UDP port 60002
+Receiving 1470 byte datagrams
+UDP buffer size: 0.41 MByte (WARNING: requested 0.59 MByte)
+------------------------------------------------------------
+[  1] local 0.0.0.0 port 60002 connected with 192.0.0.114 port 34725
+[ ID] Interval       Transfer     Bandwidth        Jitter   Lost/Total  Latency avg/min/max/stdev PPS
+[  1] 0.00-10.00 sec  10.7 MBytes  9.00 Mbits/sec   0.154 ms    0/ 7655 (0%) 8173.915/8173.272/8177.660/93.428 ms  765 pps
+[  3] local 0.0.0.0 port 60002 connected with 192.0.0.114 port 52280
+[  3] 0.00-10.00 sec  14.3 MBytes  12.0 Mbits/sec   0.136 ms    0/10206 (0%) 8175.563/8174.915/8179.126/80.928 ms 1020 pps
+[  5] local 0.0.0.0 port 60002 connected with 192.0.0.114 port 54670
+[  5] 0.00-10.00 sec  11.9 MBytes  10.0 Mbits/sec   0.114 ms    0/ 8505 (0%) 8177.145/8176.455/8185.478/88.670 ms  850 pps
+[  7] local 0.0.0.0 port 60002 connected with 192.0.0.114 port 38511
+[  7] 0.00-10.00 sec  10.7 MBytes  9.00 Mbits/sec   0.157 ms    0/ 7655 (0%) 8178.712/8178.100/8182.784/93.482 ms  765 pps
+[  9] local 0.0.0.0 port 60002 connected with 192.0.0.114 port 35529
+[  9] 0.00-10.00 sec  8.34 MBytes  7.00 Mbits/sec   0.123 ms    2/ 5954 (0.034%) 8180.288/8179.716/8184.776/106.039 ms  594 pps
+[ 11] local 0.0.0.0 port 60002 connected with 192.0.0.114 port 53229
+[ 11] 0.00-10.00 sec  10.7 MBytes  9.00 Mbits/sec   0.149 ms    0/ 7655 (0%) 8181.931/8181.342/8186.442/93.519 ms  765 pps
+------------------------------------------------------------
+Server listening on UDP port 60002
+Receiving 1470 byte datagrams
+UDP buffer size: 0.41 MByte (WARNING: requested 0.59 MByte)
+------------------------------------------------------------
+[  1] local 0.0.0.0 port 60002 connected with 192.0.0.114 port 48882
+[ ID] Interval       Transfer     Bandwidth        Jitter   Lost/Total  Latency avg/min/max/stdev PPS
+[  1] 0.00-10.00 sec  5.96 MBytes  5.00 Mbits/sec   0.105 ms    0/ 4253 (0%) 8184.657/8183.998/8188.713/125.510 ms  425 pps
+[  3] local 0.0.0.0 port 60002 connected with 192.0.0.114 port 46413
+[  3] 0.00-10.00 sec  9.54 MBytes  8.00 Mbits/sec   0.138 ms    0/ 6804 (0%) 8186.271/8185.643/8194.016/99.247 ms  680 pps
+[  5] local 0.0.0.0 port 60002 connected with 192.0.0.114 port 38562
+[  5] 0.00-10.00 sec  10.7 MBytes  9.00 Mbits/sec   0.115 ms    0/ 7655 (0%) 8187.911/8187.250/8193.934/93.587 ms  765 pps
+[  7] local 0.0.0.0 port 60002 connected with 192.0.0.114 port 52155
+[  7] 0.00-10.00 sec  7.16 MBytes  6.00 Mbits/sec   0.147 ms    0/ 5104 (0%) 8189.458/8188.795/8194.869/114.636 ms  510 pps
+[  9] local 0.0.0.0 port 60002 connected with 192.0.0.114 port 58962
+[  9] 0.00-10.00 sec  5.96 MBytes  5.00 Mbits/sec   0.159 ms    0/ 4253 (0%) 8191.049/8190.453/8195.658/125.613 ms  425 pps
+[ 11] local 0.0.0.0 port 60002 connected with 192.0.0.114 port 47788
+[ 11] 0.00-10.00 sec  10.7 MBytes  9.00 Mbits/sec   0.148 ms    0/ 7655 (0%) 8192.705/8192.113/8197.839/93.641 ms  765 pps
+------------------------------------------------------------
+Server listening on UDP port 60002
+Receiving 1470 byte datagrams
+UDP buffer size: 0.41 MByte (WARNING: requested 0.59 MByte)
+------------------------------------------------------------
+[  1] local 0.0.0.0 port 60002 connected with 192.0.0.114 port 45095
+[ ID] Interval       Transfer     Bandwidth        Jitter   Lost/Total  Latency avg/min/max/stdev PPS
+[  1] 0.00-10.00 sec  10.7 MBytes  9.00 Mbits/sec   0.153 ms    0/ 7655 (0%) 8195.225/8194.538/8201.634/93.670 ms  765 pps
+[  3] local 0.0.0.0 port 60002 connected with 192.0.0.114 port 59423
+[  3] 0.00-10.00 sec  7.16 MBytes  6.00 Mbits/sec   0.117 ms    0/ 5104 (0%) 8196.858/8196.212/8202.457/114.740 ms  510 pps
+[  5] local 0.0.0.0 port 60002 connected with 192.0.0.114 port 60901
+[  5] 0.00-10.00 sec  11.9 MBytes  10.0 Mbits/sec   0.121 ms    0/ 8505 (0%) 8198.438/8197.772/8203.385/88.900 ms  850 pps
+[  7] local 0.0.0.0 port 60002 connected with 192.0.0.114 port 35730
+[  7] 0.00-10.00 sec  9.54 MBytes  8.00 Mbits/sec   0.119 ms    0/ 6803 (0%) 8200.001/8199.309/8205.999/99.421 ms  680 pps
+[  9] local 0.0.0.0 port 60002 connected with 192.0.0.114 port 52306
+[  9] 0.00-10.00 sec  11.9 MBytes  10.0 Mbits/sec   0.092 ms    0/ 8505 (0%) 8201.628/8200.937/8205.941/88.936 ms  850 pps
+[ 11] local 0.0.0.0 port 60002 connected with 192.0.0.114 port 41231
+[ 11] 0.00-10.00 sec  9.54 MBytes  8.00 Mbits/sec   0.159 ms    0/ 6804 (0%) 8203.143/8202.488/8208.443/99.450 ms  680 pps
+------------------------------------------------------------
+Server listening on UDP port 60002
+Receiving 1470 byte datagrams
+UDP buffer size: 0.41 MByte (WARNING: requested 0.59 MByte)
+------------------------------------------------------------
+[  1] local 0.0.0.0 port 60002 connected with 192.0.0.114 port 33690
+[ ID] Interval       Transfer     Bandwidth        Jitter   Lost/Total  Latency avg/min/max/stdev PPS
+[  1] 0.00-10.00 sec  14.3 MBytes  12.0 Mbits/sec   0.152 ms    0/10206 (0%) 8205.605/8204.946/8213.379/81.224 ms 1020 pps
+[  3] local 0.0.0.0 port 60002 connected with 192.0.0.114 port 60665
+[  3] 0.00-10.00 sec  8.35 MBytes  7.00 Mbits/sec   0.135 ms    0/ 5954 (0%) 8207.193/8206.523/8214.611/106.366 ms  595 pps
+[  5] local 0.0.0.0 port 60002 connected with 192.0.0.114 port 45739
+[  5] 0.00-10.00 sec  7.16 MBytes  6.00 Mbits/sec   0.055 ms    0/ 5104 (0%) 8208.766/8208.176/8213.476/114.906 ms  510 pps
+[  7] local 0.0.0.0 port 60002 connected with 192.0.0.114 port 43534
+[  7] 0.00-10.00 sec  7.16 MBytes  6.00 Mbits/sec   0.143 ms    0/ 5104 (0%) 8210.413/8209.828/8214.473/114.932 ms  510 pps
+[  9] local 0.0.0.0 port 60002 connected with 192.0.0.114 port 60356
+[  9] 0.00-10.00 sec  8.35 MBytes  7.00 Mbits/sec   0.133 ms    0/ 5954 (0%) 8211.981/8211.321/8217.731/106.428 ms  595 pps
+[ 11] local 0.0.0.0 port 60002 connected with 192.0.0.114 port 33274
+[ 11] 0.00-10.00 sec  8.35 MBytes  7.00 Mbits/sec   0.117 ms    0/ 5954 (0%) 8213.582/8212.912/8220.283/106.449 ms  595 pps
+------------------------------------------------------------
+Server listening on UDP port 60002
+Receiving 1470 byte datagrams
+UDP buffer size: 0.41 MByte (WARNING: requested 0.59 MByte)
+------------------------------------------------------------
+[  1] local 0.0.0.0 port 60002 connected with 192.0.0.114 port 59418
+[ ID] Interval       Transfer     Bandwidth        Jitter   Lost/Total  Latency avg/min/max/stdev PPS
+[  1] 0.00-10.00 sec  9.54 MBytes  8.00 Mbits/sec   0.145 ms    0/ 6804 (0%) 8216.314/8215.653/8221.744/99.614 ms  680 pps
+[  3] local 0.0.0.0 port 60002 connected with 192.0.0.114 port 40436
+[  3] 0.00-10.00 sec  9.54 MBytes  8.00 Mbits/sec   0.149 ms    0/ 6804 (0%) 8218.001/8217.318/8223.317/99.634 ms  680 pps
+[  5] local 0.0.0.0 port 60002 connected with 192.0.0.114 port 56884
+[  5] 0.00-10.00 sec  9.54 MBytes  8.00 Mbits/sec   0.124 ms    0/ 6804 (0%) 8219.620/8218.976/8229.509/99.653 ms  680 pps
+[  7] local 0.0.0.0 port 60002 connected with 192.0.0.114 port 56228
+[  7] 0.00-10.00 sec  7.16 MBytes  6.00 Mbits/sec   0.121 ms    0/ 5104 (0%) 8221.262/8220.639/8227.978/115.082 ms  510 pps
+[  9] local 0.0.0.0 port 60002 connected with 192.0.0.114 port 45263
+[  9] 0.00-10.00 sec  8.35 MBytes  7.00 Mbits/sec   0.127 ms    0/ 5954 (0%) 8222.873/8222.263/8230.458/106.572 ms  595 pps
+[ 11] local 0.0.0.0 port 60002 connected with 192.0.0.114 port 44931
+[ 11] 0.00-10.00 sec  10.7 MBytes  9.00 Mbits/sec   0.151 ms    0/ 7655 (0%) 8224.532/8223.823/8235.000/94.004 ms  765 pps
+------------------------------------------------------------
+Server listening on UDP port 60002
+Receiving 1470 byte datagrams
+UDP buffer size: 0.41 MByte (WARNING: requested 0.59 MByte)
+------------------------------------------------------------
+[  1] local 0.0.0.0 port 60002 connected with 192.0.0.114 port 35067
+[ ID] Interval       Transfer     Bandwidth        Jitter   Lost/Total  Latency avg/min/max/stdev PPS
+[  1] 0.00-10.00 sec  4.77 MBytes  4.00 Mbits/sec   0.088 ms    0/ 3402 (0%) 8226.942/8226.302/8231.633/141.063 ms  340 pps
+[  3] local 0.0.0.0 port 60002 connected with 192.0.0.114 port 45143
+[  3] 0.00-10.00 sec  11.9 MBytes  10.0 Mbits/sec   0.123 ms    0/ 8505 (0%) 8228.491/8227.811/8236.432/89.227 ms  850 pps
+[  5] local 0.0.0.0 port 60002 connected with 192.0.0.114 port 49448
+[  5] 0.00-10.01 sec  7.16 MBytes  6.00 Mbits/sec   0.467 ms    0/ 5104 (0%) 8230.012/8229.371/8237.975/115.202 ms  510 pps
+[  7] local 0.0.0.0 port 60002 connected with 192.0.0.114 port 56160
+[  7] 0.00-10.00 sec  5.96 MBytes  5.00 Mbits/sec   0.129 ms    0/ 4253 (0%) 8231.731/8231.092/8236.196/126.234 ms  425 pps
+[  9] local 0.0.0.0 port 60002 connected with 192.0.0.114 port 48262
+[  9] 0.00-10.00 sec  8.35 MBytes  7.00 Mbits/sec   0.123 ms    0/ 5954 (0%) 8233.266/8232.638/8238.795/106.706 ms  595 pps
+[ 11] local 0.0.0.0 port 60002 connected with 192.0.0.114 port 35177
+[ 11] 0.00-10.00 sec  11.9 MBytes  10.0 Mbits/sec   0.134 ms    0/ 8505 (0%) 8234.967/8234.284/8241.305/89.295 ms  850 pps
+------------------------------------------------------------
+Server listening on UDP port 60002
+Receiving 1470 byte datagrams
+UDP buffer size: 0.41 MByte (WARNING: requested 0.59 MByte)
+------------------------------------------------------------
+[  1] local 0.0.0.0 port 60002 connected with 192.0.0.114 port 47227
+[ ID] Interval       Transfer     Bandwidth        Jitter   Lost/Total  Latency avg/min/max/stdev PPS
+[  1] 0.00-10.00 sec  7.16 MBytes  6.00 Mbits/sec   0.149 ms    0/ 5104 (0%) 8237.402/8236.762/8243.533/115.306 ms  510 pps
+[  3] local 0.0.0.0 port 60002 connected with 192.0.0.114 port 33356
+[  3] 0.00-10.00 sec  8.35 MBytes  7.00 Mbits/sec   0.133 ms    0/ 5954 (0%) 8239.045/8238.402/8244.528/106.778 ms  595 pps
+[  5] local 0.0.0.0 port 60002 connected with 192.0.0.114 port 56278
+[  5] 0.00-10.00 sec  10.7 MBytes  9.00 Mbits/sec   0.092 ms    0/ 7655 (0%) 8240.660/8239.968/8246.599/94.187 ms  765 pps
+[  7] local 0.0.0.0 port 60002 connected with 192.0.0.114 port 38157
+[  7] 0.00-10.00 sec  11.9 MBytes  10.0 Mbits/sec   0.148 ms    0/ 8505 (0%) 8242.246/8241.541/8251.664/89.374 ms  850 pps
+[  9] local 0.0.0.0 port 60002 connected with 192.0.0.114 port 37090
+[  9] 0.00-10.00 sec  13.1 MBytes  11.0 Mbits/sec   0.168 ms    0/ 9355 (0%) 8243.816/8243.184/8249.960/85.232 ms  935 pps
+[ 11] local 0.0.0.0 port 60002 connected with 192.0.0.114 port 42504
+[ 11] 0.00-10.00 sec  5.96 MBytes  5.00 Mbits/sec   0.134 ms    0/ 4253 (0%) 8245.467/8244.800/8251.789/126.443 ms  425 pps
+------------------------------------------------------------
+Server listening on UDP port 60002
+Receiving 1470 byte datagrams
+UDP buffer size: 0.41 MByte (WARNING: requested 0.59 MByte)
+------------------------------------------------------------
+[  1] local 0.0.0.0 port 60002 connected with 192.0.0.114 port 43572
+[ ID] Interval       Transfer     Bandwidth        Jitter   Lost/Total  Latency avg/min/max/stdev PPS
+[  1] 0.00-10.00 sec  10.7 MBytes  9.00 Mbits/sec   0.146 ms    0/ 7655 (0%) 8247.978/8247.290/8252.631/94.274 ms  765 pps
+[  3] local 0.0.0.0 port 60002 connected with 192.0.0.114 port 60868
+[  3] 0.00-10.00 sec  7.16 MBytes  6.00 Mbits/sec   0.147 ms    0/ 5104 (0%) 8249.541/8248.948/8256.125/115.478 ms  510 pps
+[  5] local 0.0.0.0 port 60002 connected with 192.0.0.114 port 56435
+[  5] 0.00-10.00 sec  9.54 MBytes  8.00 Mbits/sec   0.161 ms    0/ 6804 (0%) 8251.178/8250.508/8257.760/100.035 ms  680 pps
+[  7] local 0.0.0.0 port 60002 connected with 192.0.0.114 port 56336
+[  7] 0.00-10.01 sec  3.58 MBytes  3.00 Mbits/sec   0.126 ms    0/ 2553 (0%) 8252.755/8252.128/8254.799/163.361 ms  255 pps
+[  9] local 0.0.0.0 port 60002 connected with 192.0.0.114 port 38154
+[  9] 0.00-10.00 sec  11.9 MBytes  10.0 Mbits/sec   0.120 ms    0/ 8505 (0%) 8254.421/8253.767/8260.696/89.509 ms  850 pps
+[ 11] local 0.0.0.0 port 60002 connected with 192.0.0.114 port 48175
+[ 11] 0.00-10.00 sec  7.16 MBytes  6.00 Mbits/sec   0.154 ms    0/ 5104 (0%) 8256.048/8255.369/8263.417/115.570 ms  510 pps
+------------------------------------------------------------
+Server listening on UDP port 60002
+Receiving 1470 byte datagrams
+UDP buffer size: 0.41 MByte (WARNING: requested 0.59 MByte)
+------------------------------------------------------------
+[  1] local 0.0.0.0 port 60002 connected with 192.0.0.114 port 35308
+[ ID] Interval       Transfer     Bandwidth        Jitter   Lost/Total  Latency avg/min/max/stdev PPS
+[  1] 0.00-10.00 sec  11.9 MBytes  10.0 Mbits/sec   0.160 ms    0/ 8505 (0%) 8258.493/8257.788/8262.440/89.551 ms  850 pps
+[  3] local 0.0.0.0 port 60002 connected with 192.0.0.114 port 43213
+[  3] 0.00-10.00 sec  5.96 MBytes  5.00 Mbits/sec   0.142 ms    0/ 4253 (0%) 8260.011/8259.411/8265.196/126.665 ms  425 pps
+[  5] local 0.0.0.0 port 60002 connected with 192.0.0.114 port 42136
+[  5] 0.00-10.00 sec  7.16 MBytes  6.00 Mbits/sec   0.162 ms    0/ 5104 (0%) 8261.664/8260.950/8267.763/115.643 ms  510 pps
+[  7] local 0.0.0.0 port 60002 connected with 192.0.0.114 port 35830
+[  7] 0.00-10.00 sec  9.54 MBytes  8.00 Mbits/sec   0.311 ms    0/ 6804 (0%) 8263.319/8262.638/8267.646/100.180 ms  680 pps
+[  9] local 0.0.0.0 port 60002 connected with 192.0.0.114 port 43324
+[  9] 0.00-10.00 sec  9.54 MBytes  8.00 Mbits/sec   0.164 ms    0/ 6804 (0%) 8264.893/8264.257/8269.724/100.199 ms  680 pps
+[ 11] local 0.0.0.0 port 60002 connected with 192.0.0.114 port 35981
+[ 11] 0.00-10.00 sec  8.35 MBytes  7.00 Mbits/sec   0.132 ms    0/ 5954 (0%) 8266.574/8265.962/8270.899/107.136 ms  595 pps
+------------------------------------------------------------
+Server listening on UDP port 60002
+Receiving 1470 byte datagrams
+UDP buffer size: 0.41 MByte (WARNING: requested 0.59 MByte)
+------------------------------------------------------------
+[  1] local 0.0.0.0 port 60002 connected with 192.0.0.114 port 57178
+[ ID] Interval       Transfer     Bandwidth        Jitter   Lost/Total  Latency avg/min/max/stdev PPS
+[  1] 0.00-10.00 sec  9.54 MBytes  8.00 Mbits/sec   0.136 ms    0/ 6804 (0%) 8269.042/8268.341/8274.460/100.250 ms  680 pps
+[  3] local 0.0.0.0 port 60002 connected with 192.0.0.114 port 50679
+[  3] 0.00-10.00 sec  9.54 MBytes  8.00 Mbits/sec   0.153 ms    0/ 6804 (0%) 8270.573/8269.913/8276.485/100.269 ms  680 pps
+[  5] local 0.0.0.0 port 60002 connected with 192.0.0.114 port 52518
+[  5] 0.00-10.00 sec  11.9 MBytes  10.0 Mbits/sec   0.133 ms    0/ 8505 (0%) 8272.179/8271.530/8276.581/89.701 ms  850 pps
+[  7] local 0.0.0.0 port 60002 connected with 192.0.0.114 port 36074
+[  7] 0.00-10.00 sec  5.96 MBytes  5.00 Mbits/sec   0.183 ms    0/ 4253 (0%) 8273.746/8273.144/8277.750/126.876 ms  425 pps
+[  9] local 0.0.0.0 port 60002 connected with 192.0.0.114 port 40168
+[  9] 0.00-10.00 sec  8.35 MBytes  7.00 Mbits/sec   0.169 ms    0/ 5954 (0%) 8275.419/8274.757/8280.886/107.251 ms  595 pps
+[ 11] local 0.0.0.0 port 60002 connected with 192.0.0.114 port 42684
+[ 11] 0.00-10.00 sec  10.7 MBytes  9.00 Mbits/sec   0.115 ms    0/ 7655 (0%) 8277.020/8276.340/8282.744/94.603 ms  765 pps
+------------------------------------------------------------
+Server listening on UDP port 60002
+Receiving 1470 byte datagrams
+UDP buffer size: 0.41 MByte (WARNING: requested 0.59 MByte)
+------------------------------------------------------------
+[  1] local 0.0.0.0 port 60002 connected with 192.0.0.114 port 42007
+[ ID] Interval       Transfer     Bandwidth        Jitter   Lost/Total  Latency avg/min/max/stdev PPS
+[  1] 0.00-10.00 sec  5.96 MBytes  5.00 Mbits/sec   0.102 ms    0/ 4253 (0%) 8279.344/8278.690/8284.680/126.962 ms  425 pps
+[  3] local 0.0.0.0 port 60002 connected with 192.0.0.114 port 45431
+[  3] 0.00-10.00 sec  9.54 MBytes  8.00 Mbits/sec   0.106 ms    0/ 6804 (0%) 8280.912/8280.247/8284.890/100.393 ms  680 pps
+[  5] local 0.0.0.0 port 60002 connected with 192.0.0.114 port 46564
+[  5] 0.00-10.00 sec  8.35 MBytes  7.00 Mbits/sec   0.097 ms    0/ 5954 (0%) 8282.561/8281.922/8288.825/107.344 ms  595 pps
+[  7] local 0.0.0.0 port 60002 connected with 192.0.0.114 port 47687
+[  7] 0.00-10.01 sec  4.77 MBytes  4.00 Mbits/sec   0.138 ms    0/ 3403 (0%) 8284.198/8283.566/8287.817/142.025 ms  340 pps
+[  9] local 0.0.0.0 port 60002 connected with 192.0.0.114 port 33292
+[  9] 0.00-10.00 sec  10.7 MBytes  9.00 Mbits/sec   0.136 ms    0/ 7655 (0%) 8285.762/8285.106/8290.401/94.703 ms  765 pps
+[ 11] local 0.0.0.0 port 60002 connected with 192.0.0.114 port 41096
+[ 11] 0.00-10.00 sec  13.1 MBytes  11.0 Mbits/sec   0.180 ms    0/ 9355 (0%) 8287.359/8286.665/8292.848/85.686 ms  935 pps
+------------------------------------------------------------
+Server listening on UDP port 60002
+Receiving 1470 byte datagrams
+UDP buffer size: 0.41 MByte (WARNING: requested 0.59 MByte)
+------------------------------------------------------------
+[  1] local 0.0.0.0 port 60002 connected with 192.0.0.114 port 47449
+[ ID] Interval       Transfer     Bandwidth        Jitter   Lost/Total  Latency avg/min/max/stdev PPS
+[  1] 0.00-10.00 sec  9.54 MBytes  8.00 Mbits/sec   0.148 ms    0/ 6804 (0%) 8289.723/8289.065/8296.466/100.501 ms  680 pps
+[  3] local 0.0.0.0 port 60002 connected with 192.0.0.114 port 54586
+[  3] 0.00-10.00 sec  7.16 MBytes  6.00 Mbits/sec   0.193 ms    0/ 5104 (0%) 8291.279/8290.632/8298.206/116.060 ms  510 pps
+[  5] local 0.0.0.0 port 60002 connected with 192.0.0.114 port 40002
+[  5] 0.00-10.00 sec  9.54 MBytes  8.00 Mbits/sec   0.145 ms    0/ 6804 (0%) 8292.838/8292.199/8295.943/100.539 ms  680 pps
+[  7] local 0.0.0.0 port 60002 connected with 192.0.0.114 port 46758
+[  7] 0.00-10.00 sec  11.9 MBytes  10.0 Mbits/sec   0.126 ms    0/ 8505 (0%) 8294.447/8293.746/8302.076/89.939 ms  850 pps
+[  9] local 0.0.0.0 port 60002 connected with 192.0.0.114 port 36427
+[  9] 0.00-10.00 sec  7.16 MBytes  6.00 Mbits/sec   0.120 ms    0/ 5104 (0%) 8296.081/8295.415/8300.259/116.131 ms  510 pps
+[ 11] local 0.0.0.0 port 60002 connected with 192.0.0.114 port 55288
+[ 11] 0.00-10.00 sec  11.9 MBytes  10.0 Mbits/sec   0.110 ms    0/ 8505 (0%) 8297.730/8297.119/8308.204/89.975 ms  850 pps
+------------------------------------------------------------
+Server listening on UDP port 60002
+Receiving 1470 byte datagrams
+UDP buffer size: 0.41 MByte (WARNING: requested 0.59 MByte)
+------------------------------------------------------------
+[  1] local 0.0.0.0 port 60002 connected with 192.0.0.114 port 34330
+[ ID] Interval       Transfer     Bandwidth        Jitter   Lost/Total  Latency avg/min/max/stdev PPS
+[  1] 0.00-10.00 sec  5.96 MBytes  5.00 Mbits/sec   0.139 ms    0/ 4253 (0%) 8300.159/8299.482/8305.806/127.282 ms  425 pps
+[  3] local 0.0.0.0 port 60002 connected with 192.0.0.114 port 47432
+[  3] 0.00-10.00 sec  9.54 MBytes  8.00 Mbits/sec   0.118 ms    2/ 6804 (0.029%) 8301.748/8301.100/8308.145/100.662 ms  680 pps
+[  5] local 0.0.0.0 port 60002 connected with 192.0.0.114 port 33191
+[  5] 0.00-10.00 sec  9.54 MBytes  8.00 Mbits/sec   0.141 ms    0/ 6804 (0%) 8303.307/8302.711/8307.393/100.666 ms  680 pps
+[  7] local 0.0.0.0 port 60002 connected with 192.0.0.114 port 47446
+[  7] 0.00-10.00 sec  9.54 MBytes  8.00 Mbits/sec   0.132 ms    0/ 6804 (0%) 8304.991/8304.344/8309.408/100.686 ms  680 pps
+[  9] local 0.0.0.0 port 60002 connected with 192.0.0.114 port 48016
+[  9] 0.00-10.00 sec  8.35 MBytes  7.00 Mbits/sec   0.148 ms    0/ 5954 (0%) 8306.663/8305.985/8312.539/107.657 ms  595 pps
+[ 11] local 0.0.0.0 port 60002 connected with 192.0.0.114 port 54414
+[ 11] 0.00-10.00 sec  8.35 MBytes  7.00 Mbits/sec   0.120 ms    0/ 5954 (0%) 8308.181/8307.542/8313.110/107.675 ms  595 pps
+------------------------------------------------------------
+Server listening on UDP port 60002
+Receiving 1470 byte datagrams
+UDP buffer size: 0.41 MByte (WARNING: requested 0.59 MByte)
+------------------------------------------------------------
+[  1] local 0.0.0.0 port 60002 connected with 192.0.0.114 port 37308
+[ ID] Interval       Transfer     Bandwidth        Jitter   Lost/Total  Latency avg/min/max/stdev PPS
+[  1] 0.00-10.00 sec  7.16 MBytes  6.00 Mbits/sec   0.109 ms    0/ 5104 (0%) 8310.701/8309.998/8316.054/116.333 ms  510 pps
+[  3] local 0.0.0.0 port 60002 connected with 192.0.0.114 port 57231
+[  3] 0.00-10.00 sec  11.9 MBytes  10.0 Mbits/sec   0.237 ms    2/ 8505 (0.024%) 8312.328/8311.630/8317.871/90.146 ms  849 pps
+[  5] local 0.0.0.0 port 60002 connected with 192.0.0.114 port 54037
+[  5] 0.00-10.00 sec  11.9 MBytes  10.0 Mbits/sec   0.130 ms    0/ 8505 (0%) 8313.974/8313.309/8318.136/90.154 ms  850 pps
+[  7] local 0.0.0.0 port 60002 connected with 192.0.0.114 port 56433
+[  7] 0.00-10.00 sec  9.54 MBytes  8.00 Mbits/sec   0.158 ms    0/ 6804 (0%) 8315.583/8314.912/8322.095/100.815 ms  680 pps
+[  9] local 0.0.0.0 port 60002 connected with 192.0.0.114 port 43250
+[  9] 0.00-10.00 sec  9.54 MBytes  8.00 Mbits/sec   0.111 ms    0/ 6804 (0%) 8317.164/8316.517/8323.654/100.833 ms  680 pps
+[ 11] local 0.0.0.0 port 60002 connected with 192.0.0.114 port 48783
+[ 11] 0.00-10.00 sec  7.16 MBytes  6.00 Mbits/sec   0.121 ms    0/ 5104 (0%) 8318.828/8318.138/8323.550/116.447 ms  510 pps
+------------------------------------------------------------
+Server listening on UDP port 60002
+Receiving 1470 byte datagrams
+UDP buffer size: 0.41 MByte (WARNING: requested 0.59 MByte)
+------------------------------------------------------------
+[  1] local 0.0.0.0 port 60002 connected with 192.0.0.114 port 57894
+[ ID] Interval       Transfer     Bandwidth        Jitter   Lost/Total  Latency avg/min/max/stdev PPS
+[  1] 0.00-10.00 sec  9.54 MBytes  8.00 Mbits/sec   0.142 ms    0/ 6804 (0%) 8321.220/8320.626/8325.752/100.883 ms  680 pps
+[  3] local 0.0.0.0 port 60002 connected with 192.0.0.114 port 48877
+[  3] 0.00-10.00 sec  5.96 MBytes  5.00 Mbits/sec   0.124 ms    0/ 4253 (0%) 8322.871/8322.220/8327.035/127.627 ms  425 pps
+[  5] local 0.0.0.0 port 60002 connected with 192.0.0.114 port 54965
+[  5] 0.00-10.00 sec  9.54 MBytes  8.00 Mbits/sec   0.170 ms    0/ 6804 (0%) 8324.461/8323.821/8330.542/100.922 ms  680 pps
+[  7] local 0.0.0.0 port 60002 connected with 192.0.0.114 port 39752
+[  7] 0.00-10.00 sec  11.9 MBytes  10.0 Mbits/sec   0.118 ms    0/ 8505 (0%) 8326.023/8325.365/8330.572/90.284 ms  850 pps
+[  9] local 0.0.0.0 port 60002 connected with 192.0.0.114 port 39386
+[  9] 0.00-10.00 sec  9.54 MBytes  8.00 Mbits/sec   0.136 ms    0/ 6804 (0%) 8327.581/8326.917/8334.009/100.990 ms  680 pps
+[ 11] local 0.0.0.0 port 60002 connected with 192.0.0.114 port 35558
+[ 11] 0.00-10.00 sec  10.7 MBytes  9.00 Mbits/sec   0.126 ms    0/ 7655 (0%) 8329.200/8328.535/8334.084/95.201 ms  765 pps
+------------------------------------------------------------
+Server listening on UDP port 60002
+Receiving 1470 byte datagrams
+UDP buffer size: 0.41 MByte (WARNING: requested 0.59 MByte)
+------------------------------------------------------------
+[  1] local 0.0.0.0 port 60002 connected with 192.0.0.114 port 55753
+[ ID] Interval       Transfer     Bandwidth        Jitter   Lost/Total  Latency avg/min/max/stdev PPS
+[  1] 0.00-10.00 sec  8.35 MBytes  7.00 Mbits/sec   0.123 ms    0/ 5954 (0%) 8331.519/8330.878/8336.276/107.977 ms  595 pps
+[  3] local 0.0.0.0 port 60002 connected with 192.0.0.114 port 49679
+[  3] 0.00-10.00 sec  10.7 MBytes  9.00 Mbits/sec   0.171 ms    2/ 7655 (0.026%) 8333.173/8332.547/8339.800/95.257 ms  765 pps
+[  5] local 0.0.0.0 port 60002 connected with 192.0.0.114 port 59259
+[  5] 0.00-10.00 sec  9.54 MBytes  8.00 Mbits/sec   0.115 ms    0/ 6804 (0%) 8334.885/8334.215/8340.578/101.048 ms  680 pps
+[  7] local 0.0.0.0 port 60002 connected with 192.0.0.114 port 35329
+[  7] 0.00-10.00 sec  5.96 MBytes  5.00 Mbits/sec   0.120 ms    0/ 4253 (0%) 8336.466/8335.835/8340.376/127.838 ms  425 pps
+[  9] local 0.0.0.0 port 60002 connected with 192.0.0.114 port 35371
+[  9] 0.00-10.00 sec  8.35 MBytes  7.00 Mbits/sec   0.148 ms    0/ 5954 (0%) 8338.017/8337.358/8342.431/108.061 ms  595 pps
+[ 11] local 0.0.0.0 port 60002 connected with 192.0.0.114 port 36934
+[ 11] 0.00-10.00 sec  10.7 MBytes  9.00 Mbits/sec   0.259 ms    0/ 7655 (0%) 8339.682/8339.042/8344.513/95.320 ms  765 pps
+------------------------------------------------------------
+Server listening on UDP port 60002
+Receiving 1470 byte datagrams
+UDP buffer size: 0.41 MByte (WARNING: requested 0.59 MByte)
+------------------------------------------------------------
+[  1] local 0.0.0.0 port 60002 connected with 192.0.0.114 port 35303
+[ ID] Interval       Transfer     Bandwidth        Jitter   Lost/Total  Latency avg/min/max/stdev PPS
+[  1] 0.00-10.01 sec  3.58 MBytes  3.00 Mbits/sec   0.123 ms    0/ 2553 (0%) 8342.136/8341.513/8345.286/165.125 ms  255 pps
+[  3] local 0.0.0.0 port 60002 connected with 192.0.0.114 port 55019
+[  3] 0.00-10.00 sec  8.35 MBytes  7.00 Mbits/sec   0.107 ms    0/ 5954 (0%) 8343.840/8343.152/8351.002/108.138 ms  595 pps
+[  5] local 0.0.0.0 port 60002 connected with 192.0.0.114 port 48855
+[  5] 0.00-10.00 sec  8.35 MBytes  7.00 Mbits/sec   0.117 ms    0/ 5954 (0%) 8345.460/8344.822/8350.622/108.159 ms  595 pps
+[  7] local 0.0.0.0 port 60002 connected with 192.0.0.114 port 41568
+[  7] 0.00-10.00 sec  13.1 MBytes  11.0 Mbits/sec   0.127 ms    0/ 9355 (0%) 8347.165/8346.486/8352.878/86.305 ms  935 pps
+[  9] local 0.0.0.0 port 60002 connected with 192.0.0.114 port 43288
+[  9] 0.00-10.00 sec  13.1 MBytes  11.0 Mbits/sec   0.095 ms    0/ 9355 (0%) 8348.807/8348.162/8355.769/86.320 ms  935 pps
+[ 11] local 0.0.0.0 port 60002 connected with 192.0.0.114 port 56304
+[ 11] 0.00-10.00 sec  9.54 MBytes  8.00 Mbits/sec   0.195 ms    0/ 6804 (0%) 8350.422/8349.779/8356.121/101.236 ms  680 pps
+------------------------------------------------------------
+Server listening on UDP port 60002
+Receiving 1470 byte datagrams
+UDP buffer size: 0.41 MByte (WARNING: requested 0.59 MByte)
+------------------------------------------------------------
+[  1] local 0.0.0.0 port 60002 connected with 192.0.0.114 port 51538
+[ ID] Interval       Transfer     Bandwidth        Jitter   Lost/Total  Latency avg/min/max/stdev PPS
+[  1] 0.00-10.00 sec  8.35 MBytes  7.00 Mbits/sec   0.212 ms    0/ 5954 (0%) 8352.800/8352.152/8356.770/108.255 ms  595 pps
+[  3] local 0.0.0.0 port 60002 connected with 192.0.0.114 port 57716
+[  3] 0.00-10.00 sec  9.54 MBytes  8.00 Mbits/sec   0.186 ms    0/ 6804 (0%) 8354.337/8353.715/8360.166/101.285 ms  680 pps
+[  5] local 0.0.0.0 port 60002 connected with 192.0.0.114 port 56693
+[  5] 0.00-10.00 sec  11.9 MBytes  10.0 Mbits/sec   0.152 ms    0/ 8505 (0%) 8355.939/8355.269/8364.394/90.607 ms  850 pps
+[  7] local 0.0.0.0 port 60002 connected with 192.0.0.114 port 44349
+[  7] 0.00-10.00 sec  11.9 MBytes  10.0 Mbits/sec   0.118 ms    0/ 8505 (0%) 8357.481/8356.800/8362.987/90.623 ms  850 pps
+[  9] local 0.0.0.0 port 60002 connected with 192.0.0.114 port 53749
+[  9] 0.00-10.00 sec  8.35 MBytes  7.00 Mbits/sec   0.277 ms    0/ 5954 (0%) 8359.178/8358.513/8364.544/108.337 ms  595 pps
+[ 11] local 0.0.0.0 port 60002 connected with 192.0.0.114 port 60145
+[ 11] 0.00-10.00 sec  8.35 MBytes  7.00 Mbits/sec   0.186 ms    0/ 5954 (0%) 8360.852/8360.152/8367.664/108.361 ms  595 pps
+------------------------------------------------------------
+Server listening on UDP port 60002
+Receiving 1470 byte datagrams
+UDP buffer size: 0.41 MByte (WARNING: requested 0.59 MByte)
+------------------------------------------------------------
+[  1] local 0.0.0.0 port 60002 connected with 192.0.0.114 port 43312
+[ ID] Interval       Transfer     Bandwidth        Jitter   Lost/Total  Latency avg/min/max/stdev PPS
+[  1] 0.00-10.00 sec  11.9 MBytes  10.0 Mbits/sec   0.135 ms    0/ 8505 (0%) 8363.234/8362.579/8370.027/90.689 ms  850 pps
+[  3] local 0.0.0.0 port 60002 connected with 192.0.0.114 port 49343
+[  3] 0.00-10.00 sec  13.1 MBytes  11.0 Mbits/sec   0.094 ms    0/ 9355 (0%) 8364.885/8364.212/8371.518/86.484 ms  935 pps
+[  5] local 0.0.0.0 port 60002 connected with 192.0.0.114 port 38072
+[  5] 0.00-10.00 sec  13.1 MBytes  11.0 Mbits/sec   0.136 ms    0/ 9355 (0%) 8366.478/8365.772/8372.302/86.503 ms  935 pps
+[  7] local 0.0.0.0 port 60002 connected with 192.0.0.114 port 40989
+[  7] 0.00-10.00 sec  13.1 MBytes  11.0 Mbits/sec   0.138 ms    0/ 9355 (0%) 8368.085/8367.396/8375.240/86.518 ms  935 pps
+[  9] local 0.0.0.0 port 60002 connected with 192.0.0.114 port 59174
+[  9] 0.00-10.00 sec  10.7 MBytes  9.00 Mbits/sec   0.109 ms    0/ 7655 (0%) 8369.735/8369.057/8377.719/95.663 ms  765 pps
+[ 11] local 0.0.0.0 port 60002 connected with 192.0.0.114 port 56025
+[ 11] 0.00-10.00 sec  8.35 MBytes  7.00 Mbits/sec   0.332 ms    0/ 5954 (0%) 8371.374/8370.726/8376.685/108.497 ms  595 pps
+------------------------------------------------------------
+Server listening on UDP port 60002
+Receiving 1470 byte datagrams
+UDP buffer size: 0.41 MByte (WARNING: requested 0.59 MByte)
+------------------------------------------------------------
+[  1] local 0.0.0.0 port 60002 connected with 192.0.0.114 port 41520
+[ ID] Interval       Transfer     Bandwidth        Jitter   Lost/Total  Latency avg/min/max/stdev PPS
+[  1] 0.00-10.00 sec  7.16 MBytes  6.00 Mbits/sec   0.122 ms    0/ 5104 (0%) 8373.719/8373.084/8377.906/117.218 ms  510 pps
+[  3] local 0.0.0.0 port 60002 connected with 192.0.0.114 port 43600
+[  3] 0.00-10.00 sec  9.54 MBytes  8.00 Mbits/sec   0.157 ms    0/ 6804 (0%) 8375.287/8374.658/8380.881/101.540 ms  680 pps
+[  5] local 0.0.0.0 port 60002 connected with 192.0.0.114 port 49933
+[  5] 0.00-10.00 sec  11.9 MBytes  10.0 Mbits/sec   0.106 ms    0/ 8505 (0%) 8376.887/8376.227/8382.271/90.834 ms  850 pps
+[  7] local 0.0.0.0 port 60002 connected with 192.0.0.114 port 60612
+[  7] 0.00-10.00 sec  5.96 MBytes  5.00 Mbits/sec   0.136 ms    0/ 4253 (0%) 8378.430/8377.846/8382.888/128.484 ms  425 pps
+[  9] local 0.0.0.0 port 60002 connected with 192.0.0.114 port 44364
+[  9] 0.00-10.01 sec  2.39 MBytes  2.00 Mbits/sec   0.133 ms    0/ 1702 (0%) 8380.050/8379.476/8383.353/203.175 ms  170 pps
+[ 11] local 0.0.0.0 port 60002 connected with 192.0.0.114 port 52926
+[ 11] 0.00-10.00 sec  5.96 MBytes  5.00 Mbits/sec   0.438 ms    0/ 4253 (0%) 8381.676/8381.068/8388.267/128.535 ms  425 pps
+------------------------------------------------------------
+Server listening on UDP port 60002
+Receiving 1470 byte datagrams
+UDP buffer size: 0.41 MByte (WARNING: requested 0.59 MByte)
+------------------------------------------------------------
+[  1] local 0.0.0.0 port 60002 connected with 192.0.0.114 port 38477
+[ ID] Interval       Transfer     Bandwidth        Jitter   Lost/Total  Latency avg/min/max/stdev PPS
+[  1] 0.00-10.01 sec  3.58 MBytes  3.00 Mbits/sec   0.166 ms    0/ 2553 (0%) 8384.085/8383.521/8386.676/165.956 ms  255 pps
+[  3] local 0.0.0.0 port 60002 connected with 192.0.0.114 port 45539
+[  3] 0.00-10.00 sec  9.54 MBytes  8.00 Mbits/sec   0.151 ms    0/ 6804 (0%) 8385.739/8385.065/8392.156/101.664 ms  680 pps
+[  5] local 0.0.0.0 port 60002 connected with 192.0.0.114 port 56540
+[  5] 0.00-10.00 sec  10.7 MBytes  9.00 Mbits/sec   0.160 ms    0/ 7655 (0%) 8387.319/8386.597/8393.884/95.865 ms  765 pps
+[  7] local 0.0.0.0 port 60002 connected with 192.0.0.114 port 60419
+[  7] 0.00-10.00 sec  7.16 MBytes  6.00 Mbits/sec   0.122 ms    0/ 5104 (0%) 8388.856/8388.227/8393.474/117.430 ms  510 pps
+[  9] local 0.0.0.0 port 60002 connected with 192.0.0.114 port 34594
+[  9] 0.00-10.00 sec  9.54 MBytes  8.00 Mbits/sec   0.112 ms    0/ 6804 (0%) 8390.453/8389.790/8396.131/101.723 ms  680 pps
+[ 11] local 0.0.0.0 port 60002 connected with 192.0.0.114 port 40113
+[ 11] 0.00-10.00 sec  7.15 MBytes  6.00 Mbits/sec   0.126 ms    0/ 5103 (0%) 8392.042/8391.410/8396.545/117.483 ms  510 pps
+------------------------------------------------------------
+Server listening on UDP port 60002
+Receiving 1470 byte datagrams
+UDP buffer size: 0.41 MByte (WARNING: requested 0.59 MByte)
+------------------------------------------------------------
+[  1] local 0.0.0.0 port 60002 connected with 192.0.0.114 port 56345
+[ ID] Interval       Transfer     Bandwidth        Jitter   Lost/Total  Latency avg/min/max/stdev PPS
+[  1] 0.00-10.00 sec  8.35 MBytes  7.00 Mbits/sec   0.146 ms    0/ 5954 (0%) 8394.459/8393.801/8397.205/108.795 ms  595 pps
+[  3] local 0.0.0.0 port 60002 connected with 192.0.0.114 port 38123
+[  3] 0.00-10.00 sec  10.7 MBytes  9.00 Mbits/sec   0.139 ms    0/ 7654 (0%) 8396.152/8395.461/8402.830/95.970 ms  765 pps
+[  5] local 0.0.0.0 port 60002 connected with 192.0.0.114 port 34744
+[  5] 0.00-10.00 sec  14.3 MBytes  12.0 Mbits/sec   0.106 ms    0/10206 (0%) 8397.721/8397.061/8402.764/83.125 ms 1020 pps
+[  7] local 0.0.0.0 port 60002 connected with 192.0.0.114 port 51585
+[  7] 0.00-10.00 sec  9.54 MBytes  8.00 Mbits/sec   0.134 ms    0/ 6804 (0%) 8399.379/8398.747/8404.447/101.832 ms  680 pps
+[  9] local 0.0.0.0 port 60002 connected with 192.0.0.114 port 33066
+[  9] 0.00-10.00 sec  8.35 MBytes  7.00 Mbits/sec   0.138 ms    0/ 5954 (0%) 8400.968/8400.397/8408.076/108.879 ms  595 pps
+[ 11] local 0.0.0.0 port 60002 connected with 192.0.0.114 port 52446
+[ 11] 0.00-10.00 sec  9.54 MBytes  8.00 Mbits/sec   0.119 ms    0/ 6804 (0%) 8402.592/8401.981/8409.304/101.870 ms  680 pps
+------------------------------------------------------------
+Server listening on UDP port 60002
+Receiving 1470 byte datagrams
+UDP buffer size: 0.41 MByte (WARNING: requested 0.59 MByte)
+------------------------------------------------------------
+[  1] local 0.0.0.0 port 60002 connected with 192.0.0.114 port 39365
+[ ID] Interval       Transfer     Bandwidth        Jitter   Lost/Total  Latency avg/min/max/stdev PPS
+[  1] 0.00-10.01 sec  4.77 MBytes  4.00 Mbits/sec   0.132 ms    0/ 3403 (0%) 8405.075/8404.422/8412.228/144.096 ms  340 pps
+[  3] local 0.0.0.0 port 60002 connected with 192.0.0.114 port 45353
+[  3] 0.00-10.00 sec  10.7 MBytes  9.00 Mbits/sec   0.098 ms    0/ 7655 (0%) 8406.653/8406.061/8410.722/96.086 ms  765 pps
+[  5] local 0.0.0.0 port 60002 connected with 192.0.0.114 port 44208
+[  5] 0.00-10.00 sec  10.7 MBytes  9.00 Mbits/sec   0.113 ms    0/ 7655 (0%) 8408.217/8407.557/8415.053/96.104 ms  765 pps
+[  7] local 0.0.0.0 port 60002 connected with 192.0.0.114 port 58956
+[  7] 0.00-10.00 sec  8.35 MBytes  7.00 Mbits/sec   0.168 ms    0/ 5954 (0%) 8409.818/8409.138/8414.992/108.996 ms  595 pps
+[  9] local 0.0.0.0 port 60002 connected with 192.0.0.114 port 48981
+[  9] 0.00-10.00 sec  11.9 MBytes  10.0 Mbits/sec   0.102 ms    0/ 8505 (0%) 8411.537/8410.857/8416.728/91.210 ms  850 pps
+[ 11] local 0.0.0.0 port 60002 connected with 192.0.0.114 port 41273
+[ 11] 0.00-10.00 sec  9.54 MBytes  8.00 Mbits/sec   0.179 ms    0/ 6804 (0%) 8413.162/8412.547/8421.221/101.999 ms  680 pps
+------------------------------------------------------------
+Server listening on UDP port 60002
+Receiving 1470 byte datagrams
+UDP buffer size: 0.41 MByte (WARNING: requested 0.59 MByte)
+------------------------------------------------------------
+[  1] local 0.0.0.0 port 60002 connected with 192.0.0.114 port 40424
+[ ID] Interval       Transfer     Bandwidth        Jitter   Lost/Total  Latency avg/min/max/stdev PPS
+[  1] 0.00-10.00 sec  11.9 MBytes  10.0 Mbits/sec   0.110 ms    0/ 8505 (0%) 8415.550/8414.902/8420.925/91.254 ms  850 pps
+[  3] local 0.0.0.0 port 60002 connected with 192.0.0.114 port 52466
+[  3] 0.00-10.00 sec  7.16 MBytes  6.00 Mbits/sec   0.119 ms    0/ 5104 (0%) 8417.194/8416.629/8421.171/117.826 ms  510 pps
+[  5] local 0.0.0.0 port 60002 connected with 192.0.0.114 port 34407
+[  5] 0.00-10.00 sec  9.54 MBytes  8.00 Mbits/sec   0.124 ms    0/ 6804 (0%) 8418.892/8418.194/8428.363/102.067 ms  680 pps
+[  7] local 0.0.0.0 port 60002 connected with 192.0.0.114 port 37732
+[  7] 0.00-10.01 sec  4.77 MBytes  4.00 Mbits/sec   0.120 ms    0/ 3403 (0%) 8420.444/8419.791/8426.689/144.359 ms  340 pps
+[  9] local 0.0.0.0 port 60002 connected with 192.0.0.114 port 51215
+[  9] 0.00-10.00 sec  8.35 MBytes  7.00 Mbits/sec   0.104 ms    0/ 5954 (0%) 8422.023/8421.391/8425.030/109.150 ms  595 pps
+[ 11] local 0.0.0.0 port 60002 connected with 192.0.0.114 port 34911
+[ 11] 0.00-10.00 sec  9.54 MBytes  8.00 Mbits/sec   0.127 ms    0/ 6804 (0%) 8423.562/8422.947/8428.296/102.126 ms  680 pps
+------------------------------------------------------------
+Server listening on UDP port 60002
+Receiving 1470 byte datagrams
+UDP buffer size: 0.41 MByte (WARNING: requested 0.59 MByte)
+------------------------------------------------------------
+[  1] local 0.0.0.0 port 60002 connected with 192.0.0.114 port 58141
+[ ID] Interval       Transfer     Bandwidth        Jitter   Lost/Total  Latency avg/min/max/stdev PPS
+[  1] 0.00-10.00 sec  14.3 MBytes  12.0 Mbits/sec   0.152 ms    0/10206 (0%) 8426.005/8425.331/8430.684/83.412 ms 1020 pps
+[  3] local 0.0.0.0 port 60002 connected with 192.0.0.114 port 53561
+[  3] 0.00-10.00 sec  8.35 MBytes  7.00 Mbits/sec   0.125 ms    0/ 5954 (0%) 8427.576/8426.969/8431.983/109.223 ms  595 pps
+[  5] local 0.0.0.0 port 60002 connected with 192.0.0.114 port 46255
+[  5] 0.00-10.00 sec  11.9 MBytes  10.0 Mbits/sec   0.147 ms    0/ 8505 (0%) 8429.226/8428.502/8435.014/91.402 ms  850 pps
+[  7] local 0.0.0.0 port 60002 connected with 192.0.0.114 port 60528
+[  7] 0.00-10.00 sec  9.54 MBytes  8.00 Mbits/sec   0.414 ms    0/ 6804 (0%) 8430.831/8430.195/8436.279/102.212 ms  680 pps
+[  9] local 0.0.0.0 port 60002 connected with 192.0.0.114 port 60557
+[  9] 0.00-10.00 sec  10.7 MBytes  9.00 Mbits/sec   0.153 ms    0/ 7655 (0%) 8432.436/8431.765/8437.903/96.378 ms  765 pps
+[ 11] local 0.0.0.0 port 60002 connected with 192.0.0.114 port 50215
+[ 11] 0.00-10.00 sec  8.35 MBytes  7.00 Mbits/sec   0.117 ms    0/ 5954 (0%) 8434.020/8433.404/8438.242/109.307 ms  595 pps
+------------------------------------------------------------
+Server listening on UDP port 60002
+Receiving 1470 byte datagrams
+UDP buffer size: 0.41 MByte (WARNING: requested 0.59 MByte)
+------------------------------------------------------------
+[  1] local 0.0.0.0 port 60002 connected with 192.0.0.114 port 37238
+[ ID] Interval       Transfer     Bandwidth        Jitter   Lost/Total  Latency avg/min/max/stdev PPS
+[  1] 0.00-10.00 sec  10.7 MBytes  9.00 Mbits/sec   0.114 ms    0/ 7655 (0%) 8436.505/8435.840/8442.600/96.429 ms  765 pps
+[  3] local 0.0.0.0 port 60002 connected with 192.0.0.114 port 52733
+[  3] 0.00-10.00 sec  11.9 MBytes  10.0 Mbits/sec   0.127 ms    0/ 8505 (0%) 8438.039/8437.354/8442.331/91.498 ms  850 pps
+[  5] local 0.0.0.0 port 60002 connected with 192.0.0.114 port 50768
+[  5] 0.00-10.00 sec  10.7 MBytes  9.00 Mbits/sec   0.148 ms    0/ 7655 (0%) 8439.631/8438.955/8444.952/96.462 ms  765 pps
+[  7] local 0.0.0.0 port 60002 connected with 192.0.0.114 port 59133
+[  7] 0.00-10.00 sec  5.96 MBytes  5.00 Mbits/sec   0.131 ms    0/ 4253 (0%) 8441.282/8440.622/8446.780/129.444 ms  425 pps
+[  9] local 0.0.0.0 port 60002 connected with 192.0.0.114 port 49471
+[  9] 0.00-10.00 sec  8.35 MBytes  7.00 Mbits/sec   0.097 ms    0/ 5954 (0%) 8442.850/8442.176/8449.796/109.420 ms  595 pps
+[ 11] local 0.0.0.0 port 60002 connected with 192.0.0.114 port 49803
+[ 11] 0.00-10.00 sec  9.54 MBytes  8.00 Mbits/sec   0.175 ms    0/ 6804 (0%) 8444.452/8443.779/8449.460/102.377 ms  680 pps
+------------------------------------------------------------
+Server listening on UDP port 60002
+Receiving 1470 byte datagrams
+UDP buffer size: 0.41 MByte (WARNING: requested 0.59 MByte)
+------------------------------------------------------------
+[  1] local 0.0.0.0 port 60002 connected with 192.0.0.114 port 35214
+[ ID] Interval       Transfer     Bandwidth        Jitter   Lost/Total  Latency avg/min/max/stdev PPS
+[  1] 0.00-10.00 sec  8.35 MBytes  7.00 Mbits/sec   0.182 ms    0/ 5954 (0%) 8447.176/8446.544/8452.826/109.477 ms  595 pps
+[  3] local 0.0.0.0 port 60002 connected with 192.0.0.114 port 60479
+[  3] 0.00-10.00 sec  5.96 MBytes  5.00 Mbits/sec   0.120 ms    0/ 4253 (0%) 8448.791/8448.136/8452.876/129.562 ms  425 pps
+[  5] local 0.0.0.0 port 60002 connected with 192.0.0.114 port 47834
+[  5] 0.00-10.00 sec  8.35 MBytes  7.00 Mbits/sec   0.103 ms    0/ 5954 (0%) 8450.406/8449.761/8455.285/109.519 ms  595 pps
+[  7] local 0.0.0.0 port 60002 connected with 192.0.0.114 port 47960
+[  7] 0.00-10.00 sec  5.96 MBytes  5.00 Mbits/sec   0.114 ms    0/ 4253 (0%) 8452.050/8451.378/8456.142/129.613 ms  425 pps
+[  9] local 0.0.0.0 port 60002 connected with 192.0.0.114 port 39346
+[  9] 0.00-10.00 sec  7.16 MBytes  6.00 Mbits/sec   0.117 ms    0/ 5104 (0%) 8453.665/8453.073/8458.492/118.334 ms  510 pps
+[ 11] local 0.0.0.0 port 60002 connected with 192.0.0.114 port 59075
+[ 11] 0.00-10.00 sec  9.54 MBytes  8.00 Mbits/sec   0.148 ms    0/ 6804 (0%) 8455.304/8454.678/8460.030/102.507 ms  680 pps
+------------------------------------------------------------
+Server listening on UDP port 60002
+Receiving 1470 byte datagrams
+UDP buffer size: 0.41 MByte (WARNING: requested 0.59 MByte)
+------------------------------------------------------------
+[  1] local 0.0.0.0 port 60002 connected with 192.0.0.114 port 49135
+[ ID] Interval       Transfer     Bandwidth        Jitter   Lost/Total  Latency avg/min/max/stdev PPS
+[  1] 0.00-10.00 sec  8.35 MBytes  7.00 Mbits/sec   0.127 ms    0/ 5954 (0%) 8457.760/8457.137/8463.754/109.614 ms  595 pps
+[  3] local 0.0.0.0 port 60002 connected with 192.0.0.114 port 41064
+[  3] 0.00-10.00 sec  7.15 MBytes  6.00 Mbits/sec   0.074 ms    0/ 5103 (0%) 8459.313/8458.694/8463.525/118.425 ms  510 pps
+[  5] local 0.0.0.0 port 60002 connected with 192.0.0.114 port 38326
+[  5] 0.00-10.00 sec  5.96 MBytes  5.00 Mbits/sec   0.140 ms    0/ 4253 (0%) 8460.862/8460.222/8466.162/129.749 ms  425 pps
+[  7] local 0.0.0.0 port 60002 connected with 192.0.0.114 port 49483
+[  7] 0.00-10.00 sec  9.54 MBytes  8.00 Mbits/sec   0.162 ms    0/ 6804 (0%) 8462.523/8461.868/8466.919/102.598 ms  680 pps
+[  9] local 0.0.0.0 port 60002 connected with 192.0.0.114 port 36616
+[  9] 0.00-10.00 sec  10.7 MBytes  9.00 Mbits/sec   0.120 ms    0/ 7655 (0%) 8464.146/8463.493/8470.395/96.743 ms  765 pps
+[ 11] local 0.0.0.0 port 60002 connected with 192.0.0.114 port 48564
+[ 11] 0.00-10.00 sec  13.1 MBytes  11.0 Mbits/sec   0.133 ms    0/ 9355 (0%) 8465.825/8465.143/8470.786/87.531 ms  935 pps

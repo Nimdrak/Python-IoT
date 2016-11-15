@@ -1,0 +1,538 @@
+------------------------------------------------------------
+Server listening on UDP port 60019
+Receiving 1470 byte datagrams
+UDP buffer size: 0.41 MByte (WARNING: requested 0.59 MByte)
+------------------------------------------------------------
+[  1] local 0.0.0.0 port 60019 connected with 192.0.0.114 port 47427
+[ ID] Interval       Transfer     Bandwidth        Jitter   Lost/Total  Latency avg/min/max/stdev PPS
+[  1] 0.00-10.00 sec  9.54 MBytes  8.00 Mbits/sec   0.144 ms    0/ 6804 (0%) 11709.317/11708.635/11714.715/141.961 ms  680 pps
+[  3] local 0.0.0.0 port 60019 connected with 192.0.0.114 port 44366
+[  3] 0.00-10.00 sec  11.9 MBytes  10.0 Mbits/sec   0.146 ms    0/ 8505 (0%) 11711.331/11710.644/11717.232/126.993 ms  850 pps
+[  5] local 0.0.0.0 port 60019 connected with 192.0.0.114 port 51505
+[  5] 0.00-10.00 sec  10.7 MBytes  9.00 Mbits/sec   0.120 ms    0/ 7655 (0%) 11713.200/11712.471/11718.864/133.883 ms  765 pps
+[  7] local 0.0.0.0 port 60019 connected with 192.0.0.114 port 53499
+[  7] 0.00-10.00 sec  11.9 MBytes  10.0 Mbits/sec   0.128 ms    0/ 8505 (0%) 11715.011/11714.275/11720.536/127.034 ms  850 pps
+[  9] local 0.0.0.0 port 60019 connected with 192.0.0.114 port 58612
+[  9] 0.00-10.00 sec  11.9 MBytes  10.0 Mbits/sec   0.112 ms    1/ 8505 (0.012%) 11716.807/11716.110/11722.096/127.060 ms  850 pps
+[ 11] local 0.0.0.0 port 60019 connected with 192.0.0.114 port 50973
+[ 11] 0.00-10.00 sec  10.7 MBytes  9.00 Mbits/sec   0.171 ms    0/ 7655 (0%) 11718.713/11717.925/11725.338/133.942 ms  765 pps
+------------------------------------------------------------
+Server listening on UDP port 60019
+Receiving 1470 byte datagrams
+UDP buffer size: 0.41 MByte (WARNING: requested 0.59 MByte)
+------------------------------------------------------------
+[  1] local 0.0.0.0 port 60019 connected with 192.0.0.114 port 40257
+[ ID] Interval       Transfer     Bandwidth        Jitter   Lost/Total  Latency avg/min/max/stdev PPS
+[  1] 0.00-10.00 sec  9.54 MBytes  8.00 Mbits/sec   0.171 ms    0/ 6804 (0%) 11721.471/11720.718/11726.390/142.108 ms  680 pps
+[  3] local 0.0.0.0 port 60019 connected with 192.0.0.114 port 37933
+[  3] 0.00-10.00 sec  10.7 MBytes  9.00 Mbits/sec   0.143 ms    0/ 7655 (0%) 11723.217/11722.512/11734.102/133.996 ms  765 pps
+[  5] local 0.0.0.0 port 60019 connected with 192.0.0.114 port 59259
+[  5] 0.00-10.00 sec  10.7 MBytes  9.00 Mbits/sec   0.113 ms    0/ 7655 (0%) 11725.017/11724.282/11731.839/134.016 ms  765 pps
+[  7] local 0.0.0.0 port 60019 connected with 192.0.0.114 port 53836
+[  7] 0.00-10.00 sec  11.9 MBytes  10.0 Mbits/sec   0.122 ms    0/ 8505 (0%) 11726.801/11725.969/11731.159/127.164 ms  850 pps
+[  9] local 0.0.0.0 port 60019 connected with 192.0.0.114 port 39654
+[  9] 0.00-10.00 sec  9.54 MBytes  8.00 Mbits/sec   0.148 ms    0/ 6804 (0%) 11728.606/11727.867/11737.453/142.194 ms  680 pps
+[ 11] local 0.0.0.0 port 60019 connected with 192.0.0.114 port 55474
+[ 11] 0.00-10.00 sec  9.54 MBytes  8.00 Mbits/sec   0.141 ms    0/ 6804 (0%) 11730.478/11729.835/11737.188/142.218 ms  680 pps
+------------------------------------------------------------
+Server listening on UDP port 60019
+Receiving 1470 byte datagrams
+UDP buffer size: 0.41 MByte (WARNING: requested 0.59 MByte)
+------------------------------------------------------------
+[  1] local 0.0.0.0 port 60019 connected with 192.0.0.114 port 39505
+[ ID] Interval       Transfer     Bandwidth        Jitter   Lost/Total  Latency avg/min/max/stdev PPS
+[  1] 0.00-10.00 sec  10.7 MBytes  9.00 Mbits/sec   0.168 ms    0/ 7655 (0%) 11733.296/11732.497/11738.540/134.108 ms  765 pps
+[  3] local 0.0.0.0 port 60019 connected with 192.0.0.114 port 41810
+[  3] 0.00-10.00 sec  10.7 MBytes  9.00 Mbits/sec   0.181 ms    0/ 7655 (0%) 11735.121/11734.479/11739.856/134.133 ms  765 pps
+[  5] local 0.0.0.0 port 60019 connected with 192.0.0.114 port 51784
+[  5] 0.00-10.00 sec  9.54 MBytes  8.00 Mbits/sec   0.190 ms    0/ 6804 (0%) 11736.959/11736.258/11742.971/142.295 ms  680 pps
+[  7] local 0.0.0.0 port 60019 connected with 192.0.0.114 port 59873
+[  7] 0.00-10.00 sec  11.9 MBytes  10.0 Mbits/sec   0.124 ms    3/ 8505 (0.035%) 11738.740/11737.970/11743.649/127.312 ms  849 pps
+[  9] local 0.0.0.0 port 60019 connected with 192.0.0.114 port 39508
+[  9] 0.00-10.00 sec  11.9 MBytes  10.0 Mbits/sec   0.487 ms    0/ 8505 (0%) 11740.571/11739.849/11746.610/127.325 ms  850 pps
+[ 11] local 0.0.0.0 port 60019 connected with 192.0.0.114 port 59535
+[ 11] 0.00-10.00 sec  13.1 MBytes  11.0 Mbits/sec   0.115 ms    0/ 9355 (0%) 11742.376/11741.576/11749.953/121.409 ms  935 pps
+------------------------------------------------------------
+Server listening on UDP port 60019
+Receiving 1470 byte datagrams
+UDP buffer size: 0.41 MByte (WARNING: requested 0.59 MByte)
+------------------------------------------------------------
+[  1] local 0.0.0.0 port 60019 connected with 192.0.0.114 port 57457
+[ ID] Interval       Transfer     Bandwidth        Jitter   Lost/Total  Latency avg/min/max/stdev PPS
+[  1] 0.00-10.00 sec  10.7 MBytes  9.00 Mbits/sec   0.119 ms    0/ 7655 (0%) 11745.295/11744.590/11751.254/134.250 ms  765 pps
+[  3] local 0.0.0.0 port 60019 connected with 192.0.0.114 port 48632
+[  3] 0.00-10.00 sec  10.7 MBytes  9.00 Mbits/sec   0.098 ms    0/ 7655 (0%) 11747.083/11746.350/11758.401/134.268 ms  765 pps
+[  5] local 0.0.0.0 port 60019 connected with 192.0.0.114 port 60113
+[  5] 0.00-10.00 sec  10.7 MBytes  9.00 Mbits/sec   0.154 ms    0/ 7655 (0%) 11748.941/11748.206/11754.550/134.287 ms  765 pps
+[  7] local 0.0.0.0 port 60019 connected with 192.0.0.114 port 58062
+[  7] 0.00-10.00 sec  11.9 MBytes  10.0 Mbits/sec   0.154 ms    0/ 8503 (0%) 11750.910/11750.197/11757.204/127.435 ms  850 pps
+[  9] local 0.0.0.0 port 60019 connected with 192.0.0.114 port 45833
+[  9] 0.00-10.00 sec  11.9 MBytes  10.0 Mbits/sec   0.178 ms    0/ 8505 (0%) 11752.683/11751.918/11758.429/127.442 ms  850 pps
+[ 11] local 0.0.0.0 port 60019 connected with 192.0.0.114 port 54135
+[ 11] 0.00-10.00 sec  10.7 MBytes  9.00 Mbits/sec   0.143 ms    0/ 7655 (0%) 11754.525/11753.777/11764.746/134.352 ms  765 pps
+------------------------------------------------------------
+Server listening on UDP port 60019
+Receiving 1470 byte datagrams
+UDP buffer size: 0.41 MByte (WARNING: requested 0.59 MByte)
+------------------------------------------------------------
+[  1] local 0.0.0.0 port 60019 connected with 192.0.0.114 port 34732
+[ ID] Interval       Transfer     Bandwidth        Jitter   Lost/Total  Latency avg/min/max/stdev PPS
+[  1] 0.00-10.00 sec  11.9 MBytes  10.0 Mbits/sec   0.144 ms    0/ 8505 (0%) 11757.459/11756.751/11765.987/127.492 ms  850 pps
+[  3] local 0.0.0.0 port 60019 connected with 192.0.0.114 port 55891
+[  3] 0.00-10.00 sec  11.9 MBytes  10.0 Mbits/sec   0.149 ms    0/ 8505 (0%) 11759.283/11758.495/11767.779/127.514 ms  850 pps
+[  5] local 0.0.0.0 port 60019 connected with 192.0.0.114 port 57732
+[  5] 0.00-10.00 sec  11.9 MBytes  10.0 Mbits/sec   0.300 ms    0/ 8505 (0%) 11761.143/11760.398/11770.941/127.536 ms  850 pps
+[  7] local 0.0.0.0 port 60019 connected with 192.0.0.114 port 54538
+[  7] 0.00-10.00 sec  10.7 MBytes  9.00 Mbits/sec   0.176 ms    0/ 7655 (0%) 11762.952/11762.208/11772.135/134.448 ms  765 pps
+[  9] local 0.0.0.0 port 60019 connected with 192.0.0.114 port 39757
+[  9] 0.00-10.00 sec  9.54 MBytes  8.00 Mbits/sec   0.089 ms    0/ 6804 (0%) 11764.839/11764.078/11770.673/142.632 ms  680 pps
+[ 11] local 0.0.0.0 port 60019 connected with 192.0.0.114 port 34835
+[ 11] 0.00-10.00 sec  10.7 MBytes  9.00 Mbits/sec   0.190 ms    0/ 7655 (0%) 11766.618/11765.889/11773.173/134.491 ms  765 pps
+------------------------------------------------------------
+Server listening on UDP port 60019
+Receiving 1470 byte datagrams
+UDP buffer size: 0.41 MByte (WARNING: requested 0.59 MByte)
+------------------------------------------------------------
+[  1] local 0.0.0.0 port 60019 connected with 192.0.0.114 port 35712
+[ ID] Interval       Transfer     Bandwidth        Jitter   Lost/Total  Latency avg/min/max/stdev PPS
+[  1] 0.00-10.00 sec  13.1 MBytes  11.0 Mbits/sec   0.152 ms    0/ 9355 (0%) 11769.496/11768.795/11776.103/121.686 ms  935 pps
+[  3] local 0.0.0.0 port 60019 connected with 192.0.0.114 port 35397
+[  3] 0.00-10.00 sec  10.7 MBytes  9.00 Mbits/sec   0.200 ms    0/ 7655 (0%) 11771.297/11770.532/11777.966/134.543 ms  765 pps
+[  5] local 0.0.0.0 port 60019 connected with 192.0.0.114 port 56301
+[  5] 0.00-10.00 sec  8.35 MBytes  7.00 Mbits/sec   0.184 ms    0/ 5954 (0%) 11773.204/11772.474/11779.485/152.584 ms  595 pps
+[  7] local 0.0.0.0 port 60019 connected with 192.0.0.114 port 60912
+[  7] 0.00-10.00 sec  10.7 MBytes  9.00 Mbits/sec   0.208 ms    0/ 7655 (0%) 11775.042/11774.318/11781.393/134.587 ms  765 pps
+[  9] local 0.0.0.0 port 60019 connected with 192.0.0.114 port 58600
+[  9] 0.00-10.00 sec  13.1 MBytes  11.0 Mbits/sec   0.107 ms    0/ 9355 (0%) 11776.894/11776.087/11785.006/121.763 ms  935 pps
+[ 11] local 0.0.0.0 port 60019 connected with 192.0.0.114 port 42951
+[ 11] 0.00-10.00 sec  10.2 MBytes  8.56 Mbits/sec   0.119 ms  373/ 7655 (4.9%) 11780.935/11777.937/12307.266/142.082 ms  727 pps
+------------------------------------------------------------
+Server listening on UDP port 60019
+Receiving 1470 byte datagrams
+UDP buffer size: 0.41 MByte (WARNING: requested 0.59 MByte)
+------------------------------------------------------------
+[  1] local 0.0.0.0 port 60019 connected with 192.0.0.114 port 42397
+[ ID] Interval       Transfer     Bandwidth        Jitter   Lost/Total  Latency avg/min/max/stdev PPS
+[  1] 0.00-10.00 sec  11.9 MBytes  10.0 Mbits/sec   0.128 ms    0/ 8505 (0%) 11781.521/11780.756/11789.573/127.755 ms  850 pps
+[  3] local 0.0.0.0 port 60019 connected with 192.0.0.114 port 46267
+[  3] 0.00-10.00 sec  9.54 MBytes  8.00 Mbits/sec   0.150 ms    0/ 6804 (0%) 11783.333/11782.599/11788.295/142.859 ms  680 pps
+[  5] local 0.0.0.0 port 60019 connected with 192.0.0.114 port 38103
+[  5] 0.00-10.00 sec  10.7 MBytes  9.00 Mbits/sec   0.294 ms    0/ 7655 (0%) 11785.158/11784.416/11793.196/134.703 ms  765 pps
+[  7] local 0.0.0.0 port 60019 connected with 192.0.0.114 port 36862
+[  7] 0.00-10.00 sec  10.7 MBytes  9.00 Mbits/sec   0.120 ms    0/ 7655 (0%) 11787.094/11786.303/11792.841/134.723 ms  765 pps
+[  9] local 0.0.0.0 port 60019 connected with 192.0.0.114 port 58868
+[  9] 0.00-10.00 sec  11.9 MBytes  10.0 Mbits/sec   0.191 ms    0/ 8505 (0%) 11788.942/11788.202/11795.308/127.836 ms  850 pps
+[ 11] local 0.0.0.0 port 60019 connected with 192.0.0.114 port 50042
+[ 11] 0.00-10.00 sec  10.7 MBytes  9.00 Mbits/sec   0.196 ms    0/ 7655 (0%) 11790.853/11790.046/11797.470/134.767 ms  765 pps
+------------------------------------------------------------
+Server listening on UDP port 60019
+Receiving 1470 byte datagrams
+UDP buffer size: 0.41 MByte (WARNING: requested 0.59 MByte)
+------------------------------------------------------------
+[  1] local 0.0.0.0 port 60019 connected with 192.0.0.114 port 57421
+[ ID] Interval       Transfer     Bandwidth        Jitter   Lost/Total  Latency avg/min/max/stdev PPS
+[  1] 0.00-10.00 sec  13.1 MBytes  11.0 Mbits/sec   0.454 ms    0/ 9355 (0%) 11793.730/11792.959/11800.570/121.939 ms  935 pps
+[  3] local 0.0.0.0 port 60019 connected with 192.0.0.114 port 60001
+[  3] 0.00-10.00 sec  9.54 MBytes  8.00 Mbits/sec   0.150 ms    0/ 6804 (0%) 11795.485/11794.745/11800.835/143.002 ms  680 pps
+[  5] local 0.0.0.0 port 60019 connected with 192.0.0.114 port 48883
+[  5] 0.00-10.00 sec  10.7 MBytes  9.00 Mbits/sec   0.132 ms    0/ 7655 (0%) 11797.357/11796.622/11802.099/134.843 ms  765 pps
+[  7] local 0.0.0.0 port 60019 connected with 192.0.0.114 port 54799
+[  7] 0.00-10.00 sec  10.7 MBytes  9.00 Mbits/sec   0.157 ms    0/ 7655 (0%) 11799.322/11798.586/11807.383/134.864 ms  765 pps
+[  9] local 0.0.0.0 port 60019 connected with 192.0.0.114 port 58676
+[  9] 0.00-10.00 sec  11.9 MBytes  10.0 Mbits/sec   0.180 ms    0/ 8505 (0%) 11801.178/11800.414/11806.501/127.968 ms  850 pps
+[ 11] local 0.0.0.0 port 60019 connected with 192.0.0.114 port 50890
+[ 11] 0.00-10.00 sec  10.7 MBytes  9.00 Mbits/sec   0.175 ms    0/ 7655 (0%) 11803.004/11802.344/11809.586/134.905 ms  765 pps
+------------------------------------------------------------
+Server listening on UDP port 60019
+Receiving 1470 byte datagrams
+UDP buffer size: 0.41 MByte (WARNING: requested 0.59 MByte)
+------------------------------------------------------------
+[  1] local 0.0.0.0 port 60019 connected with 192.0.0.114 port 58357
+[ ID] Interval       Transfer     Bandwidth        Jitter   Lost/Total  Latency avg/min/max/stdev PPS
+[  1] 0.00-10.00 sec  10.7 MBytes  9.00 Mbits/sec   0.167 ms    0/ 7655 (0%) 11805.867/11804.994/11813.483/134.937 ms  765 pps
+[  3] local 0.0.0.0 port 60019 connected with 192.0.0.114 port 41095
+[  3] 0.00-10.00 sec  9.54 MBytes  8.00 Mbits/sec   0.086 ms    0/ 6804 (0%) 11807.667/11806.844/11813.105/143.155 ms  680 pps
+[  5] local 0.0.0.0 port 60019 connected with 192.0.0.114 port 34394
+[  5] 0.00-10.00 sec  11.9 MBytes  10.0 Mbits/sec   0.113 ms    0/ 8505 (0%) 11809.587/11808.765/11814.690/128.057 ms  850 pps
+[  7] local 0.0.0.0 port 60019 connected with 192.0.0.114 port 59531
+[  7] 0.00-10.00 sec  9.54 MBytes  8.00 Mbits/sec   0.200 ms    0/ 6804 (0%) 11811.476/11810.729/11817.340/143.198 ms  680 pps
+[  9] local 0.0.0.0 port 60019 connected with 192.0.0.114 port 43262
+[  9] 0.00-10.00 sec  10.7 MBytes  9.00 Mbits/sec   0.137 ms    0/ 7655 (0%) 11813.360/11812.617/11818.510/135.025 ms  765 pps
+[ 11] local 0.0.0.0 port 60019 connected with 192.0.0.114 port 44508
+[ 11] 0.00-10.00 sec  13.1 MBytes  11.0 Mbits/sec   0.145 ms    0/ 9355 (0%) 11815.218/11814.489/11820.530/122.160 ms  935 pps
+------------------------------------------------------------
+Server listening on UDP port 60019
+Receiving 1470 byte datagrams
+UDP buffer size: 0.41 MByte (WARNING: requested 0.59 MByte)
+------------------------------------------------------------
+[  1] local 0.0.0.0 port 60019 connected with 192.0.0.114 port 39381
+[ ID] Interval       Transfer     Bandwidth        Jitter   Lost/Total  Latency avg/min/max/stdev PPS
+[  1] 0.00-10.00 sec  10.7 MBytes  9.00 Mbits/sec   0.142 ms    0/ 7655 (0%) 11817.990/11817.211/11824.922/135.080 ms  765 pps
+[  3] local 0.0.0.0 port 60019 connected with 192.0.0.114 port 58674
+[  3] 0.00-10.00 sec  13.1 MBytes  11.0 Mbits/sec   0.106 ms    0/ 9355 (0%) 11819.784/11819.002/11825.289/122.205 ms  935 pps
+[  5] local 0.0.0.0 port 60019 connected with 192.0.0.114 port 60943
+[  5] 0.00-10.00 sec  9.54 MBytes  8.00 Mbits/sec   0.129 ms    0/ 6804 (0%) 11821.729/11820.955/11829.409/143.325 ms  680 pps
+[  7] local 0.0.0.0 port 60019 connected with 192.0.0.114 port 44397
+[  7] 0.00-10.00 sec  9.54 MBytes  8.00 Mbits/sec   0.118 ms    0/ 6804 (0%) 11823.618/11822.879/11829.747/143.347 ms  680 pps
+[  9] local 0.0.0.0 port 60019 connected with 192.0.0.114 port 35965
+[ 11] local 0.0.0.0 port 60019 connected with 192.0.0.114 port 42863
+[ 11] 0.00-34.55 sec  13.1 MBytes  3.18 Mbits/sec   0.152 ms    0/ 9355 (0%) 11827.608/11826.840/11835.172/122.288 ms  270 pps
+------------------------------------------------------------
+Server listening on UDP port 60019
+Receiving 1470 byte datagrams
+UDP buffer size: 0.41 MByte (WARNING: requested 0.59 MByte)
+------------------------------------------------------------
+[  1] local 0.0.0.0 port 60019 connected with 192.0.0.114 port 45415
+[ ID] Interval       Transfer     Bandwidth        Jitter   Lost/Total  Latency avg/min/max/stdev PPS
+[  1] 0.00-10.00 sec  9.54 MBytes  8.00 Mbits/sec   0.130 ms    0/ 6804 (0%) 11830.361/11829.688/11835.750/143.438 ms  680 pps
+[  3] local 0.0.0.0 port 60019 connected with 192.0.0.114 port 57340
+[  3] 0.00-10.00 sec  11.9 MBytes  10.0 Mbits/sec   0.181 ms    0/ 8505 (0%) 11832.135/11831.466/11837.533/128.304 ms  850 pps
+[  5] local 0.0.0.0 port 60019 connected with 192.0.0.114 port 34520
+[  5] 0.00-10.00 sec  10.7 MBytes  9.00 Mbits/sec   0.124 ms    0/ 7655 (0%) 11834.073/11833.335/11841.653/135.264 ms  765 pps
+[  7] local 0.0.0.0 port 60019 connected with 192.0.0.114 port 50305
+[  7] 0.00-10.00 sec  10.7 MBytes  9.00 Mbits/sec   0.167 ms    0/ 7655 (0%) 11835.840/11835.177/11842.799/135.285 ms  765 pps
+[  9] local 0.0.0.0 port 60019 connected with 192.0.0.114 port 57542
+[  9] 0.00-10.00 sec  13.1 MBytes  11.0 Mbits/sec   0.145 ms    0/ 9355 (0%) 11837.700/11836.959/11843.856/122.391 ms  935 pps
+[ 11] local 0.0.0.0 port 60019 connected with 192.0.0.114 port 51730
+[ 11] 0.00-10.00 sec  10.7 MBytes  9.00 Mbits/sec   0.130 ms    0/ 7655 (0%) 11839.535/11838.810/11845.602/135.326 ms  765 pps
+------------------------------------------------------------
+Server listening on UDP port 60019
+Receiving 1470 byte datagrams
+UDP buffer size: 0.41 MByte (WARNING: requested 0.59 MByte)
+------------------------------------------------------------
+[  1] local 0.0.0.0 port 60019 connected with 192.0.0.114 port 38945
+[ ID] Interval       Transfer     Bandwidth        Jitter   Lost/Total  Latency avg/min/max/stdev PPS
+[  1] 0.00-10.00 sec  10.7 MBytes  9.00 Mbits/sec   0.190 ms    0/ 7655 (0%) 11842.297/11841.515/11849.283/135.357 ms  765 pps
+[  3] local 0.0.0.0 port 60019 connected with 192.0.0.114 port 35862
+[  3] 0.00-10.00 sec  9.54 MBytes  8.00 Mbits/sec   0.121 ms    0/ 6804 (0%) 11844.139/11843.427/11850.493/143.594 ms  680 pps
+[  5] local 0.0.0.0 port 60019 connected with 192.0.0.114 port 38833
+[  5] 0.00-10.00 sec  11.9 MBytes  10.0 Mbits/sec   0.128 ms    0/ 8505 (0%) 11845.937/11845.175/11854.046/128.455 ms  850 pps
+[  7] local 0.0.0.0 port 60019 connected with 192.0.0.114 port 60670
+[  7] 0.00-10.00 sec  11.9 MBytes  10.0 Mbits/sec   0.132 ms    0/ 8505 (0%) 11847.737/11847.009/11855.323/128.475 ms  850 pps
+[  9] local 0.0.0.0 port 60019 connected with 192.0.0.114 port 44734
+[  9] 0.00-10.00 sec  11.9 MBytes  10.0 Mbits/sec   0.146 ms    0/ 8505 (0%) 11849.615/11848.858/11857.729/128.494 ms  850 pps
+[ 11] local 0.0.0.0 port 60019 connected with 192.0.0.114 port 59660
+[ 11] 0.00-10.00 sec  9.54 MBytes  8.00 Mbits/sec   0.133 ms    0/ 6804 (0%) 11851.418/11850.688/11854.722/143.684 ms  680 pps
+------------------------------------------------------------
+Server listening on UDP port 60019
+Receiving 1470 byte datagrams
+UDP buffer size: 0.41 MByte (WARNING: requested 0.59 MByte)
+------------------------------------------------------------
+[  1] local 0.0.0.0 port 60019 connected with 192.0.0.114 port 44167
+[ ID] Interval       Transfer     Bandwidth        Jitter   Lost/Total  Latency avg/min/max/stdev PPS
+[  1] 0.00-10.00 sec  10.7 MBytes  9.00 Mbits/sec   0.157 ms    0/ 7655 (0%) 11854.179/11853.457/11859.972/135.490 ms  765 pps
+[  3] local 0.0.0.0 port 60019 connected with 192.0.0.114 port 44481
+[  3] 0.00-10.00 sec  9.54 MBytes  8.00 Mbits/sec   0.121 ms    0/ 6804 (0%) 11855.961/11855.203/11864.009/143.737 ms  680 pps
+[  5] local 0.0.0.0 port 60019 connected with 192.0.0.114 port 42684
+[  5] 0.00-10.00 sec  11.9 MBytes  10.0 Mbits/sec   0.113 ms    0/ 8505 (0%) 11857.839/11857.098/11867.008/128.581 ms  850 pps
+[  7] local 0.0.0.0 port 60019 connected with 192.0.0.114 port 47982
+[  7] 0.00-10.00 sec  13.1 MBytes  11.0 Mbits/sec   0.163 ms    0/ 9355 (0%) 11859.769/11859.042/11868.886/122.619 ms  935 pps
+[  9] local 0.0.0.0 port 60019 connected with 192.0.0.114 port 41642
+[  9] 0.00-10.00 sec  11.9 MBytes  10.0 Mbits/sec   0.140 ms    0/ 8505 (0%) 11861.634/11860.816/11872.910/128.622 ms  850 pps
+[ 11] local 0.0.0.0 port 60019 connected with 192.0.0.114 port 50087
+[ 11] 0.00-10.00 sec  10.7 MBytes  9.00 Mbits/sec   0.149 ms    0/ 7655 (0%) 11863.504/11862.712/11869.043/135.599 ms  765 pps
+------------------------------------------------------------
+Server listening on UDP port 60019
+Receiving 1470 byte datagrams
+UDP buffer size: 0.41 MByte (WARNING: requested 0.59 MByte)
+------------------------------------------------------------
+[  1] local 0.0.0.0 port 60019 connected with 192.0.0.114 port 37323
+[ ID] Interval       Transfer     Bandwidth        Jitter   Lost/Total  Latency avg/min/max/stdev PPS
+[  1] 0.00-10.00 sec  14.3 MBytes  12.0 Mbits/sec   0.141 ms    0/10206 (0%) 11866.232/11865.480/11873.526/117.462 ms 1020 pps
+[  3] local 0.0.0.0 port 60019 connected with 192.0.0.114 port 54072
+[  3] 0.00-10.00 sec  10.7 MBytes  9.00 Mbits/sec   0.138 ms    0/ 7655 (0%) 11868.107/11867.377/11875.605/135.654 ms  765 pps
+[  5] local 0.0.0.0 port 60019 connected with 192.0.0.114 port 39530
+[  5] 0.00-10.00 sec  11.9 MBytes  10.0 Mbits/sec   0.156 ms    0/ 8505 (0%) 11870.020/11869.260/11874.935/128.715 ms  850 pps
+[  7] local 0.0.0.0 port 60019 connected with 192.0.0.114 port 33109
+[  7] 0.00-10.00 sec  11.9 MBytes  10.0 Mbits/sec   0.163 ms    0/ 8505 (0%) 11871.818/11871.089/11876.761/128.733 ms  850 pps
+[  9] local 0.0.0.0 port 60019 connected with 192.0.0.114 port 51832
+[  9] 0.00-10.00 sec  11.9 MBytes  10.0 Mbits/sec   0.135 ms    0/ 8505 (0%) 11873.753/11872.983/11882.258/128.754 ms  850 pps
+[ 11] local 0.0.0.0 port 60019 connected with 192.0.0.114 port 40452
+[ 11] 0.00-10.00 sec  10.7 MBytes  9.00 Mbits/sec   0.248 ms    0/ 7655 (0%) 11875.572/11874.809/11881.711/135.737 ms  765 pps
+------------------------------------------------------------
+Server listening on UDP port 60019
+Receiving 1470 byte datagrams
+UDP buffer size: 0.41 MByte (WARNING: requested 0.59 MByte)
+------------------------------------------------------------
+[  1] local 0.0.0.0 port 60019 connected with 192.0.0.114 port 40114
+[ ID] Interval       Transfer     Bandwidth        Jitter   Lost/Total  Latency avg/min/max/stdev PPS
+[  1] 0.00-10.00 sec  11.9 MBytes  10.0 Mbits/sec   0.129 ms    0/ 8505 (0%) 11878.368/11877.633/11886.046/128.805 ms  850 pps
+[  3] local 0.0.0.0 port 60019 connected with 192.0.0.114 port 55539
+[  3] 0.00-10.00 sec  11.9 MBytes  10.0 Mbits/sec   0.212 ms    0/ 8505 (0%) 11880.278/11879.530/11887.116/128.825 ms  850 pps
+[  5] local 0.0.0.0 port 60019 connected with 192.0.0.114 port 39110
+[  5] 0.00-10.00 sec  11.9 MBytes  10.0 Mbits/sec   0.115 ms    0/ 8505 (0%) 11882.085/11881.335/11888.143/128.845 ms  850 pps
+[  7] local 0.0.0.0 port 60019 connected with 192.0.0.114 port 46843
+[  7] 0.00-10.00 sec  11.9 MBytes  10.0 Mbits/sec   0.107 ms    0/ 8505 (0%) 11883.895/11883.113/11890.818/128.864 ms  850 pps
+[  9] local 0.0.0.0 port 60019 connected with 192.0.0.114 port 41095
+[  9] 0.00-8.51 sec  10.2 MBytes  10.0 Mbits/sec   0.220 ms 1260/ 8505 (15%) 11885.870/11885.248/11895.597/139.765 ms  851 pps
+[ 11] local 0.0.0.0 port 60019 connected with 192.0.0.114 port 42013
+[ 11] 0.00-10.00 sec  10.7 MBytes  9.00 Mbits/sec   0.115 ms    0/ 7655 (0%) 11887.577/11886.825/11892.499/135.874 ms  765 pps
+------------------------------------------------------------
+Server listening on UDP port 60019
+Receiving 1470 byte datagrams
+UDP buffer size: 0.41 MByte (WARNING: requested 0.59 MByte)
+------------------------------------------------------------
+[  1] local 0.0.0.0 port 60019 connected with 192.0.0.114 port 44391
+[ ID] Interval       Transfer     Bandwidth        Jitter   Lost/Total  Latency avg/min/max/stdev PPS
+[  1] 0.00-10.00 sec  11.9 MBytes  10.0 Mbits/sec   0.132 ms    0/ 8505 (0%) 11890.494/11889.618/11898.356/128.935 ms  850 pps
+[  3] local 0.0.0.0 port 60019 connected with 192.0.0.114 port 39332
+[  3] 0.00-10.00 sec  10.7 MBytes  9.00 Mbits/sec   0.145 ms    0/ 7655 (0%) 11892.302/11891.498/11897.726/135.927 ms  765 pps
+[  5] local 0.0.0.0 port 60019 connected with 192.0.0.114 port 41662
+[  5] 0.00-10.00 sec  10.7 MBytes  9.00 Mbits/sec   0.173 ms    0/ 7655 (0%) 11894.173/11893.413/11899.288/135.948 ms  765 pps
+[  7] local 0.0.0.0 port 60019 connected with 192.0.0.114 port 40223
+[  7] 0.00-10.00 sec  14.3 MBytes  12.0 Mbits/sec   0.156 ms    0/10206 (0%) 11896.000/11895.278/11906.721/117.758 ms 1020 pps
+[  9] local 0.0.0.0 port 60019 connected with 192.0.0.114 port 51331
+[  9] 0.00-10.00 sec  11.9 MBytes  10.0 Mbits/sec   0.098 ms    0/ 8505 (0%) 11897.877/11897.106/11906.421/129.016 ms  850 pps
+[ 11] local 0.0.0.0 port 60019 connected with 192.0.0.114 port 45876
+[ 11] 0.00-10.00 sec  9.54 MBytes  8.00 Mbits/sec   0.184 ms    0/ 6804 (0%) 11899.730/11898.951/11904.524/144.266 ms  680 pps
+------------------------------------------------------------
+Server listening on UDP port 60019
+Receiving 1470 byte datagrams
+UDP buffer size: 0.41 MByte (WARNING: requested 0.59 MByte)
+------------------------------------------------------------
+[  1] local 0.0.0.0 port 60019 connected with 192.0.0.114 port 59548
+[ ID] Interval       Transfer     Bandwidth        Jitter   Lost/Total  Latency avg/min/max/stdev PPS
+[  1] 0.00-10.00 sec  11.9 MBytes  10.0 Mbits/sec   0.257 ms    0/ 8505 (0%) 11902.486/11901.716/11910.938/129.064 ms  850 pps
+[  3] local 0.0.0.0 port 60019 connected with 192.0.0.114 port 59521
+[  3] 0.00-10.00 sec  11.9 MBytes  10.0 Mbits/sec   0.121 ms    0/ 8505 (0%) 11904.314/11903.572/11911.458/129.083 ms  850 pps
+[  5] local 0.0.0.0 port 60019 connected with 192.0.0.114 port 59059
+[  5] 0.00-10.00 sec  10.7 MBytes  9.00 Mbits/sec   0.182 ms    2/ 7655 (0.026%) 11906.165/11905.405/11912.502/136.103 ms  765 pps
+[  7] local 0.0.0.0 port 60019 connected with 192.0.0.114 port 52216
+[  7] 0.00-10.00 sec  10.7 MBytes  9.00 Mbits/sec   0.147 ms    0/ 7655 (0%) 11908.044/11907.217/11916.837/136.107 ms  765 pps
+[  9] local 0.0.0.0 port 60019 connected with 192.0.0.114 port 38587
+[  9] 0.00-10.00 sec  10.7 MBytes  9.00 Mbits/sec   0.159 ms    0/ 7655 (0%) 11909.922/11909.145/11917.065/136.127 ms  765 pps
+[ 11] local 0.0.0.0 port 60019 connected with 192.0.0.114 port 36019
+[ 11] 0.00-10.00 sec  10.7 MBytes  9.00 Mbits/sec   0.141 ms    0/ 7655 (0%) 11911.790/11911.063/11917.591/136.151 ms  765 pps
+------------------------------------------------------------
+Server listening on UDP port 60019
+Receiving 1470 byte datagrams
+UDP buffer size: 0.41 MByte (WARNING: requested 0.59 MByte)
+------------------------------------------------------------
+[  1] local 0.0.0.0 port 60019 connected with 192.0.0.114 port 58335
+[ ID] Interval       Transfer     Bandwidth        Jitter   Lost/Total  Latency avg/min/max/stdev PPS
+[  1] 0.00-10.00 sec  10.7 MBytes  9.00 Mbits/sec   0.143 ms    0/ 7655 (0%) 11914.664/11913.885/11922.712/136.184 ms  765 pps
+[  3] local 0.0.0.0 port 60019 connected with 192.0.0.114 port 56816
+[  3] 0.00-10.00 sec  10.7 MBytes  9.00 Mbits/sec   0.157 ms    0/ 7655 (0%) 11916.536/11915.786/11925.371/136.203 ms  765 pps
+[  5] local 0.0.0.0 port 60019 connected with 192.0.0.114 port 39454
+[  5] 0.00-10.00 sec  14.3 MBytes  12.0 Mbits/sec   0.180 ms    0/10206 (0%) 11918.437/11917.694/11923.714/117.979 ms 1020 pps
+[  7] local 0.0.0.0 port 60019 connected with 192.0.0.114 port 35498
+[  7] 0.00-10.00 sec  11.9 MBytes  10.0 Mbits/sec   0.166 ms    0/ 8505 (0%) 11920.336/11919.582/11928.206/129.260 ms  850 pps
+[  9] local 0.0.0.0 port 60019 connected with 192.0.0.114 port 37230
+[  9] 0.00-10.00 sec  10.7 MBytes  9.00 Mbits/sec   0.166 ms    0/ 7655 (0%) 11922.111/11921.345/11928.649/136.269 ms  765 pps
+[ 11] local 0.0.0.0 port 60019 connected with 192.0.0.114 port 44543
+[ 11] 0.00-10.00 sec  11.9 MBytes  10.0 Mbits/sec   0.171 ms    0/ 8505 (0%) 11924.060/11923.216/11931.053/129.301 ms  850 pps
+------------------------------------------------------------
+Server listening on UDP port 60019
+Receiving 1470 byte datagrams
+UDP buffer size: 0.41 MByte (WARNING: requested 0.59 MByte)
+------------------------------------------------------------
+[  1] local 0.0.0.0 port 60019 connected with 192.0.0.114 port 37266
+[ ID] Interval       Transfer     Bandwidth        Jitter   Lost/Total  Latency avg/min/max/stdev PPS
+[  1] 0.00-10.00 sec  11.9 MBytes  10.0 Mbits/sec   0.137 ms    2/ 8505 (0.024%) 11926.911/11926.101/11933.130/129.345 ms  850 pps
+[  3] local 0.0.0.0 port 60019 connected with 192.0.0.114 port 44473
+[  3] 0.00-10.00 sec  9.54 MBytes  8.00 Mbits/sec   0.237 ms    0/ 6804 (0%) 11928.849/11928.037/11936.192/144.619 ms  680 pps
+[  5] local 0.0.0.0 port 60019 connected with 192.0.0.114 port 59002
+[  5] 0.00-10.00 sec  11.9 MBytes  10.0 Mbits/sec   0.138 ms    0/ 8505 (0%) 11930.586/11929.789/11936.932/129.371 ms  850 pps
+[  7] local 0.0.0.0 port 60019 connected with 192.0.0.114 port 45621
+[  7] 0.00-10.01 sec  10.7 MBytes  9.00 Mbits/sec   0.322 ms    0/ 7655 (0%) 11932.454/11931.653/11937.929/136.386 ms  764 pps
+[  9] local 0.0.0.0 port 60019 connected with 192.0.0.114 port 57858
+[  9] 0.00-12.00 sec  1.70 MBytes  1.19 Mbits/sec  547.354 ms 8153/ 9363 (87%) 12439.882/11933.476/22481.464/2275.335 ms  100 pps
+[ 11] local 0.0.0.0 port 60019 connected with 192.0.0.114 port 60170
+[ 11] 0.00-10.00 sec  11.9 MBytes  10.0 Mbits/sec   0.172 ms    0/ 8505 (0%) 11936.265/11935.546/11941.617/129.434 ms  850 pps
+------------------------------------------------------------
+Server listening on UDP port 60019
+Receiving 1470 byte datagrams
+UDP buffer size: 0.41 MByte (WARNING: requested 0.59 MByte)
+------------------------------------------------------------
+[  1] local 0.0.0.0 port 60019 connected with 192.0.0.114 port 51800
+[ ID] Interval       Transfer     Bandwidth        Jitter   Lost/Total  Latency avg/min/max/stdev PPS
+[  1] 0.00-10.00 sec  11.9 MBytes  10.0 Mbits/sec   0.350 ms    0/ 8505 (0%) 11939.161/11938.368/11944.397/129.464 ms  850 pps
+[  3] local 0.0.0.0 port 60019 connected with 192.0.0.114 port 42170
+[  3] 0.00-10.00 sec  13.1 MBytes  11.0 Mbits/sec   0.199 ms    0/ 9355 (0%) 11941.006/11940.251/11951.485/123.460 ms  935 pps
+[  5] local 0.0.0.0 port 60019 connected with 192.0.0.114 port 44113
+[  5] 0.00-10.00 sec  11.9 MBytes  10.0 Mbits/sec   0.189 ms    0/ 8505 (0%) 11942.847/11942.109/11947.922/129.505 ms  850 pps
+[  7] local 0.0.0.0 port 60019 connected with 192.0.0.114 port 34709
+[  7] 0.00-10.00 sec  11.9 MBytes  10.0 Mbits/sec   0.132 ms    0/ 8505 (0%) 11944.774/11944.002/11954.301/129.526 ms  850 pps
+[  9] local 0.0.0.0 port 60019 connected with 192.0.0.114 port 49729
+[  9] 0.00-10.00 sec  15.5 MBytes  13.0 Mbits/sec   0.156 ms    0/11056 (0%) 11946.549/11945.775/11952.821/113.618 ms 1105 pps
+[ 11] local 0.0.0.0 port 60019 connected with 192.0.0.114 port 45243
+[ 11] 0.00-10.00 sec  11.9 MBytes  10.0 Mbits/sec   0.188 ms    0/ 8505 (0%) 11948.424/11947.628/11952.696/129.563 ms  850 pps
+------------------------------------------------------------
+Server listening on UDP port 60019
+Receiving 1470 byte datagrams
+UDP buffer size: 0.41 MByte (WARNING: requested 0.59 MByte)
+------------------------------------------------------------
+[  1] local 0.0.0.0 port 60019 connected with 192.0.0.114 port 48021
+[ ID] Interval       Transfer     Bandwidth        Jitter   Lost/Total  Latency avg/min/max/stdev PPS
+[  1] 0.00-10.00 sec  11.9 MBytes  10.0 Mbits/sec   0.127 ms    0/ 8505 (0%) 11951.254/11950.413/11957.125/129.594 ms  850 pps
+[  3] local 0.0.0.0 port 60019 connected with 192.0.0.114 port 53978
+[  3] 0.00-10.00 sec  10.7 MBytes  9.00 Mbits/sec   0.109 ms    0/ 7653 (0%) 11953.103/11952.322/11959.815/136.640 ms  765 pps
+[  5] local 0.0.0.0 port 60019 connected with 192.0.0.114 port 32995
+[  5] 0.00-10.00 sec  10.7 MBytes  9.00 Mbits/sec   0.121 ms    0/ 7655 (0%) 11954.871/11954.170/11959.930/136.643 ms  765 pps
+[  7] local 0.0.0.0 port 60019 connected with 192.0.0.114 port 59256
+[  7] 0.00-10.00 sec  10.7 MBytes  8.99 Mbits/sec   0.173 ms    5/ 7655 (0.065%) 11956.657/11955.972/11965.628/136.709 ms  764 pps
+[  9] local 0.0.0.0 port 60019 connected with 192.0.0.114 port 33377
+[  9] 0.00-10.00 sec  10.7 MBytes  9.00 Mbits/sec   0.159 ms    0/ 7655 (0%) 11958.546/11957.813/11965.828/136.684 ms  765 pps
+[ 11] local 0.0.0.0 port 60019 connected with 192.0.0.114 port 45771
+[ 11] 0.00-10.00 sec  11.9 MBytes  10.0 Mbits/sec   0.143 ms    0/ 8505 (0%) 11960.385/11959.604/11966.137/129.692 ms  850 pps
+------------------------------------------------------------
+Server listening on UDP port 60019
+Receiving 1470 byte datagrams
+UDP buffer size: 0.41 MByte (WARNING: requested 0.59 MByte)
+------------------------------------------------------------
+[  1] local 0.0.0.0 port 60019 connected with 192.0.0.114 port 37032
+[ ID] Interval       Transfer     Bandwidth        Jitter   Lost/Total  Latency avg/min/max/stdev PPS
+[  1] 0.00-10.00 sec  11.9 MBytes  10.0 Mbits/sec   0.108 ms    0/ 8505 (0%) 11963.245/11962.500/11968.790/129.725 ms  850 pps
+[  3] local 0.0.0.0 port 60019 connected with 192.0.0.114 port 41217
+[  3] 0.00-10.00 sec  14.3 MBytes  12.0 Mbits/sec   0.130 ms    0/10206 (0%) 11965.050/11964.330/11970.365/118.438 ms 1020 pps
+[  5] local 0.0.0.0 port 60019 connected with 192.0.0.114 port 46684
+[  5] 0.00-10.00 sec  11.9 MBytes  10.0 Mbits/sec   0.131 ms    0/ 8505 (0%) 11966.997/11966.297/11973.651/129.767 ms  850 pps
+[  7] local 0.0.0.0 port 60019 connected with 192.0.0.114 port 45735
+[  7] 0.00-10.00 sec  10.7 MBytes  9.00 Mbits/sec   0.191 ms    0/ 7655 (0%) 11968.882/11968.168/11978.412/136.803 ms  765 pps
+[  9] local 0.0.0.0 port 60019 connected with 192.0.0.114 port 53031
+[  9] 0.00-10.00 sec  9.54 MBytes  8.00 Mbits/sec   0.128 ms    0/ 6804 (0%) 11970.744/11970.006/11975.424/145.129 ms  680 pps
+[ 11] local 0.0.0.0 port 60019 connected with 192.0.0.114 port 55356
+[ 11] 0.00-10.00 sec  11.9 MBytes  10.0 Mbits/sec   0.135 ms    0/ 8505 (0%) 11972.684/11971.902/11978.137/129.826 ms  850 pps
+------------------------------------------------------------
+Server listening on UDP port 60019
+Receiving 1470 byte datagrams
+UDP buffer size: 0.41 MByte (WARNING: requested 0.59 MByte)
+------------------------------------------------------------
+[  1] local 0.0.0.0 port 60019 connected with 192.0.0.114 port 33217
+[ ID] Interval       Transfer     Bandwidth        Jitter   Lost/Total  Latency avg/min/max/stdev PPS
+[  1] 0.00-10.00 sec  11.9 MBytes  10.0 Mbits/sec   0.089 ms    0/ 8505 (0%) 11975.573/11974.771/11982.075/129.857 ms  850 pps
+[  3] local 0.0.0.0 port 60019 connected with 192.0.0.114 port 54518
+[  3] 0.00-10.00 sec  10.7 MBytes  9.00 Mbits/sec   0.128 ms    0/ 7655 (0%) 11977.410/11976.662/11982.905/136.900 ms  765 pps
+[  5] local 0.0.0.0 port 60019 connected with 192.0.0.114 port 54641
+[  5] 0.00-10.00 sec  10.7 MBytes  9.00 Mbits/sec   0.108 ms    0/ 7655 (0%) 11979.202/11978.453/11985.275/136.920 ms  765 pps
+[  7] local 0.0.0.0 port 60019 connected with 192.0.0.114 port 51103
+[  7] 0.00-10.00 sec  11.9 MBytes  10.0 Mbits/sec   0.146 ms    0/ 8505 (0%) 11981.117/11980.422/11987.935/129.917 ms  850 pps
+[  9] local 0.0.0.0 port 60019 connected with 192.0.0.114 port 51543
+[  9] 0.00-10.00 sec  11.9 MBytes  10.0 Mbits/sec   0.120 ms    0/ 8505 (0%) 11982.950/11982.224/11989.994/129.937 ms  850 pps
+[ 11] local 0.0.0.0 port 60019 connected with 192.0.0.114 port 60216
+[ 11] 0.00-10.00 sec  9.54 MBytes  8.00 Mbits/sec   0.125 ms    0/ 6804 (0%) 11984.900/11984.181/11990.790/145.301 ms  680 pps
+------------------------------------------------------------
+Server listening on UDP port 60019
+Receiving 1470 byte datagrams
+UDP buffer size: 0.41 MByte (WARNING: requested 0.59 MByte)
+------------------------------------------------------------
+[  1] local 0.0.0.0 port 60019 connected with 192.0.0.114 port 59319
+[ ID] Interval       Transfer     Bandwidth        Jitter   Lost/Total  Latency avg/min/max/stdev PPS
+[  1] 0.00-10.00 sec  10.7 MBytes  9.00 Mbits/sec   0.142 ms    0/ 7655 (0%) 11987.794/11987.041/11993.547/137.016 ms  765 pps
+[  3] local 0.0.0.0 port 60019 connected with 192.0.0.114 port 46722
+[  3] 0.00-10.00 sec  10.7 MBytes  9.00 Mbits/sec   0.122 ms    0/ 7655 (0%) 11989.582/11988.908/11995.466/137.039 ms  765 pps
+[  5] local 0.0.0.0 port 60019 connected with 192.0.0.114 port 60317
+[  5] 0.00-10.00 sec  11.9 MBytes  10.0 Mbits/sec   0.227 ms    0/ 8505 (0%) 11991.460/11990.725/11997.648/130.031 ms  850 pps
+[  7] local 0.0.0.0 port 60019 connected with 192.0.0.114 port 43346
+[  7] 0.00-10.00 sec  11.9 MBytes  10.0 Mbits/sec   0.147 ms    0/ 8505 (0%) 11993.393/11992.634/12000.686/130.051 ms  850 pps
+[  9] local 0.0.0.0 port 60019 connected with 192.0.0.114 port 55611
+[  9] 0.00-10.00 sec  10.7 MBytes  9.00 Mbits/sec   0.185 ms    0/ 7655 (0%) 11995.227/11994.479/12001.092/137.105 ms  765 pps
+[ 11] local 0.0.0.0 port 60019 connected with 192.0.0.114 port 42735
+[ 11] 0.00-10.00 sec  10.7 MBytes  9.00 Mbits/sec   0.187 ms    0/ 7655 (0%) 11997.023/11996.256/12004.337/137.124 ms  765 pps
+------------------------------------------------------------
+Server listening on UDP port 60019
+Receiving 1470 byte datagrams
+UDP buffer size: 0.41 MByte (WARNING: requested 0.59 MByte)
+------------------------------------------------------------
+[  1] local 0.0.0.0 port 60019 connected with 192.0.0.114 port 39621
+[ ID] Interval       Transfer     Bandwidth        Jitter   Lost/Total  Latency avg/min/max/stdev PPS
+[  1] 0.00-10.00 sec  13.1 MBytes  11.0 Mbits/sec   0.136 ms    0/ 9355 (0%) 11999.780/11999.017/12007.711/124.067 ms  935 pps
+[  3] local 0.0.0.0 port 60019 connected with 192.0.0.114 port 60464
+[  3] 0.00-10.00 sec  10.7 MBytes  9.00 Mbits/sec   0.627 ms    0/ 7655 (0%) 12001.604/12000.821/12009.036/137.179 ms  765 pps
+[  5] local 0.0.0.0 port 60019 connected with 192.0.0.114 port 52530
+[  5] 0.00-10.00 sec  9.54 MBytes  8.00 Mbits/sec   0.166 ms    0/ 6804 (0%) 12003.398/12002.644/12008.416/145.525 ms  680 pps
+[  7] local 0.0.0.0 port 60019 connected with 192.0.0.114 port 39874
+[  7] 0.00-10.00 sec  9.54 MBytes  8.00 Mbits/sec   0.155 ms    0/ 6804 (0%) 12005.279/12004.543/12012.517/145.548 ms  680 pps
+[  9] local 0.0.0.0 port 60019 connected with 192.0.0.114 port 33981
+[ 11] local 0.0.0.0 port 60019 connected with 192.0.0.114 port 33300
+[ 11] 0.00-34.77 sec  11.9 MBytes  2.88 Mbits/sec   0.131 ms    0/ 8505 (0%) 12009.256/12008.529/12016.248/130.225 ms  244 pps
+------------------------------------------------------------
+Server listening on UDP port 60019
+Receiving 1470 byte datagrams
+UDP buffer size: 0.41 MByte (WARNING: requested 0.59 MByte)
+------------------------------------------------------------
+[  1] local 0.0.0.0 port 60019 connected with 192.0.0.114 port 33494
+[ ID] Interval       Transfer     Bandwidth        Jitter   Lost/Total  Latency avg/min/max/stdev PPS
+[  1] 0.00-10.00 sec  10.7 MBytes  9.00 Mbits/sec   0.152 ms    0/ 7655 (0%) 12012.196/12011.401/12019.166/137.296 ms  765 pps
+[  3] local 0.0.0.0 port 60019 connected with 192.0.0.114 port 50817
+[  3] 0.00-10.25 sec  10.3 MBytes  8.39 Mbits/sec  17.663 ms  340/ 7656 (4.4%) 12016.876/12013.263/12542.145/145.436 ms  713 pps
+[  5] local 0.0.0.0 port 60019 connected with 192.0.0.114 port 40637
+[  5] 0.00-10.00 sec  9.54 MBytes  8.00 Mbits/sec   0.122 ms    0/ 6804 (0%) 12015.885/12015.167/12024.464/145.675 ms  680 pps
+[  7] local 0.0.0.0 port 60019 connected with 192.0.0.114 port 47585
+[  7] 0.00-10.00 sec  11.9 MBytes  10.0 Mbits/sec   0.131 ms    0/ 8505 (0%) 12017.820/12017.060/12023.477/130.318 ms  850 pps
+[  9] local 0.0.0.0 port 60019 connected with 192.0.0.114 port 36116
+[  9] 0.00-10.00 sec  10.7 MBytes  9.00 Mbits/sec   0.159 ms    0/ 7655 (0%) 12019.643/12018.899/12025.853/137.386 ms  765 pps
+[ 11] local 0.0.0.0 port 60019 connected with 192.0.0.114 port 36412
+[ 11] 0.00-10.00 sec  11.9 MBytes  10.0 Mbits/sec   0.135 ms    1/ 8505 (0.012%) 12021.441/12020.649/12029.298/130.364 ms  850 pps
+------------------------------------------------------------
+Server listening on UDP port 60019
+Receiving 1470 byte datagrams
+UDP buffer size: 0.41 MByte (WARNING: requested 0.59 MByte)
+------------------------------------------------------------
+[  1] local 0.0.0.0 port 60019 connected with 192.0.0.114 port 45254
+[ ID] Interval       Transfer     Bandwidth        Jitter   Lost/Total  Latency avg/min/max/stdev PPS
+[  1] 0.00-10.00 sec  11.9 MBytes  10.0 Mbits/sec   0.148 ms    1/ 8505 (0.012%) 12024.291/12023.452/12029.522/130.395 ms  850 pps
+[  3] local 0.0.0.0 port 60019 connected with 192.0.0.114 port 44290
+[  3] 0.00-10.00 sec  11.9 MBytes  10.0 Mbits/sec   0.169 ms    0/ 8505 (0%) 12026.136/12025.350/12032.281/130.408 ms  850 pps
+[  5] local 0.0.0.0 port 60019 connected with 192.0.0.114 port 57711
+[  5] 0.00-10.00 sec  10.7 MBytes  9.00 Mbits/sec   0.129 ms    0/ 7655 (0%) 12027.950/12027.203/12034.008/137.476 ms  765 pps
+[  7] local 0.0.0.0 port 60019 connected with 192.0.0.114 port 52424
+[  7] 0.00-10.00 sec  11.9 MBytes  10.0 Mbits/sec   0.095 ms    1/ 8505 (0.012%) 12029.821/12029.068/12036.388/130.454 ms  850 pps
+[  9] local 0.0.0.0 port 60019 connected with 192.0.0.114 port 32770
+[  9] 0.00-10.00 sec  10.7 MBytes  9.00 Mbits/sec   0.148 ms    0/ 7655 (0%) 12031.702/12030.902/12037.724/137.522 ms  765 pps
+[ 11] local 0.0.0.0 port 60019 connected with 192.0.0.114 port 53841
+[ 11] 0.00-10.00 sec  13.1 MBytes  11.0 Mbits/sec   0.112 ms    0/ 9355 (0%) 12033.593/12032.883/12040.347/124.420 ms  935 pps
+------------------------------------------------------------
+Server listening on UDP port 60019
+Receiving 1470 byte datagrams
+UDP buffer size: 0.41 MByte (WARNING: requested 0.59 MByte)
+------------------------------------------------------------
+[  1] local 0.0.0.0 port 60019 connected with 192.0.0.114 port 39073
+[ ID] Interval       Transfer     Bandwidth        Jitter   Lost/Total  Latency avg/min/max/stdev PPS
+[  1] 0.00-10.00 sec  10.7 MBytes  9.00 Mbits/sec   0.640 ms    1/ 7655 (0.013%) 12036.444/12035.627/12043.265/137.582 ms  765 pps
+[  3] local 0.0.0.0 port 60019 connected with 192.0.0.114 port 48941
+[  3] 0.00-10.00 sec  13.1 MBytes  11.0 Mbits/sec   0.136 ms    0/ 9355 (0%) 12038.368/12037.591/12045.030/124.467 ms  935 pps
+[  5] local 0.0.0.0 port 60019 connected with 192.0.0.114 port 48714
+[  5] 0.00-10.00 sec  9.54 MBytes  8.00 Mbits/sec   0.110 ms    0/ 6804 (0%) 12040.298/12039.538/12045.491/145.977 ms  680 pps
+[  7] local 0.0.0.0 port 60019 connected with 192.0.0.114 port 46101
+[  7] 0.00-10.00 sec  9.54 MBytes  8.00 Mbits/sec   0.158 ms    0/ 6804 (0%) 12042.241/12041.514/12046.403/145.998 ms  680 pps
+[  9] local 0.0.0.0 port 60019 connected with 192.0.0.114 port 47912
+[  9] 0.00-10.00 sec  13.1 MBytes  11.0 Mbits/sec   0.159 ms    0/ 9355 (0%) 12044.010/12043.222/12050.447/124.526 ms  935 pps
+[ 11] local 0.0.0.0 port 60019 connected with 192.0.0.114 port 40119
+[ 11] 0.00-10.00 sec  11.9 MBytes  10.0 Mbits/sec   0.116 ms    0/ 8505 (0%) 12045.941/12045.160/12053.870/130.622 ms  850 pps
+------------------------------------------------------------
+Server listening on UDP port 60019
+Receiving 1470 byte datagrams
+UDP buffer size: 0.41 MByte (WARNING: requested 0.59 MByte)
+------------------------------------------------------------
+[  1] local 0.0.0.0 port 60019 connected with 192.0.0.114 port 33009
+[ ID] Interval       Transfer     Bandwidth        Jitter   Lost/Total  Latency avg/min/max/stdev PPS
+[  1] 0.00-10.00 sec  10.7 MBytes  9.00 Mbits/sec   0.254 ms    0/ 7655 (0%) 12048.933/12048.135/12054.638/137.717 ms  765 pps
+[  3] local 0.0.0.0 port 60019 connected with 192.0.0.114 port 57762
+[  3] 0.00-10.00 sec  10.7 MBytes  9.00 Mbits/sec   0.177 ms    0/ 7655 (0%) 12050.719/12049.950/12058.604/137.740 ms  765 pps
+[  5] local 0.0.0.0 port 60019 connected with 192.0.0.114 port 47794
+[  5] 0.00-10.00 sec  10.7 MBytes  9.00 Mbits/sec   0.115 ms    0/ 7655 (0%) 12052.567/12051.831/12058.755/137.759 ms  765 pps
+[  7] local 0.0.0.0 port 60019 connected with 192.0.0.114 port 41344
+[  7] 0.00-10.00 sec  9.54 MBytes  8.00 Mbits/sec   0.124 ms    0/ 6804 (0%) 12054.408/12053.644/12060.618/146.143 ms  680 pps
+[  9] local 0.0.0.0 port 60019 connected with 192.0.0.114 port 38352
+[  9] 0.00-10.00 sec  11.9 MBytes  10.0 Mbits/sec   0.139 ms    0/ 8505 (0%) 12056.206/12055.512/12062.522/130.735 ms  850 pps
+[ 11] local 0.0.0.0 port 60019 connected with 192.0.0.114 port 49369
+[ 11] 0.00-10.00 sec  10.7 MBytes  9.00 Mbits/sec   0.150 ms    0/ 7655 (0%) 12058.139/12057.377/12063.251/137.823 ms  765 pps
+------------------------------------------------------------
+Server listening on UDP port 60019
+Receiving 1470 byte datagrams
+UDP buffer size: 0.41 MByte (WARNING: requested 0.59 MByte)
+------------------------------------------------------------
+[  1] local 0.0.0.0 port 60019 connected with 192.0.0.114 port 34681
+[ ID] Interval       Transfer     Bandwidth        Jitter   Lost/Total  Latency avg/min/max/stdev PPS
+[  1] 0.00-10.00 sec  11.9 MBytes  10.0 Mbits/sec   0.158 ms    0/ 8505 (0%) 12060.951/12060.188/12066.797/130.797 ms  850 pps
+[  3] local 0.0.0.0 port 60019 connected with 192.0.0.114 port 37270
+[  3] 0.00-10.00 sec  10.7 MBytes  9.00 Mbits/sec   0.141 ms    0/ 7655 (0%) 12062.774/12062.008/12071.082/137.876 ms  765 pps
+[  5] local 0.0.0.0 port 60019 connected with 192.0.0.114 port 44356
+[  5] 0.00-10.00 sec  11.9 MBytes  10.0 Mbits/sec   0.136 ms    0/ 8505 (0%) 12064.574/12063.856/12071.666/130.823 ms  850 pps
+[  7] local 0.0.0.0 port 60019 connected with 192.0.0.114 port 45137
+[  7] 0.00-10.00 sec  10.7 MBytes  9.00 Mbits/sec   0.136 ms    0/ 7655 (0%) 12066.468/12065.764/12074.449/137.917 ms  765 pps
+[  9] local 0.0.0.0 port 60019 connected with 192.0.0.114 port 60777
+[  9] 0.00-10.00 sec  13.1 MBytes  11.0 Mbits/sec   0.148 ms    0/ 9355 (0%) 12068.341/12067.586/12075.028/124.778 ms  935 pps
+[ 11] local 0.0.0.0 port 60019 connected with 192.0.0.114 port 40998
+[ 11] 0.00-10.00 sec  10.7 MBytes  9.00 Mbits/sec   0.193 ms    0/ 7655 (0%) 12070.277/12069.567/12074.773/137.959 ms  765 pps

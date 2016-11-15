@@ -1,0 +1,37 @@
+#!/bin/bash
+
+sudo arp -s 192.0.0.110 b8:27:eb:29:ad:da
+sudo arp -s 192.0.0.111 b8:27:eb:6d:38:d0
+sudo arp -s 192.0.0.112 b8:27:eb:7a:c2:26 
+sudo arp -s 192.0.0.113 b8:27:eb:61:64:74
+sudo arp -s 192.0.0.114 6c:62:6d:d0:7c:67 
+
+
+sudo arp -s 192.0.0.120 b8:27:eb:ff:ee:23
+sudo arp -s 192.0.0.121 b8:27:eb:03:79:19 
+sudo arp -s 192.0.0.122 b8:27:eb:cf:aa:c3 
+sudo arp -s 192.0.0.123 b8:27:eb:ee:df:1a
+sudo arp -s 192.0.0.124 e0:cb:4e:9b:77:c7
+
+
+sudo arp -s 192.0.0.130 b8:27:eb:f7:55:10
+sudo arp -s 192.0.0.131 b8:27:eb:37:c5:bc 
+sudo arp -s 192.0.0.132 b8:27:eb:57:01:02 
+sudo arp -s 192.0.0.133 b8:27:eb:c2:59:0e 
+sudo arp -s 192.0.0.134 d0:50:99:ac:27:6a 
+
+
+sudo arp -s 192.0.0.140 b8:27:eb:22:8e:17  
+sudo arp -s 192.0.0.141 b8:27:eb:9d:46:05   
+sudo arp -s 192.0.0.142 b8:27:eb:92:4f:16  
+sudo arp -s 192.0.0.143 b8:27:eb:c5:a3:e5	
+sudo arp -s 192.0.0.144 e0:cb:4e:9b:78:a2	
+
+
+sudo arp -s 192.0.0.1 00:25:90:06:79:8c 
+sudo arp -s 192.0.0.2 00:25:90:0b:66:fe
+sudo arp -s 192.0.0.3 00:25:90:0c:a3:f4   
+sudo arp -s 192.0.0.4 00:25:90:32:2d:ca  
+
+
+sudo arp -s 192.0.0.200 00:1f:d0:9a:01:bd 

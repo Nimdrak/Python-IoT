@@ -1,0 +1,606 @@
+------------------------------------------------------------
+Server listening on UDP port 60043
+Receiving 1470 byte datagrams
+UDP buffer size: 0.20 MByte (default)
+------------------------------------------------------------
+[  1] local 0.0.0.0 port 60043 connected with 192.0.0.11 port 48239
+[ ID] Interval       Transfer     Bandwidth        Jitter   Lost/Total Datagrams
+[  1]  0.0-10.0 sec  8.35 MBytes  7.00 Mbits/sec   0.127 ms    0/ 5954 (0%)
+[  3] local 0.0.0.0 port 60043 connected with 192.0.0.11 port 57373
+[  3]  0.0-10.0 sec  9.54 MBytes  8.00 Mbits/sec   0.305 ms    0/ 6804 (0%)
+[  5] local 0.0.0.0 port 60043 connected with 192.0.0.11 port 49045
+[  5]  0.0-10.0 sec  11.9 MBytes  10.0 Mbits/sec   0.129 ms    0/ 8505 (0%)
+[  7] local 0.0.0.0 port 60043 connected with 192.0.0.11 port 56329
+[  7]  0.0-10.0 sec  9.54 MBytes  8.00 Mbits/sec   0.113 ms    0/ 6804 (0%)
+[  9] local 0.0.0.0 port 60043 connected with 192.0.0.11 port 41208
+[  9]  0.0-10.0 sec  10.7 MBytes  9.00 Mbits/sec   0.134 ms    0/ 7654 (0%)
+[ 11] local 0.0.0.0 port 60043 connected with 192.0.0.11 port 42639
+[ 11]  0.0-10.0 sec  11.9 MBytes  10.0 Mbits/sec   0.109 ms    0/ 8505 (0%)
+[ 13] local 0.0.0.0 port 60043 connected with 192.0.0.11 port 37103
+[ 13]  0.0-10.0 sec  11.9 MBytes  10.0 Mbits/sec   0.141 ms    0/ 8505 (0%)
+[ 15] local 0.0.0.0 port 60043 connected with 192.0.0.11 port 39218
+[ 15]  0.0-10.0 sec  10.7 MBytes  9.00 Mbits/sec   0.086 ms    0/ 7655 (0%)
+[ 17] local 0.0.0.0 port 60043 connected with 192.0.0.11 port 50867
+[ 17]  0.0-10.0 sec  10.7 MBytes  9.00 Mbits/sec   0.098 ms    0/ 7655 (0%)
+[ 19] local 0.0.0.0 port 60043 connected with 192.0.0.11 port 37067
+[ 19]  0.0-10.0 sec  11.9 MBytes  10.0 Mbits/sec   0.114 ms    1/ 8505 (0.012%)
+[ 21] local 0.0.0.0 port 60043 connected with 192.0.0.11 port 53307
+[ 21]  0.0-10.0 sec  11.9 MBytes  10.0 Mbits/sec   0.136 ms    0/ 8505 (0%)
+[ 23] local 0.0.0.0 port 60043 connected with 192.0.0.11 port 49338
+[ 23]  0.0-10.0 sec  10.7 MBytes  9.00 Mbits/sec   0.095 ms    0/ 7654 (0%)
+[ 25] local 0.0.0.0 port 60043 connected with 192.0.0.11 port 49025
+[ 25]  0.0-10.0 sec  10.7 MBytes  9.00 Mbits/sec   0.116 ms    0/ 7655 (0%)
+[ 27] local 0.0.0.0 port 60043 connected with 192.0.0.11 port 49622
+[ 27]  0.0-10.0 sec  10.7 MBytes  9.00 Mbits/sec   0.135 ms    0/ 7655 (0%)
+[ 29] local 0.0.0.0 port 60043 connected with 192.0.0.11 port 59995
+[ 29]  0.0-10.0 sec  11.9 MBytes  10.0 Mbits/sec   0.094 ms    0/ 8505 (0%)
+[ 31] local 0.0.0.0 port 60043 connected with 192.0.0.11 port 35169
+[ 31]  0.0-10.0 sec  11.9 MBytes  10.0 Mbits/sec   0.101 ms    0/ 8505 (0%)
+[ 33] local 0.0.0.0 port 60043 connected with 192.0.0.11 port 39056
+[ 33]  0.0-10.0 sec  13.1 MBytes  11.0 Mbits/sec   0.090 ms    0/ 9355 (0%)
+[ 35] local 0.0.0.0 port 60043 connected with 192.0.0.11 port 54492
+[ 35]  0.0-10.0 sec  10.7 MBytes  9.00 Mbits/sec   0.092 ms    0/ 7655 (0%)
+[ 37] local 0.0.0.0 port 60043 connected with 192.0.0.11 port 34109
+[ 37]  0.0-10.0 sec  11.9 MBytes  10.0 Mbits/sec   0.090 ms    0/ 8505 (0%)
+[ 39] local 0.0.0.0 port 60043 connected with 192.0.0.11 port 41894
+[ 39]  0.0-10.0 sec  10.7 MBytes  9.00 Mbits/sec   0.127 ms    0/ 7655 (0%)
+[ 41] local 0.0.0.0 port 60043 connected with 192.0.0.11 port 54941
+[ 41]  0.0-10.0 sec  13.1 MBytes  11.0 Mbits/sec   0.103 ms    0/ 9355 (0%)
+[ 43] local 0.0.0.0 port 60043 connected with 192.0.0.11 port 33026
+[ 43]  0.0-10.0 sec  11.9 MBytes  10.0 Mbits/sec   0.124 ms    0/ 8505 (0%)
+[ 45] local 0.0.0.0 port 60043 connected with 192.0.0.11 port 50254
+[ 45]  0.0-10.0 sec  11.9 MBytes  10.0 Mbits/sec   0.117 ms    0/ 8505 (0%)
+[ 47] local 0.0.0.0 port 60043 connected with 192.0.0.11 port 34106
+[ 47]  0.0-10.0 sec  9.54 MBytes  8.00 Mbits/sec   0.102 ms    0/ 6804 (0%)
+[ 49] local 0.0.0.0 port 60043 connected with 192.0.0.11 port 36163
+[ 49]  0.0-10.0 sec  10.7 MBytes  9.00 Mbits/sec   0.084 ms    0/ 7655 (0%)
+[ 51] local 0.0.0.0 port 60043 connected with 192.0.0.11 port 52745
+[ 51]  0.0-10.0 sec  11.9 MBytes  10.0 Mbits/sec   0.103 ms    0/ 8505 (0%)
+[ 53] local 0.0.0.0 port 60043 connected with 192.0.0.11 port 43753
+[ 53]  0.0-10.0 sec  10.7 MBytes  9.00 Mbits/sec   0.129 ms    0/ 7655 (0%)
+[ 55] local 0.0.0.0 port 60043 connected with 192.0.0.11 port 36718
+[ 55]  0.0-10.0 sec  13.1 MBytes  11.0 Mbits/sec   0.147 ms    0/ 9355 (0%)
+[ 57] local 0.0.0.0 port 60043 connected with 192.0.0.11 port 60811
+[ 57]  0.0-10.0 sec  10.7 MBytes  9.00 Mbits/sec   0.087 ms    0/ 7655 (0%)
+[ 59] local 0.0.0.0 port 60043 connected with 192.0.0.11 port 41355
+[ 59]  0.0-10.0 sec  11.9 MBytes  10.0 Mbits/sec   0.141 ms    0/ 8505 (0%)
+[ 61] local 0.0.0.0 port 60043 connected with 192.0.0.11 port 57884
+[ 61]  0.0-10.0 sec  10.7 MBytes  9.00 Mbits/sec   0.078 ms    0/ 7655 (0%)
+[ 63] local 0.0.0.0 port 60043 connected with 192.0.0.11 port 45802
+[ 63]  0.0-10.0 sec  11.9 MBytes  10.0 Mbits/sec   0.153 ms    0/ 8505 (0%)
+[ 65] local 0.0.0.0 port 60043 connected with 192.0.0.11 port 47713
+[ 65]  0.0-10.0 sec  9.54 MBytes  8.00 Mbits/sec   0.125 ms    0/ 6804 (0%)
+[ 67] local 0.0.0.0 port 60043 connected with 192.0.0.11 port 36156
+[ 67]  0.0-10.0 sec  13.1 MBytes  11.0 Mbits/sec   0.090 ms    0/ 9355 (0%)
+[ 69] local 0.0.0.0 port 60043 connected with 192.0.0.11 port 39150
+[ 69]  0.0-10.0 sec  13.1 MBytes  11.0 Mbits/sec   0.101 ms    0/ 9355 (0%)
+[ 71] local 0.0.0.0 port 60043 connected with 192.0.0.11 port 47046
+[ 71]  0.0-10.0 sec  13.1 MBytes  11.0 Mbits/sec   0.110 ms    0/ 9355 (0%)
+[ 73] local 0.0.0.0 port 60043 connected with 192.0.0.11 port 45142
+[ 73]  0.0-10.0 sec  11.9 MBytes  10.0 Mbits/sec   0.165 ms    0/ 8505 (0%)
+[ 75] local 0.0.0.0 port 60043 connected with 192.0.0.11 port 60357
+[ 75]  0.0-10.0 sec  10.7 MBytes  9.00 Mbits/sec   0.133 ms    0/ 7654 (0%)
+[ 77] local 0.0.0.0 port 60043 connected with 192.0.0.11 port 46673
+[ 77]  0.0-10.0 sec  10.7 MBytes  9.00 Mbits/sec   0.122 ms    0/ 7655 (0%)
+[ 79] local 0.0.0.0 port 60043 connected with 192.0.0.11 port 56144
+[ 79]  0.0-10.0 sec  11.9 MBytes  10.0 Mbits/sec   0.147 ms    0/ 8505 (0%)
+[ 81] local 0.0.0.0 port 60043 connected with 192.0.0.11 port 35428
+[ 81]  0.0-10.0 sec  11.9 MBytes  10.0 Mbits/sec   0.140 ms    0/ 8505 (0%)
+[ 83] local 0.0.0.0 port 60043 connected with 192.0.0.11 port 45857
+[ 83]  0.0-10.0 sec  10.7 MBytes  9.00 Mbits/sec   0.104 ms    0/ 7655 (0%)
+[ 85] local 0.0.0.0 port 60043 connected with 192.0.0.11 port 51339
+[ 85]  0.0-10.0 sec  13.1 MBytes  11.0 Mbits/sec   0.131 ms    0/ 9355 (0%)
+[ 87] local 0.0.0.0 port 60043 connected with 192.0.0.11 port 53638
+[ 87]  0.0-10.0 sec  11.9 MBytes  10.0 Mbits/sec   0.154 ms    0/ 8505 (0%)
+[ 89] local 0.0.0.0 port 60043 connected with 192.0.0.11 port 45950
+[ 89]  0.0-10.0 sec  10.7 MBytes  9.00 Mbits/sec   0.134 ms    0/ 7655 (0%)
+[ 91] local 0.0.0.0 port 60043 connected with 192.0.0.11 port 38382
+[ 91]  0.0-10.0 sec  11.9 MBytes  10.0 Mbits/sec   0.134 ms    0/ 8505 (0%)
+[ 93] local 0.0.0.0 port 60043 connected with 192.0.0.11 port 49251
+[ 93]  0.0-10.0 sec  10.7 MBytes  9.00 Mbits/sec   0.108 ms    0/ 7655 (0%)
+[ 95] local 0.0.0.0 port 60043 connected with 192.0.0.11 port 60678
+[ 95]  0.0-10.0 sec  10.7 MBytes  9.00 Mbits/sec   0.126 ms    0/ 7655 (0%)
+[ 97] local 0.0.0.0 port 60043 connected with 192.0.0.11 port 43399
+[ 97]  0.0-10.0 sec  11.9 MBytes  10.0 Mbits/sec   0.075 ms    0/ 8505 (0%)
+[ 99] local 0.0.0.0 port 60043 connected with 192.0.0.11 port 51594
+[ 99]  0.0-10.0 sec  10.7 MBytes  9.00 Mbits/sec   0.106 ms    0/ 7655 (0%)
+[101] local 0.0.0.0 port 60043 connected with 192.0.0.11 port 55381
+[101]  0.0-10.0 sec  10.7 MBytes  9.00 Mbits/sec   0.130 ms    0/ 7655 (0%)
+[103] local 0.0.0.0 port 60043 connected with 192.0.0.11 port 51927
+[103]  0.0-10.0 sec  10.7 MBytes  9.00 Mbits/sec   0.110 ms    0/ 7655 (0%)
+[105] local 0.0.0.0 port 60043 connected with 192.0.0.11 port 58437
+[105]  0.0-10.0 sec  13.1 MBytes  11.0 Mbits/sec   0.100 ms    0/ 9355 (0%)
+[107] local 0.0.0.0 port 60043 connected with 192.0.0.11 port 58111
+[107]  0.0-10.0 sec  10.7 MBytes  9.00 Mbits/sec   0.091 ms    0/ 7655 (0%)
+[109] local 0.0.0.0 port 60043 connected with 192.0.0.11 port 46177
+[109]  0.0-10.0 sec  9.54 MBytes  8.00 Mbits/sec   0.140 ms    0/ 6804 (0%)
+[111] local 0.0.0.0 port 60043 connected with 192.0.0.11 port 38731
+[111]  0.0-10.0 sec  13.1 MBytes  11.0 Mbits/sec   0.082 ms    0/ 9355 (0%)
+[113] local 0.0.0.0 port 60043 connected with 192.0.0.11 port 45173
+[113]  0.0-10.0 sec  9.54 MBytes  8.00 Mbits/sec   0.141 ms    0/ 6804 (0%)
+[115] local 0.0.0.0 port 60043 connected with 192.0.0.11 port 39308
+[115]  0.0-10.0 sec  9.54 MBytes  8.00 Mbits/sec   0.109 ms    0/ 6804 (0%)
+[117] local 0.0.0.0 port 60043 connected with 192.0.0.11 port 39410
+[117]  0.0-10.0 sec  11.9 MBytes  10.0 Mbits/sec   0.129 ms    0/ 8505 (0%)
+[119] local 0.0.0.0 port 60043 connected with 192.0.0.11 port 51287
+[119]  0.0-10.0 sec  11.9 MBytes  10.0 Mbits/sec   0.128 ms    0/ 8505 (0%)
+[121] local 0.0.0.0 port 60043 connected with 192.0.0.11 port 35688
+[121]  0.0-10.0 sec  11.9 MBytes  10.0 Mbits/sec   0.163 ms    0/ 8505 (0%)
+[123] local 0.0.0.0 port 60043 connected with 192.0.0.11 port 46392
+[123]  0.0-10.0 sec  10.7 MBytes  9.00 Mbits/sec   0.104 ms    0/ 7654 (0%)
+[125] local 0.0.0.0 port 60043 connected with 192.0.0.11 port 57562
+[125]  0.0-10.0 sec  13.1 MBytes  11.0 Mbits/sec   0.136 ms    0/ 9355 (0%)
+[127] local 0.0.0.0 port 60043 connected with 192.0.0.11 port 59267
+[127]  0.0-10.0 sec  10.7 MBytes  9.00 Mbits/sec   0.117 ms    0/ 7655 (0%)
+[129] local 0.0.0.0 port 60043 connected with 192.0.0.11 port 41040
+[129]  0.0-10.0 sec  11.9 MBytes  10.0 Mbits/sec   0.111 ms    0/ 8505 (0%)
+[131] local 0.0.0.0 port 60043 connected with 192.0.0.11 port 39515
+[131]  0.0-10.0 sec  13.1 MBytes  11.0 Mbits/sec   0.153 ms    0/ 9355 (0%)
+[133] local 0.0.0.0 port 60043 connected with 192.0.0.11 port 39398
+[133]  0.0-10.0 sec  10.7 MBytes  9.00 Mbits/sec   0.093 ms    0/ 7654 (0%)
+[135] local 0.0.0.0 port 60043 connected with 192.0.0.11 port 54470
+[135]  0.0-10.0 sec  14.3 MBytes  12.0 Mbits/sec   0.112 ms    0/10206 (0%)
+[137] local 0.0.0.0 port 60043 connected with 192.0.0.11 port 49928
+[137]  0.0-10.0 sec  11.9 MBytes  10.0 Mbits/sec   0.108 ms    0/ 8505 (0%)
+[139] local 0.0.0.0 port 60043 connected with 192.0.0.11 port 41268
+[139]  0.0-10.0 sec  10.7 MBytes  9.00 Mbits/sec   0.115 ms    0/ 7655 (0%)
+[141] local 0.0.0.0 port 60043 connected with 192.0.0.11 port 56936
+[141]  0.0-10.0 sec  11.9 MBytes  10.0 Mbits/sec   0.114 ms    0/ 8505 (0%)
+[143] local 0.0.0.0 port 60043 connected with 192.0.0.11 port 37957
+[143]  0.0-10.0 sec  13.1 MBytes  11.0 Mbits/sec   0.133 ms    0/ 9355 (0%)
+[145] local 0.0.0.0 port 60043 connected with 192.0.0.11 port 35519
+[145]  0.0-10.0 sec  11.9 MBytes  10.0 Mbits/sec   0.154 ms    0/ 8505 (0%)
+[147] local 0.0.0.0 port 60043 connected with 192.0.0.11 port 42693
+[147]  0.0-10.0 sec  13.1 MBytes  11.0 Mbits/sec   0.094 ms    0/ 9355 (0%)
+[149] local 0.0.0.0 port 60043 connected with 192.0.0.11 port 58400
+[149]  0.0-10.0 sec  10.7 MBytes  9.00 Mbits/sec   0.134 ms    0/ 7655 (0%)
+[151] local 0.0.0.0 port 60043 connected with 192.0.0.11 port 57194
+[151]  0.0-10.0 sec  11.9 MBytes  10.0 Mbits/sec   0.134 ms    0/ 8505 (0%)
+[153] local 0.0.0.0 port 60043 connected with 192.0.0.11 port 37168
+[153]  0.0-10.0 sec  10.7 MBytes  9.00 Mbits/sec   0.106 ms    0/ 7655 (0%)
+[155] local 0.0.0.0 port 60043 connected with 192.0.0.11 port 52373
+[155]  0.0-10.0 sec  11.9 MBytes  10.0 Mbits/sec   0.151 ms    0/ 8505 (0%)
+[157] local 0.0.0.0 port 60043 connected with 192.0.0.11 port 36124
+[157]  0.0-10.0 sec  11.9 MBytes  10.0 Mbits/sec   0.100 ms    0/ 8505 (0%)
+[159] local 0.0.0.0 port 60043 connected with 192.0.0.11 port 40597
+[159]  0.0-10.0 sec  10.7 MBytes  9.00 Mbits/sec   0.066 ms    0/ 7655 (0%)
+[161] local 0.0.0.0 port 60043 connected with 192.0.0.11 port 39271
+[161]  0.0-10.0 sec  11.9 MBytes  10.0 Mbits/sec   0.152 ms    0/ 8505 (0%)
+[163] local 0.0.0.0 port 60043 connected with 192.0.0.11 port 56599
+[163]  0.0-10.0 sec  10.7 MBytes  9.00 Mbits/sec   0.129 ms    0/ 7655 (0%)
+[165] local 0.0.0.0 port 60043 connected with 192.0.0.11 port 60095
+[165]  0.0-10.0 sec  11.9 MBytes  10.0 Mbits/sec   0.077 ms    0/ 8505 (0%)
+[167] local 0.0.0.0 port 60043 connected with 192.0.0.11 port 33812
+[167]  0.0-10.0 sec  11.9 MBytes  10.0 Mbits/sec   0.116 ms    0/ 8505 (0%)
+[169] local 0.0.0.0 port 60043 connected with 192.0.0.11 port 41361
+[169]  0.0-10.0 sec  10.7 MBytes  9.00 Mbits/sec   0.117 ms    0/ 7655 (0%)
+[171] local 0.0.0.0 port 60043 connected with 192.0.0.11 port 38555
+[171]  0.0-10.0 sec  10.7 MBytes  9.00 Mbits/sec   0.107 ms    0/ 7655 (0%)
+[173] local 0.0.0.0 port 60043 connected with 192.0.0.11 port 53428
+[173]  0.0-10.0 sec  11.9 MBytes  10.0 Mbits/sec   0.099 ms    0/ 8505 (0%)
+[175] local 0.0.0.0 port 60043 connected with 192.0.0.11 port 53489
+[175]  0.0-10.0 sec  10.7 MBytes  9.00 Mbits/sec   0.088 ms    0/ 7655 (0%)
+[177] local 0.0.0.0 port 60043 connected with 192.0.0.11 port 56218
+[177]  0.0-10.0 sec  10.7 MBytes  9.00 Mbits/sec   0.123 ms    0/ 7655 (0%)
+[179] local 0.0.0.0 port 60043 connected with 192.0.0.11 port 56189
+[179]  0.0-10.0 sec  10.7 MBytes  9.00 Mbits/sec   0.125 ms    0/ 7655 (0%)
+[181] local 0.0.0.0 port 60043 connected with 192.0.0.11 port 38689
+[181]  0.0-10.0 sec  13.1 MBytes  11.0 Mbits/sec   0.139 ms    0/ 9355 (0%)
+[183] local 0.0.0.0 port 60043 connected with 192.0.0.11 port 50312
+[183]  0.0-10.0 sec  11.9 MBytes  10.0 Mbits/sec   0.149 ms    0/ 8505 (0%)
+[185] local 0.0.0.0 port 60043 connected with 192.0.0.11 port 33493
+[185]  0.0-10.0 sec  10.7 MBytes  9.00 Mbits/sec   0.106 ms    0/ 7655 (0%)
+[187] local 0.0.0.0 port 60043 connected with 192.0.0.11 port 57540
+[187]  0.0-10.0 sec  10.7 MBytes  9.00 Mbits/sec   0.104 ms    0/ 7655 (0%)
+[189] local 0.0.0.0 port 60043 connected with 192.0.0.11 port 57712
+[189]  0.0-10.0 sec  11.9 MBytes  10.0 Mbits/sec   0.116 ms    0/ 8505 (0%)
+[191] local 0.0.0.0 port 60043 connected with 192.0.0.11 port 56268
+[191]  0.0-10.0 sec  9.54 MBytes  8.00 Mbits/sec   0.117 ms    0/ 6804 (0%)
+[193] local 0.0.0.0 port 60043 connected with 192.0.0.11 port 55807
+[193]  0.0-10.0 sec  10.7 MBytes  9.00 Mbits/sec   0.108 ms    0/ 7655 (0%)
+[195] local 0.0.0.0 port 60043 connected with 192.0.0.11 port 51047
+[195]  0.0-10.0 sec  9.54 MBytes  8.00 Mbits/sec   0.127 ms    0/ 6804 (0%)
+[197] local 0.0.0.0 port 60043 connected with 192.0.0.11 port 43805
+[197]  0.0-10.0 sec  11.9 MBytes  10.0 Mbits/sec   0.079 ms    0/ 8505 (0%)
+[199] local 0.0.0.0 port 60043 connected with 192.0.0.11 port 48878
+[199]  0.0-10.0 sec  10.7 MBytes  9.00 Mbits/sec   0.094 ms    0/ 7655 (0%)
+[201] local 0.0.0.0 port 60043 connected with 192.0.0.11 port 41154
+[201]  0.0-10.0 sec  10.7 MBytes  9.00 Mbits/sec   0.090 ms    0/ 7655 (0%)
+[203] local 0.0.0.0 port 60043 connected with 192.0.0.11 port 43886
+[203]  0.0-10.0 sec  10.7 MBytes  9.00 Mbits/sec   0.141 ms    0/ 7654 (0%)
+[205] local 0.0.0.0 port 60043 connected with 192.0.0.11 port 49782
+[205]  0.0-10.0 sec  9.54 MBytes  8.00 Mbits/sec   0.131 ms    0/ 6804 (0%)
+[207] local 0.0.0.0 port 60043 connected with 192.0.0.11 port 49137
+[207]  0.0-10.0 sec  10.7 MBytes  9.00 Mbits/sec   0.070 ms    0/ 7655 (0%)
+[209] local 0.0.0.0 port 60043 connected with 192.0.0.11 port 42779
+[209]  0.0-10.0 sec  10.7 MBytes  9.00 Mbits/sec   0.092 ms    0/ 7655 (0%)
+[211] local 0.0.0.0 port 60043 connected with 192.0.0.11 port 33223
+[211]  0.0-10.0 sec  11.9 MBytes  10.0 Mbits/sec   0.156 ms    0/ 8505 (0%)
+[213] local 0.0.0.0 port 60043 connected with 192.0.0.11 port 33319
+[213]  0.0-10.0 sec  9.54 MBytes  8.00 Mbits/sec   0.105 ms    0/ 6804 (0%)
+[215] local 0.0.0.0 port 60043 connected with 192.0.0.11 port 39405
+[215]  0.0-10.0 sec  13.1 MBytes  11.0 Mbits/sec   0.116 ms    0/ 9355 (0%)
+[217] local 0.0.0.0 port 60043 connected with 192.0.0.11 port 50740
+[217]  0.0-10.0 sec  14.3 MBytes  12.0 Mbits/sec   0.097 ms    0/10206 (0%)
+[219] local 0.0.0.0 port 60043 connected with 192.0.0.11 port 33773
+[219]  0.0-10.0 sec  14.3 MBytes  12.0 Mbits/sec   0.131 ms    0/10206 (0%)
+[221] local 0.0.0.0 port 60043 connected with 192.0.0.11 port 38829
+[221]  0.0-10.0 sec  14.3 MBytes  12.0 Mbits/sec   0.122 ms    0/10206 (0%)
+[223] local 0.0.0.0 port 60043 connected with 192.0.0.11 port 50805
+[223]  0.0-10.0 sec  11.9 MBytes  10.0 Mbits/sec   0.125 ms    0/ 8505 (0%)
+[225] local 0.0.0.0 port 60043 connected with 192.0.0.11 port 39021
+[225]  0.0-10.0 sec  9.54 MBytes  8.00 Mbits/sec   0.169 ms    0/ 6804 (0%)
+[227] local 0.0.0.0 port 60043 connected with 192.0.0.11 port 40082
+[227]  0.0-10.0 sec  13.1 MBytes  11.0 Mbits/sec   0.137 ms    0/ 9355 (0%)
+[229] local 0.0.0.0 port 60043 connected with 192.0.0.11 port 45595
+[229]  0.0-10.0 sec  11.9 MBytes  10.0 Mbits/sec   0.117 ms    0/ 8505 (0%)
+[231] local 0.0.0.0 port 60043 connected with 192.0.0.11 port 57550
+[231]  0.0-10.0 sec  13.1 MBytes  11.0 Mbits/sec   0.108 ms    0/ 9355 (0%)
+[233] local 0.0.0.0 port 60043 connected with 192.0.0.11 port 34670
+[233]  0.0-10.0 sec  10.7 MBytes  9.00 Mbits/sec   0.089 ms    0/ 7655 (0%)
+[235] local 0.0.0.0 port 60043 connected with 192.0.0.11 port 37990
+[235]  0.0-10.0 sec  11.9 MBytes  10.0 Mbits/sec   0.093 ms    0/ 8505 (0%)
+[237] local 0.0.0.0 port 60043 connected with 192.0.0.11 port 56524
+[237]  0.0-10.0 sec  10.7 MBytes  9.00 Mbits/sec   0.110 ms    0/ 7655 (0%)
+[239] local 0.0.0.0 port 60043 connected with 192.0.0.11 port 38865
+[239]  0.0-10.0 sec  11.9 MBytes  10.0 Mbits/sec   0.091 ms    0/ 8505 (0%)
+[241] local 0.0.0.0 port 60043 connected with 192.0.0.11 port 37771
+[241]  0.0-10.0 sec  11.9 MBytes  10.0 Mbits/sec   0.077 ms    0/ 8505 (0%)
+[243] local 0.0.0.0 port 60043 connected with 192.0.0.11 port 44544
+[243]  0.0-10.0 sec  10.7 MBytes  9.00 Mbits/sec   0.183 ms    0/ 7655 (0%)
+[245] local 0.0.0.0 port 60043 connected with 192.0.0.11 port 44793
+[245]  0.0-10.0 sec  10.7 MBytes  9.00 Mbits/sec   0.114 ms    0/ 7655 (0%)
+[247] local 0.0.0.0 port 60043 connected with 192.0.0.11 port 37448
+[247]  0.0-10.0 sec  13.1 MBytes  11.0 Mbits/sec   0.101 ms    0/ 9355 (0%)
+[249] local 0.0.0.0 port 60043 connected with 192.0.0.11 port 33759
+[249]  0.0-10.0 sec  11.9 MBytes  10.0 Mbits/sec   0.141 ms    0/ 8505 (0%)
+[251] local 0.0.0.0 port 60043 connected with 192.0.0.11 port 57768
+[251]  0.0-10.0 sec  10.7 MBytes  9.00 Mbits/sec   0.092 ms    0/ 7655 (0%)
+[253] local 0.0.0.0 port 60043 connected with 192.0.0.11 port 43956
+[253]  0.0-10.0 sec  10.7 MBytes  9.00 Mbits/sec   0.135 ms    0/ 7655 (0%)
+[255] local 0.0.0.0 port 60043 connected with 192.0.0.11 port 52054
+[255]  0.0-10.0 sec  11.9 MBytes  10.0 Mbits/sec   0.106 ms    0/ 8505 (0%)
+[257] local 0.0.0.0 port 60043 connected with 192.0.0.11 port 40778
+[257]  0.0-10.0 sec  11.9 MBytes  10.0 Mbits/sec   0.109 ms    0/ 8505 (0%)
+[259] local 0.0.0.0 port 60043 connected with 192.0.0.11 port 47979
+[259]  0.0-10.0 sec  11.9 MBytes  10.0 Mbits/sec   0.125 ms    0/ 8505 (0%)
+[261] local 0.0.0.0 port 60043 connected with 192.0.0.11 port 39613
+[261]  0.0-10.0 sec  11.9 MBytes  10.0 Mbits/sec   0.101 ms    0/ 8505 (0%)
+[263] local 0.0.0.0 port 60043 connected with 192.0.0.11 port 34484
+[263]  0.0-10.0 sec  13.1 MBytes  11.0 Mbits/sec   0.128 ms    0/ 9355 (0%)
+[265] local 0.0.0.0 port 60043 connected with 192.0.0.11 port 60304
+[265]  0.0-10.0 sec  8.35 MBytes  7.00 Mbits/sec   0.103 ms    0/ 5954 (0%)
+[267] local 0.0.0.0 port 60043 connected with 192.0.0.11 port 47810
+[267]  0.0-10.0 sec  9.54 MBytes  8.00 Mbits/sec   0.073 ms    0/ 6804 (0%)
+[269] local 0.0.0.0 port 60043 connected with 192.0.0.11 port 56567
+[269]  0.0-10.0 sec  9.54 MBytes  8.00 Mbits/sec   0.110 ms    0/ 6804 (0%)
+[271] local 0.0.0.0 port 60043 connected with 192.0.0.11 port 42420
+[271]  0.0-10.0 sec  13.1 MBytes  11.0 Mbits/sec   0.093 ms    0/ 9355 (0%)
+[273] local 0.0.0.0 port 60043 connected with 192.0.0.11 port 40397
+[273]  0.0-10.0 sec  11.9 MBytes  10.0 Mbits/sec   0.147 ms    0/ 8505 (0%)
+[275] local 0.0.0.0 port 60043 connected with 192.0.0.11 port 47791
+[275]  0.0-10.0 sec  10.7 MBytes  9.00 Mbits/sec   0.075 ms    0/ 7655 (0%)
+[277] local 0.0.0.0 port 60043 connected with 192.0.0.11 port 56767
+[277]  0.0-10.0 sec  10.7 MBytes  9.00 Mbits/sec   0.129 ms    0/ 7655 (0%)
+[279] local 0.0.0.0 port 60043 connected with 192.0.0.11 port 59420
+[279]  0.0-10.0 sec  10.7 MBytes  9.00 Mbits/sec   0.094 ms    0/ 7655 (0%)
+[281] local 0.0.0.0 port 60043 connected with 192.0.0.11 port 57014
+[281]  0.0-10.0 sec  10.7 MBytes  9.00 Mbits/sec   0.138 ms    0/ 7654 (0%)
+[283] local 0.0.0.0 port 60043 connected with 192.0.0.11 port 56663
+[283]  0.0-10.0 sec  10.7 MBytes  9.00 Mbits/sec   0.098 ms    0/ 7655 (0%)
+[285] local 0.0.0.0 port 60043 connected with 192.0.0.11 port 50376
+[285]  0.0-10.0 sec  9.54 MBytes  8.00 Mbits/sec   0.102 ms    0/ 6804 (0%)
+[287] local 0.0.0.0 port 60043 connected with 192.0.0.11 port 57292
+[287]  0.0-10.0 sec  10.7 MBytes  9.00 Mbits/sec   0.126 ms    0/ 7655 (0%)
+[289] local 0.0.0.0 port 60043 connected with 192.0.0.11 port 42489
+[289]  0.0-10.0 sec  11.9 MBytes  10.0 Mbits/sec   0.161 ms    0/ 8505 (0%)
+[291] local 0.0.0.0 port 60043 connected with 192.0.0.11 port 58773
+[291]  0.0-10.0 sec  10.7 MBytes  9.00 Mbits/sec   0.101 ms    0/ 7655 (0%)
+[293] local 0.0.0.0 port 60043 connected with 192.0.0.11 port 58523
+[293]  0.0-10.0 sec  11.9 MBytes  10.0 Mbits/sec   0.156 ms    0/ 8505 (0%)
+[295] local 0.0.0.0 port 60043 connected with 192.0.0.11 port 47758
+[295]  0.0-10.0 sec  11.9 MBytes  10.0 Mbits/sec   0.094 ms    0/ 8505 (0%)
+[297] local 0.0.0.0 port 60043 connected with 192.0.0.11 port 34170
+[297]  0.0-10.0 sec  11.9 MBytes  10.0 Mbits/sec   0.107 ms    0/ 8505 (0%)
+[299] local 0.0.0.0 port 60043 connected with 192.0.0.11 port 45210
+[299]  0.0-10.0 sec  9.54 MBytes  8.00 Mbits/sec   0.119 ms    0/ 6804 (0%)
+[301] local 0.0.0.0 port 60043 connected with 192.0.0.11 port 60776
+[301]  0.0-10.0 sec  11.9 MBytes  10.0 Mbits/sec   0.090 ms    0/ 8505 (0%)
+[303] local 0.0.0.0 port 60043 connected with 192.0.0.11 port 47618
+[303]  0.0-10.0 sec  11.9 MBytes  10.0 Mbits/sec   0.108 ms    0/ 8505 (0%)
+[305] local 0.0.0.0 port 60043 connected with 192.0.0.11 port 60866
+[305]  0.0-10.0 sec  11.9 MBytes  10.0 Mbits/sec   0.120 ms    0/ 8505 (0%)
+[307] local 0.0.0.0 port 60043 connected with 192.0.0.11 port 36730
+[307]  0.0-10.0 sec  10.7 MBytes  9.00 Mbits/sec   0.091 ms    0/ 7655 (0%)
+[309] local 0.0.0.0 port 60043 connected with 192.0.0.11 port 51234
+[309]  0.0-10.0 sec  11.9 MBytes  10.0 Mbits/sec   0.113 ms    0/ 8505 (0%)
+[311] local 0.0.0.0 port 60043 connected with 192.0.0.11 port 35277
+[311]  0.0-10.0 sec  13.1 MBytes  11.0 Mbits/sec   0.103 ms    0/ 9355 (0%)
+[313] local 0.0.0.0 port 60043 connected with 192.0.0.11 port 59293
+[313]  0.0-10.0 sec  9.54 MBytes  8.00 Mbits/sec   0.109 ms    0/ 6804 (0%)
+[315] local 0.0.0.0 port 60043 connected with 192.0.0.11 port 52020
+[315]  0.0-10.0 sec  13.1 MBytes  11.0 Mbits/sec   0.100 ms    0/ 9355 (0%)
+[317] local 0.0.0.0 port 60043 connected with 192.0.0.11 port 47678
+[317]  0.0-10.0 sec  11.9 MBytes  10.0 Mbits/sec   0.071 ms    0/ 8505 (0%)
+[319] local 0.0.0.0 port 60043 connected with 192.0.0.11 port 43715
+[319]  0.0-10.0 sec  10.7 MBytes  9.00 Mbits/sec   0.101 ms    0/ 7655 (0%)
+[321] local 0.0.0.0 port 60043 connected with 192.0.0.11 port 50916
+[321]  0.0-10.0 sec  11.9 MBytes  10.0 Mbits/sec   0.096 ms    0/ 8505 (0%)
+[323] local 0.0.0.0 port 60043 connected with 192.0.0.11 port 48397
+[323]  0.0-10.0 sec  11.9 MBytes  10.0 Mbits/sec   0.141 ms    0/ 8505 (0%)
+[325] local 0.0.0.0 port 60043 connected with 192.0.0.11 port 40663
+[325]  0.0-10.0 sec  9.54 MBytes  8.00 Mbits/sec   0.202 ms    0/ 6804 (0%)
+[327] local 0.0.0.0 port 60043 connected with 192.0.0.11 port 50942
+[327]  0.0-10.0 sec  10.7 MBytes  9.00 Mbits/sec   0.060 ms    0/ 7655 (0%)
+[329] local 0.0.0.0 port 60043 connected with 192.0.0.11 port 47143
+[329]  0.0-10.0 sec  13.1 MBytes  11.0 Mbits/sec   0.113 ms    0/ 9355 (0%)
+[331] local 0.0.0.0 port 60043 connected with 192.0.0.11 port 40707
+[331]  0.0-10.0 sec  11.9 MBytes  10.0 Mbits/sec   0.089 ms    0/ 8505 (0%)
+[333] local 0.0.0.0 port 60043 connected with 192.0.0.11 port 56411
+[333]  0.0-10.0 sec  11.9 MBytes  10.0 Mbits/sec   0.164 ms    0/ 8505 (0%)
+[335] local 0.0.0.0 port 60043 connected with 192.0.0.11 port 40478
+[335]  0.0-10.0 sec  10.7 MBytes  9.00 Mbits/sec   0.105 ms    0/ 7655 (0%)
+[337] local 0.0.0.0 port 60043 connected with 192.0.0.11 port 60126
+[337]  0.0-10.0 sec  11.9 MBytes  10.0 Mbits/sec   0.152 ms    0/ 8505 (0%)
+[339] local 0.0.0.0 port 60043 connected with 192.0.0.11 port 56984
+[339]  0.0-10.0 sec  10.7 MBytes  9.00 Mbits/sec   0.097 ms    0/ 7655 (0%)
+[341] local 0.0.0.0 port 60043 connected with 192.0.0.11 port 35447
+[341]  0.0-10.0 sec  13.1 MBytes  11.0 Mbits/sec   0.126 ms    0/ 9355 (0%)
+[343] local 0.0.0.0 port 60043 connected with 192.0.0.11 port 35125
+[343]  0.0-10.0 sec  11.9 MBytes  10.0 Mbits/sec   0.163 ms    0/ 8505 (0%)
+[345] local 0.0.0.0 port 60043 connected with 192.0.0.11 port 45351
+[345]  0.0-10.0 sec  11.9 MBytes  10.0 Mbits/sec   0.105 ms    0/ 8505 (0%)
+[347] local 0.0.0.0 port 60043 connected with 192.0.0.11 port 50131
+[347]  0.0-10.0 sec  11.9 MBytes  10.0 Mbits/sec   0.110 ms    0/ 8505 (0%)
+[349] local 0.0.0.0 port 60043 connected with 192.0.0.11 port 37036
+[349]  0.0-10.0 sec  11.9 MBytes  10.0 Mbits/sec   0.132 ms    0/ 8505 (0%)
+[351] local 0.0.0.0 port 60043 connected with 192.0.0.11 port 47435
+[351]  0.0-10.0 sec  11.9 MBytes  10.0 Mbits/sec   0.155 ms    0/ 8505 (0%)
+[353] local 0.0.0.0 port 60043 connected with 192.0.0.11 port 37928
+[353]  0.0-10.0 sec  9.54 MBytes  8.00 Mbits/sec   0.084 ms    0/ 6804 (0%)
+[355] local 0.0.0.0 port 60043 connected with 192.0.0.11 port 46113
+[355]  0.0-10.0 sec  13.1 MBytes  11.0 Mbits/sec   0.132 ms    0/ 9355 (0%)
+[357] local 0.0.0.0 port 60043 connected with 192.0.0.11 port 52587
+[357]  0.0-10.0 sec  9.54 MBytes  8.00 Mbits/sec   0.125 ms    0/ 6804 (0%)
+[359] local 0.0.0.0 port 60043 connected with 192.0.0.11 port 37610
+[359]  0.0-10.0 sec  10.7 MBytes  9.00 Mbits/sec   0.150 ms    0/ 7655 (0%)
+[361] local 0.0.0.0 port 60043 connected with 192.0.0.11 port 44344
+[361]  0.0-10.0 sec  10.7 MBytes  9.00 Mbits/sec   0.083 ms    0/ 7655 (0%)
+[363] local 0.0.0.0 port 60043 connected with 192.0.0.11 port 58096
+[363]  0.0-10.0 sec  13.1 MBytes  11.0 Mbits/sec   0.096 ms    0/ 9355 (0%)
+[365] local 0.0.0.0 port 60043 connected with 192.0.0.11 port 60723
+[365]  0.0-10.0 sec  9.54 MBytes  8.00 Mbits/sec   0.133 ms    0/ 6804 (0%)
+[367] local 0.0.0.0 port 60043 connected with 192.0.0.11 port 39131
+[367]  0.0-10.0 sec  13.1 MBytes  11.0 Mbits/sec   0.133 ms    0/ 9355 (0%)
+[369] local 0.0.0.0 port 60043 connected with 192.0.0.11 port 51076
+[369]  0.0-10.0 sec  10.7 MBytes  9.00 Mbits/sec   0.062 ms    0/ 7655 (0%)
+[371] local 0.0.0.0 port 60043 connected with 192.0.0.11 port 59727
+[371]  0.0-10.0 sec  10.7 MBytes  9.00 Mbits/sec   0.099 ms    0/ 7655 (0%)
+[373] local 0.0.0.0 port 60043 connected with 192.0.0.11 port 54929
+[373]  0.0-10.0 sec  8.35 MBytes  7.00 Mbits/sec   0.135 ms    0/ 5954 (0%)
+[375] local 0.0.0.0 port 60043 connected with 192.0.0.11 port 33022
+[375]  0.0-10.0 sec  13.1 MBytes  11.0 Mbits/sec   0.155 ms    0/ 9355 (0%)
+[377] local 0.0.0.0 port 60043 connected with 192.0.0.11 port 46683
+[377]  0.0-10.0 sec  10.7 MBytes  9.00 Mbits/sec   0.126 ms    0/ 7655 (0%)
+[379] local 0.0.0.0 port 60043 connected with 192.0.0.11 port 36671
+[379]  0.0-10.0 sec  10.7 MBytes  9.00 Mbits/sec   0.099 ms    0/ 7655 (0%)
+[381] local 0.0.0.0 port 60043 connected with 192.0.0.11 port 58393
+[381]  0.0-10.0 sec  10.7 MBytes  9.00 Mbits/sec   0.092 ms    0/ 7655 (0%)
+[383] local 0.0.0.0 port 60043 connected with 192.0.0.11 port 53087
+[383]  0.0-10.0 sec  13.1 MBytes  11.0 Mbits/sec   0.133 ms    0/ 9355 (0%)
+[385] local 0.0.0.0 port 60043 connected with 192.0.0.11 port 54957
+[385]  0.0-10.0 sec  11.9 MBytes  10.0 Mbits/sec   0.167 ms    0/ 8505 (0%)
+[387] local 0.0.0.0 port 60043 connected with 192.0.0.11 port 53093
+[387]  0.0-10.0 sec  9.54 MBytes  8.00 Mbits/sec   0.110 ms    0/ 6804 (0%)
+[389] local 0.0.0.0 port 60043 connected with 192.0.0.11 port 38719
+[389]  0.0-10.0 sec  9.54 MBytes  8.00 Mbits/sec   0.119 ms    0/ 6804 (0%)
+[391] local 0.0.0.0 port 60043 connected with 192.0.0.11 port 40657
+[391]  0.0-10.0 sec  13.1 MBytes  11.0 Mbits/sec   0.106 ms    0/ 9355 (0%)
+[393] local 0.0.0.0 port 60043 connected with 192.0.0.11 port 46663
+[393]  0.0-10.0 sec  10.7 MBytes  9.00 Mbits/sec   0.087 ms    0/ 7655 (0%)
+[395] local 0.0.0.0 port 60043 connected with 192.0.0.11 port 59102
+[395]  0.0-10.0 sec  11.9 MBytes  10.0 Mbits/sec   0.102 ms    0/ 8505 (0%)
+[397] local 0.0.0.0 port 60043 connected with 192.0.0.11 port 34958
+[397]  0.0-10.0 sec  11.9 MBytes  10.0 Mbits/sec   0.112 ms    0/ 8505 (0%)
+[399] local 0.0.0.0 port 60043 connected with 192.0.0.11 port 45497
+[399]  0.0-10.0 sec  10.7 MBytes  9.00 Mbits/sec   0.074 ms    0/ 7655 (0%)
+[401] local 0.0.0.0 port 60043 connected with 192.0.0.11 port 42081
+[401]  0.0-10.0 sec  10.7 MBytes  9.00 Mbits/sec   0.104 ms    0/ 7655 (0%)
+[403] local 0.0.0.0 port 60043 connected with 192.0.0.11 port 51838
+[403]  0.0-10.0 sec  13.1 MBytes  11.0 Mbits/sec   0.108 ms    0/ 9355 (0%)
+[405] local 0.0.0.0 port 60043 connected with 192.0.0.11 port 35984
+[405]  0.0-10.0 sec  9.54 MBytes  8.00 Mbits/sec   0.125 ms    0/ 6804 (0%)
+[407] local 0.0.0.0 port 60043 connected with 192.0.0.11 port 46190
+[407]  0.0-10.0 sec  13.1 MBytes  11.0 Mbits/sec   0.116 ms    0/ 9355 (0%)
+[409] local 0.0.0.0 port 60043 connected with 192.0.0.11 port 55375
+[409]  0.0-10.0 sec  10.7 MBytes  9.00 Mbits/sec   0.144 ms    0/ 7655 (0%)
+[411] local 0.0.0.0 port 60043 connected with 192.0.0.11 port 60280
+[411]  0.0-10.0 sec  11.9 MBytes  10.0 Mbits/sec   0.107 ms    0/ 8505 (0%)
+[413] local 0.0.0.0 port 60043 connected with 192.0.0.11 port 60711
+[413]  0.0-10.0 sec  11.9 MBytes  10.0 Mbits/sec   0.114 ms    0/ 8505 (0%)
+[415] local 0.0.0.0 port 60043 connected with 192.0.0.11 port 49082
+[415]  0.0-10.0 sec  10.7 MBytes  9.00 Mbits/sec   0.121 ms    0/ 7655 (0%)
+[417] local 0.0.0.0 port 60043 connected with 192.0.0.11 port 46536
+[417]  0.0-10.0 sec  10.7 MBytes  9.00 Mbits/sec   0.064 ms    0/ 7655 (0%)
+[419] local 0.0.0.0 port 60043 connected with 192.0.0.11 port 44949
+[419]  0.0-10.0 sec  10.7 MBytes  9.00 Mbits/sec   0.117 ms    0/ 7655 (0%)
+[421] local 0.0.0.0 port 60043 connected with 192.0.0.11 port 44873
+[421]  0.0-10.0 sec  10.7 MBytes  9.00 Mbits/sec   0.125 ms    0/ 7655 (0%)
+[423] local 0.0.0.0 port 60043 connected with 192.0.0.11 port 39591
+[423]  0.0-10.0 sec  10.7 MBytes  9.00 Mbits/sec   0.118 ms    0/ 7655 (0%)
+[425] local 0.0.0.0 port 60043 connected with 192.0.0.11 port 43260
+[425]  0.0-10.0 sec  11.9 MBytes  10.0 Mbits/sec   0.128 ms    0/ 8505 (0%)
+[427] local 0.0.0.0 port 60043 connected with 192.0.0.11 port 55775
+[427]  0.0-10.0 sec  11.9 MBytes  10.0 Mbits/sec   0.095 ms    0/ 8505 (0%)
+[429] local 0.0.0.0 port 60043 connected with 192.0.0.11 port 42620
+[429]  0.0-10.0 sec  10.7 MBytes  9.00 Mbits/sec   0.163 ms    0/ 7655 (0%)
+[431] local 0.0.0.0 port 60043 connected with 192.0.0.11 port 45542
+[431]  0.0-10.0 sec  10.7 MBytes  9.00 Mbits/sec   0.113 ms    0/ 7654 (0%)
+[433] local 0.0.0.0 port 60043 connected with 192.0.0.11 port 43511
+[433]  0.0-10.0 sec  10.7 MBytes  9.00 Mbits/sec   0.098 ms    0/ 7655 (0%)
+[435] local 0.0.0.0 port 60043 connected with 192.0.0.11 port 48127
+[435]  0.0-10.0 sec  10.7 MBytes  9.00 Mbits/sec   0.059 ms    0/ 7655 (0%)
+[437] local 0.0.0.0 port 60043 connected with 192.0.0.11 port 49211
+[437]  0.0-10.0 sec  11.9 MBytes  10.0 Mbits/sec   0.105 ms    0/ 8505 (0%)
+[439] local 0.0.0.0 port 60043 connected with 192.0.0.11 port 35709
+[439]  0.0-10.0 sec  10.7 MBytes  9.00 Mbits/sec   0.088 ms    0/ 7655 (0%)
+[441] local 0.0.0.0 port 60043 connected with 192.0.0.11 port 44474
+[441]  0.0-10.0 sec  11.9 MBytes  10.0 Mbits/sec   0.123 ms    0/ 8505 (0%)
+[443] local 0.0.0.0 port 60043 connected with 192.0.0.11 port 51562
+[443]  0.0-10.0 sec  11.9 MBytes  10.0 Mbits/sec   0.077 ms    0/ 8505 (0%)
+[445] local 0.0.0.0 port 60043 connected with 192.0.0.11 port 38879
+[445]  0.0-10.0 sec  9.54 MBytes  8.00 Mbits/sec   0.107 ms    0/ 6804 (0%)
+[447] local 0.0.0.0 port 60043 connected with 192.0.0.11 port 47559
+[447]  0.0-10.0 sec  10.7 MBytes  9.00 Mbits/sec   0.144 ms    0/ 7655 (0%)
+[449] local 0.0.0.0 port 60043 connected with 192.0.0.11 port 41455
+[449]  0.0-10.0 sec  10.7 MBytes  9.00 Mbits/sec   0.132 ms    0/ 7655 (0%)
+[451] local 0.0.0.0 port 60043 connected with 192.0.0.11 port 40532
+[451]  0.0-10.0 sec  9.54 MBytes  8.00 Mbits/sec   0.102 ms    0/ 6804 (0%)
+[453] local 0.0.0.0 port 60043 connected with 192.0.0.11 port 37911
+[453]  0.0-10.0 sec  11.9 MBytes  10.0 Mbits/sec   0.132 ms    0/ 8505 (0%)
+[455] local 0.0.0.0 port 60043 connected with 192.0.0.11 port 45306
+[455]  0.0-10.0 sec  10.7 MBytes  9.00 Mbits/sec   0.083 ms    0/ 7655 (0%)
+[457] local 0.0.0.0 port 60043 connected with 192.0.0.11 port 39098
+[457]  0.0-10.0 sec  10.7 MBytes  9.00 Mbits/sec   0.139 ms    0/ 7655 (0%)
+[459] local 0.0.0.0 port 60043 connected with 192.0.0.11 port 38505
+[459]  0.0-10.0 sec  11.9 MBytes  10.0 Mbits/sec   0.133 ms    0/ 8505 (0%)
+[461] local 0.0.0.0 port 60043 connected with 192.0.0.11 port 39860
+[461]  0.0-10.0 sec  10.7 MBytes  9.00 Mbits/sec   0.186 ms    0/ 7655 (0%)
+[463] local 0.0.0.0 port 60043 connected with 192.0.0.11 port 54678
+[463]  0.0-10.0 sec  11.9 MBytes  10.0 Mbits/sec   0.135 ms    0/ 8505 (0%)
+[465] local 0.0.0.0 port 60043 connected with 192.0.0.11 port 54015
+[465]  0.0-10.0 sec  13.1 MBytes  11.0 Mbits/sec   0.120 ms    0/ 9355 (0%)
+[467] local 0.0.0.0 port 60043 connected with 192.0.0.11 port 50382
+[467]  0.0-10.0 sec  13.1 MBytes  11.0 Mbits/sec   0.125 ms    0/ 9355 (0%)
+[469] local 0.0.0.0 port 60043 connected with 192.0.0.11 port 60102
+[469]  0.0-10.0 sec  10.7 MBytes  9.00 Mbits/sec   0.097 ms    0/ 7655 (0%)
+[471] local 0.0.0.0 port 60043 connected with 192.0.0.11 port 41346
+[471]  0.0-10.0 sec  11.9 MBytes  10.0 Mbits/sec   0.095 ms    0/ 8505 (0%)
+[473] local 0.0.0.0 port 60043 connected with 192.0.0.11 port 37884
+[473]  0.0-10.0 sec  13.1 MBytes  11.0 Mbits/sec   0.121 ms    0/ 9355 (0%)
+[475] local 0.0.0.0 port 60043 connected with 192.0.0.11 port 46552
+[475]  0.0-10.0 sec  8.35 MBytes  7.00 Mbits/sec   0.101 ms    0/ 5954 (0%)
+[477] local 0.0.0.0 port 60043 connected with 192.0.0.11 port 46182
+[477]  0.0-10.0 sec  11.9 MBytes  10.0 Mbits/sec   0.112 ms    0/ 8505 (0%)
+[479] local 0.0.0.0 port 60043 connected with 192.0.0.11 port 39238
+[479]  0.0-10.0 sec  10.7 MBytes  9.00 Mbits/sec   0.180 ms    0/ 7655 (0%)
+[481] local 0.0.0.0 port 60043 connected with 192.0.0.11 port 38711
+[481]  0.0-10.0 sec  13.1 MBytes  11.0 Mbits/sec   0.104 ms    0/ 9355 (0%)
+[483] local 0.0.0.0 port 60043 connected with 192.0.0.11 port 49370
+[483]  0.0-10.0 sec  11.9 MBytes  10.0 Mbits/sec   0.117 ms    0/ 8505 (0%)
+[485] local 0.0.0.0 port 60043 connected with 192.0.0.11 port 48920
+[485]  0.0-10.0 sec  11.9 MBytes  10.0 Mbits/sec   0.100 ms    0/ 8505 (0%)
+[487] local 0.0.0.0 port 60043 connected with 192.0.0.11 port 39530
+[487]  0.0-10.0 sec  13.1 MBytes  11.0 Mbits/sec   0.080 ms    0/ 9355 (0%)
+[489] local 0.0.0.0 port 60043 connected with 192.0.0.11 port 41346
+[489]  0.0-10.0 sec  10.7 MBytes  9.00 Mbits/sec   0.088 ms    0/ 7655 (0%)
+[491] local 0.0.0.0 port 60043 connected with 192.0.0.11 port 54715
+[491]  0.0-10.0 sec  10.7 MBytes  9.00 Mbits/sec   0.151 ms    0/ 7655 (0%)
+[493] local 0.0.0.0 port 60043 connected with 192.0.0.11 port 38984
+[493]  0.0-10.0 sec  8.35 MBytes  7.00 Mbits/sec   0.123 ms    0/ 5954 (0%)
+[495] local 0.0.0.0 port 60043 connected with 192.0.0.11 port 42639
+[495]  0.0-10.0 sec  11.9 MBytes  10.0 Mbits/sec   0.123 ms    0/ 8505 (0%)
+[497] local 0.0.0.0 port 60043 connected with 192.0.0.11 port 50740
+[497]  0.0-10.0 sec  14.3 MBytes  12.0 Mbits/sec   0.138 ms    0/10206 (0%)
+[499] local 0.0.0.0 port 60043 connected with 192.0.0.11 port 50790
+[499]  0.0-10.0 sec  10.7 MBytes  9.00 Mbits/sec   0.101 ms    0/ 7655 (0%)
+[501] local 0.0.0.0 port 60043 connected with 192.0.0.11 port 46802
+[501]  0.0-10.0 sec  10.7 MBytes  9.00 Mbits/sec   0.114 ms    0/ 7654 (0%)
+[503] local 0.0.0.0 port 60043 connected with 192.0.0.11 port 43393
+[503]  0.0-10.0 sec  9.54 MBytes  8.00 Mbits/sec   0.087 ms    0/ 6804 (0%)
+[505] local 0.0.0.0 port 60043 connected with 192.0.0.11 port 50929
+[505]  0.0-10.0 sec  10.7 MBytes  9.00 Mbits/sec   0.131 ms    0/ 7655 (0%)
+[507] local 0.0.0.0 port 60043 connected with 192.0.0.11 port 38812
+[507]  0.0-10.0 sec  9.54 MBytes  8.00 Mbits/sec   0.087 ms    0/ 6804 (0%)
+[509] local 0.0.0.0 port 60043 connected with 192.0.0.11 port 35468
+[509]  0.0-10.0 sec  10.7 MBytes  9.00 Mbits/sec   0.095 ms    0/ 7655 (0%)
+[511] local 0.0.0.0 port 60043 connected with 192.0.0.11 port 58606
+[511]  0.0-10.0 sec  9.54 MBytes  8.00 Mbits/sec   0.078 ms    0/ 6804 (0%)
+[513] local 0.0.0.0 port 60043 connected with 192.0.0.11 port 40165
+[513]  0.0-10.0 sec  10.7 MBytes  9.00 Mbits/sec   0.165 ms    0/ 7655 (0%)
+[515] local 0.0.0.0 port 60043 connected with 192.0.0.11 port 33281
+[515]  0.0-10.0 sec  10.7 MBytes  9.00 Mbits/sec   0.186 ms    0/ 7655 (0%)
+[517] local 0.0.0.0 port 60043 connected with 192.0.0.11 port 43119
+[517]  0.0-10.0 sec  13.1 MBytes  11.0 Mbits/sec   0.127 ms    0/ 9355 (0%)
+[519] local 0.0.0.0 port 60043 connected with 192.0.0.11 port 34961
+[519]  0.0-10.0 sec  11.9 MBytes  10.0 Mbits/sec   0.171 ms    0/ 8505 (0%)
+[521] local 0.0.0.0 port 60043 connected with 192.0.0.11 port 46305
+[521]  0.0-10.0 sec  10.7 MBytes  9.00 Mbits/sec   0.105 ms    0/ 7655 (0%)
+[523] local 0.0.0.0 port 60043 connected with 192.0.0.11 port 53897
+[523]  0.0-10.0 sec  10.7 MBytes  9.00 Mbits/sec   0.096 ms    0/ 7655 (0%)
+[525] local 0.0.0.0 port 60043 connected with 192.0.0.11 port 52476
+[525]  0.0-10.0 sec  11.9 MBytes  10.0 Mbits/sec   0.094 ms    0/ 8505 (0%)
+[527] local 0.0.0.0 port 60043 connected with 192.0.0.11 port 39356
+[527]  0.0-10.0 sec  10.7 MBytes  9.00 Mbits/sec   0.147 ms    0/ 7655 (0%)
+[529] local 0.0.0.0 port 60043 connected with 192.0.0.11 port 47242
+[529]  0.0-10.0 sec  11.9 MBytes  10.0 Mbits/sec   0.146 ms    0/ 8505 (0%)
+[531] local 0.0.0.0 port 60043 connected with 192.0.0.11 port 47352
+[531]  0.0-10.0 sec  10.7 MBytes  9.00 Mbits/sec   0.113 ms    0/ 7655 (0%)
+[533] local 0.0.0.0 port 60043 connected with 192.0.0.11 port 36677
+[533]  0.0-10.0 sec  13.1 MBytes  11.0 Mbits/sec   0.152 ms    0/ 9355 (0%)
+[535] local 0.0.0.0 port 60043 connected with 192.0.0.11 port 33356
+[535]  0.0-10.0 sec  10.7 MBytes  9.00 Mbits/sec   0.099 ms    0/ 7655 (0%)
+[537] local 0.0.0.0 port 60043 connected with 192.0.0.11 port 45660
+[537]  0.0-10.0 sec  13.1 MBytes  11.0 Mbits/sec   0.129 ms    0/ 9355 (0%)
+[539] local 0.0.0.0 port 60043 connected with 192.0.0.11 port 32854
+[539]  0.0-10.0 sec  11.9 MBytes  10.0 Mbits/sec   0.147 ms    0/ 8505 (0%)
+[541] local 0.0.0.0 port 60043 connected with 192.0.0.11 port 37518
+[541]  0.0-10.0 sec  8.35 MBytes  7.00 Mbits/sec   0.108 ms    0/ 5954 (0%)
+[543] local 0.0.0.0 port 60043 connected with 192.0.0.11 port 37705
+[543]  0.0-10.0 sec  11.9 MBytes  10.0 Mbits/sec   0.249 ms    0/ 8505 (0%)
+[545] local 0.0.0.0 port 60043 connected with 192.0.0.11 port 34859
+[545]  0.0-10.0 sec  10.7 MBytes  9.00 Mbits/sec   0.095 ms    0/ 7655 (0%)
+[547] local 0.0.0.0 port 60043 connected with 192.0.0.11 port 33683
+[547]  0.0-10.0 sec  13.1 MBytes  11.0 Mbits/sec   0.077 ms    0/ 9355 (0%)
+[549] local 0.0.0.0 port 60043 connected with 192.0.0.11 port 42939
+[549]  0.0-10.0 sec  9.54 MBytes  8.00 Mbits/sec   0.107 ms    0/ 6804 (0%)
+[551] local 0.0.0.0 port 60043 connected with 192.0.0.11 port 59083
+[551]  0.0-10.0 sec  11.9 MBytes  10.0 Mbits/sec   0.110 ms    0/ 8505 (0%)
+[553] local 0.0.0.0 port 60043 connected with 192.0.0.11 port 39551
+[553]  0.0-10.0 sec  11.9 MBytes  10.0 Mbits/sec   0.105 ms    0/ 8505 (0%)
+[555] local 0.0.0.0 port 60043 connected with 192.0.0.11 port 50932
+[555]  0.0-10.0 sec  11.9 MBytes  10.0 Mbits/sec   0.086 ms    0/ 8505 (0%)
+[557] local 0.0.0.0 port 60043 connected with 192.0.0.11 port 53430
+[557]  0.0-10.0 sec  9.54 MBytes  8.00 Mbits/sec   0.105 ms    0/ 6804 (0%)
+[559] local 0.0.0.0 port 60043 connected with 192.0.0.11 port 41339
+[559]  0.0-10.0 sec  11.9 MBytes  10.0 Mbits/sec   0.088 ms    0/ 8505 (0%)
+[561] local 0.0.0.0 port 60043 connected with 192.0.0.11 port 47559
+[561]  0.0-10.0 sec  10.7 MBytes  9.00 Mbits/sec   0.071 ms    0/ 7655 (0%)
+[563] local 0.0.0.0 port 60043 connected with 192.0.0.11 port 45147
+[563]  0.0-10.0 sec  10.7 MBytes  9.00 Mbits/sec   0.118 ms    0/ 7655 (0%)
+[565] local 0.0.0.0 port 60043 connected with 192.0.0.11 port 52430
+[565]  0.0-10.0 sec  11.9 MBytes  10.0 Mbits/sec   0.137 ms    0/ 8505 (0%)
+[567] local 0.0.0.0 port 60043 connected with 192.0.0.11 port 37173
+[567]  0.0-10.0 sec  10.7 MBytes  9.00 Mbits/sec   0.122 ms    0/ 7655 (0%)
+[569] local 0.0.0.0 port 60043 connected with 192.0.0.11 port 59432
+[569]  0.0-10.0 sec  10.7 MBytes  9.00 Mbits/sec   0.141 ms    0/ 7655 (0%)
+[571] local 0.0.0.0 port 60043 connected with 192.0.0.11 port 39889
+[571]  0.0-10.0 sec  10.7 MBytes  9.00 Mbits/sec   0.127 ms    0/ 7655 (0%)
+[573] local 0.0.0.0 port 60043 connected with 192.0.0.11 port 44949
+[573]  0.0-10.0 sec  10.7 MBytes  9.00 Mbits/sec   0.118 ms    0/ 7655 (0%)
+[575] local 0.0.0.0 port 60043 connected with 192.0.0.11 port 34752
+[575]  0.0-10.0 sec  11.9 MBytes  10.0 Mbits/sec   0.135 ms    0/ 8505 (0%)
+[577] local 0.0.0.0 port 60043 connected with 192.0.0.11 port 46182
+[577]  0.0-10.0 sec  11.9 MBytes  10.0 Mbits/sec   0.150 ms    0/ 8505 (0%)
+[579] local 0.0.0.0 port 60043 connected with 192.0.0.11 port 47795
+[579]  0.0-10.0 sec  11.9 MBytes  10.0 Mbits/sec   0.107 ms    0/ 8505 (0%)
+[581] local 0.0.0.0 port 60043 connected with 192.0.0.11 port 36914
+[581]  0.0-10.0 sec  9.54 MBytes  8.00 Mbits/sec   0.121 ms    0/ 6804 (0%)
+[583] local 0.0.0.0 port 60043 connected with 192.0.0.11 port 32953
+[583]  0.0-10.0 sec  9.54 MBytes  8.00 Mbits/sec   0.107 ms    0/ 6804 (0%)
+[585] local 0.0.0.0 port 60043 connected with 192.0.0.11 port 41392
+[585]  0.0-10.0 sec  13.1 MBytes  11.0 Mbits/sec   0.138 ms    0/ 9355 (0%)
+[587] local 0.0.0.0 port 60043 connected with 192.0.0.11 port 59823
+[587]  0.0-10.0 sec  10.7 MBytes  9.00 Mbits/sec   0.122 ms    0/ 7655 (0%)
+[589] local 0.0.0.0 port 60043 connected with 192.0.0.11 port 52052
+[589]  0.0-10.0 sec  11.9 MBytes  10.0 Mbits/sec   0.179 ms    0/ 8505 (0%)
+[591] local 0.0.0.0 port 60043 connected with 192.0.0.11 port 38317
+[591]  0.0-10.0 sec  11.9 MBytes  10.0 Mbits/sec   0.094 ms    0/ 8505 (0%)
+[593] local 0.0.0.0 port 60043 connected with 192.0.0.11 port 42822
+[593]  0.0-10.0 sec  14.3 MBytes  12.0 Mbits/sec   0.100 ms    0/10206 (0%)
+[595] local 0.0.0.0 port 60043 connected with 192.0.0.11 port 47045
+[595]  0.0-10.0 sec  11.9 MBytes  10.0 Mbits/sec   0.106 ms    0/ 8505 (0%)
+[597] local 0.0.0.0 port 60043 connected with 192.0.0.11 port 46669
+[597]  0.0-10.0 sec  11.9 MBytes  10.0 Mbits/sec   0.090 ms    0/ 8505 (0%)
+[599] local 0.0.0.0 port 60043 connected with 192.0.0.11 port 33965
+[599]  0.0-10.0 sec  9.54 MBytes  8.00 Mbits/sec   0.092 ms    0/ 6804 (0%)

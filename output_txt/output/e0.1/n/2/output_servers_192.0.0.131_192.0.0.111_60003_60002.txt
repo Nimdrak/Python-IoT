@@ -1,0 +1,540 @@
+------------------------------------------------------------
+Server listening on UDP port 60003
+Receiving 1470 byte datagrams
+UDP buffer size: 0.31 MByte (WARNING: requested 0.59 MByte)
+------------------------------------------------------------
+[  1] local 0.0.0.0 port 60003 connected with 192.0.0.111 port 57897
+[ ID] Interval       Transfer     Bandwidth        Jitter   Lost/Total  Latency avg/min/max/stdev PPS
+[  1] 0.00-9.97 sec  8.35 MBytes  7.02 Mbits/sec   0.078 ms    0/ 5954 (0%) 103.411/14.571/242.193/46.013 ms  597 pps
+[  3] local 0.0.0.0 port 60003 connected with 192.0.0.111 port 40238
+[  3] 0.00-9.92 sec  10.7 MBytes  9.07 Mbits/sec   0.063 ms    0/ 7654 (0%) 35.575/14.537/205.809/36.762 ms  771 pps
+[  5] local 0.0.0.0 port 60003 connected with 192.0.0.111 port 33073
+[  5] 0.00-9.92 sec  13.1 MBytes  11.1 Mbits/sec   0.021 ms    0/ 9355 (0%) 33.382/14.551/174.092/29.320 ms  942 pps
+[  7] local 0.0.0.0 port 60003 connected with 192.0.0.111 port 46055
+[  7] 0.00-9.92 sec  7.15 MBytes  6.05 Mbits/sec   0.055 ms    0/ 5103 (0%) 30.214/14.594/118.076/29.176 ms  514 pps
+[  9] local 0.0.0.0 port 60003 connected with 192.0.0.111 port 50729
+[  9] 0.00-9.92 sec  13.1 MBytes  11.1 Mbits/sec   0.046 ms    0/ 9355 (0%) 25.545/14.608/184.904/24.338 ms  942 pps
+[ 11] local 0.0.0.0 port 60003 connected with 192.0.0.111 port 39311
+[ 11] 0.00-9.99 sec  10.7 MBytes  9.01 Mbits/sec   0.055 ms    0/ 7654 (0%) 26.186/14.626/173.475/25.065 ms  766 pps
+------------------------------------------------------------
+Server listening on UDP port 60003
+Receiving 1470 byte datagrams
+UDP buffer size: 0.31 MByte (WARNING: requested 0.59 MByte)
+------------------------------------------------------------
+[  1] local 0.0.0.0 port 60003 connected with 192.0.0.111 port 36203
+[ ID] Interval       Transfer     Bandwidth        Jitter   Lost/Total  Latency avg/min/max/stdev PPS
+[  1] 0.00-9.99 sec  11.9 MBytes  10.0 Mbits/sec   0.092 ms    0/ 8505 (0%) 42.091/14.681/188.515/35.763 ms  851 pps
+[  3] local 0.0.0.0 port 60003 connected with 192.0.0.111 port 55354
+[  3] 0.00-9.91 sec  8.35 MBytes  7.07 Mbits/sec   0.055 ms    0/ 5954 (0%) 35.062/14.687/157.906/34.646 ms  600 pps
+[  5] local 0.0.0.0 port 60003 connected with 192.0.0.111 port 53145
+[  5] 0.00-9.99 sec  11.9 MBytes  10.0 Mbits/sec   0.078 ms    0/ 8505 (0%) 29.215/14.720/194.525/29.038 ms  851 pps
+[  7] local 0.0.0.0 port 60003 connected with 192.0.0.111 port 51949
+[  7] 0.00-9.90 sec  10.7 MBytes  9.09 Mbits/sec   0.098 ms    0/ 7654 (0%) 55.834/14.782/181.622/36.818 ms  772 pps
+[  9] local 0.0.0.0 port 60003 connected with 192.0.0.111 port 43532
+[  9] 0.00-10.02 sec  13.3 MBytes  11.1 Mbits/sec   0.853 ms    0/ 9474 (0%) 76.371/18.708/191.561/17.918 ms  945 pps
+[ 11] local 0.0.0.0 port 60003 connected with 192.0.0.111 port 42314
+[ 11] 0.00-10.00 sec  7.15 MBytes  6.00 Mbits/sec   0.155 ms    0/ 5103 (0%) 47.630/14.824/130.423/38.543 ms  510 pps
+------------------------------------------------------------
+Server listening on UDP port 60003
+Receiving 1470 byte datagrams
+UDP buffer size: 0.31 MByte (WARNING: requested 0.59 MByte)
+------------------------------------------------------------
+[  1] local 0.0.0.0 port 60003 connected with 192.0.0.111 port 59454
+[ ID] Interval       Transfer     Bandwidth        Jitter   Lost/Total  Latency avg/min/max/stdev PPS
+[  1] 0.00-10.05 sec  9.54 MBytes  7.96 Mbits/sec   0.720 ms    0/ 6804 (0%) 62.167/14.814/140.348/37.098 ms  677 pps
+[  3] local 0.0.0.0 port 60003 connected with 192.0.0.111 port 45148
+[  3] 0.00-10.14 sec  10.2 MBytes  8.47 Mbits/sec   9.180 ms    0/ 7307 (0%) 71.302/14.867/255.589/46.057 ms  720 pps
+[  5] local 0.0.0.0 port 60003 connected with 192.0.0.111 port 43478
+[  5] 0.00-10.14 sec  8.17 MBytes  6.76 Mbits/sec   9.737 ms    0/ 5828 (0%) 90.879/14.897/234.549/42.879 ms  575 pps
+[  7] local 0.0.0.0 port 60003 connected with 192.0.0.111 port 39593
+[  7] 0.00-10.04 sec  8.96 MBytes  7.48 Mbits/sec   1.742 ms    0/ 6390 (0%) 69.308/14.931/205.160/49.180 ms  636 pps
+[  9] local 0.0.0.0 port 60003 connected with 192.0.0.111 port 56369
+[  9] 0.00-10.02 sec  9.91 MBytes  8.29 Mbits/sec   0.676 ms    0/ 7066 (0%) 81.875/15.332/202.772/36.049 ms  704 pps
+[ 11] local 0.0.0.0 port 60003 connected with 192.0.0.111 port 51105
+[ 11] 0.00-10.11 sec  8.49 MBytes  7.04 Mbits/sec   6.454 ms    0/ 6057 (0%) 89.881/14.983/211.776/41.790 ms  598 pps
+------------------------------------------------------------
+Server listening on UDP port 60003
+Receiving 1470 byte datagrams
+UDP buffer size: 0.31 MByte (WARNING: requested 0.59 MByte)
+------------------------------------------------------------
+[  1] local 0.0.0.0 port 60003 connected with 192.0.0.111 port 41275
+[ ID] Interval       Transfer     Bandwidth        Jitter   Lost/Total  Latency avg/min/max/stdev PPS
+[  1] 0.00-10.10 sec  8.26 MBytes  6.86 Mbits/sec   4.637 ms    0/ 5891 (0%) 79.759/14.974/247.894/51.951 ms  583 pps
+[  3] local 0.0.0.0 port 60003 connected with 192.0.0.111 port 49766
+[  3] 0.00-10.04 sec  8.87 MBytes  7.42 Mbits/sec   1.396 ms    0/ 6329 (0%) 97.966/16.512/219.518/36.733 ms  630 pps
+[  5] local 0.0.0.0 port 60003 connected with 192.0.0.111 port 48243
+[  5] 0.00-10.04 sec  7.87 MBytes  6.58 Mbits/sec   2.217 ms    0/ 5615 (0%) 106.706/25.318/252.461/38.195 ms  559 pps
+[  7] local 0.0.0.0 port 60003 connected with 192.0.0.111 port 56325
+[  7] 0.00-10.04 sec  9.20 MBytes  7.69 Mbits/sec   2.278 ms    0/ 6564 (0%) 99.099/15.905/229.582/34.178 ms  653 pps
+[  9] local 0.0.0.0 port 60003 connected with 192.0.0.111 port 55980
+[  9] 0.00-10.01 sec  10.2 MBytes  8.55 Mbits/sec   1.210 ms    0/ 7272 (0%) 90.924/34.316/218.059/31.831 ms  726 pps
+[ 11] local 0.0.0.0 port 60003 connected with 192.0.0.111 port 42248
+[ 11] 0.00-10.02 sec  10.1 MBytes  8.41 Mbits/sec   1.236 ms    0/ 7170 (0%) 91.370/31.962/202.664/21.708 ms  715 pps
+------------------------------------------------------------
+Server listening on UDP port 60003
+Receiving 1470 byte datagrams
+UDP buffer size: 0.31 MByte (WARNING: requested 0.59 MByte)
+------------------------------------------------------------
+[  1] local 0.0.0.0 port 60003 connected with 192.0.0.111 port 32770
+[ ID] Interval       Transfer     Bandwidth        Jitter   Lost/Total  Latency avg/min/max/stdev PPS
+[  1] 0.00-10.05 sec  9.96 MBytes  8.31 Mbits/sec   2.300 ms    0/ 7105 (0%) 88.780/17.184/217.809/28.127 ms  706 pps
+[  3] local 0.0.0.0 port 60003 connected with 192.0.0.111 port 37248
+[  3] 0.00-10.04 sec  10.5 MBytes  8.75 Mbits/sec   2.533 ms    0/ 7471 (0%) 82.895/15.621/251.076/35.796 ms  744 pps
+[  5] local 0.0.0.0 port 60003 connected with 192.0.0.111 port 50137
+[  5] 0.00-10.03 sec  10.6 MBytes  8.88 Mbits/sec   1.482 ms    0/ 7573 (0%) 85.804/20.377/235.848/36.618 ms  754 pps
+[  7] local 0.0.0.0 port 60003 connected with 192.0.0.111 port 35835
+[  7] 0.00-10.05 sec  10.1 MBytes  8.47 Mbits/sec   2.163 ms    0/ 7233 (0%) 92.423/15.999/233.178/31.565 ms  719 pps
+[  9] local 0.0.0.0 port 60003 connected with 192.0.0.111 port 44288
+[  9] 0.00-10.00 sec  15.5 MBytes  13.0 Mbits/sec   0.183 ms    0/11056 (0%) 68.594/15.247/179.415/28.431 ms 1105 pps
+[ 11] local 0.0.0.0 port 60003 connected with 192.0.0.111 port 44351
+[ 11] 0.00-9.99 sec  11.9 MBytes  10.0 Mbits/sec   0.138 ms    0/ 8505 (0%) 76.790/15.281/187.872/29.245 ms  851 pps
+------------------------------------------------------------
+Server listening on UDP port 60003
+Receiving 1470 byte datagrams
+UDP buffer size: 0.31 MByte (WARNING: requested 0.59 MByte)
+------------------------------------------------------------
+[  1] local 0.0.0.0 port 60003 connected with 192.0.0.111 port 58274
+[ ID] Interval       Transfer     Bandwidth        Jitter   Lost/Total  Latency avg/min/max/stdev PPS
+[  1] 0.00-10.02 sec  11.9 MBytes  9.98 Mbits/sec   1.213 ms    0/ 8505 (0%) 78.490/15.812/199.080/30.927 ms  848 pps
+[  3] local 0.0.0.0 port 60003 connected with 192.0.0.111 port 55735
+[  3] 0.00-10.00 sec  10.7 MBytes  9.00 Mbits/sec   0.107 ms    0/ 7654 (0%) 81.436/15.290/231.034/33.494 ms  765 pps
+[  5] local 0.0.0.0 port 60003 connected with 192.0.0.111 port 42012
+[  5] 0.00-10.05 sec  9.54 MBytes  7.96 Mbits/sec   1.909 ms    0/ 6804 (0%) 88.295/15.339/148.816/32.884 ms  676 pps
+[  7] local 0.0.0.0 port 60003 connected with 192.0.0.111 port 53071
+[  7] 0.00-10.00 sec  13.1 MBytes  11.0 Mbits/sec   0.152 ms    0/ 9351 (0%) 72.590/15.330/191.462/29.324 ms  935 pps
+[  9] local 0.0.0.0 port 60003 connected with 192.0.0.111 port 38873
+[  9] 0.00-10.00 sec  10.7 MBytes  9.00 Mbits/sec   0.078 ms    0/ 7654 (0%) 80.337/15.360/198.889/31.798 ms  765 pps
+[ 11] local 0.0.0.0 port 60003 connected with 192.0.0.111 port 56535
+[ 11] 0.00-10.00 sec  14.3 MBytes  12.0 Mbits/sec   0.182 ms    0/10206 (0%) 68.763/15.387/184.337/31.255 ms 1020 pps
+------------------------------------------------------------
+Server listening on UDP port 60003
+Receiving 1470 byte datagrams
+UDP buffer size: 0.31 MByte (WARNING: requested 0.59 MByte)
+------------------------------------------------------------
+[  1] local 0.0.0.0 port 60003 connected with 192.0.0.111 port 40324
+[ ID] Interval       Transfer     Bandwidth        Jitter   Lost/Total  Latency avg/min/max/stdev PPS
+[  1] 0.00-9.99 sec  9.54 MBytes  8.01 Mbits/sec   0.109 ms    0/ 6804 (0%) 42.726/15.407/168.447/35.975 ms  681 pps
+[  3] local 0.0.0.0 port 60003 connected with 192.0.0.111 port 41761
+[  3] 0.00-9.99 sec  11.9 MBytes  10.0 Mbits/sec   0.155 ms    0/ 8505 (0%) 47.098/15.429/215.370/34.093 ms  851 pps
+[  5] local 0.0.0.0 port 60003 connected with 192.0.0.111 port 34530
+[  5] 0.00-9.99 sec  11.9 MBytes  10.0 Mbits/sec   0.154 ms    0/ 8505 (0%) 47.396/15.448/219.109/35.946 ms  851 pps
+[  7] local 0.0.0.0 port 60003 connected with 192.0.0.111 port 36214
+[  7] 0.00-10.00 sec  10.7 MBytes  9.00 Mbits/sec   0.183 ms    0/ 7654 (0%) 44.522/15.497/176.663/34.821 ms  765 pps
+[  9] local 0.0.0.0 port 60003 connected with 192.0.0.111 port 48846
+[  9] 0.00-10.00 sec  10.7 MBytes  9.00 Mbits/sec   0.130 ms    0/ 7654 (0%) 44.561/15.503/180.452/36.835 ms  765 pps
+[ 11] local 0.0.0.0 port 60003 connected with 192.0.0.111 port 36289
+[ 11] 0.00-10.00 sec  8.35 MBytes  7.00 Mbits/sec   0.160 ms    0/ 5954 (0%) 20.933/15.513/47.909/ 8.596 ms  595 pps
+------------------------------------------------------------
+Server listening on UDP port 60003
+Receiving 1470 byte datagrams
+UDP buffer size: 0.31 MByte (WARNING: requested 0.59 MByte)
+------------------------------------------------------------
+[  1] local 0.0.0.0 port 60003 connected with 192.0.0.111 port 39241
+[ ID] Interval       Transfer     Bandwidth        Jitter   Lost/Total  Latency avg/min/max/stdev PPS
+[  1] 0.00-9.99 sec  10.7 MBytes  9.01 Mbits/sec   0.140 ms    0/ 7654 (0%) 47.492/15.552/121.525/34.068 ms  766 pps
+[  3] local 0.0.0.0 port 60003 connected with 192.0.0.111 port 40887
+[  3] 0.00-10.00 sec  14.3 MBytes  12.0 Mbits/sec   0.277 ms    0/10205 (0%) 52.315/15.576/206.846/31.196 ms 1020 pps
+[  5] local 0.0.0.0 port 60003 connected with 192.0.0.111 port 42044
+[  5] 0.00-10.00 sec  13.1 MBytes  11.0 Mbits/sec   0.154 ms    0/ 9355 (0%) 56.049/15.601/188.385/32.578 ms  935 pps
+[  7] local 0.0.0.0 port 60003 connected with 192.0.0.111 port 52251
+[  7] 0.00-10.00 sec  5.96 MBytes  5.00 Mbits/sec   0.207 ms    0/ 4253 (0%) 39.375/15.640/125.650/28.030 ms  425 pps
+[  9] local 0.0.0.0 port 60003 connected with 192.0.0.111 port 58698
+[  9] 0.00-10.00 sec  9.54 MBytes  8.00 Mbits/sec   0.785 ms    0/ 6804 (0%) 53.782/15.657/118.535/32.611 ms  680 pps
+[ 11] local 0.0.0.0 port 60003 connected with 192.0.0.111 port 53102
+[ 11] 0.00-10.00 sec  7.15 MBytes  6.00 Mbits/sec   0.123 ms    0/ 5103 (0%) 20.289/15.656/31.379/ 6.019 ms  510 pps
+------------------------------------------------------------
+Server listening on UDP port 60003
+Receiving 1470 byte datagrams
+UDP buffer size: 0.31 MByte (WARNING: requested 0.59 MByte)
+------------------------------------------------------------
+[  1] local 0.0.0.0 port 60003 connected with 192.0.0.111 port 51863
+[ ID] Interval       Transfer     Bandwidth        Jitter   Lost/Total  Latency avg/min/max/stdev PPS
+[  1] 0.00-10.03 sec  13.1 MBytes  11.0 Mbits/sec   0.315 ms    0/ 9355 (0%) 60.235/15.720/204.367/33.657 ms  932 pps
+[  3] local 0.0.0.0 port 60003 connected with 192.0.0.111 port 48629
+[  3] 0.00-10.07 sec  10.6 MBytes  8.79 Mbits/sec   4.338 ms    0/ 7533 (0%) 59.246/15.726/202.483/41.057 ms  747 pps
+[  5] local 0.0.0.0 port 60003 connected with 192.0.0.111 port 38061
+[  5] 0.00-10.00 sec  5.96 MBytes  5.00 Mbits/sec   0.164 ms    0/ 4253 (0%) 54.575/15.750/132.464/37.602 ms  425 pps
+[  7] local 0.0.0.0 port 60003 connected with 192.0.0.111 port 53268
+[  7] 0.00-10.03 sec  10.7 MBytes  8.97 Mbits/sec   1.388 ms    0/ 7654 (0%) 64.477/15.794/187.402/38.021 ms  763 pps
+[  9] local 0.0.0.0 port 60003 connected with 192.0.0.111 port 56813
+[  9] 0.00-10.05 sec  10.9 MBytes  9.07 Mbits/sec   3.514 ms    0/ 7745 (0%) 56.539/15.800/201.730/39.117 ms  770 pps
+[ 11] local 0.0.0.0 port 60003 connected with 192.0.0.111 port 46111
+[ 11] 0.00-10.00 sec  13.1 MBytes  11.0 Mbits/sec   0.198 ms    0/ 9355 (0%) 23.619/15.818/183.204/20.219 ms  935 pps
+------------------------------------------------------------
+Server listening on UDP port 60003
+Receiving 1470 byte datagrams
+UDP buffer size: 0.31 MByte (WARNING: requested 0.59 MByte)
+------------------------------------------------------------
+[  1] local 0.0.0.0 port 60003 connected with 192.0.0.111 port 37684
+[ ID] Interval       Transfer     Bandwidth        Jitter   Lost/Total  Latency avg/min/max/stdev PPS
+[  1] 0.00-10.00 sec  9.54 MBytes  8.00 Mbits/sec   0.158 ms    0/ 6804 (0%) 42.228/15.838/133.807/35.459 ms  680 pps
+[  3] local 0.0.0.0 port 60003 connected with 192.0.0.111 port 40588
+[  3] 0.00-10.00 sec  13.1 MBytes  11.0 Mbits/sec   0.176 ms    0/ 9355 (0%) 41.229/15.850/204.752/33.186 ms  935 pps
+[  5] local 0.0.0.0 port 60003 connected with 192.0.0.111 port 37423
+[  5] 0.00-10.00 sec  13.1 MBytes  11.0 Mbits/sec   0.137 ms    0/ 9355 (0%) 47.858/15.879/196.839/34.327 ms  935 pps
+[  7] local 0.0.0.0 port 60003 connected with 192.0.0.111 port 54803
+[  7] 0.00-10.00 sec  13.1 MBytes  11.0 Mbits/sec   0.052 ms    0/ 9355 (0%) 28.149/15.932/101.905/21.632 ms  935 pps
+[  9] local 0.0.0.0 port 60003 connected with 192.0.0.111 port 36229
+[  9] 0.00-10.00 sec  11.9 MBytes  10.0 Mbits/sec   0.124 ms    0/ 8505 (0%) 49.435/15.935/199.530/35.033 ms  850 pps
+[ 11] local 0.0.0.0 port 60003 connected with 192.0.0.111 port 54024
+[ 11] 0.00-10.00 sec  16.7 MBytes  14.0 Mbits/sec   0.177 ms    0/11906 (0%) 28.084/15.919/204.769/23.109 ms 1190 pps
+------------------------------------------------------------
+Server listening on UDP port 60003
+Receiving 1470 byte datagrams
+UDP buffer size: 0.31 MByte (WARNING: requested 0.59 MByte)
+------------------------------------------------------------
+[  1] local 0.0.0.0 port 60003 connected with 192.0.0.111 port 48527
+[ ID] Interval       Transfer     Bandwidth        Jitter   Lost/Total  Latency avg/min/max/stdev PPS
+[  1] 0.00-10.00 sec  10.7 MBytes  9.00 Mbits/sec   0.111 ms    0/ 7654 (0%) 48.165/15.954/188.202/32.605 ms  765 pps
+[  3] local 0.0.0.0 port 60003 connected with 192.0.0.111 port 51748
+[  3] 0.00-10.00 sec  9.54 MBytes  8.00 Mbits/sec   0.240 ms    0/ 6804 (0%) 57.761/16.017/134.922/39.526 ms  680 pps
+[  5] local 0.0.0.0 port 60003 connected with 192.0.0.111 port 38556
+[  5] 0.00-10.00 sec  13.1 MBytes  11.0 Mbits/sec   0.182 ms    0/ 9355 (0%) 32.475/16.024/186.299/20.880 ms  935 pps
+[  7] local 0.0.0.0 port 60003 connected with 192.0.0.111 port 48423
+[  7] 0.00-10.00 sec  15.5 MBytes  13.0 Mbits/sec   0.185 ms    0/11056 (0%) 62.855/16.050/184.700/29.775 ms 1105 pps
+[  9] local 0.0.0.0 port 60003 connected with 192.0.0.111 port 60131
+[  9] 0.00-10.00 sec  9.54 MBytes  8.00 Mbits/sec   0.115 ms    0/ 6804 (0%) 55.457/16.048/135.275/34.896 ms  680 pps
+[ 11] local 0.0.0.0 port 60003 connected with 192.0.0.111 port 35361
+[ 11] 0.00-10.00 sec  10.7 MBytes  9.00 Mbits/sec   0.070 ms    0/ 7654 (0%) 37.681/16.071/184.085/33.559 ms  765 pps
+------------------------------------------------------------
+Server listening on UDP port 60003
+Receiving 1470 byte datagrams
+UDP buffer size: 0.31 MByte (WARNING: requested 0.59 MByte)
+------------------------------------------------------------
+[  1] local 0.0.0.0 port 60003 connected with 192.0.0.111 port 39763
+[ ID] Interval       Transfer     Bandwidth        Jitter   Lost/Total  Latency avg/min/max/stdev PPS
+[  1] 0.00-9.99 sec  13.1 MBytes  11.0 Mbits/sec   0.226 ms    0/ 9355 (0%) 60.922/16.064/194.993/34.656 ms  936 pps
+[  3] local 0.0.0.0 port 60003 connected with 192.0.0.111 port 46373
+[  3] 0.00-9.99 sec  14.3 MBytes  12.0 Mbits/sec   0.135 ms    0/10204 (0%) 63.443/16.047/157.492/28.146 ms 1021 pps
+[  5] local 0.0.0.0 port 60003 connected with 192.0.0.111 port 50937
+[  5] 0.00-10.00 sec  5.96 MBytes  5.00 Mbits/sec   0.198 ms    0/ 4253 (0%) 37.180/16.053/143.925/27.415 ms  425 pps
+[  7] local 0.0.0.0 port 60003 connected with 192.0.0.111 port 49602
+[  7] 0.00-10.00 sec  13.1 MBytes  11.0 Mbits/sec   0.178 ms    0/ 9355 (0%) 50.722/16.027/198.852/30.506 ms  935 pps
+[  9] local 0.0.0.0 port 60003 connected with 192.0.0.111 port 39022
+[  9] 0.00-10.00 sec  13.1 MBytes  11.0 Mbits/sec   0.210 ms    0/ 9355 (0%) 68.134/16.023/200.215/27.205 ms  935 pps
+[ 11] local 0.0.0.0 port 60003 connected with 192.0.0.111 port 39223
+[ 11] 0.00-10.00 sec  16.7 MBytes  14.0 Mbits/sec   0.142 ms    0/11906 (0%) 47.761/16.007/156.205/28.625 ms 1190 pps
+------------------------------------------------------------
+Server listening on UDP port 60003
+Receiving 1470 byte datagrams
+UDP buffer size: 0.31 MByte (WARNING: requested 0.59 MByte)
+------------------------------------------------------------
+[  1] local 0.0.0.0 port 60003 connected with 192.0.0.111 port 35161
+[ ID] Interval       Transfer     Bandwidth        Jitter   Lost/Total  Latency avg/min/max/stdev PPS
+[  1] 0.00-10.00 sec  10.7 MBytes  9.00 Mbits/sec   0.141 ms    0/ 7654 (0%) 20.807/16.008/32.176/ 6.195 ms  765 pps
+[  3] local 0.0.0.0 port 60003 connected with 192.0.0.111 port 42932
+[  3] 0.00-10.00 sec  10.7 MBytes  9.00 Mbits/sec   0.122 ms    0/ 7654 (0%) 44.779/16.040/105.429/30.031 ms  765 pps
+[  5] local 0.0.0.0 port 60003 connected with 192.0.0.111 port 48823
+[  5] 0.00-10.00 sec  8.35 MBytes  7.00 Mbits/sec   0.197 ms    0/ 5954 (0%) 36.056/16.017/113.181/28.953 ms  595 pps
+[  7] local 0.0.0.0 port 60003 connected with 192.0.0.111 port 58368
+[  7] 0.00-10.00 sec  10.7 MBytes  9.00 Mbits/sec   0.074 ms    0/ 7654 (0%) 56.793/16.026/132.276/37.484 ms  765 pps
+[  9] local 0.0.0.0 port 60003 connected with 192.0.0.111 port 36211
+[  9] 0.00-10.00 sec  9.54 MBytes  8.00 Mbits/sec   0.145 ms    0/ 6804 (0%) 45.194/16.028/123.232/34.886 ms  680 pps
+[ 11] local 0.0.0.0 port 60003 connected with 192.0.0.111 port 52928
+[ 11] 0.00-10.00 sec  14.3 MBytes  12.0 Mbits/sec   0.090 ms    0/10205 (0%) 48.321/16.015/173.326/31.583 ms 1020 pps
+------------------------------------------------------------
+Server listening on UDP port 60003
+Receiving 1470 byte datagrams
+UDP buffer size: 0.31 MByte (WARNING: requested 0.59 MByte)
+------------------------------------------------------------
+[  1] local 0.0.0.0 port 60003 connected with 192.0.0.111 port 49635
+[ ID] Interval       Transfer     Bandwidth        Jitter   Lost/Total  Latency avg/min/max/stdev PPS
+[  1] 0.00-10.00 sec  9.54 MBytes  8.00 Mbits/sec   0.095 ms    0/ 6804 (0%) 45.166/16.019/105.199/31.735 ms  680 pps
+[  3] local 0.0.0.0 port 60003 connected with 192.0.0.111 port 36510
+[  3] 0.00-10.00 sec  10.7 MBytes  9.00 Mbits/sec   0.136 ms    0/ 7654 (0%) 46.337/16.032/130.607/36.033 ms  765 pps
+[  5] local 0.0.0.0 port 60003 connected with 192.0.0.111 port 41422
+[  5] 0.00-10.00 sec  15.5 MBytes  13.0 Mbits/sec   0.144 ms    0/11056 (0%) 50.422/16.010/156.419/30.048 ms 1105 pps
+[  7] local 0.0.0.0 port 60003 connected with 192.0.0.111 port 48568
+[  7] 0.00-10.00 sec  11.9 MBytes  10.0 Mbits/sec   0.212 ms    0/ 8505 (0%) 19.147/16.021/30.093/ 5.304 ms  850 pps
+[  9] local 0.0.0.0 port 60003 connected with 192.0.0.111 port 54472
+[  9] 0.00-10.00 sec  11.9 MBytes  10.0 Mbits/sec   0.082 ms    0/ 8505 (0%) 33.479/16.064/129.636/30.214 ms  850 pps
+[ 11] local 0.0.0.0 port 60003 connected with 192.0.0.111 port 40238
+[ 11] 0.00-10.00 sec  8.35 MBytes  7.00 Mbits/sec   0.124 ms    0/ 5954 (0%) 40.565/16.042/110.235/28.360 ms  595 pps
+------------------------------------------------------------
+Server listening on UDP port 60003
+Receiving 1470 byte datagrams
+UDP buffer size: 0.31 MByte (WARNING: requested 0.59 MByte)
+------------------------------------------------------------
+[  1] local 0.0.0.0 port 60003 connected with 192.0.0.111 port 53089
+[ ID] Interval       Transfer     Bandwidth        Jitter   Lost/Total  Latency avg/min/max/stdev PPS
+[  1] 0.00-10.00 sec  13.1 MBytes  11.0 Mbits/sec   0.249 ms    0/ 9355 (0%) 46.599/16.008/157.120/31.263 ms  935 pps
+[  3] local 0.0.0.0 port 60003 connected with 192.0.0.111 port 48749
+[  3] 0.00-9.99 sec  5.96 MBytes  5.01 Mbits/sec   0.129 ms    0/ 4253 (0%) 44.028/15.999/111.465/32.056 ms  425 pps
+[  5] local 0.0.0.0 port 60003 connected with 192.0.0.111 port 43077
+[  5] 0.00-10.00 sec  10.7 MBytes  9.00 Mbits/sec   0.103 ms    0/ 7654 (0%) 29.778/16.021/80.447/11.361 ms  765 pps
+[  7] local 0.0.0.0 port 60003 connected with 192.0.0.111 port 53384
+[  7] 0.00-10.00 sec  8.35 MBytes  7.00 Mbits/sec   0.077 ms    0/ 5954 (0%) 55.420/16.001/124.609/34.835 ms  595 pps
+[  9] local 0.0.0.0 port 60003 connected with 192.0.0.111 port 48352
+[  9] 0.00-10.00 sec  13.1 MBytes  11.0 Mbits/sec   0.078 ms    0/ 9355 (0%) 47.241/16.026/203.443/31.428 ms  935 pps
+[ 11] local 0.0.0.0 port 60003 connected with 192.0.0.111 port 46638
+[ 11] 0.00-10.00 sec  10.7 MBytes  9.00 Mbits/sec   0.133 ms    0/ 7654 (0%) 64.661/16.038/116.470/36.277 ms  765 pps
+------------------------------------------------------------
+Server listening on UDP port 60003
+Receiving 1470 byte datagrams
+UDP buffer size: 0.31 MByte (WARNING: requested 0.59 MByte)
+------------------------------------------------------------
+[  1] local 0.0.0.0 port 60003 connected with 192.0.0.111 port 50470
+[ ID] Interval       Transfer     Bandwidth        Jitter   Lost/Total  Latency avg/min/max/stdev PPS
+[  1] 0.00-10.02 sec  8.35 MBytes  6.99 Mbits/sec   0.353 ms    0/ 5954 (0%) 19.768/16.002/32.951/ 5.674 ms  594 pps
+[  3] local 0.0.0.0 port 60003 connected with 192.0.0.111 port 58080
+[  3] 0.00-10.07 sec  11.2 MBytes  9.36 Mbits/sec   4.538 ms    0/ 8019 (0%) 50.389/16.078/171.579/36.561 ms  796 pps
+[  5] local 0.0.0.0 port 60003 connected with 192.0.0.111 port 53701
+[  5] 0.00-10.13 sec  12.1 MBytes  10.0 Mbits/sec   6.777 ms    0/ 8628 (0%) 42.245/16.015/181.879/34.279 ms  851 pps
+[  7] local 0.0.0.0 port 60003 connected with 192.0.0.111 port 48430
+[  7] 0.00-10.01 sec  14.3 MBytes  12.0 Mbits/sec   0.271 ms    0/10205 (0%) 22.667/16.003/33.416/ 6.435 ms 1019 pps
+[  9] local 0.0.0.0 port 60003 connected with 192.0.0.111 port 60570
+[  9] 0.00-10.10 sec  11.6 MBytes  9.61 Mbits/sec   5.324 ms    0/ 8255 (0%) 56.612/16.044/167.326/35.338 ms  817 pps
+[ 11] local 0.0.0.0 port 60003 connected with 192.0.0.111 port 36319
+[ 11] 0.00-10.09 sec  12.2 MBytes  10.1 Mbits/sec   6.106 ms    0/ 8712 (0%) 53.217/16.005/175.307/35.386 ms  863 pps
+------------------------------------------------------------
+Server listening on UDP port 60003
+Receiving 1470 byte datagrams
+UDP buffer size: 0.31 MByte (WARNING: requested 0.59 MByte)
+------------------------------------------------------------
+[  1] local 0.0.0.0 port 60003 connected with 192.0.0.111 port 60534
+[ ID] Interval       Transfer     Bandwidth        Jitter   Lost/Total  Latency avg/min/max/stdev PPS
+[  1] 0.00-10.06 sec  9.54 MBytes  7.95 Mbits/sec   1.167 ms    0/ 6804 (0%) 32.624/16.005/145.719/33.102 ms  676 pps
+[  3] local 0.0.0.0 port 60003 connected with 192.0.0.111 port 56041
+[  3] 0.00-10.09 sec  10.6 MBytes  8.82 Mbits/sec   5.234 ms    0/ 7568 (0%) 70.394/16.055/170.612/39.099 ms  749 pps
+[  5] local 0.0.0.0 port 60003 connected with 192.0.0.111 port 55714
+[  5] 0.00-10.07 sec  10.5 MBytes  8.79 Mbits/sec   4.671 ms    0/ 7524 (0%) 70.107/16.009/182.214/40.331 ms  747 pps
+[  7] local 0.0.0.0 port 60003 connected with 192.0.0.111 port 35577
+[  7] 0.00-10.09 sec  11.9 MBytes  9.92 Mbits/sec   0.676 ms    0/ 8505 (0%) 67.523/16.027/117.338/37.494 ms  843 pps
+[  9] local 0.0.0.0 port 60003 connected with 192.0.0.111 port 59599
+[  9] 0.00-10.10 sec  10.7 MBytes  8.91 Mbits/sec   1.958 ms    0/ 7654 (0%) 77.563/15.992/129.795/38.354 ms  757 pps
+[ 11] local 0.0.0.0 port 60003 connected with 192.0.0.111 port 49250
+[ 11] 0.00-10.07 sec  9.54 MBytes  7.95 Mbits/sec   1.194 ms    0/ 6804 (0%) 80.980/16.053/131.414/31.580 ms  675 pps
+------------------------------------------------------------
+Server listening on UDP port 60003
+Receiving 1470 byte datagrams
+UDP buffer size: 0.31 MByte (WARNING: requested 0.59 MByte)
+------------------------------------------------------------
+[  1] local 0.0.0.0 port 60003 connected with 192.0.0.111 port 58725
+[ ID] Interval       Transfer     Bandwidth        Jitter   Lost/Total  Latency avg/min/max/stdev PPS
+[  1] 0.00-10.11 sec  10.9 MBytes  9.05 Mbits/sec   8.033 ms    0/ 7782 (0%) 54.556/16.062/253.970/41.309 ms  769 pps
+[  3] local 0.0.0.0 port 60003 connected with 192.0.0.111 port 51604
+[  3] 0.00-10.12 sec  9.89 MBytes  8.20 Mbits/sec   6.315 ms    0/ 7055 (0%) 84.473/16.046/174.346/32.251 ms  697 pps
+[  5] local 0.0.0.0 port 60003 connected with 192.0.0.111 port 35182
+[  5] 0.00-10.09 sec  8.35 MBytes  6.94 Mbits/sec   2.443 ms    0/ 5954 (0%) 87.534/16.041/124.438/27.556 ms  590 pps
+[  7] local 0.0.0.0 port 60003 connected with 192.0.0.111 port 40062
+[  7] 0.00-10.02 sec  9.54 MBytes  7.99 Mbits/sec   0.434 ms    0/ 6804 (0%) 94.115/16.031/132.960/29.228 ms  679 pps
+[  9] local 0.0.0.0 port 60003 connected with 192.0.0.111 port 53205
+[  9] 0.00-10.06 sec  9.54 MBytes  7.96 Mbits/sec   1.820 ms    0/ 6804 (0%) 57.187/16.048/126.615/33.229 ms  676 pps
+[ 11] local 0.0.0.0 port 60003 connected with 192.0.0.111 port 34504
+[ 11] 0.00-10.01 sec  11.9 MBytes  9.99 Mbits/sec   0.230 ms    0/ 8505 (0%) 30.058/16.024/47.986/11.967 ms  849 pps
+------------------------------------------------------------
+Server listening on UDP port 60003
+Receiving 1470 byte datagrams
+UDP buffer size: 0.31 MByte (WARNING: requested 0.59 MByte)
+------------------------------------------------------------
+[  1] local 0.0.0.0 port 60003 connected with 192.0.0.111 port 34980
+[ ID] Interval       Transfer     Bandwidth        Jitter   Lost/Total  Latency avg/min/max/stdev PPS
+[  1] 0.00-10.05 sec  10.7 MBytes  8.95 Mbits/sec   0.739 ms    0/ 7654 (0%) 77.079/16.009/131.427/41.171 ms  761 pps
+[  3] local 0.0.0.0 port 60003 connected with 192.0.0.111 port 48398
+[  3] 0.00-10.01 sec  7.15 MBytes  5.99 Mbits/sec   0.251 ms    0/ 5103 (0%) 54.355/16.067/133.417/36.785 ms  509 pps
+[  5] local 0.0.0.0 port 60003 connected with 192.0.0.111 port 45684
+[  5] 0.00-10.07 sec  8.35 MBytes  6.96 Mbits/sec   0.672 ms    0/ 5954 (0%) 63.289/16.031/138.304/37.819 ms  591 pps
+[  7] local 0.0.0.0 port 60003 connected with 192.0.0.111 port 48467
+[  7] 0.00-10.02 sec  8.35 MBytes  6.99 Mbits/sec   0.289 ms    0/ 5954 (0%) 63.715/16.018/130.815/40.569 ms  594 pps
+[  9] local 0.0.0.0 port 60003 connected with 192.0.0.111 port 40526
+[  9] 0.00-10.11 sec  9.54 MBytes  7.92 Mbits/sec   1.651 ms    0/ 6804 (0%) 87.734/16.001/135.099/43.198 ms  673 pps
+[ 11] local 0.0.0.0 port 60003 connected with 192.0.0.111 port 35276
+[ 11] 0.00-10.03 sec  13.4 MBytes  11.2 Mbits/sec   1.606 ms    0/ 9559 (0%) 69.590/15.944/169.031/27.236 ms  952 pps
+------------------------------------------------------------
+Server listening on UDP port 60003
+Receiving 1470 byte datagrams
+UDP buffer size: 0.31 MByte (WARNING: requested 0.59 MByte)
+------------------------------------------------------------
+[  1] local 0.0.0.0 port 60003 connected with 192.0.0.111 port 34214
+[ ID] Interval       Transfer     Bandwidth        Jitter   Lost/Total  Latency avg/min/max/stdev PPS
+[  1] 0.00-10.06 sec  9.56 MBytes  7.97 Mbits/sec   2.764 ms    0/ 6822 (0%) 77.336/15.945/218.302/38.764 ms  677 pps
+[  3] local 0.0.0.0 port 60003 connected with 192.0.0.111 port 33877
+[  3] 0.00-10.01 sec  10.7 MBytes  8.99 Mbits/sec   0.165 ms    0/ 7654 (0%) 93.978/15.947/140.993/32.376 ms  764 pps
+[  5] local 0.0.0.0 port 60003 connected with 192.0.0.111 port 51795
+[  5] 0.00-10.09 sec  9.74 MBytes  8.10 Mbits/sec   5.552 ms    0/ 6951 (0%) 79.315/15.933/177.160/36.549 ms  688 pps
+[  7] local 0.0.0.0 port 60003 connected with 192.0.0.111 port 35683
+[  7] 0.00-10.08 sec  10.4 MBytes  8.64 Mbits/sec   6.010 ms    0/ 7402 (0%) 83.400/15.930/215.272/39.221 ms  734 pps
+[  9] local 0.0.0.0 port 60003 connected with 192.0.0.111 port 41970
+[  9] 0.00-10.05 sec  9.65 MBytes  8.06 Mbits/sec   1.743 ms    0/ 6883 (0%) 85.261/15.898/186.963/32.290 ms  685 pps
+[ 11] local 0.0.0.0 port 60003 connected with 192.0.0.111 port 33327
+[ 11] 0.00-10.00 sec  14.3 MBytes  12.0 Mbits/sec   0.100 ms    0/10205 (0%) 68.137/15.888/176.408/23.439 ms 1020 pps
+------------------------------------------------------------
+Server listening on UDP port 60003
+Receiving 1470 byte datagrams
+UDP buffer size: 0.31 MByte (WARNING: requested 0.59 MByte)
+------------------------------------------------------------
+[  1] local 0.0.0.0 port 60003 connected with 192.0.0.111 port 46384
+[ ID] Interval       Transfer     Bandwidth        Jitter   Lost/Total  Latency avg/min/max/stdev PPS
+[  1] 0.00-10.05 sec  9.65 MBytes  8.05 Mbits/sec   2.277 ms    0/ 6881 (0%) 83.518/15.864/192.386/38.563 ms  684 pps
+[  3] local 0.0.0.0 port 60003 connected with 192.0.0.111 port 39731
+[  3] 0.00-10.11 sec  8.74 MBytes  7.25 Mbits/sec   9.525 ms    0/ 6237 (0%) 85.923/15.889/218.340/46.891 ms  616 pps
+[  5] local 0.0.0.0 port 60003 connected with 192.0.0.111 port 40303
+[  5] 0.00-10.11 sec  6.84 MBytes  5.68 Mbits/sec   5.411 ms    0/ 4878 (0%) 107.823/15.909/241.875/47.336 ms  482 pps
+[  7] local 0.0.0.0 port 60003 connected with 192.0.0.111 port 34971
+[  7] 0.00-10.03 sec  8.37 MBytes  7.00 Mbits/sec   0.809 ms    0/ 5970 (0%) 104.683/16.774/237.363/37.320 ms  595 pps
+[  9] local 0.0.0.0 port 60003 connected with 192.0.0.111 port 48790
+[  9] 0.00-10.05 sec  8.35 MBytes  6.97 Mbits/sec   2.559 ms    0/ 5954 (0%) 101.264/15.778/134.336/31.332 ms  592 pps
+[ 11] local 0.0.0.0 port 60003 connected with 192.0.0.111 port 36266
+[ 11] 0.00-10.07 sec  9.54 MBytes  7.95 Mbits/sec   1.922 ms    0/ 6804 (0%) 90.682/15.799/131.552/31.964 ms  675 pps
+------------------------------------------------------------
+Server listening on UDP port 60003
+Receiving 1470 byte datagrams
+UDP buffer size: 0.31 MByte (WARNING: requested 0.59 MByte)
+------------------------------------------------------------
+[  1] local 0.0.0.0 port 60003 connected with 192.0.0.111 port 45307
+[ ID] Interval       Transfer     Bandwidth        Jitter   Lost/Total  Latency avg/min/max/stdev PPS
+[  1] 0.00-10.01 sec  8.35 MBytes  6.99 Mbits/sec   0.306 ms    0/ 5954 (0%) 94.971/21.639/130.783/23.605 ms  594 pps
+[  3] local 0.0.0.0 port 60003 connected with 192.0.0.111 port 41445
+[  3] 0.00-10.05 sec  8.41 MBytes  7.02 Mbits/sec   2.150 ms    0/ 5996 (0%) 101.396/15.864/244.564/33.663 ms  596 pps
+[  5] local 0.0.0.0 port 60003 connected with 192.0.0.111 port 59362
+[  5] 0.00-10.07 sec  8.09 MBytes  6.75 Mbits/sec   3.515 ms    0/ 5773 (0%) 104.268/16.226/217.402/28.643 ms  573 pps
+[  7] local 0.0.0.0 port 60003 connected with 192.0.0.111 port 59319
+[  7] 0.00-10.04 sec  7.60 MBytes  6.35 Mbits/sec   2.597 ms    0/ 5422 (0%) 105.153/15.722/213.101/35.532 ms  540 pps
+[  9] local 0.0.0.0 port 60003 connected with 192.0.0.111 port 54825
+[  9] 0.00-10.05 sec  8.35 MBytes  6.97 Mbits/sec   1.964 ms    0/ 5954 (0%) 104.813/15.707/164.733/41.216 ms  592 pps
+[ 11] local 0.0.0.0 port 60003 connected with 192.0.0.111 port 48387
+[ 11] 0.00-10.00 sec  11.9 MBytes  10.0 Mbits/sec   0.097 ms    0/ 8505 (0%) 49.382/15.696/107.410/30.573 ms  850 pps
+------------------------------------------------------------
+Server listening on UDP port 60003
+Receiving 1470 byte datagrams
+UDP buffer size: 0.31 MByte (WARNING: requested 0.59 MByte)
+------------------------------------------------------------
+[  1] local 0.0.0.0 port 60003 connected with 192.0.0.111 port 58800
+[ ID] Interval       Transfer     Bandwidth        Jitter   Lost/Total  Latency avg/min/max/stdev PPS
+[  1] 0.00-10.09 sec  9.27 MBytes  7.71 Mbits/sec   7.681 ms    0/ 6609 (0%) 85.345/15.691/183.781/36.679 ms  655 pps
+[  3] local 0.0.0.0 port 60003 connected with 192.0.0.111 port 55690
+[  3] 0.00-10.05 sec  9.30 MBytes  7.77 Mbits/sec   2.181 ms    0/ 6636 (0%) 92.206/15.710/207.081/34.755 ms  660 pps
+[  5] local 0.0.0.0 port 60003 connected with 192.0.0.111 port 60251
+[  5] 0.00-10.10 sec  8.17 MBytes  6.79 Mbits/sec   9.196 ms    0/ 5829 (0%) 90.652/15.681/200.310/42.515 ms  577 pps
+[  7] local 0.0.0.0 port 60003 connected with 192.0.0.111 port 34416
+[  7] 0.00-10.04 sec  7.62 MBytes  6.37 Mbits/sec   2.624 ms    0/ 5439 (0%) 104.914/15.788/238.943/33.720 ms  541 pps
+[  9] local 0.0.0.0 port 60003 connected with 192.0.0.111 port 56599
+[  9] 0.00-10.04 sec  10.6 MBytes  8.83 Mbits/sec   1.204 ms    0/ 7531 (0%) 86.599/16.027/209.986/34.907 ms  750 pps
+[ 11] local 0.0.0.0 port 60003 connected with 192.0.0.111 port 60956
+[ 11] 0.00-10.03 sec  9.54 MBytes  7.98 Mbits/sec   1.874 ms    0/ 6804 (0%) 85.446/15.608/119.260/25.477 ms  678 pps
+------------------------------------------------------------
+Server listening on UDP port 60003
+Receiving 1470 byte datagrams
+UDP buffer size: 0.31 MByte (WARNING: requested 0.59 MByte)
+------------------------------------------------------------
+[  1] local 0.0.0.0 port 60003 connected with 192.0.0.111 port 49002
+[ ID] Interval       Transfer     Bandwidth        Jitter   Lost/Total  Latency avg/min/max/stdev PPS
+[  1] 0.00-10.07 sec  8.93 MBytes  7.44 Mbits/sec   6.181 ms    0/ 6369 (0%) 85.877/15.578/198.432/38.808 ms  632 pps
+[  3] local 0.0.0.0 port 60003 connected with 192.0.0.111 port 50971
+[  3] 0.00-10.09 sec  7.68 MBytes  6.39 Mbits/sec   4.159 ms    0/ 5480 (0%) 102.550/15.566/223.643/38.075 ms  543 pps
+[  5] local 0.0.0.0 port 60003 connected with 192.0.0.111 port 58341
+[  5] 0.00-9.96 sec  8.61 MBytes  7.25 Mbits/sec   1.253 ms    0/ 6144 (0%) 102.502/40.415/218.626/32.229 ms  616 pps
+[  7] local 0.0.0.0 port 60003 connected with 192.0.0.111 port 44900
+[  7] 0.00-10.04 sec  7.72 MBytes  6.45 Mbits/sec   3.432 ms    0/ 5508 (0%) 109.996/29.828/217.649/22.135 ms  548 pps
+[  9] local 0.0.0.0 port 60003 connected with 192.0.0.111 port 50089
+[  9] 0.00-10.05 sec  9.02 MBytes  7.53 Mbits/sec   3.066 ms    0/ 6436 (0%) 84.171/15.571/188.004/36.586 ms  640 pps
+[ 11] local 0.0.0.0 port 60003 connected with 192.0.0.111 port 47314
+[ 11] 0.00-10.03 sec  11.9 MBytes  9.97 Mbits/sec   1.469 ms    0/ 8505 (0%) 81.073/15.705/183.017/24.418 ms  847 pps
+------------------------------------------------------------
+Server listening on UDP port 60003
+Receiving 1470 byte datagrams
+UDP buffer size: 0.31 MByte (WARNING: requested 0.59 MByte)
+------------------------------------------------------------
+[  1] local 0.0.0.0 port 60003 connected with 192.0.0.111 port 57975
+[ ID] Interval       Transfer     Bandwidth        Jitter   Lost/Total  Latency avg/min/max/stdev PPS
+[  1] 0.00-9.99 sec  14.3 MBytes  12.0 Mbits/sec   0.086 ms    0/10205 (0%) 71.038/15.545/181.297/28.344 ms 1021 pps
+[  3] local 0.0.0.0 port 60003 connected with 192.0.0.111 port 52328
+[  3] 0.00-10.03 sec  11.9 MBytes  9.93 Mbits/sec   1.280 ms    0/ 8475 (0%) 74.500/15.876/219.188/35.080 ms  844 pps
+[  5] local 0.0.0.0 port 60003 connected with 192.0.0.111 port 54785
+[  5] 0.00-10.03 sec  9.13 MBytes  7.64 Mbits/sec   2.332 ms    0/ 6512 (0%) 88.972/23.573/218.746/34.912 ms  649 pps
+[  7] local 0.0.0.0 port 60003 connected with 192.0.0.111 port 44907
+[  7] 0.00-10.04 sec  11.1 MBytes  9.27 Mbits/sec   2.545 ms    0/ 7913 (0%) 72.529/15.545/218.412/32.881 ms  787 pps
+[  9] local 0.0.0.0 port 60003 connected with 192.0.0.111 port 52372
+[  9] 0.00-10.07 sec  9.48 MBytes  7.89 Mbits/sec   4.367 ms    0/ 6759 (0%) 86.187/15.540/190.855/43.476 ms  671 pps
+[ 11] local 0.0.0.0 port 60003 connected with 192.0.0.111 port 33187
+[ 11] 0.00-10.03 sec  11.7 MBytes  9.78 Mbits/sec   1.379 ms    0/ 8340 (0%) 75.055/15.801/205.508/31.234 ms  831 pps
+------------------------------------------------------------
+Server listening on UDP port 60003
+Receiving 1470 byte datagrams
+UDP buffer size: 0.31 MByte (WARNING: requested 0.59 MByte)
+------------------------------------------------------------
+[  1] local 0.0.0.0 port 60003 connected with 192.0.0.111 port 35429
+[ ID] Interval       Transfer     Bandwidth        Jitter   Lost/Total  Latency avg/min/max/stdev PPS
+[  1] 0.00-9.99 sec  11.9 MBytes  10.0 Mbits/sec   0.120 ms    0/ 8505 (0%) 70.964/15.534/239.767/37.456 ms  851 pps
+[  3] local 0.0.0.0 port 60003 connected with 192.0.0.111 port 59118
+[  3] 0.00-9.99 sec  13.1 MBytes  11.0 Mbits/sec   0.109 ms    0/ 9355 (0%) 65.885/15.518/182.306/33.371 ms  936 pps
+[  5] local 0.0.0.0 port 60003 connected with 192.0.0.111 port 48232
+[  5] 0.00-9.99 sec  11.9 MBytes  10.0 Mbits/sec   0.176 ms    0/ 8505 (0%) 64.890/15.507/210.305/34.874 ms  851 pps
+[  7] local 0.0.0.0 port 60003 connected with 192.0.0.111 port 42998
+[  7] 0.00-10.02 sec  11.9 MBytes  9.98 Mbits/sec   1.218 ms    0/ 8505 (0%) 67.437/16.280/172.389/30.993 ms  848 pps
+[  9] local 0.0.0.0 port 60003 connected with 192.0.0.111 port 58631
+[  9] 0.00-10.03 sec  10.4 MBytes  8.71 Mbits/sec   1.446 ms    0/ 7433 (0%) 80.635/28.340/174.651/32.810 ms  740 pps
+[ 11] local 0.0.0.0 port 60003 connected with 192.0.0.111 port 42552
+[ 11] 0.00-10.00 sec  13.1 MBytes  11.0 Mbits/sec   0.109 ms    0/ 9355 (0%) 64.526/15.510/140.759/26.289 ms  935 pps
+------------------------------------------------------------
+Server listening on UDP port 60003
+Receiving 1470 byte datagrams
+UDP buffer size: 0.31 MByte (WARNING: requested 0.59 MByte)
+------------------------------------------------------------
+[  1] local 0.0.0.0 port 60003 connected with 192.0.0.111 port 46829
+[ ID] Interval       Transfer     Bandwidth        Jitter   Lost/Total  Latency avg/min/max/stdev PPS
+[  1] 0.00-10.03 sec  10.7 MBytes  8.99 Mbits/sec   2.172 ms    0/ 7667 (0%) 86.593/28.685/199.244/28.559 ms  764 pps
+[  3] local 0.0.0.0 port 60003 connected with 192.0.0.111 port 44722
+[  3] 0.00-10.07 sec  9.54 MBytes  7.95 Mbits/sec   2.051 ms    0/ 6804 (0%) 76.702/15.539/136.266/32.417 ms  675 pps
+[  5] local 0.0.0.0 port 60003 connected with 192.0.0.111 port 33184
+[  5] 0.00-10.04 sec  8.35 MBytes  6.98 Mbits/sec   2.340 ms    0/ 5954 (0%) 72.909/19.082/138.865/30.790 ms  593 pps
+[  7] local 0.0.0.0 port 60003 connected with 192.0.0.111 port 39772
+[  7] 0.00-10.00 sec  9.54 MBytes  8.00 Mbits/sec   0.099 ms    0/ 6804 (0%) 80.319/15.574/144.956/31.340 ms  680 pps
+[  9] local 0.0.0.0 port 60003 connected with 192.0.0.111 port 43890
+[  9] 0.00-10.00 sec  7.15 MBytes  6.00 Mbits/sec   0.125 ms    0/ 5103 (0%) 45.643/15.552/112.603/25.578 ms  510 pps
+[ 11] local 0.0.0.0 port 60003 connected with 192.0.0.111 port 41603
+[ 11] 0.00-10.03 sec  12.3 MBytes  10.3 Mbits/sec   1.272 ms    0/ 8796 (0%) 65.556/15.640/194.171/32.315 ms  876 pps
+------------------------------------------------------------
+Server listening on UDP port 60003
+Receiving 1470 byte datagrams
+UDP buffer size: 0.31 MByte (WARNING: requested 0.59 MByte)
+------------------------------------------------------------
+[  1] local 0.0.0.0 port 60003 connected with 192.0.0.111 port 42333
+[ ID] Interval       Transfer     Bandwidth        Jitter   Lost/Total  Latency avg/min/max/stdev PPS
+[  1] 0.00-10.06 sec  9.67 MBytes  8.07 Mbits/sec   2.568 ms    0/ 6901 (0%) 88.753/15.756/196.718/27.727 ms  686 pps
+[  3] local 0.0.0.0 port 60003 connected with 192.0.0.111 port 55918
+[  3] 0.00-9.99 sec  5.96 MBytes  5.01 Mbits/sec   0.345 ms    0/ 4253 (0%) 73.163/15.584/131.521/25.609 ms  425 pps
+[  5] local 0.0.0.0 port 60003 connected with 192.0.0.111 port 51380
+[  5] 0.00-9.99 sec  13.1 MBytes  11.0 Mbits/sec   0.150 ms    0/ 9355 (0%) 76.002/15.498/189.887/24.655 ms  936 pps
+[  7] local 0.0.0.0 port 60003 connected with 192.0.0.111 port 43247
+[  7] 0.00-10.00 sec  10.7 MBytes  9.00 Mbits/sec   0.122 ms    0/ 7654 (0%) 75.227/15.511/139.022/33.877 ms  765 pps
+[  9] local 0.0.0.0 port 60003 connected with 192.0.0.111 port 60859
+[  9] 0.00-10.03 sec  10.7 MBytes  8.98 Mbits/sec   0.952 ms    0/ 7654 (0%) 73.578/15.593/140.200/29.614 ms  763 pps
+[ 11] local 0.0.0.0 port 60003 connected with 192.0.0.111 port 50971
+[ 11] 0.00-10.10 sec  11.6 MBytes  9.66 Mbits/sec   5.340 ms    0/ 8297 (0%) 72.864/15.513/188.123/35.063 ms  821 pps
+------------------------------------------------------------
+Server listening on UDP port 60003
+Receiving 1470 byte datagrams
+UDP buffer size: 0.31 MByte (WARNING: requested 0.59 MByte)
+------------------------------------------------------------
+[  1] local 0.0.0.0 port 60003 connected with 192.0.0.111 port 60989
+[ ID] Interval       Transfer     Bandwidth        Jitter   Lost/Total  Latency avg/min/max/stdev PPS
+[  1] 0.00-9.99 sec  10.7 MBytes  9.01 Mbits/sec   0.045 ms    0/ 7654 (0%) 82.083/15.460/216.198/33.611 ms  766 pps
+[  3] local 0.0.0.0 port 60003 connected with 192.0.0.111 port 34194
+[  3] 0.00-10.00 sec  10.7 MBytes  9.00 Mbits/sec   0.178 ms    0/ 7654 (0%) 66.655/15.493/151.838/33.125 ms  765 pps
+[  5] local 0.0.0.0 port 60003 connected with 192.0.0.111 port 44546
+[  5] 0.00-9.99 sec  13.1 MBytes  11.0 Mbits/sec   0.131 ms    0/ 9355 (0%) 65.562/15.491/199.529/33.265 ms  936 pps
+[  7] local 0.0.0.0 port 60003 connected with 192.0.0.111 port 44120
+[  7] 0.00-10.00 sec  9.54 MBytes  8.00 Mbits/sec   0.802 ms    0/ 6804 (0%) 69.337/15.476/143.240/35.048 ms  680 pps
+[  9] local 0.0.0.0 port 60003 connected with 192.0.0.111 port 58244
+[  9] 0.00-10.09 sec  9.95 MBytes  8.28 Mbits/sec   6.889 ms    0/ 7100 (0%) 75.941/15.440/189.494/37.100 ms  703 pps
+[ 11] local 0.0.0.0 port 60003 connected with 192.0.0.111 port 32823
+[ 11] 0.00-10.01 sec  11.9 MBytes  9.99 Mbits/sec   1.125 ms    0/ 8505 (0%) 78.573/28.944/185.484/28.489 ms  849 pps
+------------------------------------------------------------
+Server listening on UDP port 60003
+Receiving 1470 byte datagrams
+UDP buffer size: 0.31 MByte (WARNING: requested 0.59 MByte)
+------------------------------------------------------------
+[  1] local 0.0.0.0 port 60003 connected with 192.0.0.111 port 51256
+[ ID] Interval       Transfer     Bandwidth        Jitter   Lost/Total  Latency avg/min/max/stdev PPS
+[  1] 0.00-10.03 sec  8.65 MBytes  7.23 Mbits/sec   2.678 ms    0/ 6168 (0%) 98.847/28.359/218.364/27.885 ms  615 pps
+[  3] local 0.0.0.0 port 60003 connected with 192.0.0.111 port 54138
+[  3] 0.00-10.09 sec  9.68 MBytes  8.05 Mbits/sec   4.483 ms    0/ 6906 (0%) 83.927/15.445/196.540/32.820 ms  684 pps
+[  5] local 0.0.0.0 port 60003 connected with 192.0.0.111 port 37195
+[  5] 0.00-10.00 sec  13.1 MBytes  11.0 Mbits/sec   0.302 ms   14/ 9355 (0.15%) 70.104/15.477/209.727/32.533 ms  934 pps
+[  7] local 0.0.0.0 port 60003 connected with 192.0.0.111 port 45516
+[  7] 0.00-9.99 sec  15.5 MBytes  13.0 Mbits/sec   0.097 ms    0/11056 (0%) 64.962/15.401/213.463/33.957 ms 1106 pps
+[  9] local 0.0.0.0 port 60003 connected with 192.0.0.111 port 59648
+[  9] 0.00-9.99 sec  14.3 MBytes  12.0 Mbits/sec   0.108 ms    0/10205 (0%) 63.320/15.404/150.934/30.095 ms 1021 pps
+[ 11] local 0.0.0.0 port 60003 connected with 192.0.0.111 port 37652
+[ 11] 0.00-10.00 sec  10.7 MBytes  9.00 Mbits/sec   0.032 ms    0/ 7654 (0%) 64.643/15.404/111.493/36.135 ms  765 pps

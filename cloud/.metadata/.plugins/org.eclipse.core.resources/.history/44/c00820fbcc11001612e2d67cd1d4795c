@@ -1,0 +1,45 @@
+'''
+Created on Mar 31, 2016
+
+@author: nimdrak
+'''
+
+import function_allocation_REST
+import function_allocation_server
+import function_controller_path_setting
+import sys
+
+
+if __name__ == '__main__':
+    
+    index_vector=[0,0,0,0]
+#    result=function_allocation_server.allocation_server_with_text_input(index_vector,sys.argv[1])
+    result=function_allocation_server.allocation_server_with_text_input(index_vector,'input.txt')    
+    print "input interpretation is finished"
+    print '\n'
+    print '\n'
+
+
+# controller path setting
+    a=function_controller_path_setting.controller_path_setting(4)    
+    for y in range(0,len(a)):
+        for x in range(0,len(a[0])):
+            function_allocation_REST.function_main(a[y][x])
+            
+
+    for x in range(0,len(result)):
+        function_allocation_REST.function_main(result[0])  
+    print "remaining servers are ",index_vector  
+    
+    print '\n'
+    print "Adding flow rules are finished"
+    print '\n'
+    print result
+
+
+
+
+
+    
+
+    

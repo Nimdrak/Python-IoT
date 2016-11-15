@@ -1,0 +1,96 @@
+from duplicity.tarfile import LENGTH_LINK
+
+algo_output = ['192.0.0.121/32','2','4','3','192.0.0.130/32']
+
+def link_sorting_output(inputss = [],*args):
+    
+    link_output=[]
+    current = 0
+    after = 0
+            
+    for x in range(0,len(inputss)-1):
+        current = inputss[x]
+        after = inputss[x+1]
+        print '\n'
+        print 'current:',current,',after:',after
+            
+    ##############################################
+    ###allocate routing dst port from OVS Table###
+    ##############################################
+    
+        f = open("/home/cloud1/IoT/cloud/Rest_API_Python/HttpClient/table/LINK_TABLE.txt",'r')
+        line=f.readline()
+    
+        while line:
+            result=line.split()
+            line=f.readline()
+       
+            if result[0]==current and result[1]==after:
+                print result
+                link_output.append(result[2])
+                print 'According to LINK table',current,'between',after,'There are link :',link_output[len(link_output)-1]
+                break
+            
+            if not line:
+                break
+    
+    print '\n'
+    print 'result is', link_output
+    return link_output          
+
+
+
+    
+def link_sorting_output_with_text_input(file_input_name):
+
+#read algorithm's output from text file       
+ 
+    f = open("/home/cloud1/IoT/" + file_input_name,'r')
+
+    list_result = [] # list for binding all input
+    allo_result = [] # list for binding all output
+    length_path=[]
+    
+    line=f.readline()
+    
+    while line:
+        result=line.split()
+        line=f.readline()
+        list_result.append(result) # binding input in list_result
+        
+        if not line:
+            break
+
+
+#make output from list_result
+    for z in range(0,len(list_result)):
+        print '\n'
+        print '################'
+        print "Input number is " + str(z+1)
+        print '################'
+        print '\n'
+        output_allo = link_sorting_output(list_result[z])
+        allo_result.append(output_allo) # binding input in output_result
+    
+    print '\n'
+    print '################'
+    print "All output is ", allo_result
+
+#write output in txt file    
+    f_allo_result=open("/home/cloud1/IoT/output_including_link.txt",'w')
+    for i in range(0,len(allo_result)):
+        data = str(allo_result[i]) + '\n'
+        length_path.append(len(allo_result[i]))
+        print allo_result[i],'fuck'
+        f_allo_result.write(data)
+    f_allo_result.close()
+    
+    
+#    f_allo_result1=open("/home/cloud1/IoT/link_length.txt",'w')
+#    f_allo_result1.write(length_path)
+#    f_allo_result1.close
+    
+
+    return allo_result
+
+link_sorting_output_with_text_input('input.txt') 

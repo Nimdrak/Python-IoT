@@ -1,0 +1,6 @@
+#!/bin/bash
+
+mkdir .ssh
+chmod 700 .ssh
+#cat /home/server/id_rsa.pub >> .ssh/authorized_keys
+cat /home/controller/id_rsa.pub >> .ssh/authorized_keys

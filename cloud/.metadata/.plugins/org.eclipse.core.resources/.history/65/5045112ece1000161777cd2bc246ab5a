@@ -1,0 +1,13 @@
+'''
+Created on May 3, 2016
+
+@author: nimdrak
+'''
+####################
+#### file input ####
+####################
+
+
+f = open("/home/cloud1/IoT/input.txt",'r')
+
+f = open("/home/cloud1/IoT/cloud/Rest_API_Python/HttpClient/server_table/"+"OVS"+current+".txt",'r')

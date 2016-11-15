@@ -1,0 +1,22 @@
+'''
+Created on Mar 23, 2016
+
+@author: nimdrak
+'''
+
+import requests
+import json
+from piston_mini_client.failhandlers import APIError
+
+
+username = 'karaf'
+password = 'karaf'
+
+
+resp = requests.get("http://localhost:8181/onos/v1/flows/of:000000606eb248fb/",auth=(username,password))
+if resp.status_code != 200:
+    raise APIError('GET /tasks/ {}'.format(resp.status_code))
+    
+print json.dumps(resp.json(), sort_keys=True, indent=2, separators=(',',':'))
+
+#    print('{}{}'.format(todo_item['id'].todo_item['summary']))

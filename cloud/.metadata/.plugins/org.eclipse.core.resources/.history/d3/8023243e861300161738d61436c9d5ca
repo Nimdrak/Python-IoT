@@ -1,0 +1,23 @@
+'''
+Created on May 6, 2016
+
+@author: cloud1
+'''
+
+import function_string_to_list
+
+#######################
+#### load two file ####
+#######################
+f_length = open("/home/cloud1/IoT/link_length.txt",'r')
+
+line1=f_length.readline()
+list_temp1 = function_string_to_list.str_to_list(line1)
+
+
+#### first line case
+final_output=[]
+output=[]
+
+output.append(list_temp1[1])
+print output

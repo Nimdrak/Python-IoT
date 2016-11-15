@@ -1,0 +1,42 @@
+
+algo_output = ['192.0.0.121/32','2','4','3','192.0.0.130/32']
+
+def link_sorting_output(input):
+    
+    link_output=[]
+    current = 0
+    after = 0
+            
+    for x in range(0,len(input)-1):
+        current = input[x]
+        after = input[x+1]
+        print '\n'
+        print 'current:',current,',after:',after
+            
+    ##############################################
+    ###allocate routing dst port from OVS Table###
+    ##############################################
+    
+        f = open("/home/cloud1/IoT/cloud/Rest_API_Python/HttpClient/table/LINK_TABLE.txt",'r')
+        line=f.readline()
+    
+        while line:
+            result=line.split()
+            line=f.readline()
+       
+            if result[0]==current and result[1]==after:
+                print result
+                link_output.append(result[2])
+                print 'According to LINK table',current,'between',after,'There are link :',link_output[len(link_output)-1]
+                break
+            
+            if not line:
+                break
+    
+    print '\n'
+    print 'result is', link_output
+    return link_output          
+
+algo_output1 = ['2','4','3']
+
+link_sorting_output(algo_output1)

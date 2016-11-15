@@ -1,0 +1,864 @@
+------------------------------------------------------------
+Server listening on UDP port 60062
+Receiving 1470 byte datagrams
+UDP buffer size: 0.20 MByte (default)
+------------------------------------------------------------
+[  1] local 0.0.0.0 port 60062 connected with 192.0.0.41 port 50919
+[ ID] Interval       Transfer     Bandwidth        Jitter   Lost/Total Datagrams
+[  1]  0.0-10.0 sec  9.54 MBytes  8.00 Mbits/sec   0.072 ms    0/ 6803 (0%)
+[  1]  0.0-10.0 sec  1 datagrams received out-of-order
+[  3] local 0.0.0.0 port 60062 connected with 192.0.0.41 port 49522
+[  3]  0.0-10.0 sec  7.16 MBytes  6.00 Mbits/sec   0.131 ms    0/ 5103 (0%)
+[  3]  0.0-10.0 sec  1 datagrams received out-of-order
+[  5] local 0.0.0.0 port 60062 connected with 192.0.0.41 port 49748
+[  5]  0.0-10.0 sec  9.54 MBytes  8.00 Mbits/sec   0.110 ms    0/ 6803 (0%)
+[  5]  0.0-10.0 sec  1 datagrams received out-of-order
+[  7] local 0.0.0.0 port 60062 connected with 192.0.0.41 port 59775
+[  7]  0.0-10.0 sec  5.96 MBytes  5.00 Mbits/sec   0.123 ms    0/ 4252 (0%)
+[  7]  0.0-10.0 sec  1 datagrams received out-of-order
+[  9] local 0.0.0.0 port 60062 connected with 192.0.0.41 port 33010
+[  9]  0.0-10.0 sec  10.7 MBytes  9.00 Mbits/sec   0.155 ms    0/ 7658 (0%)
+[ 11] local 0.0.0.0 port 60062 connected with 192.0.0.41 port 46830
+[ 11]  0.0-10.0 sec  5.96 MBytes  5.00 Mbits/sec   0.126 ms    0/ 4252 (0%)
+[ 11]  0.0-10.0 sec  1 datagrams received out-of-order
+[ 13] local 0.0.0.0 port 60062 connected with 192.0.0.41 port 32850
+[ 13]  0.0-10.0 sec  9.54 MBytes  8.00 Mbits/sec   0.094 ms    0/ 6803 (0%)
+[ 13]  0.0-10.0 sec  1 datagrams received out-of-order
+[ 15] local 0.0.0.0 port 60062 connected with 192.0.0.41 port 38461
+[ 15]  0.0-10.0 sec  9.54 MBytes  8.00 Mbits/sec   0.153 ms    0/ 6804 (0%)
+[ 17] local 0.0.0.0 port 60062 connected with 192.0.0.41 port 38719
+[ 17]  0.0-10.0 sec  4.77 MBytes  4.00 Mbits/sec   0.114 ms    0/ 3402 (0%)
+[ 17]  0.0-10.0 sec  1 datagrams received out-of-order
+[ 19] local 0.0.0.0 port 60062 connected with 192.0.0.41 port 55568
+[ 19]  0.0-10.0 sec  5.96 MBytes  5.00 Mbits/sec   0.110 ms    0/ 4253 (0%)
+[ 21] local 0.0.0.0 port 60062 connected with 192.0.0.41 port 57771
+[ 21]  0.0-10.0 sec  8.35 MBytes  7.00 Mbits/sec   0.142 ms    0/ 5953 (0%)
+[ 21]  0.0-10.0 sec  1 datagrams received out-of-order
+[ 23] local 0.0.0.0 port 60062 connected with 192.0.0.41 port 35590
+[ 23]  0.0-10.0 sec  7.16 MBytes  6.00 Mbits/sec   0.133 ms    0/ 5103 (0%)
+[ 23]  0.0-10.0 sec  1 datagrams received out-of-order
+[ 25] local 0.0.0.0 port 60062 connected with 192.0.0.41 port 55877
+[ 25]  0.0-10.0 sec  3.58 MBytes  3.00 Mbits/sec   0.141 ms    0/ 2551 (0%)
+[ 25]  0.0-10.0 sec  1 datagrams received out-of-order
+[ 27] local 0.0.0.0 port 60062 connected with 192.0.0.41 port 48763
+[ 27]  0.0-10.0 sec  9.54 MBytes  8.00 Mbits/sec   0.064 ms    0/ 6803 (0%)
+[ 27]  0.0-10.0 sec  1 datagrams received out-of-order
+[ 29] local 0.0.0.0 port 60062 connected with 192.0.0.41 port 48805
+[ 29]  0.0-10.0 sec  8.35 MBytes  7.00 Mbits/sec   0.133 ms    0/ 5953 (0%)
+[ 29]  0.0-10.0 sec  1 datagrams received out-of-order
+[ 31] local 0.0.0.0 port 60062 connected with 192.0.0.41 port 40464
+[ 31]  0.0-10.0 sec  7.16 MBytes  6.00 Mbits/sec   0.114 ms    0/ 5103 (0%)
+[ 31]  0.0-10.0 sec  1 datagrams received out-of-order
+[ 33] local 0.0.0.0 port 60062 connected with 192.0.0.41 port 33714
+[ 33]  0.0-10.0 sec  7.16 MBytes  6.00 Mbits/sec   0.136 ms    0/ 5103 (0%)
+[ 33]  0.0-10.0 sec  1 datagrams received out-of-order
+[ 35] local 0.0.0.0 port 60062 connected with 192.0.0.41 port 38267
+[ 35]  0.0-10.0 sec  8.35 MBytes  7.00 Mbits/sec   0.089 ms    0/ 5953 (0%)
+[ 35]  0.0-10.0 sec  1 datagrams received out-of-order
+[ 37] local 0.0.0.0 port 60062 connected with 192.0.0.41 port 41085
+[ 37]  0.0-10.0 sec  9.54 MBytes  8.00 Mbits/sec   0.134 ms    0/ 6803 (0%)
+[ 37]  0.0-10.0 sec  1 datagrams received out-of-order
+[ 39] local 0.0.0.0 port 60062 connected with 192.0.0.41 port 40889
+[ 39]  0.0-10.0 sec  7.16 MBytes  6.00 Mbits/sec   0.109 ms    0/ 5103 (0%)
+[ 39]  0.0-10.0 sec  1 datagrams received out-of-order
+[ 41] local 0.0.0.0 port 60062 connected with 192.0.0.41 port 33702
+[ 41]  0.0-10.0 sec  5.96 MBytes  5.00 Mbits/sec   0.099 ms    0/ 4252 (0%)
+[ 41]  0.0-10.0 sec  1 datagrams received out-of-order
+[ 43] local 0.0.0.0 port 60062 connected with 192.0.0.41 port 52472
+[ 43]  0.0-10.0 sec  7.15 MBytes  6.00 Mbits/sec   0.131 ms    0/ 5102 (0%)
+[ 43]  0.0-10.0 sec  1 datagrams received out-of-order
+[ 45] local 0.0.0.0 port 60062 connected with 192.0.0.41 port 35583
+[ 45]  0.0-10.0 sec  7.16 MBytes  6.00 Mbits/sec   0.123 ms    0/ 5103 (0%)
+[ 45]  0.0-10.0 sec  1 datagrams received out-of-order
+[ 47] local 0.0.0.0 port 60062 connected with 192.0.0.41 port 36956
+[ 47]  0.0-10.0 sec  5.96 MBytes  5.00 Mbits/sec   0.148 ms    0/ 4252 (0%)
+[ 47]  0.0-10.0 sec  1 datagrams received out-of-order
+[ 49] local 0.0.0.0 port 60062 connected with 192.0.0.41 port 48545
+[ 49]  0.0-10.0 sec  9.54 MBytes  8.00 Mbits/sec   0.112 ms    0/ 6803 (0%)
+[ 49]  0.0-10.0 sec  1 datagrams received out-of-order
+[ 51] local 0.0.0.0 port 60062 connected with 192.0.0.41 port 48416
+[ 51]  0.0-10.0 sec  10.7 MBytes  9.00 Mbits/sec   0.128 ms    0/ 7657 (0%)
+[ 51]  0.0-10.0 sec  1 datagrams received out-of-order
+[ 53] local 0.0.0.0 port 60062 connected with 192.0.0.41 port 55155
+[ 53]  0.0-10.0 sec  8.35 MBytes  7.00 Mbits/sec   0.092 ms    0/ 5953 (0%)
+[ 53]  0.0-10.0 sec  1 datagrams received out-of-order
+[ 55] local 0.0.0.0 port 60062 connected with 192.0.0.41 port 33460
+[ 55]  0.0-10.0 sec  10.7 MBytes  9.00 Mbits/sec   0.083 ms    0/ 7658 (0%)
+[ 57] local 0.0.0.0 port 60062 connected with 192.0.0.41 port 42743
+[ 57]  0.0-10.0 sec  10.7 MBytes  9.00 Mbits/sec   0.148 ms    0/ 7657 (0%)
+[ 57]  0.0-10.0 sec  1 datagrams received out-of-order
+[ 59] local 0.0.0.0 port 60062 connected with 192.0.0.41 port 57860
+[ 59]  0.0-10.0 sec  9.54 MBytes  8.00 Mbits/sec   0.114 ms    0/ 6803 (0%)
+[ 59]  0.0-10.0 sec  1 datagrams received out-of-order
+[ 61] local 0.0.0.0 port 60062 connected with 192.0.0.41 port 58553
+[ 61]  0.0-10.0 sec  8.35 MBytes  7.00 Mbits/sec   0.118 ms    0/ 5953 (0%)
+[ 61]  0.0-10.0 sec  1 datagrams received out-of-order
+[ 63] local 0.0.0.0 port 60062 connected with 192.0.0.41 port 50491
+[ 63]  0.0-10.0 sec  10.7 MBytes  9.00 Mbits/sec   0.114 ms    0/ 7657 (0%)
+[ 63]  0.0-10.0 sec  1 datagrams received out-of-order
+[ 65] local 0.0.0.0 port 60062 connected with 192.0.0.41 port 34614
+[ 65]  0.0-10.0 sec  5.96 MBytes  5.00 Mbits/sec   0.136 ms    0/ 4253 (0%)
+[ 67] local 0.0.0.0 port 60062 connected with 192.0.0.41 port 46157
+[ 67]  0.0-10.0 sec  8.35 MBytes  7.00 Mbits/sec   0.118 ms    0/ 5954 (0%)
+[ 69] local 0.0.0.0 port 60062 connected with 192.0.0.41 port 33903
+[ 69]  0.0-10.0 sec  4.77 MBytes  4.00 Mbits/sec   0.108 ms    0/ 3402 (0%)
+[ 69]  0.0-10.0 sec  1 datagrams received out-of-order
+[ 71] local 0.0.0.0 port 60062 connected with 192.0.0.41 port 35500
+[ 71]  0.0-10.0 sec  7.15 MBytes  6.00 Mbits/sec   0.062 ms    0/ 5102 (0%)
+[ 71]  0.0-10.0 sec  1 datagrams received out-of-order
+[ 73] local 0.0.0.0 port 60062 connected with 192.0.0.41 port 35257
+[ 73]  0.0-10.0 sec  7.16 MBytes  6.00 Mbits/sec   0.171 ms    0/ 5103 (0%)
+[ 73]  0.0-10.0 sec  1 datagrams received out-of-order
+[ 75] local 0.0.0.0 port 60062 connected with 192.0.0.41 port 46075
+[ 75]  0.0-10.0 sec  9.54 MBytes  8.00 Mbits/sec   0.123 ms    0/ 6803 (0%)
+[ 75]  0.0-10.0 sec  1 datagrams received out-of-order
+[ 77] local 0.0.0.0 port 60062 connected with 192.0.0.41 port 54258
+[ 77]  0.0-10.0 sec  8.35 MBytes  7.00 Mbits/sec   0.115 ms    0/ 5953 (0%)
+[ 77]  0.0-10.0 sec  1 datagrams received out-of-order
+[ 79] local 0.0.0.0 port 60062 connected with 192.0.0.41 port 56457
+[ 79]  0.0-10.0 sec  7.16 MBytes  6.00 Mbits/sec   0.130 ms    0/ 5103 (0%)
+[ 79]  0.0-10.0 sec  1 datagrams received out-of-order
+[ 81] local 0.0.0.0 port 60062 connected with 192.0.0.41 port 59069
+[ 81]  0.0-10.0 sec  10.7 MBytes  9.00 Mbits/sec   0.105 ms    0/ 7657 (0%)
+[ 81]  0.0-10.0 sec  1 datagrams received out-of-order
+[ 83] local 0.0.0.0 port 60062 connected with 192.0.0.41 port 52857
+[ 83]  0.0-10.0 sec  9.54 MBytes  8.00 Mbits/sec   0.098 ms    0/ 6803 (0%)
+[ 83]  0.0-10.0 sec  1 datagrams received out-of-order
+[ 85] local 0.0.0.0 port 60062 connected with 192.0.0.41 port 39016
+[ 85]  0.0-10.0 sec  9.54 MBytes  8.00 Mbits/sec   0.142 ms    0/ 6803 (0%)
+[ 85]  0.0-10.0 sec  1 datagrams received out-of-order
+[ 87] local 0.0.0.0 port 60062 connected with 192.0.0.41 port 39857
+[ 87]  0.0-10.0 sec  10.7 MBytes  9.00 Mbits/sec   0.139 ms    1/ 7658 (0.013%)
+[ 89] local 0.0.0.0 port 60062 connected with 192.0.0.41 port 48690
+[ 89]  0.0-10.0 sec  10.7 MBytes  9.00 Mbits/sec   0.092 ms    0/ 7658 (0%)
+[ 91] local 0.0.0.0 port 60062 connected with 192.0.0.41 port 39139
+[ 91]  0.0-10.0 sec  10.7 MBytes  9.00 Mbits/sec   0.092 ms    0/ 7657 (0%)
+[ 91]  0.0-10.0 sec  1 datagrams received out-of-order
+[ 93] local 0.0.0.0 port 60062 connected with 192.0.0.41 port 44107
+[ 93]  0.0-10.0 sec  3.58 MBytes  3.00 Mbits/sec   0.143 ms    0/ 2552 (0%)
+[ 93]  0.0-10.0 sec  1 datagrams received out-of-order
+[ 95] local 0.0.0.0 port 60062 connected with 192.0.0.41 port 49266
+[ 95]  0.0-10.0 sec  7.15 MBytes  6.00 Mbits/sec   0.081 ms    0/ 5102 (0%)
+[ 95]  0.0-10.0 sec  1 datagrams received out-of-order
+[ 97] local 0.0.0.0 port 60062 connected with 192.0.0.41 port 47218
+[ 97]  0.0-10.0 sec  7.16 MBytes  6.00 Mbits/sec   0.126 ms    0/ 5103 (0%)
+[ 97]  0.0-10.0 sec  1 datagrams received out-of-order
+[ 99] local 0.0.0.0 port 60062 connected with 192.0.0.41 port 46302
+[ 99]  0.0-10.0 sec  8.35 MBytes  7.00 Mbits/sec   0.134 ms    0/ 5953 (0%)
+[ 99]  0.0-10.0 sec  1 datagrams received out-of-order
+[101] local 0.0.0.0 port 60062 connected with 192.0.0.41 port 57950
+[101]  0.0-10.0 sec  5.96 MBytes  5.00 Mbits/sec   0.185 ms    0/ 4252 (0%)
+[101]  0.0-10.0 sec  1 datagrams received out-of-order
+[103] local 0.0.0.0 port 60062 connected with 192.0.0.41 port 58545
+[103]  0.0-10.0 sec  4.77 MBytes  4.00 Mbits/sec   0.083 ms    0/ 3402 (0%)
+[103]  0.0-10.0 sec  1 datagrams received out-of-order
+[105] local 0.0.0.0 port 60062 connected with 192.0.0.41 port 35190
+[105]  0.0-10.0 sec  4.77 MBytes  4.00 Mbits/sec   0.064 ms    0/ 3402 (0%)
+[105]  0.0-10.0 sec  1 datagrams received out-of-order
+[107] local 0.0.0.0 port 60062 connected with 192.0.0.41 port 42072
+[107]  0.0-10.0 sec  8.35 MBytes  7.00 Mbits/sec   0.088 ms    0/ 5953 (0%)
+[107]  0.0-10.0 sec  1 datagrams received out-of-order
+[109] local 0.0.0.0 port 60062 connected with 192.0.0.41 port 50784
+[109]  0.0-10.0 sec  8.35 MBytes  7.00 Mbits/sec   0.141 ms    0/ 5954 (0%)
+[111] local 0.0.0.0 port 60062 connected with 192.0.0.41 port 50320
+[111]  0.0-10.0 sec  5.96 MBytes  5.00 Mbits/sec   0.111 ms    0/ 4252 (0%)
+[111]  0.0-10.0 sec  1 datagrams received out-of-order
+[113] local 0.0.0.0 port 60062 connected with 192.0.0.41 port 53335
+[113]  0.0-10.0 sec  11.9 MBytes  10.0 Mbits/sec   0.172 ms    0/ 8504 (0%)
+[113]  0.0-10.0 sec  1 datagrams received out-of-order
+[115] local 0.0.0.0 port 60062 connected with 192.0.0.41 port 41072
+[115]  0.0-10.0 sec  5.96 MBytes  5.00 Mbits/sec   0.139 ms    0/ 4252 (0%)
+[115]  0.0-10.0 sec  1 datagrams received out-of-order
+[117] local 0.0.0.0 port 60062 connected with 192.0.0.41 port 53764
+[117]  0.0-10.0 sec  5.96 MBytes  5.00 Mbits/sec   0.084 ms    0/ 4252 (0%)
+[117]  0.0-10.0 sec  1 datagrams received out-of-order
+[119] local 0.0.0.0 port 60062 connected with 192.0.0.41 port 37136
+[119]  0.0-10.0 sec  8.35 MBytes  7.00 Mbits/sec   0.075 ms    0/ 5953 (0%)
+[119]  0.0-10.0 sec  1 datagrams received out-of-order
+[121] local 0.0.0.0 port 60062 connected with 192.0.0.41 port 49457
+[121]  0.0-10.0 sec  7.16 MBytes  6.00 Mbits/sec   0.132 ms    0/ 5103 (0%)
+[121]  0.0-10.0 sec  1 datagrams received out-of-order
+[123] local 0.0.0.0 port 60062 connected with 192.0.0.41 port 45438
+[123]  0.0-10.0 sec  8.35 MBytes  7.00 Mbits/sec   0.065 ms    0/ 5953 (0%)
+[123]  0.0-10.0 sec  1 datagrams received out-of-order
+[125] local 0.0.0.0 port 60062 connected with 192.0.0.41 port 43616
+[125]  0.0-10.0 sec  10.7 MBytes  9.00 Mbits/sec   0.118 ms    0/ 7657 (0%)
+[125]  0.0-10.0 sec  1 datagrams received out-of-order
+[127] local 0.0.0.0 port 60062 connected with 192.0.0.41 port 33537
+[127]  0.0-10.0 sec  3.58 MBytes  3.00 Mbits/sec   0.110 ms    0/ 2552 (0%)
+[127]  0.0-10.0 sec  1 datagrams received out-of-order
+[129] local 0.0.0.0 port 60062 connected with 192.0.0.41 port 60931
+[129]  0.0-10.0 sec  5.96 MBytes  5.00 Mbits/sec   0.114 ms    0/ 4253 (0%)
+[131] local 0.0.0.0 port 60062 connected with 192.0.0.41 port 53813
+[131]  0.0-10.0 sec  10.7 MBytes  9.00 Mbits/sec   0.184 ms    0/ 7657 (0%)
+[131]  0.0-10.0 sec  1 datagrams received out-of-order
+[133] local 0.0.0.0 port 60062 connected with 192.0.0.41 port 60822
+[133]  0.0-10.0 sec  7.16 MBytes  6.00 Mbits/sec   0.107 ms    0/ 5103 (0%)
+[133]  0.0-10.0 sec  1 datagrams received out-of-order
+[135] local 0.0.0.0 port 60062 connected with 192.0.0.41 port 32891
+[135]  0.0-10.0 sec  11.9 MBytes  10.0 Mbits/sec   0.119 ms    1/ 8504 (0.012%)
+[135]  0.0-10.0 sec  1 datagrams received out-of-order
+[137] local 0.0.0.0 port 60062 connected with 192.0.0.41 port 54676
+[137]  0.0-10.0 sec  4.77 MBytes  4.00 Mbits/sec   0.110 ms    0/ 3403 (0%)
+[139] local 0.0.0.0 port 60062 connected with 192.0.0.41 port 46235
+[139]  0.0-10.0 sec  10.7 MBytes  9.00 Mbits/sec   0.149 ms    0/ 7658 (0%)
+[141] local 0.0.0.0 port 60062 connected with 192.0.0.41 port 58114
+[141]  0.0-10.0 sec  3.58 MBytes  3.00 Mbits/sec   0.396 ms    0/ 2552 (0%)
+[141]  0.0-10.0 sec  1 datagrams received out-of-order
+[143] local 0.0.0.0 port 60062 connected with 192.0.0.41 port 56733
+[143]  0.0-10.0 sec  4.77 MBytes  4.00 Mbits/sec   0.078 ms    0/ 3402 (0%)
+[143]  0.0-10.0 sec  1 datagrams received out-of-order
+[145] local 0.0.0.0 port 60062 connected with 192.0.0.41 port 60106
+[145]  0.0-10.0 sec  9.54 MBytes  8.00 Mbits/sec   0.076 ms    0/ 6803 (0%)
+[145]  0.0-10.0 sec  1 datagrams received out-of-order
+[147] local 0.0.0.0 port 60062 connected with 192.0.0.41 port 40866
+[147]  0.0-10.0 sec  10.7 MBytes  9.00 Mbits/sec   0.144 ms    0/ 7657 (0%)
+[147]  0.0-10.0 sec  1 datagrams received out-of-order
+[149] local 0.0.0.0 port 60062 connected with 192.0.0.41 port 35344
+[149]  0.0-10.0 sec  9.54 MBytes  8.00 Mbits/sec   0.116 ms    0/ 6803 (0%)
+[149]  0.0-10.0 sec  1 datagrams received out-of-order
+[151] local 0.0.0.0 port 60062 connected with 192.0.0.41 port 40697
+[151]  0.0-10.0 sec  8.35 MBytes  7.00 Mbits/sec   0.110 ms    0/ 5953 (0%)
+[151]  0.0-10.0 sec  1 datagrams received out-of-order
+[153] local 0.0.0.0 port 60062 connected with 192.0.0.41 port 37163
+[153]  0.0-10.0 sec  9.54 MBytes  8.00 Mbits/sec   0.146 ms    0/ 6803 (0%)
+[153]  0.0-10.0 sec  1 datagrams received out-of-order
+[155] local 0.0.0.0 port 60062 connected with 192.0.0.41 port 48052
+[155]  0.0-10.0 sec  7.15 MBytes  6.00 Mbits/sec   0.088 ms    0/ 5103 (0%)
+[157] local 0.0.0.0 port 60062 connected with 192.0.0.41 port 52231
+[157]  0.0-10.0 sec  8.35 MBytes  7.00 Mbits/sec   0.110 ms    0/ 5953 (0%)
+[157]  0.0-10.0 sec  1 datagrams received out-of-order
+[159] local 0.0.0.0 port 60062 connected with 192.0.0.41 port 47080
+[159]  0.0-10.0 sec  7.15 MBytes  6.00 Mbits/sec   0.131 ms    0/ 5102 (0%)
+[159]  0.0-10.0 sec  1 datagrams received out-of-order
+[161] local 0.0.0.0 port 60062 connected with 192.0.0.41 port 42709
+[161]  0.0-10.0 sec  5.96 MBytes  5.00 Mbits/sec   0.081 ms    0/ 4252 (0%)
+[161]  0.0-10.0 sec  1 datagrams received out-of-order
+[163] local 0.0.0.0 port 60062 connected with 192.0.0.41 port 50314
+[163]  0.0-10.0 sec  5.96 MBytes  5.00 Mbits/sec   0.103 ms    0/ 4253 (0%)
+[165] local 0.0.0.0 port 60062 connected with 192.0.0.41 port 43299
+[165]  0.0-10.0 sec  9.54 MBytes  8.00 Mbits/sec   0.104 ms    0/ 6803 (0%)
+[165]  0.0-10.0 sec  1 datagrams received out-of-order
+[167] local 0.0.0.0 port 60062 connected with 192.0.0.41 port 39117
+[167]  0.0-10.0 sec  8.35 MBytes  7.00 Mbits/sec   0.117 ms    0/ 5953 (0%)
+[167]  0.0-10.0 sec  1 datagrams received out-of-order
+[169] local 0.0.0.0 port 60062 connected with 192.0.0.41 port 57790
+[169]  0.0-10.0 sec  2.39 MBytes  2.00 Mbits/sec   0.115 ms    0/ 1701 (0%)
+[169]  0.0-10.0 sec  1 datagrams received out-of-order
+[171] local 0.0.0.0 port 60062 connected with 192.0.0.41 port 41936
+[171]  0.0-10.0 sec  7.15 MBytes  6.00 Mbits/sec   0.128 ms    0/ 5102 (0%)
+[171]  0.0-10.0 sec  1 datagrams received out-of-order
+[173] local 0.0.0.0 port 60062 connected with 192.0.0.41 port 49042
+[173]  0.0-10.0 sec  7.15 MBytes  6.00 Mbits/sec   0.102 ms    0/ 5102 (0%)
+[173]  0.0-10.0 sec  1 datagrams received out-of-order
+[175] local 0.0.0.0 port 60062 connected with 192.0.0.41 port 46538
+[175]  0.0-10.0 sec  5.96 MBytes  5.00 Mbits/sec   0.316 ms    0/ 4252 (0%)
+[175]  0.0-10.0 sec  1 datagrams received out-of-order
+[177] local 0.0.0.0 port 60062 connected with 192.0.0.41 port 56990
+[177]  0.0-10.0 sec  8.35 MBytes  7.00 Mbits/sec   0.079 ms    0/ 5953 (0%)
+[177]  0.0-10.0 sec  1 datagrams received out-of-order
+[179] local 0.0.0.0 port 60062 connected with 192.0.0.41 port 57825
+[179]  0.0-10.0 sec  10.7 MBytes  9.00 Mbits/sec   0.091 ms    0/ 7658 (0%)
+[181] local 0.0.0.0 port 60062 connected with 192.0.0.41 port 58079
+[181]  0.0-10.0 sec  4.77 MBytes  4.00 Mbits/sec   0.097 ms    0/ 3402 (0%)
+[181]  0.0-10.0 sec  1 datagrams received out-of-order
+[183] local 0.0.0.0 port 60062 connected with 192.0.0.41 port 46187
+[183]  0.0-10.0 sec  8.35 MBytes  7.00 Mbits/sec   0.139 ms    0/ 5953 (0%)
+[183]  0.0-10.0 sec  1 datagrams received out-of-order
+[185] local 0.0.0.0 port 60062 connected with 192.0.0.41 port 44083
+[185]  0.0-10.0 sec  3.58 MBytes  3.00 Mbits/sec   0.133 ms    0/ 2552 (0%)
+[185]  0.0-10.0 sec  1 datagrams received out-of-order
+[187] local 0.0.0.0 port 60062 connected with 192.0.0.41 port 45107
+[187]  0.0-10.0 sec  9.54 MBytes  8.00 Mbits/sec   0.121 ms    0/ 6803 (0%)
+[187]  0.0-10.0 sec  1 datagrams received out-of-order
+[189] local 0.0.0.0 port 60062 connected with 192.0.0.41 port 45042
+[189]  0.0-10.0 sec  5.96 MBytes  5.00 Mbits/sec   0.120 ms    0/ 4252 (0%)
+[189]  0.0-10.0 sec  1 datagrams received out-of-order
+[191] local 0.0.0.0 port 60062 connected with 192.0.0.41 port 43512
+[191]  0.0-10.0 sec  7.15 MBytes  6.00 Mbits/sec   0.120 ms    0/ 5102 (0%)
+[191]  0.0-10.0 sec  1 datagrams received out-of-order
+[193] local 0.0.0.0 port 60062 connected with 192.0.0.41 port 39635
+[193]  0.0-10.0 sec  4.77 MBytes  4.00 Mbits/sec   0.166 ms    0/ 3402 (0%)
+[193]  0.0-10.0 sec  1 datagrams received out-of-order
+[195] local 0.0.0.0 port 60062 connected with 192.0.0.41 port 57555
+[195]  0.0-10.0 sec  11.9 MBytes  10.0 Mbits/sec   0.165 ms    0/ 8504 (0%)
+[195]  0.0-10.0 sec  1 datagrams received out-of-order
+[197] local 0.0.0.0 port 60062 connected with 192.0.0.41 port 42449
+[197]  0.0-10.0 sec  10.7 MBytes  9.00 Mbits/sec   0.070 ms    0/ 7657 (0%)
+[197]  0.0-10.0 sec  1 datagrams received out-of-order
+[199] local 0.0.0.0 port 60062 connected with 192.0.0.41 port 54587
+[199]  0.0-10.0 sec  5.96 MBytes  5.00 Mbits/sec   0.128 ms    0/ 4252 (0%)
+[199]  0.0-10.0 sec  1 datagrams received out-of-order
+[201] local 0.0.0.0 port 60062 connected with 192.0.0.41 port 56075
+[201]  0.0-10.0 sec  7.16 MBytes  6.00 Mbits/sec   0.102 ms    0/ 5104 (0%)
+[203] local 0.0.0.0 port 60062 connected with 192.0.0.41 port 45340
+[203]  0.0-10.0 sec  8.35 MBytes  7.00 Mbits/sec   0.078 ms    0/ 5953 (0%)
+[203]  0.0-10.0 sec  1 datagrams received out-of-order
+[205] local 0.0.0.0 port 60062 connected with 192.0.0.41 port 51336
+[205]  0.0-10.0 sec  5.96 MBytes  5.00 Mbits/sec   0.147 ms    0/ 4252 (0%)
+[205]  0.0-10.0 sec  1 datagrams received out-of-order
+[207] local 0.0.0.0 port 60062 connected with 192.0.0.41 port 44486
+[207]  0.0-10.0 sec  10.7 MBytes  9.00 Mbits/sec   0.145 ms    0/ 7657 (0%)
+[207]  0.0-10.0 sec  1 datagrams received out-of-order
+[209] local 0.0.0.0 port 60062 connected with 192.0.0.41 port 55371
+[209]  0.0-10.0 sec  3.58 MBytes  3.00 Mbits/sec   0.164 ms    0/ 2551 (0%)
+[209]  0.0-10.0 sec  1 datagrams received out-of-order
+[211] local 0.0.0.0 port 60062 connected with 192.0.0.41 port 32874
+[211]  0.0-10.0 sec  5.96 MBytes  5.00 Mbits/sec   0.084 ms    0/ 4252 (0%)
+[211]  0.0-10.0 sec  1 datagrams received out-of-order
+[213] local 0.0.0.0 port 60062 connected with 192.0.0.41 port 41399
+[213]  0.0-10.0 sec  5.96 MBytes  5.00 Mbits/sec   0.107 ms    0/ 4252 (0%)
+[213]  0.0-10.0 sec  1 datagrams received out-of-order
+[215] local 0.0.0.0 port 60062 connected with 192.0.0.41 port 33701
+[215]  0.0-10.0 sec  10.7 MBytes  9.00 Mbits/sec   0.126 ms    0/ 7657 (0%)
+[215]  0.0-10.0 sec  1 datagrams received out-of-order
+[217] local 0.0.0.0 port 60062 connected with 192.0.0.41 port 60997
+[217]  0.0-10.0 sec  8.35 MBytes  7.00 Mbits/sec   0.105 ms    0/ 5953 (0%)
+[217]  0.0-10.0 sec  1 datagrams received out-of-order
+[219] local 0.0.0.0 port 60062 connected with 192.0.0.41 port 59519
+[219]  0.0-10.0 sec  4.77 MBytes  4.00 Mbits/sec   0.194 ms    0/ 3402 (0%)
+[219]  0.0-10.0 sec  1 datagrams received out-of-order
+[221] local 0.0.0.0 port 60062 connected with 192.0.0.41 port 58543
+[221]  0.0-10.0 sec  5.96 MBytes  5.00 Mbits/sec   0.211 ms    0/ 4252 (0%)
+[221]  0.0-10.0 sec  1 datagrams received out-of-order
+[223] local 0.0.0.0 port 60062 connected with 192.0.0.41 port 45118
+[223]  0.0-10.0 sec  8.35 MBytes  7.00 Mbits/sec   0.181 ms    0/ 5954 (0%)
+[225] local 0.0.0.0 port 60062 connected with 192.0.0.41 port 45423
+[225]  0.0-10.0 sec  7.15 MBytes  6.00 Mbits/sec   0.330 ms    0/ 5102 (0%)
+[225]  0.0-10.0 sec  1 datagrams received out-of-order
+[227] local 0.0.0.0 port 60062 connected with 192.0.0.41 port 49683
+[227]  0.0-10.0 sec  9.54 MBytes  8.00 Mbits/sec   0.166 ms    0/ 6803 (0%)
+[227]  0.0-10.0 sec  1 datagrams received out-of-order
+[229] local 0.0.0.0 port 60062 connected with 192.0.0.41 port 42676
+[229]  0.0-10.0 sec  7.16 MBytes  6.00 Mbits/sec   0.148 ms    0/ 5103 (0%)
+[229]  0.0-10.0 sec  1 datagrams received out-of-order
+[231] local 0.0.0.0 port 60062 connected with 192.0.0.41 port 41292
+[231]  0.0-10.0 sec  10.7 MBytes  9.00 Mbits/sec   0.079 ms    0/ 7657 (0%)
+[231]  0.0-10.0 sec  1 datagrams received out-of-order
+[233] local 0.0.0.0 port 60062 connected with 192.0.0.41 port 36874
+[233]  0.0-10.0 sec  8.35 MBytes  7.00 Mbits/sec   0.171 ms    0/ 5953 (0%)
+[233]  0.0-10.0 sec  1 datagrams received out-of-order
+[235] local 0.0.0.0 port 60062 connected with 192.0.0.41 port 53421
+[235]  0.0-10.0 sec  4.77 MBytes  4.00 Mbits/sec   0.100 ms    0/ 3402 (0%)
+[235]  0.0-10.0 sec  1 datagrams received out-of-order
+[237] local 0.0.0.0 port 60062 connected with 192.0.0.41 port 35207
+[237]  0.0-10.0 sec  8.35 MBytes  6.99 Mbits/sec   0.105 ms    1/ 5954 (0.017%)
+[239] local 0.0.0.0 port 60062 connected with 192.0.0.41 port 47075
+[239]  0.0-10.0 sec  9.54 MBytes  8.00 Mbits/sec   0.127 ms    0/ 6803 (0%)
+[239]  0.0-10.0 sec  1 datagrams received out-of-order
+[241] local 0.0.0.0 port 60062 connected with 192.0.0.41 port 59083
+[241]  0.0-10.0 sec  10.7 MBytes  9.00 Mbits/sec   0.140 ms    0/ 7657 (0%)
+[241]  0.0-10.0 sec  1 datagrams received out-of-order
+[243] local 0.0.0.0 port 60062 connected with 192.0.0.41 port 38087
+[243]  0.0-10.0 sec  7.16 MBytes  6.00 Mbits/sec   0.111 ms    0/ 5103 (0%)
+[243]  0.0-10.0 sec  1 datagrams received out-of-order
+[245] local 0.0.0.0 port 60062 connected with 192.0.0.41 port 37742
+[245]  0.0-10.0 sec  9.54 MBytes  8.00 Mbits/sec   0.099 ms    0/ 6803 (0%)
+[245]  0.0-10.0 sec  1 datagrams received out-of-order
+[247] local 0.0.0.0 port 60062 connected with 192.0.0.41 port 38524
+[247]  0.0-10.0 sec  8.35 MBytes  7.00 Mbits/sec   0.115 ms    0/ 5953 (0%)
+[247]  0.0-10.0 sec  1 datagrams received out-of-order
+[249] local 0.0.0.0 port 60062 connected with 192.0.0.41 port 33049
+[249]  0.0-10.0 sec  9.54 MBytes  8.00 Mbits/sec   0.075 ms    0/ 6803 (0%)
+[249]  0.0-10.0 sec  1 datagrams received out-of-order
+[251] local 0.0.0.0 port 60062 connected with 192.0.0.41 port 47417
+[251]  0.0-10.0 sec  9.54 MBytes  8.00 Mbits/sec   0.087 ms    0/ 6803 (0%)
+[251]  0.0-10.0 sec  1 datagrams received out-of-order
+[253] local 0.0.0.0 port 60062 connected with 192.0.0.41 port 37228
+[253]  0.0-10.0 sec  5.96 MBytes  5.00 Mbits/sec   0.085 ms    0/ 4252 (0%)
+[253]  0.0-10.0 sec  1 datagrams received out-of-order
+[255] local 0.0.0.0 port 60062 connected with 192.0.0.41 port 43796
+[255]  0.0-10.0 sec  2.39 MBytes  2.00 Mbits/sec   0.060 ms    0/ 1701 (0%)
+[255]  0.0-10.0 sec  1 datagrams received out-of-order
+[257] local 0.0.0.0 port 60062 connected with 192.0.0.41 port 57682
+[257]  0.0-10.0 sec  13.1 MBytes  11.0 Mbits/sec   0.095 ms    0/ 9356 (0%)
+[259] local 0.0.0.0 port 60062 connected with 192.0.0.41 port 48981
+[259]  0.0-10.0 sec  5.96 MBytes  5.00 Mbits/sec   0.113 ms    0/ 4253 (0%)
+[261] local 0.0.0.0 port 60062 connected with 192.0.0.41 port 36178
+[261]  0.0-10.0 sec  5.96 MBytes  5.00 Mbits/sec   0.083 ms    0/ 4252 (0%)
+[261]  0.0-10.0 sec  1 datagrams received out-of-order
+[263] local 0.0.0.0 port 60062 connected with 192.0.0.41 port 41349
+[263]  0.0-10.0 sec  9.54 MBytes  8.00 Mbits/sec   0.101 ms    0/ 6804 (0%)
+[265] local 0.0.0.0 port 60062 connected with 192.0.0.41 port 43334
+[265]  0.0-10.0 sec  4.77 MBytes  4.00 Mbits/sec   0.069 ms    0/ 3402 (0%)
+[265]  0.0-10.0 sec  1 datagrams received out-of-order
+[267] local 0.0.0.0 port 60062 connected with 192.0.0.41 port 54362
+[267]  0.0-10.0 sec  3.58 MBytes  3.00 Mbits/sec   0.097 ms    0/ 2552 (0%)
+[267]  0.0-10.0 sec  1 datagrams received out-of-order
+[269] local 0.0.0.0 port 60062 connected with 192.0.0.41 port 36293
+[269]  0.0-10.0 sec  5.96 MBytes  5.00 Mbits/sec   0.090 ms    0/ 4252 (0%)
+[269]  0.0-10.0 sec  1 datagrams received out-of-order
+[271] local 0.0.0.0 port 60062 connected with 192.0.0.41 port 48791
+[271]  0.0-10.0 sec  8.35 MBytes  7.00 Mbits/sec   0.108 ms    0/ 5953 (0%)
+[271]  0.0-10.0 sec  1 datagrams received out-of-order
+[273] local 0.0.0.0 port 60062 connected with 192.0.0.41 port 55729
+[273]  0.0-10.0 sec  9.54 MBytes  8.00 Mbits/sec   0.109 ms    0/ 6803 (0%)
+[273]  0.0-10.0 sec  1 datagrams received out-of-order
+[275] local 0.0.0.0 port 60062 connected with 192.0.0.41 port 52390
+[275]  0.0-10.0 sec  5.96 MBytes  5.00 Mbits/sec   0.084 ms    0/ 4252 (0%)
+[275]  0.0-10.0 sec  1 datagrams received out-of-order
+[277] local 0.0.0.0 port 60062 connected with 192.0.0.41 port 43680
+[277]  0.0-10.0 sec  8.35 MBytes  7.00 Mbits/sec   0.136 ms    0/ 5953 (0%)
+[277]  0.0-10.0 sec  1 datagrams received out-of-order
+[279] local 0.0.0.0 port 60062 connected with 192.0.0.41 port 49956
+[279]  0.0-10.0 sec  7.16 MBytes  6.00 Mbits/sec   0.131 ms    0/ 5103 (0%)
+[279]  0.0-10.0 sec  1 datagrams received out-of-order
+[281] local 0.0.0.0 port 60062 connected with 192.0.0.41 port 52486
+[281]  0.0-10.0 sec  8.35 MBytes  7.00 Mbits/sec   0.111 ms    0/ 5953 (0%)
+[281]  0.0-10.0 sec  1 datagrams received out-of-order
+[283] local 0.0.0.0 port 60062 connected with 192.0.0.41 port 56446
+[283]  0.0-10.0 sec  8.35 MBytes  7.00 Mbits/sec   0.201 ms    0/ 5953 (0%)
+[283]  0.0-10.0 sec  1 datagrams received out-of-order
+[285] local 0.0.0.0 port 60062 connected with 192.0.0.41 port 38470
+[285]  0.0-10.0 sec  9.54 MBytes  8.00 Mbits/sec   0.103 ms    0/ 6804 (0%)
+[287] local 0.0.0.0 port 60062 connected with 192.0.0.41 port 54533
+[287]  0.0-10.0 sec  3.58 MBytes  3.00 Mbits/sec   0.104 ms    0/ 2552 (0%)
+[289] local 0.0.0.0 port 60062 connected with 192.0.0.41 port 35745
+[289]  0.0-10.0 sec  7.16 MBytes  6.00 Mbits/sec   0.124 ms    0/ 5104 (0%)
+[291] local 0.0.0.0 port 60062 connected with 192.0.0.41 port 59116
+[291]  0.0-10.0 sec  11.9 MBytes  10.0 Mbits/sec   0.147 ms    0/ 8504 (0%)
+[291]  0.0-10.0 sec  1 datagrams received out-of-order
+[293] local 0.0.0.0 port 60062 connected with 192.0.0.41 port 46739
+[293]  0.0-10.0 sec  3.58 MBytes  3.00 Mbits/sec   0.056 ms    0/ 2553 (0%)
+[295] local 0.0.0.0 port 60062 connected with 192.0.0.41 port 47285
+[295]  0.0-10.0 sec  8.35 MBytes  7.00 Mbits/sec   0.114 ms    0/ 5953 (0%)
+[295]  0.0-10.0 sec  1 datagrams received out-of-order
+[297] local 0.0.0.0 port 60062 connected with 192.0.0.41 port 33404
+[297]  0.0-10.0 sec  8.35 MBytes  7.00 Mbits/sec   0.078 ms    0/ 5954 (0%)
+[299] local 0.0.0.0 port 60062 connected with 192.0.0.41 port 36404
+[299]  0.0-10.0 sec  9.54 MBytes  8.00 Mbits/sec   0.130 ms    0/ 6803 (0%)
+[299]  0.0-10.0 sec  1 datagrams received out-of-order
+[301] local 0.0.0.0 port 60062 connected with 192.0.0.41 port 36598
+[301]  0.0-10.0 sec  8.35 MBytes  7.00 Mbits/sec   0.123 ms    0/ 5953 (0%)
+[301]  0.0-10.0 sec  1 datagrams received out-of-order
+[303] local 0.0.0.0 port 60062 connected with 192.0.0.41 port 51169
+[303]  0.0-10.0 sec  7.16 MBytes  6.00 Mbits/sec   0.123 ms    0/ 5103 (0%)
+[303]  0.0-10.0 sec  1 datagrams received out-of-order
+[305] local 0.0.0.0 port 60062 connected with 192.0.0.41 port 36007
+[305]  0.0-10.0 sec  10.7 MBytes  9.00 Mbits/sec   0.382 ms    0/ 7657 (0%)
+[305]  0.0-10.0 sec  1 datagrams received out-of-order
+[307] local 0.0.0.0 port 60062 connected with 192.0.0.41 port 33125
+[307]  0.0-10.0 sec  11.9 MBytes  10.0 Mbits/sec   0.113 ms    0/ 8504 (0%)
+[307]  0.0-10.0 sec  1 datagrams received out-of-order
+[309] local 0.0.0.0 port 60062 connected with 192.0.0.41 port 36806
+[309]  0.0-10.0 sec  10.7 MBytes  9.00 Mbits/sec   0.190 ms    0/ 7658 (0%)
+[311] local 0.0.0.0 port 60062 connected with 192.0.0.41 port 57960
+[311]  0.0-10.0 sec  7.16 MBytes  6.00 Mbits/sec   0.125 ms    0/ 5103 (0%)
+[311]  0.0-10.0 sec  1 datagrams received out-of-order
+[313] local 0.0.0.0 port 60062 connected with 192.0.0.41 port 39577
+[313]  0.0-10.0 sec  5.96 MBytes  5.00 Mbits/sec   0.146 ms    0/ 4252 (0%)
+[313]  0.0-10.0 sec  1 datagrams received out-of-order
+[315] local 0.0.0.0 port 60062 connected with 192.0.0.41 port 45696
+[315]  0.0-10.0 sec  13.1 MBytes  11.0 Mbits/sec   0.090 ms    0/ 9355 (0%)
+[315]  0.0-10.0 sec  1 datagrams received out-of-order
+[317] local 0.0.0.0 port 60062 connected with 192.0.0.41 port 56974
+[317]  0.0-10.0 sec  8.35 MBytes  7.00 Mbits/sec   0.131 ms    0/ 5953 (0%)
+[317]  0.0-10.0 sec  1 datagrams received out-of-order
+[319] local 0.0.0.0 port 60062 connected with 192.0.0.41 port 59809
+[319]  0.0-10.0 sec  11.9 MBytes  10.0 Mbits/sec   0.115 ms    0/ 8504 (0%)
+[319]  0.0-10.0 sec  1 datagrams received out-of-order
+[321] local 0.0.0.0 port 60062 connected with 192.0.0.41 port 48718
+[321]  0.0-10.0 sec  4.77 MBytes  4.00 Mbits/sec   0.113 ms    0/ 3402 (0%)
+[321]  0.0-10.0 sec  1 datagrams received out-of-order
+[323] local 0.0.0.0 port 60062 connected with 192.0.0.41 port 47654
+[323]  0.0-10.0 sec  3.58 MBytes  3.00 Mbits/sec   0.257 ms    0/ 2553 (0%)
+[325] local 0.0.0.0 port 60062 connected with 192.0.0.41 port 55856
+[325]  0.0-10.0 sec  8.35 MBytes  7.00 Mbits/sec   0.155 ms    0/ 5954 (0%)
+[327] local 0.0.0.0 port 60062 connected with 192.0.0.41 port 34304
+[327]  0.0-10.0 sec  7.16 MBytes  6.00 Mbits/sec   0.159 ms    0/ 5103 (0%)
+[327]  0.0-10.0 sec  1 datagrams received out-of-order
+[329] local 0.0.0.0 port 60062 connected with 192.0.0.41 port 42704
+[329]  0.0-10.0 sec  4.77 MBytes  4.00 Mbits/sec   0.212 ms    0/ 3402 (0%)
+[329]  0.0-10.0 sec  1 datagrams received out-of-order
+[331] local 0.0.0.0 port 60062 connected with 192.0.0.41 port 54789
+[331]  0.0-10.0 sec  9.54 MBytes  8.00 Mbits/sec   0.234 ms    0/ 6803 (0%)
+[331]  0.0-10.0 sec  1 datagrams received out-of-order
+[333] local 0.0.0.0 port 60062 connected with 192.0.0.41 port 37168
+[333]  0.0-10.0 sec  8.35 MBytes  7.00 Mbits/sec   0.256 ms    0/ 5953 (0%)
+[333]  0.0-10.0 sec  1 datagrams received out-of-order
+[335] local 0.0.0.0 port 60062 connected with 192.0.0.41 port 53255
+[335]  0.0-10.0 sec  11.9 MBytes  10.0 Mbits/sec   0.102 ms    0/ 8504 (0%)
+[335]  0.0-10.0 sec  1 datagrams received out-of-order
+[337] local 0.0.0.0 port 60062 connected with 192.0.0.41 port 51888
+[337]  0.0-10.0 sec  9.54 MBytes  8.00 Mbits/sec   0.210 ms    0/ 6803 (0%)
+[337]  0.0-10.0 sec  1 datagrams received out-of-order
+[339] local 0.0.0.0 port 60062 connected with 192.0.0.41 port 38302
+[339]  0.0-10.0 sec  4.77 MBytes  4.00 Mbits/sec   0.194 ms    0/ 3403 (0%)
+[341] local 0.0.0.0 port 60062 connected with 192.0.0.41 port 45673
+[341]  0.0-10.0 sec  8.35 MBytes  7.00 Mbits/sec   0.100 ms    0/ 5953 (0%)
+[341]  0.0-10.0 sec  1 datagrams received out-of-order
+[343] local 0.0.0.0 port 60062 connected with 192.0.0.41 port 43990
+[343]  0.0-10.0 sec  11.9 MBytes  10.0 Mbits/sec   0.131 ms    0/ 8504 (0%)
+[343]  0.0-10.0 sec  1 datagrams received out-of-order
+[345] local 0.0.0.0 port 60062 connected with 192.0.0.41 port 38670
+[345]  0.0-10.0 sec  5.96 MBytes  5.00 Mbits/sec   0.118 ms    0/ 4252 (0%)
+[345]  0.0-10.0 sec  1 datagrams received out-of-order
+[347] local 0.0.0.0 port 60062 connected with 192.0.0.41 port 46662
+[347]  0.0-10.0 sec  4.77 MBytes  4.00 Mbits/sec   0.122 ms    0/ 3402 (0%)
+[347]  0.0-10.0 sec  1 datagrams received out-of-order
+[349] local 0.0.0.0 port 60062 connected with 192.0.0.41 port 53291
+[349]  0.0-10.0 sec  7.16 MBytes  6.00 Mbits/sec   0.079 ms    0/ 5103 (0%)
+[349]  0.0-10.0 sec  1 datagrams received out-of-order
+[351] local 0.0.0.0 port 60062 connected with 192.0.0.41 port 54480
+[351]  0.0-10.0 sec  8.35 MBytes  7.00 Mbits/sec   0.133 ms    0/ 5953 (0%)
+[351]  0.0-10.0 sec  1 datagrams received out-of-order
+[353] local 0.0.0.0 port 60062 connected with 192.0.0.41 port 37068
+[353]  0.0-10.0 sec  9.54 MBytes  8.00 Mbits/sec   0.155 ms    0/ 6803 (0%)
+[353]  0.0-10.0 sec  1 datagrams received out-of-order
+[355] local 0.0.0.0 port 60062 connected with 192.0.0.41 port 59081
+[355]  0.0-10.0 sec  7.16 MBytes  6.00 Mbits/sec   0.126 ms    0/ 5103 (0%)
+[355]  0.0-10.0 sec  1 datagrams received out-of-order
+[357] local 0.0.0.0 port 60062 connected with 192.0.0.41 port 37527
+[357]  0.0-10.0 sec  10.7 MBytes  9.00 Mbits/sec   0.076 ms    0/ 7657 (0%)
+[357]  0.0-10.0 sec  1 datagrams received out-of-order
+[359] local 0.0.0.0 port 60062 connected with 192.0.0.41 port 37540
+[359]  0.0-10.0 sec  4.77 MBytes  4.00 Mbits/sec   0.108 ms    0/ 3402 (0%)
+[359]  0.0-10.0 sec  1 datagrams received out-of-order
+[361] local 0.0.0.0 port 60062 connected with 192.0.0.41 port 58771
+[361]  0.0-10.0 sec  7.16 MBytes  6.00 Mbits/sec   0.089 ms    0/ 5103 (0%)
+[361]  0.0-10.0 sec  1 datagrams received out-of-order
+[363] local 0.0.0.0 port 60062 connected with 192.0.0.41 port 57799
+[363]  0.0-10.0 sec  7.16 MBytes  6.00 Mbits/sec   0.120 ms    0/ 5103 (0%)
+[363]  0.0-10.0 sec  1 datagrams received out-of-order
+[365] local 0.0.0.0 port 60062 connected with 192.0.0.41 port 35274
+[365]  0.0-10.0 sec  5.96 MBytes  5.00 Mbits/sec   0.108 ms    0/ 4252 (0%)
+[365]  0.0-10.0 sec  1 datagrams received out-of-order
+[367] local 0.0.0.0 port 60062 connected with 192.0.0.41 port 42260
+[367]  0.0-10.0 sec  5.96 MBytes  5.00 Mbits/sec   0.090 ms    0/ 4252 (0%)
+[367]  0.0-10.0 sec  1 datagrams received out-of-order
+[369] local 0.0.0.0 port 60062 connected with 192.0.0.41 port 47529
+[369]  0.0-10.0 sec  8.35 MBytes  7.00 Mbits/sec   0.116 ms    0/ 5953 (0%)
+[369]  0.0-10.0 sec  1 datagrams received out-of-order
+[371] local 0.0.0.0 port 60062 connected with 192.0.0.41 port 49830
+[371]  0.0-10.0 sec  7.16 MBytes  6.00 Mbits/sec   0.118 ms    0/ 5103 (0%)
+[371]  0.0-10.0 sec  1 datagrams received out-of-order
+[373] local 0.0.0.0 port 60062 connected with 192.0.0.41 port 56704
+[373]  0.0-10.0 sec  8.35 MBytes  7.00 Mbits/sec   0.488 ms    0/ 5953 (0%)
+[373]  0.0-10.0 sec  1 datagrams received out-of-order
+[375] local 0.0.0.0 port 60062 connected with 192.0.0.41 port 34068
+[375]  0.0-10.0 sec  7.16 MBytes  6.00 Mbits/sec   0.101 ms    0/ 5103 (0%)
+[375]  0.0-10.0 sec  1 datagrams received out-of-order
+[377] local 0.0.0.0 port 60062 connected with 192.0.0.41 port 54669
+[377]  0.0-10.0 sec  9.54 MBytes  8.00 Mbits/sec   0.117 ms    0/ 6803 (0%)
+[377]  0.0-10.0 sec  1 datagrams received out-of-order
+[379] local 0.0.0.0 port 60062 connected with 192.0.0.41 port 53370
+[379]  0.0-10.0 sec  10.7 MBytes  9.00 Mbits/sec   0.114 ms    0/ 7657 (0%)
+[379]  0.0-10.0 sec  1 datagrams received out-of-order
+[381] local 0.0.0.0 port 60062 connected with 192.0.0.41 port 60871
+[381]  0.0-10.0 sec  14.3 MBytes  12.0 Mbits/sec   0.098 ms    0/10205 (0%)
+[381]  0.0-10.0 sec  1 datagrams received out-of-order
+[383] local 0.0.0.0 port 60062 connected with 192.0.0.41 port 50376
+[383]  0.0-10.0 sec  10.7 MBytes  9.00 Mbits/sec   0.088 ms    0/ 7657 (0%)
+[383]  0.0-10.0 sec  1 datagrams received out-of-order
+[385] local 0.0.0.0 port 60062 connected with 192.0.0.41 port 39156
+[385]  0.0-10.0 sec  8.35 MBytes  7.00 Mbits/sec   0.139 ms    0/ 5953 (0%)
+[385]  0.0-10.0 sec  1 datagrams received out-of-order
+[387] local 0.0.0.0 port 60062 connected with 192.0.0.41 port 57186
+[387]  0.0-10.0 sec  5.96 MBytes  5.00 Mbits/sec   0.095 ms    0/ 4252 (0%)
+[387]  0.0-10.0 sec  1 datagrams received out-of-order
+[389] local 0.0.0.0 port 60062 connected with 192.0.0.41 port 40160
+[389]  0.0-10.0 sec  10.7 MBytes  9.00 Mbits/sec   0.459 ms    0/ 7658 (0%)
+[391] local 0.0.0.0 port 60062 connected with 192.0.0.41 port 51887
+[391]  0.0-10.0 sec  8.35 MBytes  7.00 Mbits/sec   0.635 ms    0/ 5953 (0%)
+[391]  0.0-10.0 sec  1 datagrams received out-of-order
+[393] local 0.0.0.0 port 60062 connected with 192.0.0.41 port 37813
+[393]  0.0-10.0 sec  7.16 MBytes  6.00 Mbits/sec   0.143 ms    0/ 5103 (0%)
+[393]  0.0-10.0 sec  1 datagrams received out-of-order
+[395] local 0.0.0.0 port 60062 connected with 192.0.0.41 port 54927
+[395]  0.0-10.0 sec  8.35 MBytes  7.00 Mbits/sec   0.287 ms    0/ 5954 (0%)
+[397] local 0.0.0.0 port 60062 connected with 192.0.0.41 port 37939
+[397]  0.0-10.0 sec  7.16 MBytes  6.00 Mbits/sec   0.141 ms    0/ 5103 (0%)
+[397]  0.0-10.0 sec  1 datagrams received out-of-order
+[399] local 0.0.0.0 port 60062 connected with 192.0.0.41 port 50956
+[399]  0.0-10.0 sec  5.96 MBytes  5.00 Mbits/sec   0.319 ms    0/ 4252 (0%)
+[399]  0.0-10.0 sec  1 datagrams received out-of-order
+[401] local 0.0.0.0 port 60062 connected with 192.0.0.41 port 57197
+[401]  0.0-10.0 sec  7.16 MBytes  6.00 Mbits/sec   0.493 ms    0/ 5103 (0%)
+[401]  0.0-10.0 sec  1 datagrams received out-of-order
+[403] local 0.0.0.0 port 60062 connected with 192.0.0.41 port 50051
+[403]  0.0-10.0 sec  8.35 MBytes  7.00 Mbits/sec   0.613 ms    0/ 5953 (0%)
+[403]  0.0-10.0 sec  1 datagrams received out-of-order
+[405] local 0.0.0.0 port 60062 connected with 192.0.0.41 port 33482
+[405]  0.0-10.0 sec  5.96 MBytes  5.00 Mbits/sec   0.267 ms    0/ 4252 (0%)
+[405]  0.0-10.0 sec  1 datagrams received out-of-order
+[407] local 0.0.0.0 port 60062 connected with 192.0.0.41 port 40491
+[407]  0.0-10.0 sec  7.16 MBytes  6.00 Mbits/sec   0.125 ms    0/ 5103 (0%)
+[407]  0.0-10.0 sec  1 datagrams received out-of-order
+[409] local 0.0.0.0 port 60062 connected with 192.0.0.41 port 48632
+[409]  0.0-10.0 sec  14.3 MBytes  12.0 Mbits/sec   0.144 ms    0/10205 (0%)
+[409]  0.0-10.0 sec  1 datagrams received out-of-order
+[411] local 0.0.0.0 port 60062 connected with 192.0.0.41 port 33204
+[411]  0.0-10.0 sec  10.7 MBytes  9.00 Mbits/sec   0.121 ms    0/ 7657 (0%)
+[411]  0.0-10.0 sec  1 datagrams received out-of-order
+[413] local 0.0.0.0 port 60062 connected with 192.0.0.41 port 57639
+[413]  0.0-10.0 sec  7.16 MBytes  6.00 Mbits/sec   0.115 ms    0/ 5103 (0%)
+[413]  0.0-10.0 sec  1 datagrams received out-of-order
+[415] local 0.0.0.0 port 60062 connected with 192.0.0.41 port 58892
+[415]  0.0-10.0 sec  9.54 MBytes  8.00 Mbits/sec   0.175 ms    0/ 6804 (0%)
+[417] local 0.0.0.0 port 60062 connected with 192.0.0.41 port 45279
+[417]  0.0-10.0 sec  8.35 MBytes  7.00 Mbits/sec   0.281 ms    0/ 5953 (0%)
+[417]  0.0-10.0 sec  1 datagrams received out-of-order
+[419] local 0.0.0.0 port 60062 connected with 192.0.0.41 port 40339
+[419]  0.0-10.0 sec  5.96 MBytes  5.00 Mbits/sec   0.362 ms    0/ 4252 (0%)
+[419]  0.0-10.0 sec  1 datagrams received out-of-order
+[421] local 0.0.0.0 port 60062 connected with 192.0.0.41 port 50388
+[421]  0.0-10.0 sec  7.16 MBytes  6.00 Mbits/sec   0.484 ms    0/ 5103 (0%)
+[421]  0.0-10.0 sec  1 datagrams received out-of-order
+[423] local 0.0.0.0 port 60062 connected with 192.0.0.41 port 54938
+[423]  0.0-10.0 sec  8.35 MBytes  7.00 Mbits/sec   0.352 ms    0/ 5953 (0%)
+[423]  0.0-10.0 sec  1 datagrams received out-of-order
+[425] local 0.0.0.0 port 60062 connected with 192.0.0.41 port 60169
+[425]  0.0-10.0 sec  5.96 MBytes  5.00 Mbits/sec   0.274 ms    0/ 4253 (0%)
+[427] local 0.0.0.0 port 60062 connected with 192.0.0.41 port 38300
+[427]  0.0-10.0 sec  11.9 MBytes  10.0 Mbits/sec   0.302 ms    0/ 8504 (0%)
+[427]  0.0-10.0 sec  1 datagrams received out-of-order
+[429] local 0.0.0.0 port 60062 connected with 192.0.0.41 port 47262
+[429]  0.0-10.0 sec  5.96 MBytes  5.00 Mbits/sec   0.372 ms    0/ 4252 (0%)
+[429]  0.0-10.0 sec  1 datagrams received out-of-order
+[431] local 0.0.0.0 port 60062 connected with 192.0.0.41 port 56009
+[431]  0.0-10.0 sec  7.16 MBytes  6.00 Mbits/sec   0.326 ms    0/ 5104 (0%)
+[433] local 0.0.0.0 port 60062 connected with 192.0.0.41 port 47491
+[433]  0.0-10.0 sec  7.16 MBytes  6.00 Mbits/sec   0.400 ms    0/ 5103 (0%)
+[433]  0.0-10.0 sec  1 datagrams received out-of-order
+[435] local 0.0.0.0 port 60062 connected with 192.0.0.41 port 36651
+[435]  0.0-10.0 sec  10.7 MBytes  9.00 Mbits/sec   0.151 ms    0/ 7658 (0%)
+[437] local 0.0.0.0 port 60062 connected with 192.0.0.41 port 45697
+[437]  0.0-10.0 sec  7.16 MBytes  6.00 Mbits/sec   0.107 ms    0/ 5103 (0%)
+[437]  0.0-10.0 sec  1 datagrams received out-of-order
+[439] local 0.0.0.0 port 60062 connected with 192.0.0.41 port 34008
+[439]  0.0-10.0 sec  5.96 MBytes  5.00 Mbits/sec   0.230 ms    0/ 4252 (0%)
+[439]  0.0-10.0 sec  1 datagrams received out-of-order
+[441] local 0.0.0.0 port 60062 connected with 192.0.0.41 port 60664
+[441]  0.0-10.0 sec  7.15 MBytes  6.00 Mbits/sec   0.911 ms    0/ 5102 (0%)
+[441]  0.0-10.0 sec  1 datagrams received out-of-order
+[443] local 0.0.0.0 port 60062 connected with 192.0.0.41 port 45013
+[443]  0.0-10.0 sec  7.15 MBytes  6.00 Mbits/sec   0.557 ms    0/ 5102 (0%)
+[443]  0.0-10.0 sec  1 datagrams received out-of-order
+[445] local 0.0.0.0 port 60062 connected with 192.0.0.41 port 36202
+[445]  0.0-10.0 sec  5.96 MBytes  5.00 Mbits/sec   0.640 ms    0/ 4252 (0%)
+[445]  0.0-10.0 sec  1 datagrams received out-of-order
+[447] local 0.0.0.0 port 60062 connected with 192.0.0.41 port 50742
+[447]  0.0-10.0 sec  4.77 MBytes  4.00 Mbits/sec   0.393 ms    0/ 3401 (0%)
+[447]  0.0-10.0 sec  1 datagrams received out-of-order
+[449] local 0.0.0.0 port 60062 connected with 192.0.0.41 port 52911
+[449]  0.0-10.0 sec  7.15 MBytes  6.00 Mbits/sec   0.221 ms    0/ 5102 (0%)
+[449]  0.0-10.0 sec  1 datagrams received out-of-order
+[451] local 0.0.0.0 port 60062 connected with 192.0.0.41 port 48818
+[451]  0.0-10.0 sec  5.96 MBytes  5.00 Mbits/sec   0.123 ms    0/ 4252 (0%)
+[451]  0.0-10.0 sec  1 datagrams received out-of-order
+[453] local 0.0.0.0 port 60062 connected with 192.0.0.41 port 46949
+[453]  0.0-10.0 sec  2.39 MBytes  2.00 Mbits/sec   0.109 ms    0/ 1701 (0%)
+[453]  0.0-10.0 sec  1 datagrams received out-of-order
+[455] local 0.0.0.0 port 60062 connected with 192.0.0.41 port 50357
+[455]  0.0-10.0 sec  9.54 MBytes  8.00 Mbits/sec   0.104 ms    0/ 6803 (0%)
+[455]  0.0-10.0 sec  1 datagrams received out-of-order
+[457] local 0.0.0.0 port 60062 connected with 192.0.0.41 port 38380
+[457]  0.0-10.0 sec  8.35 MBytes  7.00 Mbits/sec   0.125 ms    0/ 5953 (0%)
+[457]  0.0-10.0 sec  1 datagrams received out-of-order
+[459] local 0.0.0.0 port 60062 connected with 192.0.0.41 port 44515
+[459]  0.0-10.0 sec  11.9 MBytes  10.0 Mbits/sec   0.191 ms    0/ 8504 (0%)
+[459]  0.0-10.0 sec  1 datagrams received out-of-order
+[461] local 0.0.0.0 port 60062 connected with 192.0.0.41 port 38281
+[461]  0.0-10.0 sec  9.54 MBytes  8.00 Mbits/sec   0.128 ms    0/ 6803 (0%)
+[461]  0.0-10.0 sec  1 datagrams received out-of-order
+[463] local 0.0.0.0 port 60062 connected with 192.0.0.41 port 32909
+[463]  0.0-10.0 sec  3.58 MBytes  3.00 Mbits/sec   0.282 ms    0/ 2552 (0%)
+[463]  0.0-10.0 sec  1 datagrams received out-of-order
+[465] local 0.0.0.0 port 60062 connected with 192.0.0.41 port 52571
+[465]  0.0-10.0 sec  9.54 MBytes  8.00 Mbits/sec   0.622 ms    0/ 6803 (0%)
+[465]  0.0-10.0 sec  1 datagrams received out-of-order
+[467] local 0.0.0.0 port 60062 connected with 192.0.0.41 port 49668
+[467]  0.0-10.0 sec  7.16 MBytes  6.00 Mbits/sec   0.126 ms    0/ 5103 (0%)
+[467]  0.0-10.0 sec  1 datagrams received out-of-order
+[469] local 0.0.0.0 port 60062 connected with 192.0.0.41 port 55447
+[469]  0.0-10.0 sec  8.35 MBytes  7.00 Mbits/sec   0.161 ms    0/ 5953 (0%)
+[469]  0.0-10.0 sec  1 datagrams received out-of-order
+[471] local 0.0.0.0 port 60062 connected with 192.0.0.41 port 33240
+[471]  0.0-10.0 sec  8.35 MBytes  7.00 Mbits/sec   0.092 ms    0/ 5953 (0%)
+[471]  0.0-10.0 sec  1 datagrams received out-of-order
+[473] local 0.0.0.0 port 60062 connected with 192.0.0.41 port 36301
+[473]  0.0-10.0 sec  5.96 MBytes  5.00 Mbits/sec   0.150 ms    0/ 4252 (0%)
+[473]  0.0-10.0 sec  1 datagrams received out-of-order
+[475] local 0.0.0.0 port 60062 connected with 192.0.0.41 port 44013
+[475]  0.0-10.0 sec  8.35 MBytes  7.00 Mbits/sec   0.121 ms    0/ 5953 (0%)
+[475]  0.0-10.0 sec  1 datagrams received out-of-order
+[477] local 0.0.0.0 port 60062 connected with 192.0.0.41 port 55164
+[477]  0.0-10.0 sec  7.16 MBytes  6.00 Mbits/sec   0.091 ms    0/ 5103 (0%)
+[477]  0.0-10.0 sec  1 datagrams received out-of-order
+[479] local 0.0.0.0 port 60062 connected with 192.0.0.41 port 59120
+[479]  0.0-10.0 sec  2.39 MBytes  2.00 Mbits/sec   0.117 ms    0/ 1701 (0%)
+[479]  0.0-10.0 sec  1 datagrams received out-of-order
+[481] local 0.0.0.0 port 60062 connected with 192.0.0.41 port 50459
+[481]  0.0-10.0 sec  7.16 MBytes  6.00 Mbits/sec   0.162 ms    0/ 5103 (0%)
+[481]  0.0-10.0 sec  1 datagrams received out-of-order
+[483] local 0.0.0.0 port 60062 connected with 192.0.0.41 port 52077
+[483]  0.0-10.0 sec  8.35 MBytes  7.00 Mbits/sec   0.135 ms    0/ 5953 (0%)
+[483]  0.0-10.0 sec  1 datagrams received out-of-order
+[485] local 0.0.0.0 port 60062 connected with 192.0.0.41 port 42091
+[485]  0.0-10.0 sec  5.96 MBytes  5.00 Mbits/sec   0.126 ms    0/ 4252 (0%)
+[485]  0.0-10.0 sec  1 datagrams received out-of-order
+[487] local 0.0.0.0 port 60062 connected with 192.0.0.41 port 52565
+[487]  0.0-10.0 sec  5.96 MBytes  5.00 Mbits/sec   0.104 ms    0/ 4252 (0%)
+[487]  0.0-10.0 sec  1 datagrams received out-of-order
+[489] local 0.0.0.0 port 60062 connected with 192.0.0.41 port 45327
+[489]  0.0-10.0 sec  7.16 MBytes  6.00 Mbits/sec   0.140 ms    0/ 5103 (0%)
+[489]  0.0-10.0 sec  1 datagrams received out-of-order
+[491] local 0.0.0.0 port 60062 connected with 192.0.0.41 port 48726
+[491]  0.0-10.0 sec  7.16 MBytes  6.00 Mbits/sec   0.085 ms    0/ 5103 (0%)
+[491]  0.0-10.0 sec  1 datagrams received out-of-order
+[493] local 0.0.0.0 port 60062 connected with 192.0.0.41 port 46975
+[493]  0.0-10.0 sec  14.3 MBytes  12.0 Mbits/sec   0.093 ms    0/10205 (0%)
+[493]  0.0-10.0 sec  1 datagrams received out-of-order
+[495] local 0.0.0.0 port 60062 connected with 192.0.0.41 port 33427
+[495]  0.0-10.0 sec  7.16 MBytes  6.00 Mbits/sec   0.095 ms    0/ 5103 (0%)
+[495]  0.0-10.0 sec  1 datagrams received out-of-order
+[497] local 0.0.0.0 port 60062 connected with 192.0.0.41 port 52435
+[497]  0.0-10.0 sec  5.96 MBytes  5.00 Mbits/sec   0.123 ms    0/ 4253 (0%)
+[499] local 0.0.0.0 port 60062 connected with 192.0.0.41 port 43861
+[499]  0.0-10.0 sec  4.77 MBytes  4.00 Mbits/sec   0.131 ms    0/ 3402 (0%)
+[499]  0.0-10.0 sec  1 datagrams received out-of-order
+[501] local 0.0.0.0 port 60062 connected with 192.0.0.41 port 51306
+[501]  0.0-10.0 sec  5.96 MBytes  5.00 Mbits/sec   0.103 ms    0/ 4252 (0%)
+[501]  0.0-10.0 sec  1 datagrams received out-of-order
+[503] local 0.0.0.0 port 60062 connected with 192.0.0.41 port 36407
+[503]  0.0-10.0 sec  9.54 MBytes  8.00 Mbits/sec   0.127 ms    0/ 6803 (0%)
+[503]  0.0-10.0 sec  1 datagrams received out-of-order
+[505] local 0.0.0.0 port 60062 connected with 192.0.0.41 port 50407
+[505]  0.0-10.0 sec  7.16 MBytes  6.00 Mbits/sec   0.138 ms    0/ 5103 (0%)
+[505]  0.0-10.0 sec  1 datagrams received out-of-order
+[507] local 0.0.0.0 port 60062 connected with 192.0.0.41 port 44146
+[507]  0.0-10.0 sec  9.54 MBytes  8.00 Mbits/sec   0.415 ms    0/ 6803 (0%)
+[507]  0.0-10.0 sec  1 datagrams received out-of-order
+[509] local 0.0.0.0 port 60062 connected with 192.0.0.41 port 42000
+[509]  0.0-10.0 sec  7.16 MBytes  6.00 Mbits/sec   0.322 ms    0/ 5103 (0%)
+[509]  0.0-10.0 sec  1 datagrams received out-of-order
+[511] local 0.0.0.0 port 60062 connected with 192.0.0.41 port 59121
+[511]  0.0-10.0 sec  5.96 MBytes  5.00 Mbits/sec   0.157 ms    0/ 4252 (0%)
+[511]  0.0-10.0 sec  1 datagrams received out-of-order
+[513] local 0.0.0.0 port 60062 connected with 192.0.0.41 port 41953
+[513]  0.0-10.0 sec  7.16 MBytes  6.00 Mbits/sec   0.145 ms    0/ 5103 (0%)
+[513]  0.0-10.0 sec  1 datagrams received out-of-order
+[515] local 0.0.0.0 port 60062 connected with 192.0.0.41 port 48967
+[515]  0.0-10.0 sec  5.96 MBytes  5.00 Mbits/sec   0.131 ms    0/ 4252 (0%)
+[515]  0.0-10.0 sec  1 datagrams received out-of-order
+[517] local 0.0.0.0 port 60062 connected with 192.0.0.41 port 60490
+[517]  0.0-10.0 sec  9.54 MBytes  8.00 Mbits/sec   0.143 ms    0/ 6804 (0%)
+[519] local 0.0.0.0 port 60062 connected with 192.0.0.41 port 42497
+[519]  0.0-10.0 sec  5.96 MBytes  5.00 Mbits/sec   0.452 ms    0/ 4253 (0%)
+[521] local 0.0.0.0 port 60062 connected with 192.0.0.41 port 50963
+[521]  0.0-10.0 sec  8.35 MBytes  7.00 Mbits/sec   0.109 ms    0/ 5953 (0%)
+[521]  0.0-10.0 sec  1 datagrams received out-of-order
+[523] local 0.0.0.0 port 60062 connected with 192.0.0.41 port 47483
+[523]  0.0-10.0 sec  10.7 MBytes  9.00 Mbits/sec   0.100 ms    0/ 7658 (0%)
+[525] local 0.0.0.0 port 60062 connected with 192.0.0.41 port 43697
+[525]  0.0-10.0 sec  3.58 MBytes  3.00 Mbits/sec   0.100 ms    0/ 2552 (0%)
+[525]  0.0-10.0 sec  1 datagrams received out-of-order
+[527] local 0.0.0.0 port 60062 connected with 192.0.0.41 port 50730
+[527]  0.0-10.0 sec  9.54 MBytes  8.00 Mbits/sec   0.366 ms    0/ 6803 (0%)
+[527]  0.0-10.0 sec  1 datagrams received out-of-order
+[529] local 0.0.0.0 port 60062 connected with 192.0.0.41 port 51944
+[529]  0.0-10.0 sec  9.54 MBytes  8.00 Mbits/sec   0.215 ms    0/ 6803 (0%)
+[529]  0.0-10.0 sec  1 datagrams received out-of-order
+[531] local 0.0.0.0 port 60062 connected with 192.0.0.41 port 57531
+[531]  0.0-10.0 sec  7.16 MBytes  6.00 Mbits/sec   0.152 ms    0/ 5103 (0%)
+[531]  0.0-10.0 sec  1 datagrams received out-of-order
+[533] local 0.0.0.0 port 60062 connected with 192.0.0.41 port 58628
+[533]  0.0-10.0 sec  8.35 MBytes  7.00 Mbits/sec   0.125 ms    0/ 5953 (0%)
+[533]  0.0-10.0 sec  1 datagrams received out-of-order
+[535] local 0.0.0.0 port 60062 connected with 192.0.0.41 port 53828
+[535]  0.0-10.0 sec  8.35 MBytes  7.00 Mbits/sec   0.089 ms    0/ 5953 (0%)
+[535]  0.0-10.0 sec  1 datagrams received out-of-order
+[537] local 0.0.0.0 port 60062 connected with 192.0.0.41 port 51134
+[537]  0.0-10.0 sec  10.7 MBytes  9.00 Mbits/sec   0.090 ms    0/ 7657 (0%)
+[537]  0.0-10.0 sec  1 datagrams received out-of-order
+[539] local 0.0.0.0 port 60062 connected with 192.0.0.41 port 48065
+[539]  0.0-10.0 sec  5.96 MBytes  5.00 Mbits/sec   0.090 ms    0/ 4252 (0%)
+[539]  0.0-10.0 sec  1 datagrams received out-of-order
+[541] local 0.0.0.0 port 60062 connected with 192.0.0.41 port 36940
+[541]  0.0-10.0 sec  9.54 MBytes  8.00 Mbits/sec   0.111 ms    0/ 6803 (0%)
+[541]  0.0-10.0 sec  1 datagrams received out-of-order
+[543] local 0.0.0.0 port 60062 connected with 192.0.0.41 port 60886
+[543]  0.0-10.0 sec  7.16 MBytes  6.00 Mbits/sec   0.125 ms    0/ 5103 (0%)
+[543]  0.0-10.0 sec  1 datagrams received out-of-order
+[545] local 0.0.0.0 port 60062 connected with 192.0.0.41 port 56536
+[545]  0.0-10.0 sec  7.16 MBytes  6.00 Mbits/sec   0.139 ms    0/ 5103 (0%)
+[545]  0.0-10.0 sec  1 datagrams received out-of-order
+[547] local 0.0.0.0 port 60062 connected with 192.0.0.41 port 45743
+[547]  0.0-10.0 sec  5.96 MBytes  5.00 Mbits/sec   0.144 ms    0/ 4253 (0%)
+[549] local 0.0.0.0 port 60062 connected with 192.0.0.41 port 41984
+[549]  0.0-10.0 sec  4.77 MBytes  4.00 Mbits/sec   0.197 ms    0/ 3402 (0%)
+[549]  0.0-10.0 sec  1 datagrams received out-of-order
+[551] local 0.0.0.0 port 60062 connected with 192.0.0.41 port 45355
+[551]  0.0-10.0 sec  4.77 MBytes  4.00 Mbits/sec   0.240 ms    0/ 3402 (0%)
+[551]  0.0-10.0 sec  1 datagrams received out-of-order
+[553] local 0.0.0.0 port 60062 connected with 192.0.0.41 port 33983
+[553]  0.0-10.0 sec  3.58 MBytes  3.00 Mbits/sec   0.145 ms    0/ 2552 (0%)
+[553]  0.0-10.0 sec  1 datagrams received out-of-order
+[555] local 0.0.0.0 port 60062 connected with 192.0.0.41 port 58368
+[555]  0.0-10.0 sec  4.77 MBytes  4.00 Mbits/sec   0.094 ms    0/ 3402 (0%)
+[555]  0.0-10.0 sec  1 datagrams received out-of-order
+[557] local 0.0.0.0 port 60062 connected with 192.0.0.41 port 58138
+[557]  0.0-10.0 sec  7.16 MBytes  6.00 Mbits/sec   0.088 ms    0/ 5103 (0%)
+[557]  0.0-10.0 sec  1 datagrams received out-of-order
+[559] local 0.0.0.0 port 60062 connected with 192.0.0.41 port 60542
+[559]  0.0-10.0 sec  11.9 MBytes  10.0 Mbits/sec   0.069 ms    0/ 8504 (0%)
+[559]  0.0-10.0 sec  1 datagrams received out-of-order
+[561] local 0.0.0.0 port 60062 connected with 192.0.0.41 port 57793
+[561]  0.0-10.0 sec  5.96 MBytes  5.00 Mbits/sec   0.091 ms    0/ 4252 (0%)
+[561]  0.0-10.0 sec  1 datagrams received out-of-order
+[563] local 0.0.0.0 port 60062 connected with 192.0.0.41 port 40541
+[563]  0.0-10.0 sec  8.35 MBytes  7.00 Mbits/sec   0.074 ms    0/ 5953 (0%)
+[563]  0.0-10.0 sec  1 datagrams received out-of-order
+[565] local 0.0.0.0 port 60062 connected with 192.0.0.41 port 49963
+[565]  0.0-10.0 sec  7.16 MBytes  6.00 Mbits/sec   0.095 ms    0/ 5103 (0%)
+[565]  0.0-10.0 sec  1 datagrams received out-of-order
+[567] local 0.0.0.0 port 60062 connected with 192.0.0.41 port 41947
+[567]  0.0-10.0 sec  7.16 MBytes  6.00 Mbits/sec   0.133 ms    0/ 5103 (0%)
+[567]  0.0-10.0 sec  1 datagrams received out-of-order
+[569] local 0.0.0.0 port 60062 connected with 192.0.0.41 port 49135
+[569]  0.0-10.0 sec  10.7 MBytes  9.00 Mbits/sec   0.097 ms    0/ 7657 (0%)
+[569]  0.0-10.0 sec  1 datagrams received out-of-order
+[571] local 0.0.0.0 port 60062 connected with 192.0.0.41 port 47815
+[571]  0.0-10.0 sec  2.39 MBytes  2.00 Mbits/sec   0.129 ms    0/ 1701 (0%)
+[571]  0.0-10.0 sec  1 datagrams received out-of-order
+[573] local 0.0.0.0 port 60062 connected with 192.0.0.41 port 34720
+[573]  0.0-10.0 sec  9.54 MBytes  8.00 Mbits/sec   0.123 ms    0/ 6803 (0%)
+[573]  0.0-10.0 sec  1 datagrams received out-of-order
+[575] local 0.0.0.0 port 60062 connected with 192.0.0.41 port 35012
+[575]  0.0-10.0 sec  7.15 MBytes  6.00 Mbits/sec   0.115 ms    0/ 5102 (0%)
+[575]  0.0-10.0 sec  1 datagrams received out-of-order
+[577] local 0.0.0.0 port 60062 connected with 192.0.0.41 port 55157
+[577]  0.0-10.0 sec  9.54 MBytes  8.00 Mbits/sec   0.126 ms    0/ 6803 (0%)
+[577]  0.0-10.0 sec  1 datagrams received out-of-order
+[579] local 0.0.0.0 port 60062 connected with 192.0.0.41 port 34991
+[579]  0.0-10.0 sec  9.54 MBytes  8.00 Mbits/sec   0.116 ms    0/ 6803 (0%)
+[579]  0.0-10.0 sec  1 datagrams received out-of-order
+[581] local 0.0.0.0 port 60062 connected with 192.0.0.41 port 46180
+[581]  0.0-10.0 sec  13.1 MBytes  11.0 Mbits/sec   0.143 ms    0/ 9355 (0%)
+[581]  0.0-10.0 sec  1 datagrams received out-of-order
+[583] local 0.0.0.0 port 60062 connected with 192.0.0.41 port 34137
+[583]  0.0-10.0 sec  8.35 MBytes  7.00 Mbits/sec   0.091 ms    0/ 5953 (0%)
+[583]  0.0-10.0 sec  1 datagrams received out-of-order
+[585] local 0.0.0.0 port 60062 connected with 192.0.0.41 port 50586
+[585]  0.0-10.0 sec  9.54 MBytes  8.00 Mbits/sec   0.230 ms    0/ 6803 (0%)
+[585]  0.0-10.0 sec  1 datagrams received out-of-order
+[587] local 0.0.0.0 port 60062 connected with 192.0.0.41 port 53794
+[587]  0.0-10.0 sec  5.96 MBytes  5.00 Mbits/sec   0.134 ms    0/ 4253 (0%)
+[589] local 0.0.0.0 port 60062 connected with 192.0.0.41 port 36574
+[589]  0.0-10.0 sec  7.15 MBytes  6.00 Mbits/sec   0.103 ms    0/ 5102 (0%)
+[589]  0.0-10.0 sec  1 datagrams received out-of-order
+[591] local 0.0.0.0 port 60062 connected with 192.0.0.41 port 40340
+[591]  0.0-10.0 sec  10.7 MBytes  9.00 Mbits/sec   0.100 ms    0/ 7657 (0%)
+[591]  0.0-10.0 sec  1 datagrams received out-of-order
+[593] local 0.0.0.0 port 60062 connected with 192.0.0.41 port 34338
+[593]  0.0-10.0 sec  5.96 MBytes  5.00 Mbits/sec   0.094 ms    0/ 4252 (0%)
+[593]  0.0-10.0 sec  1 datagrams received out-of-order
+[595] local 0.0.0.0 port 60062 connected with 192.0.0.41 port 41364
+[595]  0.0-10.0 sec  8.35 MBytes  7.00 Mbits/sec   0.128 ms    0/ 5953 (0%)
+[595]  0.0-10.0 sec  1 datagrams received out-of-order
+[597] local 0.0.0.0 port 60062 connected with 192.0.0.41 port 59845
+[597]  0.0-10.0 sec  7.16 MBytes  6.00 Mbits/sec   0.271 ms    0/ 5103 (0%)
+[597]  0.0-10.0 sec  1 datagrams received out-of-order
+[599] local 0.0.0.0 port 60062 connected with 192.0.0.41 port 43158
+[599]  0.0-10.0 sec  8.35 MBytes  7.00 Mbits/sec   0.118 ms    0/ 5953 (0%)
+[599]  0.0-10.0 sec  1 datagrams received out-of-order

@@ -1,0 +1,121 @@
+'''
+Created on May 9, 2016
+
+@author: cloud1
+'''
+'''
+Created on May 9, 2016
+
+@author: nimdrak
+'''
+import os
+import operator
+import sys
+import function_string_to_list
+
+#dirname=sys.argv[1] + '/'
+dirname='/home/cloud1/IoT/output_txt/another_topology_except_link_3/cap_45_n_30/10_30_2/s_m_0_to_20_e_0.03/'        
+
+filenames = os.listdir(dirname)
+#for filename in filenames:
+#    full_filename=os.path.join(dirname, filename)
+#    ext = os.path.splitext(full_filename)[-1]                           
+#    if ext == '.txt':
+        #print(full_filename)
+        
+file_name=[]
+loss_vector=[]
+file_loss_vector=[]
+all_loss_vector=[]
+sum_loss_vector=[]
+time_vector=[]
+data_number=0
+
+
+for (path, dir, files) in os.walk(dirname):
+    for filename in files:
+        ext = os.path.splitext(filename)[-1]
+#        print filename
+        if 'loss' in filename:
+            print("%s %s" % (path, filename));
+            
+            file_name.append(filename)
+
+#            print path+'/'+filename
+            bw_data=open(path+'/'+file_name[data_number],'r')
+            
+            
+            line=bw_data.readline()
+            line_split1=line.split('/')
+            line_split2=line_split1[1].split()
+            
+            loss_vector.append(line_split1[0].strip())
+            loss_vector.append(line_split2[0].strip())
+#            print loss_vector
+
+
+            file_loss_vector.append(loss_vector)
+#            print data_vector
+            loss_vector=[]
+            
+            while line:
+                line=bw_data.readline()
+                #print line
+                line_split1=line.split('/')
+                if line_split1[0]=='':
+                    break
+                
+                #print line_split1
+                line_split2=line_split1[1].split()
+
+                loss_vector.append(line_split1[0].strip())
+                loss_vector.append(line_split2[0].strip())
+
+                file_loss_vector.append(loss_vector)
+                loss_vector=[]
+                
+            data_number=data_number+1    
+            
+            #print data_vector
+            all_loss_vector.append(file_loss_vector)
+            file_loss_vector=[]
+            
+        
+#print all_loss_vector
+#print len(all_loss_vector)
+#print all_loss_vector[0]
+#print all_loss_vector[0][0]
+#print all_loss_vector[0][0][0]
+#print all_loss_vector[0][0][1]
+
+
+
+for i in range(0,len(all_loss_vector[0])):
+    sum_loss_vector.append([0, 0])
+
+
+
+for j in range(0,len(all_loss_vector[0])):
+    for i in range(0,data_number):
+        sum_loss_vector[j][0]=sum_loss_vector[j][0]+float(all_loss_vector[i][j][0])
+        sum_loss_vector[j][1]=sum_loss_vector[j][1]+float(all_loss_vector[i][j][1])
+
+print sum_loss_vector;
+
+
+nom=0
+denom=0
+for i in range(0,len(sum_loss_vector)):
+    nom=nom+sum_loss_vector[i][0]
+    denom=denom+sum_loss_vector[i][1]
+    
+print nom, denom
+
+#f_sum_result=open(dirname+'/'+'sum_result.txt','w')
+
+#for i in range(0,len(all_data_vector[0])):
+#    data = str(sum_data_vector[i]) + '\n'
+#    f_sum_result.write(data)
+    
+#f_sum_result.close()
+    

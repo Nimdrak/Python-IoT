@@ -1,0 +1,24 @@
+#!/bin/bash
+
+
+for p  in {1..100000};do
+
+/home/controller/IoT/arp_setting/arp_setting_con.sh
+
+#for q  in {1..30};do
+#/home/controller/IoT/arp_setting/arp_setting_con_wire.sh
+
+
+#echo wait 90 seconds
+#sleep 90
+#echo "p $p q $q"
+
+#done
+
+#/home/controller/IoT/arp_setting/arp_setting_con.sh
+echo "p $p"
+echo "wait 15 seconds"
+sleep 7
+
+done
+

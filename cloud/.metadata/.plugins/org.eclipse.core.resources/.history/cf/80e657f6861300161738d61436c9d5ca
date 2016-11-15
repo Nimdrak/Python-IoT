@@ -1,0 +1,18 @@
+'''
+Created on May 6, 2016
+
+@author: cloud1
+'''
+
+import function_string_to_list
+
+#######################
+#### load two file ####
+#######################
+f_length = open("/home/cloud1/IoT/link_length.txt",'r')
+
+line1=f_length.readline()    
+a=line1[1:-1].split(',').strip()
+
+
+print a[1]

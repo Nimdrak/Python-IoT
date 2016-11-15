@@ -1,0 +1,20 @@
+'''
+Created on Mar 24, 2016
+
+@author: nimdrak
+'''
+
+import requests
+import json
+from piston_mini_client.failhandlers import APIError
+
+
+username = 'karaf'
+password = 'karaf'
+
+
+resp = requests.delete("http://localhost:8181/onos/v1/flows/of:0000002500ec7e84/20829150382803931/",auth=(username,password))
+if resp.status_code != 200:
+    raise APIError('DEL_FLOW /tasks/ {}'.format(resp.status_code))
+
+

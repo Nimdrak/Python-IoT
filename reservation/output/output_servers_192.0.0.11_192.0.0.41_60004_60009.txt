@@ -1,0 +1,35 @@
+------------------------------------------------------------
+Server listening on UDP port 60004
+Receiving 1470 byte datagrams
+UDP buffer size: 0.20 MByte (default)
+------------------------------------------------------------
+[  1] local 0.0.0.0 port 60004 connected with 192.0.0.41 port 54678
+[ ID] Interval       Transfer     Bandwidth        Jitter   Lost/Total Datagrams
+[  1]  0.0-10.0 sec  9.54 MBytes  8.00 Mbits/sec   0.255 ms    0/ 6803 (0%)
+[  1] 0.00-10.00 sec  1 datagrams received out-of-order
+[  3] local 0.0.0.0 port 60004 connected with 192.0.0.41 port 40893
+[  3]  0.0-10.0 sec  13.1 MBytes  11.0 Mbits/sec   0.087 ms    0/ 9355 (0%)
+[  3] 0.00-10.00 sec  1 datagrams received out-of-order
+[  5] local 0.0.0.0 port 60004 connected with 192.0.0.41 port 33206
+[  5]  0.0-10.0 sec  15.5 MBytes  13.0 Mbits/sec   0.069 ms    0/11063 (0%)
+[  7] local 0.0.0.0 port 60004 connected with 192.0.0.41 port 60879
+[  7]  0.0-10.0 sec  16.7 MBytes  14.0 Mbits/sec   0.107 ms    0/11905 (0%)
+[  7] 0.00-10.00 sec  1 datagrams received out-of-order
+[  9] local 0.0.0.0 port 60004 connected with 192.0.0.41 port 59749
+[  9]  0.0-10.0 sec  14.3 MBytes  12.0 Mbits/sec   0.115 ms    0/10205 (0%)
+[  9] 0.00-10.00 sec  1 datagrams received out-of-order
+[ 11] local 0.0.0.0 port 60004 connected with 192.0.0.41 port 38166
+[ 11]  0.0-10.0 sec  16.7 MBytes  14.0 Mbits/sec   0.090 ms    0/11905 (0%)
+[ 11] 0.00-10.00 sec  1 datagrams received out-of-order
+[ 13] local 0.0.0.0 port 60004 connected with 192.0.0.41 port 51111
+[ 13]  0.0-10.0 sec  9.54 MBytes  8.00 Mbits/sec   0.052 ms    0/ 6803 (0%)
+[ 13] 0.00-10.00 sec  1 datagrams received out-of-order
+[ 15] local 0.0.0.0 port 60004 connected with 192.0.0.41 port 40909
+[ 15]  0.0-10.0 sec  9.54 MBytes  8.00 Mbits/sec   0.106 ms    0/ 6803 (0%)
+[ 15] 0.00-10.00 sec  1 datagrams received out-of-order
+[ 17] local 0.0.0.0 port 60004 connected with 192.0.0.41 port 39732
+[ 17]  0.0-10.0 sec  15.5 MBytes  13.0 Mbits/sec   0.070 ms    0/11062 (0%)
+[ 17] 0.00-10.00 sec  1 datagrams received out-of-order
+[ 19] local 0.0.0.0 port 60004 connected with 192.0.0.41 port 36501
+[ 19]  0.0-10.0 sec  10.7 MBytes  9.00 Mbits/sec   0.068 ms    0/ 7657 (0%)
+[ 19] 0.00-10.00 sec  1 datagrams received out-of-order

@@ -1,0 +1,90 @@
+'''
+Created on May 3, 2016
+
+@author: nimdrak
+'''
+####################
+#### File input ####
+####################
+import sys
+
+f = open("/home/cloud1/IoT/input.txt",'r')
+line=f.readline()
+result=line.split()
+
+src_ovs=result[0]
+dst_ovs=result[len(result)-1]
+
+need_server_ovs=[]
+need_server_ovs.append(result[0])
+need_server_ovs.append(result[len(result)-1])
+
+
+print "############################"
+print "#####check ovs's server#####"
+print "############################"
+print '\n'
+
+print "SRC'S OVS is ", src_ovs
+print "DST'S OVS is ", dst_ovs
+
+
+print '\n'
+
+#################################
+#### Calculate server per DC ####
+#################################
+
+
+max_host = 0
+f_cal = open("/home/cloud1/IoT/cloud/Rest_API_Python/HttpClient/server_table/OVS1.txt",'r')
+line_cal=f_cal.readline()
+
+while line_cal:
+    result_cal=line_cal.split()
+    line_cal=f_cal.readline()
+
+    max_host=max_host+1
+
+max_host = max_host -1   
+print "Server number is " + str(max_host)
+print '\n'
+
+######################################
+#### Find source OVS and dest OVS ####
+######################################
+
+print 'Check whether datacenter is full or not'
+index_vector=[0,0,0,4]
+
+for x in range(0,len(index_vector)):
+    if index_vector[x]== max_host:
+        print "Datacenter " + str(x+1) + " is full"
+        print "If you use DC 4, Admission control is impossible"
+print '\n'
+
+if index_vector[int(src_ovs)-1]==max_host:
+            print >> sys.stderr, "Because DC" +str(src_ovs)+"is full",", Admission control is impossible"
+if index_vector[int(dst_ovs)-1]==max_host:
+            print >> sys.stderr, "Because DC" +str(dst_ovs)+"is full",", Admission control is impossible"            
+
+
+##############################################
+#### Allocation of server at requested DC ####
+##############################################
+
+for x in range(0,len(need_server_ovs)):
+    
+    f_algo = open("/home/cloud1/IoT/cloud/Rest_API_Python/HttpClient/server_table/"+"OVS"+need_server_ovs[x]+".txt",'r')
+    line_algo=f_algo.readline()
+    need_server_vector=[]
+    
+    while line_algo:
+        result_algo=line_algo.split()
+        line_algo=f_algo.readline()
+        print result_algo
+
+    index_vector[int(need_server_ovs(x))] = index_vector[int(need_server_ovs(x))] + 1
+
+
+

@@ -1,0 +1,18 @@
+'''
+Created on May 9, 2016
+
+@author: nimdrak
+'''
+import os
+
+#def search(dirname):
+
+dirname='/home/cloud1/IoT/'        
+
+filenames = os.listdir(dirname)
+for filename in filenames:
+    full_filename=os.path.join(dirname, filename)
+
+
+print full_filename
+        

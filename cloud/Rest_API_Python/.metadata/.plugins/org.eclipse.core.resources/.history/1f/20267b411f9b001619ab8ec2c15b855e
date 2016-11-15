@@ -1,0 +1,78 @@
+import function_string_to_list
+from scipy.stats import norm
+import sys
+
+
+#######################
+#### load two file ####
+#######################
+f_mean = open("/home/controller/IoT/input_mean.txt",'r')
+
+
+line2=f_mean.readline()
+result=line2.split()
+
+
+mean=float(result[0])
+std_dev=float(result[1])
+
+
+alpha=(-1)*(mean/std_dev)
+alpha_tilt_phi=norm.pdf(alpha)
+alpha_phi=norm.cdf(alpha)
+
+
+trun_mean=mean+(std_dev)*(alpha_tilt_phi)/(1-alpha_phi)
+trun_var=pow(std_dev,2) * (1+ (alpha)*(alpha_tilt_phi)/(1-alpha_phi) - pow((alpha_tilt_phi)/(1-alpha_phi),2))
+
+result[0]=trun_mean
+result[1]=trun_var
+
+
+#### first line case
+final_output=[]
+output=[]
+
+output.append(result[0])
+output.append(result[1])       
+final_output.append(output)
+
+print output
+#### after first line
+while line2:
+    output=[]
+
+    line2=f_mean.readline()
+    result=line2.split()
+
+    if result ==[]:
+        break
+    
+    mean=float(result[0])
+    std_dev=float(result[1])
+    
+    
+    alpha=(-1)*(mean/std_dev)
+    alpha_tilt_phi=norm.pdf(alpha)
+    alpha_phi=norm.cdf(alpha)
+    
+    
+    trun_mean=mean+(std_dev)*(alpha_tilt_phi)/(1-alpha_phi)
+    trun_var=pow(std_dev,2) * (1+ (alpha)*(alpha_tilt_phi)/(1-alpha_phi) - pow((alpha_tilt_phi)/(1-alpha_phi),2))
+    
+    result[0]=trun_mean
+    result[1]=trun_var
+    
+
+    
+    output.append(result[0])
+    output.append(result[1])    
+    
+    print output
+    final_output.append(output)
+    output=[]
+    
+
+    
+print final_output
+

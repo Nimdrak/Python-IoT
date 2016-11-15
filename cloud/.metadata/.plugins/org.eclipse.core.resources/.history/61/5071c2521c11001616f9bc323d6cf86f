@@ -1,0 +1,162 @@
+'''
+Created on Mar 30, 2016
+
+@author: nimdrak
+'''
+
+
+def Allocation_routing_dst_port(algo_output = [], *args):
+
+####################
+###Initialization###
+####################
+    
+    dst_port_list = []
+    current = 0
+    after = 0
+
+    for a in range(1,len(algo_output)-1):
+        dst_port_list.append('DEFAULT')
+
+    
+######################################
+###giving a value to current, after###
+######################################
+    
+    for x in range(1,len(algo_output)-1):
+ 
+        current = algo_output[x]
+        after = algo_output[x+1]
+        print '\n'
+        print 'current:',current,',after:',after
+        
+##############################################
+###allocate routing dst port from OVS Table###
+##############################################
+
+        f = open("/home/cloud1/IoT/cloud/Rest_API_Python/HttpClient/table/"+"OVS"+current+".txt",'r')
+        line=f.readline()
+
+        while line:
+            result=line.split()
+            line=f.readline()
+            if not line:
+                break
+            
+            if result[0]==after:
+                dst_port_list[x-1] =result[2]
+                print 'According to after table','current OVS',current,'AND must have dst port :',dst_port_list[x-1]
+                break
+              
+###############################    
+### dealing with host case ####
+###############################    
+    
+    
+    for x in range(1,len(algo_output)-1):
+
+        current = algo_output[x]
+        after = algo_output[x+1]
+    
+
+        f = open("/home/cloud1/IoT/cloud/Rest_API_Python/HttpClient/table/"+"OVS"+current+".txt",'r')
+        line=f.readline()
+
+        if dst_port_list[x-1] =='DEFAULT': #because vector notation start at 0, x-1
+            while line:
+                line=f.readline()
+                result=line.split()           
+                if not line:
+                    break
+
+                if result[0]=='HOST':
+                    dst_port_list[x-1] = result[2]
+                    print 'According to after table','current OVS',current,'AND',after,'IS HOST.','so dst port :',dst_port_list[x-1]
+                    break
+    
+    print '\n'
+    print dst_port_list
+    
+    return dst_port_list
+
+
+def Allocation_routing_src_port(algo_output = [], *args):
+
+####################
+###Initialization###
+####################
+      
+    src_port_list = []
+    current = 0
+    ahead = 0
+
+    for a in range(1,len(algo_output)-1):
+        src_port_list.append('DEFAULT')
+
+    
+######################################
+###giving a value to current, after###
+######################################
+
+    for x in range(1,len(algo_output)-1):
+ 
+        current = algo_output[x]
+        ahead = algo_output[x-1]
+        print '\n'
+        print 'current:',current,',ahead:',ahead
+
+##############################################
+###allocate routing dst port from OVS Table###
+##############################################
+
+        f = open("/home/cloud1/IoT/cloud/Rest_API_Python/HttpClient/table/"+"OVS"+current+".txt",'r')
+        line=f.readline()
+
+        while line:
+            result=line.split()
+            line=f.readline()
+            if not line:
+                break
+            
+            if result[0]==ahead:
+                src_port_list[x-1] =result[2]
+                print 'According to after table','current OVS',current,'AND must have dst port :',src_port_list[x-1]
+                break
+  
+###############################    
+### dealing with host case ####
+###############################    
+    
+        
+    for x in range(1,len(algo_output)-1):
+
+        current = algo_output[x]
+        ahead = algo_output[x-1]
+    
+
+        f = open("/home/cloud1/IoT/cloud/Rest_API_Python/HttpClient/table/"+"OVS"+current+".txt",'r')
+        line=f.readline()
+
+        if src_port_list[x-1] =='DEFAULT':
+            while line:
+                line=f.readline()
+                result=line.split()
+                print result           
+
+                if result[0]=='HOST':
+                    src_port_list[x-1] = result[2]
+                    print 'According to after table','current OVS',current,'AND',ahead,'IS HOST.','so dst port :',src_port_list[x-1]
+                    break
+                    
+    print '\n'
+    print src_port_list
+    
+    return src_port_list
+
+
+
+
+
+Allocation_routing_src_port(['192.0.0.121/32', '2', '1', '3', '192.0.0.133/32'])
+
+            

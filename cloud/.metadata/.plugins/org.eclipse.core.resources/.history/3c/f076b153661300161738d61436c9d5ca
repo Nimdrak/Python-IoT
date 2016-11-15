@@ -1,0 +1,29 @@
+
+
+
+current = 0
+after = 0
+        
+for x in range(1,len(algo_output)-1):
+    current = algo_output[x]
+    after = algo_output[x+1]
+    print '\n'
+    print 'current:',current,',after:',after
+        
+##############################################
+###allocate routing dst port from OVS Table###
+##############################################
+
+    f = open("/home/cloud1/IoT/cloud/Rest_API_Python/HttpClient/table/LINK_TABLE.txt",'r')
+        line=f.readline()
+
+        while line:
+            result=line.split()
+            line=f.readline()
+            if not line:
+                break
+            
+            if result[0]==after:
+                dst_port_list[x-1] =result[2]
+                print 'According to after table','current OVS',current,'AND must have dst port :',dst_port_list[x-1]
+                break

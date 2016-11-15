@@ -1,0 +1,27 @@
+'''
+Created on Mar 31, 2016
+
+@author: nimdrak
+'''
+
+import function_allocation_routing_path
+import function_routing_rule_post
+import function_ovs_translation_from_number_to_id
+import sys
+import main2
+import function_allocation_server
+
+index_vector=[0,0,0,0]
+result=function_allocation_server.allocation_server_with_text_input(index_vector,'input.txt')    
+
+print len(result)
+print result[0]
+
+for x in range(0,len(result)):
+    main2.function_main(result[0])  
+    
+print index_vector  
+
+
+
+    

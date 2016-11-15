@@ -1,0 +1,540 @@
+------------------------------------------------------------
+Server listening on UDP port 60041
+Receiving 1470 byte datagrams
+UDP buffer size: 0.41 MByte (WARNING: requested 0.59 MByte)
+------------------------------------------------------------
+[  1] local 0.0.0.0 port 60041 connected with 192.0.0.134 port 60110
+[ ID] Interval       Transfer     Bandwidth        Jitter   Lost/Total  Latency avg/min/max/stdev PPS
+[  1] 0.00-10.00 sec  7.16 MBytes  6.00 Mbits/sec   0.142 ms    0/ 5104 (0%) 8337.138/8336.706/8341.950/116.707 ms  510 pps
+[  3] local 0.0.0.0 port 60041 connected with 192.0.0.134 port 55954
+[  3] 0.00-10.00 sec  8.35 MBytes  7.00 Mbits/sec   0.233 ms    0/ 5954 (0%) 8337.778/8337.377/8341.954/108.060 ms  595 pps
+[  5] local 0.0.0.0 port 60041 connected with 192.0.0.134 port 34265
+[  5] 0.00-10.00 sec  8.35 MBytes  7.00 Mbits/sec   0.151 ms    0/ 5954 (0%) 8338.433/8337.971/8342.873/108.071 ms  595 pps
+[  7] local 0.0.0.0 port 60041 connected with 192.0.0.134 port 45799
+[  7] 0.00-10.01 sec  4.77 MBytes  4.00 Mbits/sec   0.153 ms    0/ 3403 (0%) 8339.002/8338.641/8342.071/142.968 ms  340 pps
+[  9] local 0.0.0.0 port 60041 connected with 192.0.0.134 port 55649
+[  9] 0.00-10.00 sec  10.7 MBytes  9.00 Mbits/sec   0.117 ms    0/ 7655 (0%) 8339.650/8339.161/8346.815/95.325 ms  765 pps
+[ 11] local 0.0.0.0 port 60041 connected with 192.0.0.134 port 55452
+[ 11] 0.00-10.00 sec  9.54 MBytes  8.00 Mbits/sec   0.102 ms    0/ 6804 (0%) 8340.310/8339.757/8347.863/101.118 ms  680 pps
+------------------------------------------------------------
+Server listening on UDP port 60041
+Receiving 1470 byte datagrams
+UDP buffer size: 0.41 MByte (WARNING: requested 0.59 MByte)
+------------------------------------------------------------
+[  1] local 0.0.0.0 port 60041 connected with 192.0.0.134 port 40261
+[ ID] Interval       Transfer     Bandwidth        Jitter   Lost/Total  Latency avg/min/max/stdev PPS
+[  1] 0.00-10.00 sec  8.35 MBytes  7.00 Mbits/sec   0.133 ms    0/ 5954 (0%) 8341.173/8340.714/8348.642/108.105 ms  595 pps
+[  3] local 0.0.0.0 port 60041 connected with 192.0.0.134 port 39364
+[  3] 0.00-10.00 sec  7.16 MBytes  6.00 Mbits/sec   0.123 ms    0/ 5104 (0%) 8341.756/8341.278/8347.278/116.774 ms  510 pps
+[  5] local 0.0.0.0 port 60041 connected with 192.0.0.134 port 39747
+[  5] 0.00-10.00 sec  10.7 MBytes  9.00 Mbits/sec   0.119 ms    0/ 7655 (0%) 8342.353/8341.882/8347.881/95.354 ms  765 pps
+[  7] local 0.0.0.0 port 60041 connected with 192.0.0.134 port 51524
+[  7] 0.00-10.00 sec  7.16 MBytes  6.00 Mbits/sec   0.181 ms    0/ 5104 (0%) 8342.958/8342.450/8348.195/116.788 ms  510 pps
+[  9] local 0.0.0.0 port 60041 connected with 192.0.0.134 port 53453
+[  9] 0.00-10.01 sec  2.39 MBytes  2.00 Mbits/sec   0.153 ms    0/ 1702 (0%) 8343.571/8343.109/8346.622/202.294 ms  170 pps
+[ 11] local 0.0.0.0 port 60041 connected with 192.0.0.134 port 33693
+[ 11] 0.00-10.00 sec  9.54 MBytes  8.00 Mbits/sec   0.164 ms    0/ 6804 (0%) 8344.187/8343.676/8348.761/101.164 ms  680 pps
+------------------------------------------------------------
+Server listening on UDP port 60041
+Receiving 1470 byte datagrams
+UDP buffer size: 0.41 MByte (WARNING: requested 0.59 MByte)
+------------------------------------------------------------
+[  1] local 0.0.0.0 port 60041 connected with 192.0.0.134 port 40549
+[ ID] Interval       Transfer     Bandwidth        Jitter   Lost/Total  Latency avg/min/max/stdev PPS
+[  1] 0.00-10.00 sec  10.7 MBytes  9.00 Mbits/sec   0.130 ms    0/ 7655 (0%) 8344.984/8344.545/8350.017/95.383 ms  765 pps
+[  3] local 0.0.0.0 port 60041 connected with 192.0.0.134 port 50509
+[  3] 0.00-10.00 sec  9.54 MBytes  8.00 Mbits/sec   0.122 ms    0/ 6804 (0%) 8345.586/8345.146/8349.956/101.181 ms  680 pps
+[  5] local 0.0.0.0 port 60041 connected with 192.0.0.134 port 54845
+[  5] 0.00-10.01 sec  3.58 MBytes  3.00 Mbits/sec   0.110 ms    0/ 2553 (0%) 8346.197/8345.743/8349.306/165.209 ms  255 pps
+[  7] local 0.0.0.0 port 60041 connected with 192.0.0.134 port 52672
+[  7] 0.00-10.01 sec  4.77 MBytes  4.00 Mbits/sec   0.127 ms    0/ 3403 (0%) 8346.821/8346.289/8350.316/143.104 ms  340 pps
+[  9] local 0.0.0.0 port 60041 connected with 192.0.0.134 port 38059
+[  9] 0.00-10.01 sec  3.58 MBytes  3.00 Mbits/sec   0.131 ms    0/ 2553 (0%) 8347.418/8346.919/8350.940/165.237 ms  255 pps
+[ 11] local 0.0.0.0 port 60041 connected with 192.0.0.134 port 58057
+[ 11] 0.00-10.01 sec  4.77 MBytes  4.00 Mbits/sec   0.091 ms    0/ 3403 (0%) 8347.957/8347.477/8353.011/143.124 ms  340 pps
+------------------------------------------------------------
+Server listening on UDP port 60041
+Receiving 1470 byte datagrams
+UDP buffer size: 0.41 MByte (WARNING: requested 0.59 MByte)
+------------------------------------------------------------
+[  1] local 0.0.0.0 port 60041 connected with 192.0.0.134 port 50539
+[ ID] Interval       Transfer     Bandwidth        Jitter   Lost/Total  Latency avg/min/max/stdev PPS
+[  1] 0.00-10.00 sec  4.77 MBytes  4.00 Mbits/sec   0.165 ms    0/ 3403 (0%) 8348.901/8348.376/8352.498/143.138 ms  340 pps
+[  3] local 0.0.0.0 port 60041 connected with 192.0.0.134 port 35330
+[  3] 0.00-10.00 sec  7.16 MBytes  6.00 Mbits/sec   0.169 ms    0/ 5104 (0%) 8349.467/8348.955/8353.829/116.877 ms  510 pps
+[  5] local 0.0.0.0 port 60041 connected with 192.0.0.134 port 34359
+[  5] 0.00-10.00 sec  8.35 MBytes  7.00 Mbits/sec   0.189 ms    0/ 5954 (0%) 8350.070/8349.560/8353.258/108.221 ms  595 pps
+[  7] local 0.0.0.0 port 60041 connected with 192.0.0.134 port 48910
+[  7] 0.00-10.01 sec  3.58 MBytes  3.00 Mbits/sec   0.158 ms    0/ 2553 (0%) 8350.701/8350.207/8353.135/165.302 ms  255 pps
+[  9] local 0.0.0.0 port 60041 connected with 192.0.0.134 port 59140
+[  9] 0.00-10.00 sec  8.35 MBytes  7.00 Mbits/sec   0.127 ms    0/ 5954 (0%) 8351.300/8350.766/8357.244/108.237 ms  595 pps
+[ 11] local 0.0.0.0 port 60041 connected with 192.0.0.134 port 36174
+[ 11] 0.00-10.00 sec  8.35 MBytes  7.00 Mbits/sec   0.299 ms    0/ 5954 (0%) 8351.936/8351.434/8358.000/108.245 ms  595 pps
+------------------------------------------------------------
+Server listening on UDP port 60041
+Receiving 1470 byte datagrams
+UDP buffer size: 0.41 MByte (WARNING: requested 0.59 MByte)
+------------------------------------------------------------
+[  1] local 0.0.0.0 port 60041 connected with 192.0.0.134 port 48944
+[ ID] Interval       Transfer     Bandwidth        Jitter   Lost/Total  Latency avg/min/max/stdev PPS
+[  1] 0.00-10.00 sec  8.35 MBytes  7.00 Mbits/sec   0.142 ms    0/ 5954 (0%) 8352.860/8352.314/8357.103/108.257 ms  595 pps
+[  3] local 0.0.0.0 port 60041 connected with 192.0.0.134 port 49050
+[  3] 0.00-10.00 sec  8.35 MBytes  7.00 Mbits/sec   0.153 ms    0/ 5954 (0%) 8353.456/8352.929/8360.972/108.265 ms  595 pps
+[  5] local 0.0.0.0 port 60041 connected with 192.0.0.134 port 45039
+[  5] 0.00-10.01 sec  4.77 MBytes  4.00 Mbits/sec   0.117 ms    0/ 3403 (0%) 8353.950/8353.518/8358.638/143.220 ms  340 pps
+[  7] local 0.0.0.0 port 60041 connected with 192.0.0.134 port 42236
+[  7] 0.00-10.01 sec  4.77 MBytes  4.00 Mbits/sec   0.217 ms    0/ 3403 (0%) 8354.532/8354.057/8359.767/143.234 ms  340 pps
+[  9] local 0.0.0.0 port 60041 connected with 192.0.0.134 port 59533
+[  9] 0.00-10.00 sec  8.35 MBytes  7.00 Mbits/sec   0.182 ms    0/ 5954 (0%) 8355.286/8354.759/8358.915/108.289 ms  595 pps
+[ 11] local 0.0.0.0 port 60041 connected with 192.0.0.134 port 57421
+[ 11] 0.00-10.00 sec  7.16 MBytes  6.00 Mbits/sec   0.163 ms    0/ 5104 (0%) 8355.937/8355.389/8360.744/116.966 ms  510 pps
+------------------------------------------------------------
+Server listening on UDP port 60041
+Receiving 1470 byte datagrams
+UDP buffer size: 0.41 MByte (WARNING: requested 0.59 MByte)
+------------------------------------------------------------
+[  1] local 0.0.0.0 port 60041 connected with 192.0.0.134 port 36208
+[ ID] Interval       Transfer     Bandwidth        Jitter   Lost/Total  Latency avg/min/max/stdev PPS
+[  1] 0.00-10.00 sec  7.16 MBytes  6.00 Mbits/sec   0.190 ms    0/ 5104 (0%) 8356.788/8356.245/8360.094/116.982 ms  510 pps
+[  3] local 0.0.0.0 port 60041 connected with 192.0.0.134 port 40053
+[  3] 0.00-10.00 sec  9.54 MBytes  8.00 Mbits/sec   0.104 ms    0/ 6804 (0%) 8357.392/8356.789/8362.325/101.323 ms  680 pps
+[  5] local 0.0.0.0 port 60041 connected with 192.0.0.134 port 44895
+[  5] 0.00-10.00 sec  11.9 MBytes  10.0 Mbits/sec   0.131 ms    0/ 8505 (0%) 8357.970/8357.415/8364.634/90.632 ms  850 pps
+[  7] local 0.0.0.0 port 60041 connected with 192.0.0.134 port 36836
+[  7] 0.00-10.00 sec  4.77 MBytes  4.00 Mbits/sec   0.107 ms    0/ 3403 (0%) 8358.586/8358.061/8361.923/143.306 ms  340 pps
+[  9] local 0.0.0.0 port 60041 connected with 192.0.0.134 port 58431
+[  9] 0.00-10.00 sec  7.16 MBytes  6.00 Mbits/sec   0.289 ms    0/ 5104 (0%) 8359.151/8358.672/8366.057/117.014 ms  510 pps
+[ 11] local 0.0.0.0 port 60041 connected with 192.0.0.134 port 38792
+[ 11] 0.00-10.00 sec  8.35 MBytes  7.00 Mbits/sec   0.181 ms    0/ 5954 (0%) 8359.777/8359.213/8364.881/108.348 ms  595 pps
+------------------------------------------------------------
+Server listening on UDP port 60041
+Receiving 1470 byte datagrams
+UDP buffer size: 0.41 MByte (WARNING: requested 0.59 MByte)
+------------------------------------------------------------
+[  1] local 0.0.0.0 port 60041 connected with 192.0.0.134 port 32819
+[ ID] Interval       Transfer     Bandwidth        Jitter   Lost/Total  Latency avg/min/max/stdev PPS
+[  1] 0.00-10.00 sec  7.16 MBytes  6.00 Mbits/sec   0.125 ms    0/ 5104 (0%) 8360.576/8360.036/8365.127/117.035 ms  510 pps
+[  3] local 0.0.0.0 port 60041 connected with 192.0.0.134 port 53760
+[  3] 0.00-10.00 sec  9.54 MBytes  8.00 Mbits/sec   0.122 ms    0/ 6804 (0%) 8361.192/8360.721/8366.233/101.370 ms  680 pps
+[  5] local 0.0.0.0 port 60041 connected with 192.0.0.134 port 41568
+[  5] 0.00-10.00 sec  5.96 MBytes  5.00 Mbits/sec   0.101 ms    0/ 4253 (0%) 8361.677/8361.158/8365.720/128.230 ms  425 pps
+[  7] local 0.0.0.0 port 60041 connected with 192.0.0.134 port 52569
+[  7] 0.00-10.00 sec  5.96 MBytes  5.00 Mbits/sec   0.104 ms    0/ 4253 (0%) 8362.318/8361.781/8365.280/128.240 ms  425 pps
+[  9] local 0.0.0.0 port 60041 connected with 192.0.0.134 port 45778
+[  9] 0.00-10.00 sec  8.35 MBytes  7.00 Mbits/sec   0.109 ms    0/ 5954 (0%) 8362.897/8362.362/8368.963/108.386 ms  595 pps
+[ 11] local 0.0.0.0 port 60041 connected with 192.0.0.134 port 41586
+[ 11] 0.00-10.00 sec  8.35 MBytes  7.00 Mbits/sec   0.086 ms    0/ 5954 (0%) 8363.511/8362.942/8368.462/108.396 ms  595 pps
+------------------------------------------------------------
+Server listening on UDP port 60041
+Receiving 1470 byte datagrams
+UDP buffer size: 0.41 MByte (WARNING: requested 0.59 MByte)
+------------------------------------------------------------
+[  1] local 0.0.0.0 port 60041 connected with 192.0.0.134 port 36776
+[ ID] Interval       Transfer     Bandwidth        Jitter   Lost/Total  Latency avg/min/max/stdev PPS
+[  1] 0.00-10.00 sec  8.35 MBytes  7.00 Mbits/sec   0.192 ms    0/ 5954 (0%) 8364.396/8363.893/8370.148/108.406 ms  595 pps
+[  3] local 0.0.0.0 port 60041 connected with 192.0.0.134 port 60189
+[  3] 0.00-10.00 sec  4.77 MBytes  4.00 Mbits/sec   0.115 ms    0/ 3403 (0%) 8364.980/8364.441/8371.003/143.413 ms  340 pps
+[  5] local 0.0.0.0 port 60041 connected with 192.0.0.134 port 46857
+[  5] 0.00-10.00 sec  9.54 MBytes  8.00 Mbits/sec   0.095 ms    0/ 6804 (0%) 8365.566/8365.006/8369.428/101.422 ms  680 pps
+[  7] local 0.0.0.0 port 60041 connected with 192.0.0.134 port 49846
+[  7] 0.00-10.00 sec  5.96 MBytes  5.00 Mbits/sec   0.206 ms    0/ 4253 (0%) 8366.145/8365.669/8369.629/128.297 ms  425 pps
+[  9] local 0.0.0.0 port 60041 connected with 192.0.0.134 port 46619
+[  9] 0.00-10.00 sec  7.16 MBytes  6.00 Mbits/sec   0.115 ms    0/ 5104 (0%) 8366.716/8366.229/8373.695/117.121 ms  510 pps
+[ 11] local 0.0.0.0 port 60041 connected with 192.0.0.134 port 47249
+[ 11] 0.00-10.00 sec  8.35 MBytes  7.00 Mbits/sec   0.110 ms    0/ 5954 (0%) 8367.368/8366.818/8372.758/108.445 ms  595 pps
+------------------------------------------------------------
+Server listening on UDP port 60041
+Receiving 1470 byte datagrams
+UDP buffer size: 0.41 MByte (WARNING: requested 0.59 MByte)
+------------------------------------------------------------
+[  1] local 0.0.0.0 port 60041 connected with 192.0.0.134 port 42614
+[ ID] Interval       Transfer     Bandwidth        Jitter   Lost/Total  Latency avg/min/max/stdev PPS
+[  1] 0.00-10.00 sec  10.7 MBytes  9.00 Mbits/sec   0.137 ms    0/ 7655 (0%) 8368.228/8367.649/8372.318/95.650 ms  765 pps
+[  3] local 0.0.0.0 port 60041 connected with 192.0.0.134 port 58460
+[  3] 0.00-10.00 sec  7.16 MBytes  6.00 Mbits/sec   0.273 ms    0/ 5104 (0%) 8368.768/8368.278/8373.461/117.151 ms  510 pps
+[  5] local 0.0.0.0 port 60041 connected with 192.0.0.134 port 47127
+[  5] 0.00-10.00 sec  5.96 MBytes  5.00 Mbits/sec   0.148 ms    0/ 4253 (0%) 8369.323/8368.765/8372.608/128.346 ms  425 pps
+[  7] local 0.0.0.0 port 60041 connected with 192.0.0.134 port 39111
+[  7] 0.00-10.00 sec  8.35 MBytes  7.00 Mbits/sec   0.184 ms    0/ 5954 (0%) 8369.944/8369.400/8373.651/108.477 ms  595 pps
+[  9] local 0.0.0.0 port 60041 connected with 192.0.0.134 port 38520
+[  9] 0.00-10.00 sec  8.35 MBytes  7.00 Mbits/sec   0.148 ms    0/ 5954 (0%) 8370.498/8370.003/8376.068/108.483 ms  595 pps
+[ 11] local 0.0.0.0 port 60041 connected with 192.0.0.134 port 43341
+[ 11] 0.00-10.00 sec  8.35 MBytes  7.00 Mbits/sec   0.194 ms    0/ 5954 (0%) 8371.202/8370.648/8376.083/108.498 ms  595 pps
+------------------------------------------------------------
+Server listening on UDP port 60041
+Receiving 1470 byte datagrams
+UDP buffer size: 0.41 MByte (WARNING: requested 0.59 MByte)
+------------------------------------------------------------
+[  1] local 0.0.0.0 port 60041 connected with 192.0.0.134 port 52485
+[ ID] Interval       Transfer     Bandwidth        Jitter   Lost/Total  Latency avg/min/max/stdev PPS
+[  1] 0.00-10.00 sec  4.77 MBytes  4.00 Mbits/sec   0.146 ms    0/ 3403 (0%) 8372.022/8371.503/8377.111/143.528 ms  340 pps
+[  3] local 0.0.0.0 port 60041 connected with 192.0.0.134 port 45583
+[  3] 0.00-10.00 sec  9.54 MBytes  8.00 Mbits/sec   0.139 ms    0/ 6804 (0%) 8372.598/8372.070/8378.845/101.507 ms  680 pps
+[  5] local 0.0.0.0 port 60041 connected with 192.0.0.134 port 49131
+[  5] 0.00-10.00 sec  8.35 MBytes  7.00 Mbits/sec   0.117 ms    0/ 5954 (0%) 8373.172/8372.604/8381.043/108.517 ms  595 pps
+[  7] local 0.0.0.0 port 60041 connected with 192.0.0.134 port 34998
+[  7] 0.00-10.00 sec  10.7 MBytes  9.00 Mbits/sec   0.093 ms    0/ 7655 (0%) 8373.773/8373.227/8381.536/95.711 ms  765 pps
+[  9] local 0.0.0.0 port 60041 connected with 192.0.0.134 port 56498
+[  9] 0.00-10.00 sec  8.35 MBytes  7.00 Mbits/sec   0.159 ms    0/ 5954 (0%) 8374.291/8373.786/8379.294/108.536 ms  595 pps
+[ 11] local 0.0.0.0 port 60041 connected with 192.0.0.134 port 57378
+[ 11] 0.00-10.00 sec  8.35 MBytes  7.00 Mbits/sec   0.132 ms    0/ 5954 (0%) 8374.953/8374.401/8382.258/108.546 ms  595 pps
+------------------------------------------------------------
+Server listening on UDP port 60041
+Receiving 1470 byte datagrams
+UDP buffer size: 0.41 MByte (WARNING: requested 0.59 MByte)
+------------------------------------------------------------
+[  1] local 0.0.0.0 port 60041 connected with 192.0.0.134 port 48005
+[ ID] Interval       Transfer     Bandwidth        Jitter   Lost/Total  Latency avg/min/max/stdev PPS
+[  1] 0.00-10.00 sec  11.9 MBytes  10.0 Mbits/sec   0.186 ms    0/ 8505 (0%) 8375.749/8375.271/8380.607/90.826 ms  850 pps
+[  3] local 0.0.0.0 port 60041 connected with 192.0.0.134 port 43855
+[  3] 0.00-10.00 sec  7.16 MBytes  6.00 Mbits/sec   0.121 ms    0/ 5104 (0%) 8376.425/8375.866/8384.082/117.255 ms  510 pps
+[  5] local 0.0.0.0 port 60041 connected with 192.0.0.134 port 35520
+[  5] 0.00-10.00 sec  8.35 MBytes  7.00 Mbits/sec   0.171 ms    0/ 5954 (0%) 8376.930/8376.413/8380.673/108.572 ms  595 pps
+[  7] local 0.0.0.0 port 60041 connected with 192.0.0.134 port 43922
+[  7] 0.00-10.00 sec  9.54 MBytes  8.00 Mbits/sec   0.221 ms    0/ 6804 (0%) 8377.540/8376.985/8384.230/101.568 ms  680 pps
+[  9] local 0.0.0.0 port 60041 connected with 192.0.0.134 port 43150
+[  9] 0.00-10.01 sec  3.58 MBytes  3.00 Mbits/sec   0.140 ms    0/ 2553 (0%) 8378.105/8377.677/8384.526/165.843 ms  255 pps
+[ 11] local 0.0.0.0 port 60041 connected with 192.0.0.134 port 34175
+[ 11] 0.00-10.00 sec  5.96 MBytes  5.00 Mbits/sec   0.141 ms    0/ 4253 (0%) 8378.738/8378.250/8384.443/128.493 ms  425 pps
+------------------------------------------------------------
+Server listening on UDP port 60041
+Receiving 1470 byte datagrams
+UDP buffer size: 0.41 MByte (WARNING: requested 0.59 MByte)
+------------------------------------------------------------
+[  1] local 0.0.0.0 port 60041 connected with 192.0.0.134 port 51389
+[ ID] Interval       Transfer     Bandwidth        Jitter   Lost/Total  Latency avg/min/max/stdev PPS
+[  1] 0.00-10.00 sec  7.16 MBytes  6.00 Mbits/sec   0.187 ms    0/ 5104 (0%) 8379.589/8379.136/8386.770/117.302 ms  510 pps
+[  3] local 0.0.0.0 port 60041 connected with 192.0.0.134 port 56301
+[  3] 0.00-10.00 sec  7.16 MBytes  6.00 Mbits/sec   0.127 ms    0/ 5104 (0%) 8380.205/8379.657/8383.977/117.311 ms  510 pps
+[  5] local 0.0.0.0 port 60041 connected with 192.0.0.134 port 46926
+[  5] 0.00-10.00 sec  9.54 MBytes  8.00 Mbits/sec   0.150 ms    0/ 6804 (0%) 8380.786/8380.303/8386.559/101.606 ms  680 pps
+[  7] local 0.0.0.0 port 60041 connected with 192.0.0.134 port 55536
+[  7] 0.00-10.00 sec  7.16 MBytes  6.00 Mbits/sec   0.143 ms    0/ 5104 (0%) 8381.327/8380.877/8383.287/117.331 ms  510 pps
+[  9] local 0.0.0.0 port 60041 connected with 192.0.0.134 port 36884
+[  9] 0.00-10.00 sec  5.96 MBytes  5.00 Mbits/sec   0.127 ms    0/ 4253 (0%) 8381.904/8381.450/8387.675/128.545 ms  425 pps
+[ 11] local 0.0.0.0 port 60041 connected with 192.0.0.134 port 33595
+[ 11] 0.00-10.00 sec  9.54 MBytes  8.00 Mbits/sec   0.112 ms    0/ 6804 (0%) 8382.560/8381.992/8388.121/101.632 ms  680 pps
+------------------------------------------------------------
+Server listening on UDP port 60041
+Receiving 1470 byte datagrams
+UDP buffer size: 0.41 MByte (WARNING: requested 0.59 MByte)
+------------------------------------------------------------
+[  1] local 0.0.0.0 port 60041 connected with 192.0.0.134 port 39124
+[ ID] Interval       Transfer     Bandwidth        Jitter   Lost/Total  Latency avg/min/max/stdev PPS
+[  1] 0.00-10.00 sec  11.9 MBytes  10.0 Mbits/sec   0.163 ms    0/ 8505 (0%) 8383.372/8382.919/8388.511/90.910 ms  850 pps
+[  3] local 0.0.0.0 port 60041 connected with 192.0.0.134 port 43492
+[  3] 0.00-10.00 sec  11.9 MBytes  10.0 Mbits/sec   0.121 ms    0/ 8505 (0%) 8384.026/8383.496/8391.139/90.916 ms  850 pps
+[  5] local 0.0.0.0 port 60041 connected with 192.0.0.134 port 51329
+[  5] 0.00-10.00 sec  9.54 MBytes  8.00 Mbits/sec   0.149 ms    0/ 6804 (0%) 8384.514/8384.054/8391.267/101.651 ms  680 pps
+[  7] local 0.0.0.0 port 60041 connected with 192.0.0.134 port 53178
+[  7] 0.00-10.00 sec  5.96 MBytes  5.00 Mbits/sec   0.159 ms    0/ 4253 (0%) 8385.119/8384.600/8392.876/128.588 ms  425 pps
+[  9] local 0.0.0.0 port 60041 connected with 192.0.0.134 port 54271
+[  9] 0.00-10.00 sec  7.16 MBytes  6.00 Mbits/sec   0.126 ms    0/ 5104 (0%) 8385.747/8385.223/8389.268/117.386 ms  510 pps
+[ 11] local 0.0.0.0 port 60041 connected with 192.0.0.134 port 49826
+[ 11] 0.00-10.00 sec  7.16 MBytes  6.00 Mbits/sec   0.172 ms    0/ 5104 (0%) 8386.376/8385.836/8394.091/117.397 ms  510 pps
+------------------------------------------------------------
+Server listening on UDP port 60041
+Receiving 1470 byte datagrams
+UDP buffer size: 0.41 MByte (WARNING: requested 0.59 MByte)
+------------------------------------------------------------
+[  1] local 0.0.0.0 port 60041 connected with 192.0.0.134 port 57670
+[ ID] Interval       Transfer     Bandwidth        Jitter   Lost/Total  Latency avg/min/max/stdev PPS
+[  1] 0.00-10.00 sec  10.7 MBytes  9.00 Mbits/sec   0.128 ms    0/ 7655 (0%) 8387.157/8386.705/8392.784/95.868 ms  765 pps
+[  3] local 0.0.0.0 port 60041 connected with 192.0.0.134 port 49992
+[  3] 0.00-10.00 sec  7.16 MBytes  6.00 Mbits/sec   0.219 ms    0/ 5104 (0%) 8387.822/8387.282/8391.674/117.418 ms  510 pps
+[  5] local 0.0.0.0 port 60041 connected with 192.0.0.134 port 38581
+[  5] 0.00-10.00 sec  4.77 MBytes  4.00 Mbits/sec   0.192 ms    0/ 3403 (0%) 8388.403/8387.949/8397.053/143.811 ms  340 pps
+[  7] local 0.0.0.0 port 60041 connected with 192.0.0.134 port 47756
+[  7] 0.00-10.00 sec  10.7 MBytes  9.00 Mbits/sec   0.114 ms    0/ 7655 (0%) 8388.955/8388.460/8393.796/95.885 ms  765 pps
+[  9] local 0.0.0.0 port 60041 connected with 192.0.0.134 port 48010
+[  9] 0.00-10.00 sec  8.35 MBytes  7.00 Mbits/sec   0.145 ms    0/ 5954 (0%) 8389.503/8388.998/8396.449/108.733 ms  595 pps
+[ 11] local 0.0.0.0 port 60041 connected with 192.0.0.134 port 56546
+[ 11] 0.00-10.00 sec  11.9 MBytes  10.0 Mbits/sec   0.141 ms    0/ 8505 (0%) 8390.108/8389.575/8394.934/90.979 ms  850 pps
+------------------------------------------------------------
+Server listening on UDP port 60041
+Receiving 1470 byte datagrams
+UDP buffer size: 0.41 MByte (WARNING: requested 0.59 MByte)
+------------------------------------------------------------
+[  1] local 0.0.0.0 port 60041 connected with 192.0.0.134 port 59083
+[ ID] Interval       Transfer     Bandwidth        Jitter   Lost/Total  Latency avg/min/max/stdev PPS
+[  1] 0.00-10.00 sec  8.35 MBytes  7.00 Mbits/sec   0.114 ms    0/ 5954 (0%) 8390.899/8390.464/8394.286/108.749 ms  595 pps
+[  3] local 0.0.0.0 port 60041 connected with 192.0.0.134 port 46599
+[  3] 0.00-10.00 sec  8.35 MBytes  7.00 Mbits/sec   0.174 ms    0/ 5954 (0%) 8391.496/8391.026/8398.721/108.758 ms  595 pps
+[  5] local 0.0.0.0 port 60041 connected with 192.0.0.134 port 40994
+[  5] 0.00-10.01 sec  2.39 MBytes  2.00 Mbits/sec   0.099 ms    0/ 1702 (0%) 8392.125/8391.737/8397.754/203.477 ms  170 pps
+[  7] local 0.0.0.0 port 60041 connected with 192.0.0.134 port 60665
+[  7] 0.00-10.00 sec  8.35 MBytes  7.00 Mbits/sec   0.194 ms    0/ 5954 (0%) 8392.699/8392.229/8396.757/108.777 ms  595 pps
+[  9] local 0.0.0.0 port 60041 connected with 192.0.0.134 port 53974
+[  9] 0.00-10.00 sec  5.96 MBytes  5.00 Mbits/sec   0.311 ms    0/ 4253 (0%) 8393.319/8392.792/8396.828/128.716 ms  425 pps
+[ 11] local 0.0.0.0 port 60041 connected with 192.0.0.134 port 55915
+[ 11] 0.00-10.00 sec  7.15 MBytes  6.00 Mbits/sec   0.146 ms    0/ 5103 (0%) 8393.856/8393.372/8397.952/117.512 ms  510 pps
+------------------------------------------------------------
+Server listening on UDP port 60041
+Receiving 1470 byte datagrams
+UDP buffer size: 0.41 MByte (WARNING: requested 0.59 MByte)
+------------------------------------------------------------
+[  1] local 0.0.0.0 port 60041 connected with 192.0.0.134 port 36788
+[ ID] Interval       Transfer     Bandwidth        Jitter   Lost/Total  Latency avg/min/max/stdev PPS
+[  1] 0.00-10.00 sec  7.16 MBytes  6.00 Mbits/sec   0.167 ms    0/ 5104 (0%) 8394.702/8394.154/8397.745/117.512 ms  510 pps
+[  3] local 0.0.0.0 port 60041 connected with 192.0.0.134 port 46930
+[  3] 0.00-10.00 sec  8.35 MBytes  7.00 Mbits/sec   0.176 ms    0/ 5954 (0%) 8395.312/8394.814/8401.060/108.807 ms  595 pps
+[  5] local 0.0.0.0 port 60041 connected with 192.0.0.134 port 59966
+[  5] 0.00-10.00 sec  9.54 MBytes  8.00 Mbits/sec   0.136 ms    0/ 6804 (0%) 8395.914/8395.448/8402.703/101.790 ms  680 pps
+[  7] local 0.0.0.0 port 60041 connected with 192.0.0.134 port 48156
+[  7] 0.00-10.00 sec  9.54 MBytes  8.00 Mbits/sec   0.106 ms    0/ 6804 (0%) 8396.509/8395.987/8401.944/101.800 ms  680 pps
+[  9] local 0.0.0.0 port 60041 connected with 192.0.0.134 port 47082
+[  9] 0.00-10.01 sec  3.58 MBytes  3.00 Mbits/sec   0.233 ms    0/ 2553 (0%) 8397.054/8396.577/8401.749/166.215 ms  255 pps
+[ 11] local 0.0.0.0 port 60041 connected with 192.0.0.134 port 60688
+[ 11] 0.00-10.00 sec  10.7 MBytes  9.00 Mbits/sec   0.114 ms    0/ 7655 (0%) 8397.711/8397.165/8403.702/95.987 ms  765 pps
+------------------------------------------------------------
+Server listening on UDP port 60041
+Receiving 1470 byte datagrams
+UDP buffer size: 0.41 MByte (WARNING: requested 0.59 MByte)
+------------------------------------------------------------
+[  1] local 0.0.0.0 port 60041 connected with 192.0.0.134 port 37256
+[ ID] Interval       Transfer     Bandwidth        Jitter   Lost/Total  Latency avg/min/max/stdev PPS
+[  1] 0.00-10.00 sec  5.96 MBytes  5.00 Mbits/sec   0.138 ms    0/ 4253 (0%) 8398.486/8398.053/8401.358/128.795 ms  425 pps
+[  3] local 0.0.0.0 port 60041 connected with 192.0.0.134 port 53061
+[  3] 0.00-10.00 sec  5.96 MBytes  5.00 Mbits/sec   0.123 ms    0/ 4253 (0%) 8399.067/8398.651/8403.320/128.804 ms  425 pps
+[  5] local 0.0.0.0 port 60041 connected with 192.0.0.134 port 54559
+[  5] 0.00-10.00 sec  9.54 MBytes  8.00 Mbits/sec   0.143 ms    0/ 6804 (0%) 8399.737/8399.250/8405.107/101.837 ms  680 pps
+[  7] local 0.0.0.0 port 60041 connected with 192.0.0.134 port 42562
+[  7] 0.00-10.00 sec  13.1 MBytes  11.0 Mbits/sec   0.148 ms    0/ 9355 (0%) 8400.357/8399.827/8408.082/86.856 ms  935 pps
+[  9] local 0.0.0.0 port 60041 connected with 192.0.0.134 port 38910
+[  9] 0.00-10.00 sec  7.15 MBytes  6.00 Mbits/sec   0.094 ms    0/ 5103 (0%) 8400.926/8400.413/8405.557/117.611 ms  510 pps
+[ 11] local 0.0.0.0 port 60041 connected with 192.0.0.134 port 35002
+[ 11] 0.00-10.00 sec  7.16 MBytes  6.00 Mbits/sec   0.200 ms    0/ 5104 (0%) 8401.528/8400.991/8407.215/117.609 ms  510 pps
+------------------------------------------------------------
+Server listening on UDP port 60041
+Receiving 1470 byte datagrams
+UDP buffer size: 0.41 MByte (WARNING: requested 0.59 MByte)
+------------------------------------------------------------
+[  1] local 0.0.0.0 port 60041 connected with 192.0.0.134 port 55991
+[ ID] Interval       Transfer     Bandwidth        Jitter   Lost/Total  Latency avg/min/max/stdev PPS
+[  1] 0.00-10.00 sec  8.35 MBytes  7.00 Mbits/sec   0.215 ms    0/ 5954 (0%) 8402.312/8401.845/8406.213/108.895 ms  595 pps
+[  3] local 0.0.0.0 port 60041 connected with 192.0.0.134 port 41869
+[  3] 0.00-10.00 sec  10.7 MBytes  9.00 Mbits/sec   0.150 ms    0/ 7655 (0%) 8402.913/8402.421/8412.810/96.047 ms  765 pps
+[  5] local 0.0.0.0 port 60041 connected with 192.0.0.134 port 44344
+[  5] 0.00-10.00 sec  5.96 MBytes  5.00 Mbits/sec   0.248 ms    0/ 4253 (0%) 8403.509/8403.029/8407.850/128.871 ms  425 pps
+[  7] local 0.0.0.0 port 60041 connected with 192.0.0.134 port 55966
+[  7] 0.00-10.00 sec  7.16 MBytes  6.00 Mbits/sec   0.108 ms    0/ 5104 (0%) 8404.142/8403.663/8407.629/117.643 ms  510 pps
+[  9] local 0.0.0.0 port 60041 connected with 192.0.0.134 port 48228
+[  9] 0.00-10.00 sec  11.9 MBytes  10.0 Mbits/sec   0.158 ms    0/ 8505 (0%) 8404.685/8404.190/8409.160/91.138 ms  850 pps
+[ 11] local 0.0.0.0 port 60041 connected with 192.0.0.134 port 48690
+[ 11] 0.00-10.01 sec  3.58 MBytes  3.00 Mbits/sec   0.165 ms    0/ 2553 (0%) 8405.340/8404.792/8408.976/166.386 ms  255 pps
+------------------------------------------------------------
+Server listening on UDP port 60041
+Receiving 1470 byte datagrams
+UDP buffer size: 0.41 MByte (WARNING: requested 0.59 MByte)
+------------------------------------------------------------
+[  1] local 0.0.0.0 port 60041 connected with 192.0.0.134 port 38606
+[ ID] Interval       Transfer     Bandwidth        Jitter   Lost/Total  Latency avg/min/max/stdev PPS
+[  1] 0.00-10.01 sec  4.77 MBytes  4.00 Mbits/sec   0.104 ms    0/ 3403 (0%) 8406.185/8405.631/8409.301/144.124 ms  340 pps
+[  3] local 0.0.0.0 port 60041 connected with 192.0.0.134 port 49512
+[  3] 0.00-10.00 sec  4.77 MBytes  4.00 Mbits/sec   0.149 ms    0/ 3403 (0%) 8406.719/8406.239/8411.531/144.130 ms  340 pps
+[  5] local 0.0.0.0 port 60041 connected with 192.0.0.134 port 40502
+[  5] 0.00-10.00 sec  5.96 MBytes  5.00 Mbits/sec   0.159 ms    0/ 4253 (0%) 8407.358/8406.847/8413.503/128.930 ms  425 pps
+[  7] local 0.0.0.0 port 60041 connected with 192.0.0.134 port 36707
+[  7] 0.00-10.00 sec  8.35 MBytes  7.00 Mbits/sec   0.128 ms    0/ 5954 (0%) 8407.915/8407.396/8412.975/108.970 ms  595 pps
+[  9] local 0.0.0.0 port 60041 connected with 192.0.0.134 port 41337
+[  9] 0.00-10.00 sec  5.96 MBytes  5.00 Mbits/sec   0.209 ms    0/ 4253 (0%) 8408.507/8407.976/8412.553/128.948 ms  425 pps
+[ 11] local 0.0.0.0 port 60041 connected with 192.0.0.134 port 59169
+[ 11] 0.00-10.00 sec  8.35 MBytes  7.00 Mbits/sec   0.122 ms    0/ 5954 (0%) 8409.120/8408.556/8416.314/108.985 ms  595 pps
+------------------------------------------------------------
+Server listening on UDP port 60041
+Receiving 1470 byte datagrams
+UDP buffer size: 0.41 MByte (WARNING: requested 0.59 MByte)
+------------------------------------------------------------
+[  1] local 0.0.0.0 port 60041 connected with 192.0.0.134 port 52756
+[ ID] Interval       Transfer     Bandwidth        Jitter   Lost/Total  Latency avg/min/max/stdev PPS
+[  1] 0.00-10.00 sec  7.16 MBytes  6.00 Mbits/sec   0.150 ms    0/ 5104 (0%) 8409.897/8409.416/8415.359/117.726 ms  510 pps
+[  3] local 0.0.0.0 port 60041 connected with 192.0.0.134 port 51687
+[  3] 0.00-10.00 sec  5.96 MBytes  5.00 Mbits/sec   0.109 ms    0/ 4253 (0%) 8410.531/8410.041/8416.814/128.979 ms  425 pps
+[  5] local 0.0.0.0 port 60041 connected with 192.0.0.134 port 41300
+[  5] 0.00-10.01 sec  3.58 MBytes  3.00 Mbits/sec   0.205 ms    0/ 2553 (0%) 8411.053/8410.581/8414.759/166.493 ms  255 pps
+[  7] local 0.0.0.0 port 60041 connected with 192.0.0.134 port 54033
+[  7] 0.00-10.00 sec  10.7 MBytes  9.00 Mbits/sec   0.116 ms    0/ 7654 (0%) 8411.676/8411.179/8421.061/96.152 ms  765 pps
+[  9] local 0.0.0.0 port 60041 connected with 192.0.0.134 port 59353
+[  9] 0.00-10.00 sec  5.96 MBytes  5.00 Mbits/sec   0.129 ms    0/ 4253 (0%) 8412.179/8411.739/8420.070/129.005 ms  425 pps
+[ 11] local 0.0.0.0 port 60041 connected with 192.0.0.134 port 47228
+[ 11] 0.00-10.00 sec  5.96 MBytes  5.00 Mbits/sec   0.191 ms    0/ 4253 (0%) 8412.799/8412.310/8416.289/129.017 ms  425 pps
+------------------------------------------------------------
+Server listening on UDP port 60041
+Receiving 1470 byte datagrams
+UDP buffer size: 0.41 MByte (WARNING: requested 0.59 MByte)
+------------------------------------------------------------
+[  1] local 0.0.0.0 port 60041 connected with 192.0.0.134 port 50774
+[ ID] Interval       Transfer     Bandwidth        Jitter   Lost/Total  Latency avg/min/max/stdev PPS
+[  1] 0.00-10.01 sec  2.39 MBytes  2.00 Mbits/sec   0.162 ms    0/ 1702 (0%) 8413.675/8413.265/8417.232/203.995 ms  170 pps
+[  3] local 0.0.0.0 port 60041 connected with 192.0.0.134 port 53348
+[  3] 0.00-10.00 sec  8.35 MBytes  7.00 Mbits/sec   0.455 ms    0/ 5954 (0%) 8414.301/8413.822/8419.228/109.052 ms  595 pps
+[  5] local 0.0.0.0 port 60041 connected with 192.0.0.134 port 50693
+[  5] 0.00-10.00 sec  8.35 MBytes  7.00 Mbits/sec   0.079 ms    0/ 5954 (0%) 8414.902/8414.380/8421.496/109.063 ms  595 pps
+[  7] local 0.0.0.0 port 60041 connected with 192.0.0.134 port 35325
+[  7] 0.00-10.00 sec  8.35 MBytes  7.00 Mbits/sec   0.170 ms    0/ 5954 (0%) 8415.532/8415.009/8420.784/109.072 ms  595 pps
+[  9] local 0.0.0.0 port 60041 connected with 192.0.0.134 port 60799
+[  9] 0.00-10.00 sec  7.16 MBytes  6.00 Mbits/sec   0.135 ms    0/ 5104 (0%) 8416.063/8415.563/8420.611/117.813 ms  510 pps
+[ 11] local 0.0.0.0 port 60041 connected with 192.0.0.134 port 49518
+[ 11] 0.00-10.00 sec  7.16 MBytes  6.00 Mbits/sec   0.189 ms    0/ 5104 (0%) 8416.687/8416.157/8421.090/117.819 ms  510 pps
+------------------------------------------------------------
+Server listening on UDP port 60041
+Receiving 1470 byte datagrams
+UDP buffer size: 0.41 MByte (WARNING: requested 0.59 MByte)
+------------------------------------------------------------
+[  1] local 0.0.0.0 port 60041 connected with 192.0.0.134 port 60579
+[ ID] Interval       Transfer     Bandwidth        Jitter   Lost/Total  Latency avg/min/max/stdev PPS
+[  1] 0.00-10.00 sec  8.35 MBytes  7.00 Mbits/sec   0.193 ms    0/ 5954 (0%) 8417.574/8417.058/8422.372/109.096 ms  595 pps
+[  3] local 0.0.0.0 port 60041 connected with 192.0.0.134 port 54102
+[  3] 0.00-10.00 sec  5.96 MBytes  5.00 Mbits/sec   0.199 ms    0/ 4253 (0%) 8418.191/8417.637/8422.251/129.095 ms  425 pps
+[  5] local 0.0.0.0 port 60041 connected with 192.0.0.134 port 45141
+[  5] 0.00-10.00 sec  8.35 MBytes  7.00 Mbits/sec   0.160 ms    0/ 5954 (0%) 8418.737/8418.172/8426.278/109.111 ms  595 pps
+[  7] local 0.0.0.0 port 60041 connected with 192.0.0.134 port 55705
+[  7] 0.00-10.00 sec  9.54 MBytes  8.00 Mbits/sec   0.136 ms    0/ 6804 (0%) 8419.357/8418.794/8424.881/102.072 ms  680 pps
+[  9] local 0.0.0.0 port 60041 connected with 192.0.0.134 port 52294
+[  9] 0.00-10.00 sec  10.7 MBytes  9.00 Mbits/sec   0.125 ms    0/ 7655 (0%) 8419.860/8419.334/8425.483/96.239 ms  765 pps
+[ 11] local 0.0.0.0 port 60041 connected with 192.0.0.134 port 36286
+[ 11] 0.00-10.00 sec  7.16 MBytes  6.00 Mbits/sec   0.237 ms    0/ 5104 (0%) 8420.445/8419.959/8426.789/117.871 ms  510 pps
+------------------------------------------------------------
+Server listening on UDP port 60041
+Receiving 1470 byte datagrams
+UDP buffer size: 0.41 MByte (WARNING: requested 0.59 MByte)
+------------------------------------------------------------
+[  1] local 0.0.0.0 port 60041 connected with 192.0.0.134 port 44741
+[ ID] Interval       Transfer     Bandwidth        Jitter   Lost/Total  Latency avg/min/max/stdev PPS
+[  1] 0.00-10.01 sec  2.39 MBytes  2.00 Mbits/sec   0.101 ms    0/ 1702 (0%) 8421.353/8420.929/8424.122/204.184 ms  170 pps
+[  3] local 0.0.0.0 port 60041 connected with 192.0.0.134 port 58396
+[  3] 0.00-10.00 sec  10.7 MBytes  9.00 Mbits/sec   0.112 ms    0/ 7655 (0%) 8421.940/8421.419/8427.640/96.264 ms  765 pps
+[  5] local 0.0.0.0 port 60041 connected with 192.0.0.134 port 43594
+[  5] 0.00-10.00 sec  7.16 MBytes  6.00 Mbits/sec   0.089 ms    0/ 5104 (0%) 8422.581/8422.051/8428.991/117.904 ms  510 pps
+[  7] local 0.0.0.0 port 60041 connected with 192.0.0.134 port 49751
+[  7] 0.00-10.00 sec  7.16 MBytes  6.00 Mbits/sec   0.148 ms    0/ 5104 (0%) 8423.055/8422.608/8427.490/117.908 ms  510 pps
+[  9] local 0.0.0.0 port 60041 connected with 192.0.0.134 port 45957
+[  9] 0.00-10.00 sec  9.54 MBytes  8.00 Mbits/sec   0.115 ms    0/ 6804 (0%) 8423.678/8423.197/8428.238/102.126 ms  680 pps
+[ 11] local 0.0.0.0 port 60041 connected with 192.0.0.134 port 55532
+[ 11] 0.00-10.00 sec  9.54 MBytes  8.00 Mbits/sec   0.171 ms    0/ 6804 (0%) 8424.300/8423.762/8428.973/102.137 ms  680 pps
+------------------------------------------------------------
+Server listening on UDP port 60041
+Receiving 1470 byte datagrams
+UDP buffer size: 0.41 MByte (WARNING: requested 0.59 MByte)
+------------------------------------------------------------
+[  1] local 0.0.0.0 port 60041 connected with 192.0.0.134 port 48397
+[ ID] Interval       Transfer     Bandwidth        Jitter   Lost/Total  Latency avg/min/max/stdev PPS
+[  1] 0.00-10.00 sec  5.96 MBytes  5.00 Mbits/sec   0.169 ms    0/ 4253 (0%) 8425.138/8424.625/8429.167/129.202 ms  425 pps
+[  3] local 0.0.0.0 port 60041 connected with 192.0.0.134 port 33937
+[  3] 0.00-10.00 sec  9.54 MBytes  8.00 Mbits/sec   0.151 ms    0/ 6804 (0%) 8425.698/8425.207/8431.193/102.150 ms  680 pps
+[  5] local 0.0.0.0 port 60041 connected with 192.0.0.134 port 58596
+[  5] 0.00-10.00 sec  9.54 MBytes  8.00 Mbits/sec   0.151 ms    0/ 6804 (0%) 8426.255/8425.780/8430.211/102.158 ms  680 pps
+[  7] local 0.0.0.0 port 60041 connected with 192.0.0.134 port 50558
+[  7] 0.00-10.00 sec  8.35 MBytes  7.00 Mbits/sec   0.146 ms    0/ 5954 (0%) 8426.872/8426.381/8430.720/109.216 ms  595 pps
+[  9] local 0.0.0.0 port 60041 connected with 192.0.0.134 port 35655
+[  9] 0.00-10.00 sec  9.54 MBytes  8.00 Mbits/sec   0.127 ms    0/ 6804 (0%) 8427.455/8426.916/8433.623/102.174 ms  680 pps
+[ 11] local 0.0.0.0 port 60041 connected with 192.0.0.134 port 33816
+[ 11] 0.00-10.00 sec  5.96 MBytes  5.00 Mbits/sec   0.211 ms    0/ 4253 (0%) 8428.062/8427.523/8432.173/129.246 ms  425 pps
+------------------------------------------------------------
+Server listening on UDP port 60041
+Receiving 1470 byte datagrams
+UDP buffer size: 0.41 MByte (WARNING: requested 0.59 MByte)
+------------------------------------------------------------
+[  1] local 0.0.0.0 port 60041 connected with 192.0.0.134 port 39433
+[ ID] Interval       Transfer     Bandwidth        Jitter   Lost/Total  Latency avg/min/max/stdev PPS
+[  1] 0.00-10.00 sec  7.16 MBytes  6.00 Mbits/sec   0.241 ms    0/ 5104 (0%) 8428.946/8428.399/8432.483/117.991 ms  510 pps
+[  3] local 0.0.0.0 port 60041 connected with 192.0.0.134 port 51711
+[  3] 0.00-10.00 sec  9.54 MBytes  8.00 Mbits/sec   0.147 ms    0/ 6804 (0%) 8429.459/8428.976/8436.430/102.197 ms  680 pps
+[  5] local 0.0.0.0 port 60041 connected with 192.0.0.134 port 49568
+[  5] 0.00-10.00 sec  11.9 MBytes  10.0 Mbits/sec   0.156 ms    0/ 8505 (0%) 8430.089/8429.569/8435.641/91.415 ms  850 pps
+[  7] local 0.0.0.0 port 60041 connected with 192.0.0.134 port 47544
+[  7] 0.00-10.00 sec  8.35 MBytes  7.00 Mbits/sec   0.166 ms    0/ 5954 (0%) 8430.659/8430.199/8434.933/109.269 ms  595 pps
+[  9] local 0.0.0.0 port 60041 connected with 192.0.0.134 port 53412
+[  9] 0.00-10.01 sec  2.39 MBytes  2.00 Mbits/sec   0.174 ms    0/ 1702 (0%) 8431.276/8430.832/8434.499/204.423 ms  170 pps
+[ 11] local 0.0.0.0 port 60041 connected with 192.0.0.134 port 52673
+[ 11] 0.00-10.00 sec  7.16 MBytes  6.00 Mbits/sec   0.129 ms    0/ 5104 (0%) 8431.865/8431.368/8435.620/118.036 ms  510 pps
+------------------------------------------------------------
+Server listening on UDP port 60041
+Receiving 1470 byte datagrams
+UDP buffer size: 0.41 MByte (WARNING: requested 0.59 MByte)
+------------------------------------------------------------
+[  1] local 0.0.0.0 port 60041 connected with 192.0.0.134 port 33008
+[ ID] Interval       Transfer     Bandwidth        Jitter   Lost/Total  Latency avg/min/max/stdev PPS
+[  1] 0.00-10.00 sec  8.35 MBytes  7.00 Mbits/sec   0.160 ms    0/ 5954 (0%) 8432.724/8432.229/8437.900/109.296 ms  595 pps
+[  3] local 0.0.0.0 port 60041 connected with 192.0.0.134 port 48628
+[  3] 0.00-10.00 sec  7.16 MBytes  6.00 Mbits/sec   0.140 ms    0/ 5104 (0%) 8433.257/8432.763/8436.304/118.052 ms  510 pps
+[  5] local 0.0.0.0 port 60041 connected with 192.0.0.134 port 50736
+[  5] 0.00-10.01 sec  4.77 MBytes  4.00 Mbits/sec   0.235 ms    0/ 3403 (0%) 8433.875/8433.443/8437.470/144.592 ms  340 pps
+[  7] local 0.0.0.0 port 60041 connected with 192.0.0.134 port 37920
+[  7] 0.00-10.00 sec  9.54 MBytes  8.00 Mbits/sec   0.157 ms    0/ 6804 (0%) 8434.470/8433.971/8440.080/102.255 ms  680 pps
+[  9] local 0.0.0.0 port 60041 connected with 192.0.0.134 port 40755
+[  9] 0.00-10.00 sec  5.96 MBytes  5.00 Mbits/sec   0.162 ms    0/ 4253 (0%) 8435.082/8434.559/8439.736/129.357 ms  425 pps
+[ 11] local 0.0.0.0 port 60041 connected with 192.0.0.134 port 60002
+[ 11] 0.00-10.00 sec  8.35 MBytes  7.00 Mbits/sec   0.311 ms    0/ 5954 (0%) 8435.689/8435.147/8441.787/109.331 ms  595 pps
+------------------------------------------------------------
+Server listening on UDP port 60041
+Receiving 1470 byte datagrams
+UDP buffer size: 0.41 MByte (WARNING: requested 0.59 MByte)
+------------------------------------------------------------
+[  1] local 0.0.0.0 port 60041 connected with 192.0.0.134 port 54527
+[ ID] Interval       Transfer     Bandwidth        Jitter   Lost/Total  Latency avg/min/max/stdev PPS
+[  1] 0.00-10.00 sec  11.9 MBytes  10.0 Mbits/sec   0.137 ms    0/ 8505 (0%) 8436.556/8436.065/8444.569/91.483 ms  850 pps
+[  3] local 0.0.0.0 port 60041 connected with 192.0.0.134 port 54038
+[  3] 0.00-10.00 sec  10.7 MBytes  9.00 Mbits/sec   0.121 ms    0/ 7655 (0%) 8437.173/8436.687/8442.755/96.439 ms  765 pps
+[  5] local 0.0.0.0 port 60041 connected with 192.0.0.134 port 34737
+[  5] 0.00-10.00 sec  7.16 MBytes  6.00 Mbits/sec   0.148 ms    0/ 5104 (0%) 8437.712/8437.235/8441.982/118.116 ms  510 pps
+[  7] local 0.0.0.0 port 60041 connected with 192.0.0.134 port 34688
+[  7] 0.00-10.00 sec  5.96 MBytes  5.00 Mbits/sec   0.165 ms    0/ 4253 (0%) 8438.320/8437.837/8444.312/129.404 ms  425 pps
+[  9] local 0.0.0.0 port 60041 connected with 192.0.0.134 port 60601
+[  9] 0.00-10.00 sec  10.7 MBytes  9.00 Mbits/sec   0.140 ms    0/ 7655 (0%) 8438.906/8438.404/8445.790/96.457 ms  765 pps
+[ 11] local 0.0.0.0 port 60041 connected with 192.0.0.134 port 36417
+[ 11] 0.00-10.00 sec  7.16 MBytes  6.00 Mbits/sec   0.152 ms    0/ 5104 (0%) 8439.494/8438.944/8443.845/118.139 ms  510 pps
+------------------------------------------------------------
+Server listening on UDP port 60041
+Receiving 1470 byte datagrams
+UDP buffer size: 0.41 MByte (WARNING: requested 0.59 MByte)
+------------------------------------------------------------
+[  1] local 0.0.0.0 port 60041 connected with 192.0.0.134 port 41826
+[ ID] Interval       Transfer     Bandwidth        Jitter   Lost/Total  Latency avg/min/max/stdev PPS
+[  1] 0.00-10.01 sec  3.58 MBytes  3.00 Mbits/sec   0.114 ms    0/ 2553 (0%) 8440.352/8439.860/8445.955/167.076 ms  255 pps
+[  3] local 0.0.0.0 port 60041 connected with 192.0.0.134 port 41383
+[  3] 0.00-10.00 sec  7.16 MBytes  6.00 Mbits/sec   0.205 ms    0/ 5104 (0%) 8440.858/8440.387/8445.380/118.164 ms  510 pps
+[  5] local 0.0.0.0 port 60041 connected with 192.0.0.134 port 42826
+[  5] 0.00-10.00 sec  8.35 MBytes  7.00 Mbits/sec   0.129 ms    0/ 5954 (0%) 8441.456/8441.063/8445.710/109.407 ms  595 pps
+[  7] local 0.0.0.0 port 60041 connected with 192.0.0.134 port 43136
+[  7] 0.00-10.00 sec  8.35 MBytes  7.00 Mbits/sec   0.246 ms    0/ 5954 (0%) 8442.063/8441.567/8447.774/109.418 ms  595 pps
+[  9] local 0.0.0.0 port 60041 connected with 192.0.0.134 port 47580
+[  9] 0.00-10.00 sec  8.35 MBytes  7.00 Mbits/sec   0.171 ms    0/ 5954 (0%) 8442.671/8442.150/8448.730/109.424 ms  595 pps
+[ 11] local 0.0.0.0 port 60041 connected with 192.0.0.134 port 57561
+[ 11] 0.00-10.00 sec  9.54 MBytes  8.00 Mbits/sec   0.128 ms    0/ 6804 (0%) 8443.283/8442.774/8449.691/102.367 ms  680 pps
+------------------------------------------------------------
+Server listening on UDP port 60041
+Receiving 1470 byte datagrams
+UDP buffer size: 0.41 MByte (WARNING: requested 0.59 MByte)
+------------------------------------------------------------
+[  1] local 0.0.0.0 port 60041 connected with 192.0.0.134 port 56361
+[ ID] Interval       Transfer     Bandwidth        Jitter   Lost/Total  Latency avg/min/max/stdev PPS
+[  1] 0.00-10.00 sec  7.16 MBytes  6.00 Mbits/sec   0.169 ms    0/ 5104 (0%) 8444.106/8443.636/8447.785/118.209 ms  510 pps
+[  3] local 0.0.0.0 port 60041 connected with 192.0.0.134 port 60306
+[  3] 0.00-10.00 sec  10.7 MBytes  9.00 Mbits/sec   0.191 ms    0/ 7655 (0%) 8444.692/8444.207/8449.858/96.523 ms  765 pps
+[  5] local 0.0.0.0 port 60041 connected with 192.0.0.134 port 38632
+[  5] 0.00-10.00 sec  4.77 MBytes  4.00 Mbits/sec   0.171 ms    0/ 3403 (0%) 8445.259/8444.773/8449.735/144.788 ms  340 pps
+[  7] local 0.0.0.0 port 60041 connected with 192.0.0.134 port 55350
+[  7] 0.00-10.01 sec  2.39 MBytes  2.00 Mbits/sec   0.162 ms    0/ 1702 (0%) 8445.818/8445.421/8450.510/204.776 ms  170 pps
+[  9] local 0.0.0.0 port 60041 connected with 192.0.0.134 port 60440
+[  9] 0.00-10.00 sec  11.9 MBytes  10.0 Mbits/sec   0.152 ms    0/ 8505 (0%) 8446.415/8445.946/8454.682/91.590 ms  850 pps
+[ 11] local 0.0.0.0 port 60041 connected with 192.0.0.134 port 38002
+[ 11] 0.00-10.00 sec  8.35 MBytes  7.00 Mbits/sec   0.153 ms    0/ 5954 (0%) 8447.049/8446.525/8452.378/109.479 ms  595 pps
+------------------------------------------------------------
+Server listening on UDP port 60041
+Receiving 1470 byte datagrams
+UDP buffer size: 0.41 MByte (WARNING: requested 0.59 MByte)
+------------------------------------------------------------
+[  1] local 0.0.0.0 port 60041 connected with 192.0.0.134 port 50688
+[ ID] Interval       Transfer     Bandwidth        Jitter   Lost/Total  Latency avg/min/max/stdev PPS
+[  1] 0.00-10.01 sec  3.58 MBytes  3.00 Mbits/sec   0.190 ms    0/ 2553 (0%) 8447.884/8447.464/8453.061/167.225 ms  255 pps
+[  3] local 0.0.0.0 port 60041 connected with 192.0.0.134 port 36481
+[  3] 0.00-10.00 sec  10.7 MBytes  9.00 Mbits/sec   0.161 ms    0/ 7655 (0%) 8448.429/8447.951/8455.047/96.567 ms  765 pps
+[  5] local 0.0.0.0 port 60041 connected with 192.0.0.134 port 43387
+[  5] 0.00-10.00 sec  7.16 MBytes  6.00 Mbits/sec   0.149 ms    0/ 5104 (0%) 8448.992/8448.483/8455.139/118.273 ms  510 pps
+[  7] local 0.0.0.0 port 60041 connected with 192.0.0.134 port 46791
+[  7] 0.00-10.00 sec  11.9 MBytes  10.0 Mbits/sec   0.125 ms    0/ 8505 (0%) 8449.580/8449.057/8454.597/91.625 ms  850 pps
+[  9] local 0.0.0.0 port 60041 connected with 192.0.0.134 port 57756
+[  9] 0.00-10.01 sec  2.39 MBytes  2.00 Mbits/sec   0.130 ms    0/ 1702 (0%) 8450.104/8449.722/8451.369/204.883 ms  170 pps
+[ 11] local 0.0.0.0 port 60041 connected with 192.0.0.134 port 44713
+[ 11] 0.00-10.00 sec  9.54 MBytes  8.00 Mbits/sec   0.145 ms    0/ 6804 (0%) 8450.777/8450.305/8461.369/102.456 ms  680 pps

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?pydev-testrun version="1.0"?><pydev-testsuite>
+<summary errors="1" failures="0" finished="true" name="Test Run: 20" tests="0" total_time="Finished in: 0.00 secs."/>
+<test location="/home/controller/IoT/cloud/Rest_API_Python/HttpClient/pre_processing/estimate_link.py" status="error" test="estimate_link" time="0">
+<stdout/>
+<stderr><![CDATA[Traceback (most recent call last):
+  File "/home/controller/.p2/pool/plugins/org.python.pydev_5.0.0.201605051159/pysrc/_pydev_runfiles/pydev_runfiles.py", line 468, in __get_module_from_str
+    mod = __import__(modname)
+  File "/home/controller/IoT/cloud/Rest_API_Python/HttpClient/pre_processing/estimate_link.py", line 20, in <module>
+    f_link = open("/home/controller/IoT/output_txt/output_including_link.txt",'r')
+IOError: [Errno 2] No such file or directory: '/home/controller/IoT/output_txt/output_including_link.txt'
+ERROR: Module: estimate_link could not be imported (file: /home/controller/IoT/cloud/Rest_API_Python/HttpClient/pre_processing/estimate_link.py).
+]]></stderr>
+</test>
+<launch mode="run">
+<launch_memento><![CDATA[<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<launchConfiguration local="true" path="HttpClient estimate_link.py"/>
+]]></launch_memento>
+</launch>
+</pydev-testsuite>

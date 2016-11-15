@@ -1,0 +1,851 @@
+------------------------------------------------------------
+Server listening on UDP port 60026
+Receiving 1470 byte datagrams
+UDP buffer size: 0.20 MByte (default)
+------------------------------------------------------------
+[  1] local 0.0.0.0 port 60026 connected with 192.0.0.21 port 51163
+[ ID] Interval       Transfer     Bandwidth        Jitter   Lost/Total Datagrams
+[  1]  0.0-10.0 sec  9.54 MBytes  8.00 Mbits/sec   0.258 ms    0/ 6803 (0%)
+[  1] 0.00-10.00 sec  1 datagrams received out-of-order
+[  3] local 0.0.0.0 port 60026 connected with 192.0.0.21 port 55258
+[  3]  0.0-10.0 sec  9.54 MBytes  8.00 Mbits/sec   0.140 ms    0/ 6803 (0%)
+[  3] 0.00-10.00 sec  1 datagrams received out-of-order
+[  5] local 0.0.0.0 port 60026 connected with 192.0.0.21 port 56684
+[  5]  0.0-10.0 sec  9.54 MBytes  8.00 Mbits/sec   0.199 ms    0/ 6803 (0%)
+[  5] 0.00-10.00 sec  1 datagrams received out-of-order
+[  7] local 0.0.0.0 port 60026 connected with 192.0.0.21 port 44858
+[  7]  0.0-10.0 sec  10.7 MBytes  9.01 Mbits/sec   0.131 ms    0/ 7657 (0%)
+[  7] 0.00-10.00 sec  1 datagrams received out-of-order
+[  9] local 0.0.0.0 port 60026 connected with 192.0.0.21 port 57862
+[  9]  0.0-10.0 sec  7.16 MBytes  6.00 Mbits/sec   0.432 ms    0/ 5103 (0%)
+[  9] 0.00-10.00 sec  1 datagrams received out-of-order
+[ 11] local 0.0.0.0 port 60026 connected with 192.0.0.21 port 60351
+[ 11]  0.0-10.0 sec  9.54 MBytes  8.00 Mbits/sec   0.168 ms    0/ 6803 (0%)
+[ 11] 0.00-10.00 sec  1 datagrams received out-of-order
+[ 13] local 0.0.0.0 port 60026 connected with 192.0.0.21 port 55046
+[ 13]  0.0-10.0 sec  13.1 MBytes  11.0 Mbits/sec   0.139 ms    0/ 9355 (0%)
+[ 13] 0.00-10.00 sec  1 datagrams received out-of-order
+[ 15] local 0.0.0.0 port 60026 connected with 192.0.0.21 port 56271
+[ 15]  0.0-10.0 sec  11.9 MBytes  10.0 Mbits/sec   0.138 ms    0/ 8505 (0%)
+[ 17] local 0.0.0.0 port 60026 connected with 192.0.0.21 port 48900
+[ 17]  0.0-10.0 sec  9.54 MBytes  8.00 Mbits/sec   0.309 ms    0/ 6803 (0%)
+[ 17] 0.00-10.00 sec  1 datagrams received out-of-order
+[ 19] local 0.0.0.0 port 60026 connected with 192.0.0.21 port 58663
+[ 19]  0.0-10.0 sec  7.16 MBytes  6.00 Mbits/sec   0.336 ms    0/ 5103 (0%)
+[ 19] 0.00-10.00 sec  1 datagrams received out-of-order
+[ 21] local 0.0.0.0 port 60026 connected with 192.0.0.21 port 42493
+[ 21]  0.0-10.0 sec  11.9 MBytes  10.0 Mbits/sec   0.175 ms    0/ 8504 (0%)
+[ 21] 0.00-10.00 sec  1 datagrams received out-of-order
+[ 23] local 0.0.0.0 port 60026 connected with 192.0.0.21 port 56001
+[ 23]  0.0-10.0 sec  7.16 MBytes  6.00 Mbits/sec   0.190 ms    0/ 5103 (0%)
+[ 23] 0.00-10.00 sec  1 datagrams received out-of-order
+[ 25] local 0.0.0.0 port 60026 connected with 192.0.0.21 port 53018
+[ 25]  0.0-10.0 sec  9.54 MBytes  8.00 Mbits/sec   0.148 ms    0/ 6803 (0%)
+[ 25] 0.00-10.00 sec  1 datagrams received out-of-order
+[ 27] local 0.0.0.0 port 60026 connected with 192.0.0.21 port 45108
+[ 27]  0.0-10.0 sec  10.7 MBytes  9.01 Mbits/sec   0.158 ms    0/ 7657 (0%)
+[ 27] 0.00-10.00 sec  1 datagrams received out-of-order
+[ 29] local 0.0.0.0 port 60026 connected with 192.0.0.21 port 44692
+[ 29]  0.0-10.0 sec  9.54 MBytes  8.00 Mbits/sec   0.227 ms    0/ 6803 (0%)
+[ 29] 0.00-10.00 sec  1 datagrams received out-of-order
+[ 31] local 0.0.0.0 port 60026 connected with 192.0.0.21 port 39371
+[ 31]  0.0-10.0 sec  8.35 MBytes  7.00 Mbits/sec   0.153 ms    0/ 5953 (0%)
+[ 31] 0.00-10.00 sec  1 datagrams received out-of-order
+[ 33] local 0.0.0.0 port 60026 connected with 192.0.0.21 port 50011
+[ 33]  0.0-10.0 sec  11.9 MBytes  10.0 Mbits/sec   0.150 ms    0/ 8504 (0%)
+[ 33] 0.00-10.00 sec  1 datagrams received out-of-order
+[ 35] local 0.0.0.0 port 60026 connected with 192.0.0.21 port 45877
+[ 35]  0.0-10.0 sec  13.1 MBytes  11.0 Mbits/sec   0.225 ms    0/ 9355 (0%)
+[ 35] 0.00-10.00 sec  1 datagrams received out-of-order
+[ 37] local 0.0.0.0 port 60026 connected with 192.0.0.21 port 57650
+[ 37]  0.0-10.0 sec  14.3 MBytes  12.0 Mbits/sec   0.129 ms    0/10204 (0%)
+[ 37] 0.00-10.00 sec  1 datagrams received out-of-order
+[ 39] local 0.0.0.0 port 60026 connected with 192.0.0.21 port 45524
+[ 39]  0.0-10.0 sec  11.9 MBytes  10.0 Mbits/sec   0.144 ms    0/ 8505 (0%)
+[ 41] local 0.0.0.0 port 60026 connected with 192.0.0.21 port 46994
+[ 41]  0.0-10.0 sec  8.35 MBytes  7.00 Mbits/sec   0.142 ms    0/ 5953 (0%)
+[ 41] 0.00-10.00 sec  1 datagrams received out-of-order
+[ 43] local 0.0.0.0 port 60026 connected with 192.0.0.21 port 44268
+[ 43]  0.0-10.0 sec  9.54 MBytes  8.00 Mbits/sec   0.185 ms    0/ 6803 (0%)
+[ 43] 0.00-10.00 sec  1 datagrams received out-of-order
+[ 45] local 0.0.0.0 port 60026 connected with 192.0.0.21 port 58983
+[ 45]  0.0-10.0 sec  8.35 MBytes  7.00 Mbits/sec   0.135 ms    0/ 5953 (0%)
+[ 45] 0.00-10.00 sec  1 datagrams received out-of-order
+[ 47] local 0.0.0.0 port 60026 connected with 192.0.0.21 port 58878
+[ 47]  0.0-10.0 sec  14.3 MBytes  12.0 Mbits/sec   0.197 ms    0/10205 (0%)
+[ 47] 0.00-10.00 sec  1 datagrams received out-of-order
+[ 49] local 0.0.0.0 port 60026 connected with 192.0.0.21 port 59217
+[ 49]  0.0-10.0 sec  9.54 MBytes  8.00 Mbits/sec   0.121 ms    0/ 6803 (0%)
+[ 49] 0.00-10.00 sec  1 datagrams received out-of-order
+[ 51] local 0.0.0.0 port 60026 connected with 192.0.0.21 port 35632
+[ 51]  0.0-10.0 sec  7.16 MBytes  6.00 Mbits/sec   0.113 ms    0/ 5103 (0%)
+[ 51] 0.00-10.00 sec  1 datagrams received out-of-order
+[ 53] local 0.0.0.0 port 60026 connected with 192.0.0.21 port 35775
+[ 53]  0.0-10.0 sec  8.35 MBytes  7.00 Mbits/sec   0.124 ms    0/ 5953 (0%)
+[ 53] 0.00-10.00 sec  1 datagrams received out-of-order
+[ 55] local 0.0.0.0 port 60026 connected with 192.0.0.21 port 50363
+[ 55]  0.0-10.0 sec  10.7 MBytes  9.01 Mbits/sec   0.138 ms    0/ 7657 (0%)
+[ 55] 0.00-10.00 sec  1 datagrams received out-of-order
+[ 57] local 0.0.0.0 port 60026 connected with 192.0.0.21 port 34175
+[ 57]  0.0-10.0 sec  11.9 MBytes  10.0 Mbits/sec   0.140 ms    0/ 8504 (0%)
+[ 57] 0.00-10.00 sec  1 datagrams received out-of-order
+[ 59] local 0.0.0.0 port 60026 connected with 192.0.0.21 port 40968
+[ 59]  0.0-10.0 sec  13.1 MBytes  11.0 Mbits/sec   0.123 ms    0/ 9356 (0%)
+[ 61] local 0.0.0.0 port 60026 connected with 192.0.0.21 port 47337
+[ 61]  0.0-10.0 sec  4.77 MBytes  4.00 Mbits/sec   0.131 ms    0/ 3402 (0%)
+[ 61] 0.00-10.00 sec  1 datagrams received out-of-order
+[ 63] local 0.0.0.0 port 60026 connected with 192.0.0.21 port 33232
+[ 63]  0.0-10.0 sec  8.35 MBytes  7.00 Mbits/sec   0.149 ms    0/ 5954 (0%)
+[ 65] local 0.0.0.0 port 60026 connected with 192.0.0.21 port 40330
+[ 65]  0.0-10.0 sec  13.1 MBytes  11.0 Mbits/sec   0.152 ms    0/ 9355 (0%)
+[ 65] 0.00-10.00 sec  1 datagrams received out-of-order
+[ 67] local 0.0.0.0 port 60026 connected with 192.0.0.21 port 60658
+[ 67]  0.0-10.0 sec  5.96 MBytes  5.00 Mbits/sec   0.181 ms    0/ 4252 (0%)
+[ 67] 0.00-10.00 sec  1 datagrams received out-of-order
+[ 69] local 0.0.0.0 port 60026 connected with 192.0.0.21 port 46543
+[ 69]  0.0-10.0 sec  7.16 MBytes  6.00 Mbits/sec   0.212 ms    0/ 5103 (0%)
+[ 69] 0.00-10.00 sec  1 datagrams received out-of-order
+[ 71] local 0.0.0.0 port 60026 connected with 192.0.0.21 port 51363
+[ 71]  0.0-10.0 sec  5.96 MBytes  5.00 Mbits/sec   0.150 ms    0/ 4253 (0%)
+[ 73] local 0.0.0.0 port 60026 connected with 192.0.0.21 port 52028
+[ 73]  0.0-10.0 sec  13.1 MBytes  11.0 Mbits/sec   0.126 ms    0/ 9355 (0%)
+[ 73] 0.00-10.00 sec  1 datagrams received out-of-order
+[ 75] local 0.0.0.0 port 60026 connected with 192.0.0.21 port 36764
+[ 75]  0.0-10.0 sec  4.77 MBytes  4.00 Mbits/sec   0.126 ms    0/ 3402 (0%)
+[ 75] 0.00-10.00 sec  1 datagrams received out-of-order
+[ 77] local 0.0.0.0 port 60026 connected with 192.0.0.21 port 50400
+[ 77]  0.0-10.0 sec  11.9 MBytes  10.0 Mbits/sec   0.337 ms    0/ 8504 (0%)
+[ 77] 0.00-10.00 sec  1 datagrams received out-of-order
+[ 79] local 0.0.0.0 port 60026 connected with 192.0.0.21 port 54155
+[ 79]  0.0-10.0 sec  8.35 MBytes  7.00 Mbits/sec   0.225 ms    0/ 5954 (0%)
+[ 81] local 0.0.0.0 port 60026 connected with 192.0.0.21 port 57218
+[ 81]  0.0-10.0 sec  8.35 MBytes  7.00 Mbits/sec   0.122 ms    0/ 5953 (0%)
+[ 81] 0.00-10.00 sec  1 datagrams received out-of-order
+[ 83] local 0.0.0.0 port 60026 connected with 192.0.0.21 port 56605
+[ 83]  0.0-10.0 sec  10.7 MBytes  9.00 Mbits/sec   0.148 ms    0/ 7657 (0%)
+[ 83] 0.00-10.00 sec  1 datagrams received out-of-order
+[ 85] local 0.0.0.0 port 60026 connected with 192.0.0.21 port 57750
+[ 85]  0.0-10.0 sec  14.3 MBytes  12.0 Mbits/sec   0.149 ms    0/10205 (0%)
+[ 85] 0.00-10.00 sec  1 datagrams received out-of-order
+[ 87] local 0.0.0.0 port 60026 connected with 192.0.0.21 port 55556
+[ 87]  0.0-10.0 sec  10.7 MBytes  9.01 Mbits/sec   0.126 ms    0/ 7658 (0%)
+[ 89] local 0.0.0.0 port 60026 connected with 192.0.0.21 port 37227
+[ 89]  0.0-10.0 sec  8.35 MBytes  7.00 Mbits/sec   0.392 ms    0/ 5953 (0%)
+[ 89] 0.00-10.00 sec  1 datagrams received out-of-order
+[ 91] local 0.0.0.0 port 60026 connected with 192.0.0.21 port 40176
+[ 91]  0.0-10.0 sec  9.54 MBytes  8.00 Mbits/sec   0.176 ms    0/ 6803 (0%)
+[ 91] 0.00-10.00 sec  1 datagrams received out-of-order
+[ 93] local 0.0.0.0 port 60026 connected with 192.0.0.21 port 45282
+[ 93]  0.0-10.0 sec  11.9 MBytes  10.0 Mbits/sec   0.251 ms    0/ 8504 (0%)
+[ 93] 0.00-10.00 sec  1 datagrams received out-of-order
+[ 95] local 0.0.0.0 port 60026 connected with 192.0.0.21 port 58599
+[ 95]  0.0-10.0 sec  5.96 MBytes  5.00 Mbits/sec   0.186 ms    0/ 4252 (0%)
+[ 95] 0.00-10.00 sec  1 datagrams received out-of-order
+[ 97] local 0.0.0.0 port 60026 connected with 192.0.0.21 port 47352
+[ 97]  0.0-10.0 sec  8.35 MBytes  7.00 Mbits/sec   0.160 ms    0/ 5953 (0%)
+[ 97] 0.00-10.00 sec  1 datagrams received out-of-order
+[ 99] local 0.0.0.0 port 60026 connected with 192.0.0.21 port 49394
+[ 99]  0.0-10.0 sec  9.54 MBytes  8.00 Mbits/sec   0.147 ms    0/ 6804 (0%)
+[101] local 0.0.0.0 port 60026 connected with 192.0.0.21 port 48407
+[101]  0.0-10.0 sec  3.58 MBytes  3.00 Mbits/sec   0.165 ms    0/ 2552 (0%)
+[103] local 0.0.0.0 port 60026 connected with 192.0.0.21 port 40669
+[103]  0.0-10.0 sec  13.1 MBytes  11.0 Mbits/sec   0.220 ms    0/ 9356 (0%)
+[105] local 0.0.0.0 port 60026 connected with 192.0.0.21 port 39621
+[105]  0.0-10.0 sec  16.7 MBytes  14.0 Mbits/sec   0.294 ms    0/11905 (0%)
+[105] 0.00-10.00 sec  1 datagrams received out-of-order
+[107] local 0.0.0.0 port 60026 connected with 192.0.0.21 port 36145
+[107]  0.0-10.0 sec  5.96 MBytes  5.00 Mbits/sec   0.384 ms    0/ 4252 (0%)
+[107] 0.00-10.01 sec  1 datagrams received out-of-order
+[109] local 0.0.0.0 port 60026 connected with 192.0.0.21 port 47690
+[109]  0.0-10.0 sec  8.35 MBytes  7.00 Mbits/sec   0.404 ms    0/ 5953 (0%)
+[109] 0.00-10.00 sec  1 datagrams received out-of-order
+[111] local 0.0.0.0 port 60026 connected with 192.0.0.21 port 55389
+[111]  0.0-10.0 sec  9.54 MBytes  8.00 Mbits/sec   0.091 ms    0/ 6803 (0%)
+[111] 0.00-10.00 sec  1 datagrams received out-of-order
+[113] local 0.0.0.0 port 60026 connected with 192.0.0.21 port 57064
+[113]  0.0-10.0 sec  5.96 MBytes  5.00 Mbits/sec   0.252 ms    0/ 4252 (0%)
+[113] 0.00-10.00 sec  1 datagrams received out-of-order
+[115] local 0.0.0.0 port 60026 connected with 192.0.0.21 port 47395
+[115]  0.0-10.0 sec  9.54 MBytes  8.00 Mbits/sec   0.280 ms    0/ 6804 (0%)
+[117] local 0.0.0.0 port 60026 connected with 192.0.0.21 port 35720
+[117]  0.0-10.0 sec  11.9 MBytes  10.0 Mbits/sec   0.477 ms    0/ 8505 (0%)
+[119] local 0.0.0.0 port 60026 connected with 192.0.0.21 port 57816
+[119]  0.0-10.0 sec  10.7 MBytes  9.01 Mbits/sec   0.343 ms    0/ 7657 (0%)
+[119] 0.00-10.00 sec  1 datagrams received out-of-order
+[121] local 0.0.0.0 port 60026 connected with 192.0.0.21 port 46589
+[121]  0.0-10.0 sec  8.35 MBytes  7.00 Mbits/sec   0.121 ms    0/ 5953 (0%)
+[121] 0.00-10.00 sec  1 datagrams received out-of-order
+[123] local 0.0.0.0 port 60026 connected with 192.0.0.21 port 34140
+[123]  0.0-10.0 sec  11.9 MBytes  10.0 Mbits/sec   0.164 ms    0/ 8504 (0%)
+[123] 0.00-10.00 sec  1 datagrams received out-of-order
+[125] local 0.0.0.0 port 60026 connected with 192.0.0.21 port 45232
+[125]  0.0-10.0 sec  9.54 MBytes  8.00 Mbits/sec   0.108 ms    0/ 6803 (0%)
+[125] 0.00-10.00 sec  1 datagrams received out-of-order
+[127] local 0.0.0.0 port 60026 connected with 192.0.0.21 port 47086
+[127]  0.0-10.0 sec  14.3 MBytes  12.0 Mbits/sec   0.149 ms    0/10205 (0%)
+[127] 0.00-10.00 sec  1 datagrams received out-of-order
+[129] local 0.0.0.0 port 60026 connected with 192.0.0.21 port 44473
+[129]  0.0-10.0 sec  16.7 MBytes  14.0 Mbits/sec   0.172 ms    0/11905 (0%)
+[129] 0.00-10.00 sec  1 datagrams received out-of-order
+[131] local 0.0.0.0 port 60026 connected with 192.0.0.21 port 35994
+[131]  0.0-10.0 sec  8.35 MBytes  7.00 Mbits/sec   0.148 ms    0/ 5953 (0%)
+[131] 0.00-10.00 sec  1 datagrams received out-of-order
+[133] local 0.0.0.0 port 60026 connected with 192.0.0.21 port 52130
+[133]  0.0-10.0 sec  9.54 MBytes  8.00 Mbits/sec   0.129 ms    0/ 6803 (0%)
+[133] 0.00-10.00 sec  1 datagrams received out-of-order
+[135] local 0.0.0.0 port 60026 connected with 192.0.0.21 port 58973
+[135]  0.0-10.0 sec  11.9 MBytes  10.0 Mbits/sec   0.134 ms    0/ 8504 (0%)
+[135] 0.00-10.00 sec  1 datagrams received out-of-order
+[137] local 0.0.0.0 port 60026 connected with 192.0.0.21 port 52886
+[137]  0.0-10.0 sec  10.7 MBytes  9.00 Mbits/sec   0.146 ms    1/ 7657 (0.013%)
+[137] 0.00-10.00 sec  1 datagrams received out-of-order
+[139] local 0.0.0.0 port 60026 connected with 192.0.0.21 port 43830
+[139]  0.0-10.0 sec  8.35 MBytes  7.00 Mbits/sec   0.191 ms    0/ 5954 (0%)
+[141] local 0.0.0.0 port 60026 connected with 192.0.0.21 port 59139
+[141]  0.0-10.0 sec  7.16 MBytes  6.00 Mbits/sec   0.167 ms    0/ 5103 (0%)
+[141] 0.00-10.00 sec  1 datagrams received out-of-order
+[143] local 0.0.0.0 port 60026 connected with 192.0.0.21 port 37735
+[143]  0.0-10.0 sec  10.7 MBytes  9.01 Mbits/sec   0.261 ms    0/ 7657 (0%)
+[143] 0.00-10.00 sec  1 datagrams received out-of-order
+[145] local 0.0.0.0 port 60026 connected with 192.0.0.21 port 40507
+[145]  0.0-10.0 sec  10.7 MBytes  9.01 Mbits/sec   0.183 ms    0/ 7657 (0%)
+[145] 0.00-10.00 sec  1 datagrams received out-of-order
+[147] local 0.0.0.0 port 60026 connected with 192.0.0.21 port 49992
+[147]  0.0-10.0 sec  8.35 MBytes  7.00 Mbits/sec   0.324 ms    0/ 5953 (0%)
+[147] 0.00-10.00 sec  1 datagrams received out-of-order
+[149] local 0.0.0.0 port 60026 connected with 192.0.0.21 port 48707
+[149]  0.0-10.0 sec  10.7 MBytes  9.01 Mbits/sec   0.145 ms    0/ 7658 (0%)
+[151] local 0.0.0.0 port 60026 connected with 192.0.0.21 port 40988
+[151]  0.0-10.0 sec  8.35 MBytes  7.00 Mbits/sec   0.160 ms    0/ 5953 (0%)
+[151] 0.00-10.00 sec  1 datagrams received out-of-order
+[153] local 0.0.0.0 port 60026 connected with 192.0.0.21 port 52103
+[153]  0.0-10.0 sec  8.35 MBytes  7.00 Mbits/sec   0.125 ms    0/ 5953 (0%)
+[153] 0.00-10.00 sec  1 datagrams received out-of-order
+[155] local 0.0.0.0 port 60026 connected with 192.0.0.21 port 60994
+[155]  0.0-10.0 sec  8.35 MBytes  7.00 Mbits/sec   0.111 ms    0/ 5953 (0%)
+[155] 0.00-10.00 sec  1 datagrams received out-of-order
+[157] local 0.0.0.0 port 60026 connected with 192.0.0.21 port 36714
+[157]  0.0-10.0 sec  9.54 MBytes  8.00 Mbits/sec   0.282 ms    0/ 6803 (0%)
+[157] 0.00-10.00 sec  1 datagrams received out-of-order
+[159] local 0.0.0.0 port 60026 connected with 192.0.0.21 port 44337
+[159]  0.0-10.0 sec  8.35 MBytes  7.00 Mbits/sec   0.209 ms    0/ 5953 (0%)
+[159] 0.00-10.00 sec  1 datagrams received out-of-order
+[161] local 0.0.0.0 port 60026 connected with 192.0.0.21 port 59248
+[161]  0.0-10.0 sec  13.1 MBytes  11.0 Mbits/sec   0.389 ms    0/ 9355 (0%)
+[161] 0.00-10.00 sec  1 datagrams received out-of-order
+[163] local 0.0.0.0 port 60026 connected with 192.0.0.21 port 48623
+[163]  0.0-10.0 sec  10.7 MBytes  9.01 Mbits/sec   0.111 ms    0/ 7658 (0%)
+[165] local 0.0.0.0 port 60026 connected with 192.0.0.21 port 47443
+[165]  0.0-10.0 sec  9.54 MBytes  8.00 Mbits/sec   0.147 ms    0/ 6803 (0%)
+[165] 0.00-10.00 sec  1 datagrams received out-of-order
+[167] local 0.0.0.0 port 60026 connected with 192.0.0.21 port 42552
+[167]  0.0-10.0 sec  10.7 MBytes  9.01 Mbits/sec   0.096 ms    0/ 7657 (0%)
+[167] 0.00-10.00 sec  1 datagrams received out-of-order
+[169] local 0.0.0.0 port 60026 connected with 192.0.0.21 port 59016
+[169]  0.0-10.0 sec  9.54 MBytes  8.00 Mbits/sec   0.186 ms    0/ 6803 (0%)
+[169] 0.00-10.00 sec  1 datagrams received out-of-order
+[171] local 0.0.0.0 port 60026 connected with 192.0.0.21 port 51459
+[171]  0.0-10.0 sec  13.1 MBytes  11.0 Mbits/sec   0.156 ms    0/ 9355 (0%)
+[171] 0.00-10.00 sec  1 datagrams received out-of-order
+[173] local 0.0.0.0 port 60026 connected with 192.0.0.21 port 51564
+[173]  0.0-10.0 sec  8.35 MBytes  7.00 Mbits/sec   0.132 ms    0/ 5954 (0%)
+[175] local 0.0.0.0 port 60026 connected with 192.0.0.21 port 45865
+[175]  0.0-10.0 sec  10.7 MBytes  9.01 Mbits/sec   0.121 ms    0/ 7657 (0%)
+[175] 0.00-10.00 sec  1 datagrams received out-of-order
+[177] local 0.0.0.0 port 60026 connected with 192.0.0.21 port 43004
+[177]  0.0-10.0 sec  9.54 MBytes  8.00 Mbits/sec   0.156 ms    0/ 6804 (0%)
+[179] local 0.0.0.0 port 60026 connected with 192.0.0.21 port 47281
+[179]  0.0-10.0 sec  9.54 MBytes  8.00 Mbits/sec   0.410 ms    0/ 6803 (0%)
+[179] 0.00-10.00 sec  1 datagrams received out-of-order
+[181] local 0.0.0.0 port 60026 connected with 192.0.0.21 port 37946
+[181]  0.0-10.0 sec  10.7 MBytes  9.00 Mbits/sec   0.175 ms    0/ 7657 (0%)
+[181] 0.00-10.00 sec  1 datagrams received out-of-order
+[183] local 0.0.0.0 port 60026 connected with 192.0.0.21 port 34145
+[183]  0.0-10.0 sec  11.9 MBytes  10.0 Mbits/sec   0.361 ms    0/ 8504 (0%)
+[183] 0.00-10.00 sec  1 datagrams received out-of-order
+[185] local 0.0.0.0 port 60026 connected with 192.0.0.21 port 56742
+[185]  0.0-10.0 sec  9.54 MBytes  8.00 Mbits/sec   0.464 ms    0/ 6803 (0%)
+[185] 0.00-10.00 sec  1 datagrams received out-of-order
+[187] local 0.0.0.0 port 60026 connected with 192.0.0.21 port 58885
+[187]  0.0-10.0 sec  10.7 MBytes  9.01 Mbits/sec   0.155 ms    0/ 7657 (0%)
+[187] 0.00-10.00 sec  1 datagrams received out-of-order
+[189] local 0.0.0.0 port 60026 connected with 192.0.0.21 port 58356
+[189]  0.0-10.0 sec  10.7 MBytes  9.00 Mbits/sec   0.391 ms    0/ 7658 (0%)
+[191] local 0.0.0.0 port 60026 connected with 192.0.0.21 port 42860
+[191]  0.0-10.0 sec  13.1 MBytes  11.0 Mbits/sec   0.488 ms    0/ 9355 (0%)
+[191] 0.00-10.00 sec  1 datagrams received out-of-order
+[193] local 0.0.0.0 port 60026 connected with 192.0.0.21 port 40424
+[193]  0.0-10.0 sec  3.58 MBytes  3.00 Mbits/sec   0.131 ms    0/ 2552 (0%)
+[193] 0.00-10.01 sec  1 datagrams received out-of-order
+[195] local 0.0.0.0 port 60026 connected with 192.0.0.21 port 51304
+[195]  0.0-10.0 sec  4.77 MBytes  4.00 Mbits/sec   0.529 ms    0/ 3402 (0%)
+[195] 0.00-10.00 sec  1 datagrams received out-of-order
+[197] local 0.0.0.0 port 60026 connected with 192.0.0.21 port 56111
+[197]  0.0-10.0 sec  8.35 MBytes  7.00 Mbits/sec   0.246 ms    0/ 5953 (0%)
+[197] 0.00-10.00 sec  1 datagrams received out-of-order
+[199] local 0.0.0.0 port 60026 connected with 192.0.0.21 port 59475
+[199]  0.0-10.0 sec  11.9 MBytes  10.0 Mbits/sec   0.169 ms    0/ 8504 (0%)
+[199] 0.00-10.00 sec  1 datagrams received out-of-order
+[201] local 0.0.0.0 port 60026 connected with 192.0.0.21 port 46709
+[201]  0.0-10.0 sec  9.54 MBytes  8.00 Mbits/sec   0.334 ms    0/ 6803 (0%)
+[201] 0.00-10.00 sec  1 datagrams received out-of-order
+[203] local 0.0.0.0 port 60026 connected with 192.0.0.21 port 38441
+[203]  0.0-10.0 sec  9.54 MBytes  8.00 Mbits/sec   0.127 ms    0/ 6803 (0%)
+[203] 0.00-10.00 sec  1 datagrams received out-of-order
+[205] local 0.0.0.0 port 60026 connected with 192.0.0.21 port 59680
+[205]  0.0-10.0 sec  9.54 MBytes  8.00 Mbits/sec   0.274 ms    0/ 6803 (0%)
+[205] 0.00-10.00 sec  1 datagrams received out-of-order
+[207] local 0.0.0.0 port 60026 connected with 192.0.0.21 port 43737
+[207]  0.0-10.0 sec  7.16 MBytes  6.00 Mbits/sec   0.187 ms    0/ 5103 (0%)
+[207] 0.00-10.00 sec  1 datagrams received out-of-order
+[209] local 0.0.0.0 port 60026 connected with 192.0.0.21 port 34308
+[209]  0.0-10.0 sec  11.9 MBytes  10.0 Mbits/sec   0.200 ms    1/ 8504 (0.012%)
+[209] 0.00-10.00 sec  1 datagrams received out-of-order
+[211] local 0.0.0.0 port 60026 connected with 192.0.0.21 port 57271
+[211]  0.0-10.0 sec  8.35 MBytes  7.00 Mbits/sec   0.451 ms    0/ 5953 (0%)
+[211] 0.00-10.00 sec  1 datagrams received out-of-order
+[213] local 0.0.0.0 port 60026 connected with 192.0.0.21 port 60263
+[213]  0.0-10.0 sec  8.35 MBytes  7.00 Mbits/sec   0.244 ms    0/ 5954 (0%)
+[215] local 0.0.0.0 port 60026 connected with 192.0.0.21 port 32981
+[215]  0.0-10.0 sec  9.54 MBytes  8.00 Mbits/sec   0.285 ms    0/ 6803 (0%)
+[215] 0.00-10.00 sec  1 datagrams received out-of-order
+[217] local 0.0.0.0 port 60026 connected with 192.0.0.21 port 34400
+[217]  0.0-10.0 sec  9.54 MBytes  8.00 Mbits/sec   0.169 ms    0/ 6803 (0%)
+[217] 0.00-10.00 sec  1 datagrams received out-of-order
+[219] local 0.0.0.0 port 60026 connected with 192.0.0.21 port 38091
+[219]  0.0-10.0 sec  15.5 MBytes  13.0 Mbits/sec   0.248 ms    1/11062 (0.009%)
+[219] 0.00-10.00 sec  1 datagrams received out-of-order
+[221] local 0.0.0.0 port 60026 connected with 192.0.0.21 port 60819
+[221]  0.0-10.0 sec  9.54 MBytes  8.00 Mbits/sec   0.381 ms    0/ 6803 (0%)
+[221] 0.00-10.00 sec  1 datagrams received out-of-order
+[223] local 0.0.0.0 port 60026 connected with 192.0.0.21 port 34134
+[223]  0.0-10.0 sec  10.7 MBytes  9.01 Mbits/sec   0.144 ms    0/ 7658 (0%)
+[225] local 0.0.0.0 port 60026 connected with 192.0.0.21 port 41584
+[225]  0.0-10.0 sec  16.7 MBytes  14.0 Mbits/sec   0.158 ms    0/11905 (0%)
+[225] 0.00-10.00 sec  1 datagrams received out-of-order
+[227] local 0.0.0.0 port 60026 connected with 192.0.0.21 port 34632
+[227]  0.0-10.0 sec  14.3 MBytes  12.0 Mbits/sec   0.850 ms    0/10205 (0%)
+[227] 0.00-10.01 sec  1 datagrams received out-of-order
+[229] local 0.0.0.0 port 60026 connected with 192.0.0.21 port 37282
+[229]  0.0-10.0 sec  9.54 MBytes  8.00 Mbits/sec   0.126 ms    0/ 6804 (0%)
+[231] local 0.0.0.0 port 60026 connected with 192.0.0.21 port 56446
+[231]  0.0-10.0 sec  7.16 MBytes  6.00 Mbits/sec   0.399 ms    0/ 5104 (0%)
+[233] local 0.0.0.0 port 60026 connected with 192.0.0.21 port 59252
+[233]  0.0-10.0 sec  14.3 MBytes  12.0 Mbits/sec   0.258 ms    0/10205 (0%)
+[233] 0.00-10.00 sec  1 datagrams received out-of-order
+[235] local 0.0.0.0 port 60026 connected with 192.0.0.21 port 42705
+[235]  0.0-10.0 sec  5.96 MBytes  5.00 Mbits/sec   0.171 ms    0/ 4252 (0%)
+[235] 0.00-10.00 sec  1 datagrams received out-of-order
+[237] local 0.0.0.0 port 60026 connected with 192.0.0.21 port 54131
+[237]  0.0-10.0 sec  11.9 MBytes  10.0 Mbits/sec   0.275 ms    0/ 8504 (0%)
+[237] 0.00-10.00 sec  1 datagrams received out-of-order
+[239] local 0.0.0.0 port 60026 connected with 192.0.0.21 port 33282
+[239]  0.0-10.0 sec  8.35 MBytes  7.00 Mbits/sec   0.563 ms    0/ 5953 (0%)
+[239] 0.00-10.01 sec  1 datagrams received out-of-order
+[241] local 0.0.0.0 port 60026 connected with 192.0.0.21 port 37670
+[241]  0.0-10.0 sec  9.54 MBytes  8.00 Mbits/sec   0.333 ms    0/ 6804 (0%)
+[243] local 0.0.0.0 port 60026 connected with 192.0.0.21 port 36100
+[243]  0.0-10.0 sec  8.35 MBytes  7.00 Mbits/sec   0.587 ms    0/ 5953 (0%)
+[243] 0.00-10.00 sec  1 datagrams received out-of-order
+[245] local 0.0.0.0 port 60026 connected with 192.0.0.21 port 35393
+[245]  0.0-10.0 sec  15.5 MBytes  13.0 Mbits/sec   0.381 ms    1/11062 (0.009%)
+[245] 0.00-10.00 sec  1 datagrams received out-of-order
+[247] local 0.0.0.0 port 60026 connected with 192.0.0.21 port 49927
+[247]  0.0-10.0 sec  7.16 MBytes  6.00 Mbits/sec   0.302 ms    0/ 5103 (0%)
+[247] 0.00-10.00 sec  1 datagrams received out-of-order
+[249] local 0.0.0.0 port 60026 connected with 192.0.0.21 port 50218
+[249]  0.0-10.0 sec  9.54 MBytes  8.00 Mbits/sec   0.609 ms    0/ 6803 (0%)
+[249] 0.00-10.00 sec  1 datagrams received out-of-order
+[251] local 0.0.0.0 port 60026 connected with 192.0.0.21 port 48381
+[251]  0.0-10.0 sec  7.16 MBytes  6.00 Mbits/sec   0.442 ms    0/ 5103 (0%)
+[251] 0.00-10.01 sec  1 datagrams received out-of-order
+[253] local 0.0.0.0 port 60026 connected with 192.0.0.21 port 34316
+[253]  0.0-10.0 sec  10.7 MBytes  9.00 Mbits/sec   0.414 ms    0/ 7658 (0%)
+[255] local 0.0.0.0 port 60026 connected with 192.0.0.21 port 46066
+[255]  0.0-10.0 sec  9.54 MBytes  8.00 Mbits/sec   0.545 ms    1/ 6803 (0.015%)
+[255] 0.00-10.01 sec  1 datagrams received out-of-order
+[257] local 0.0.0.0 port 60026 connected with 192.0.0.21 port 51601
+[257]  0.0-10.0 sec  9.54 MBytes  8.00 Mbits/sec   0.491 ms    0/ 6803 (0%)
+[257] 0.00-10.00 sec  1 datagrams received out-of-order
+[259] local 0.0.0.0 port 60026 connected with 192.0.0.21 port 50004
+[259]  0.0-10.0 sec  11.9 MBytes  10.0 Mbits/sec   0.322 ms    0/ 8502 (0%)
+[259] 0.00-10.00 sec  1 datagrams received out-of-order
+[261] local 0.0.0.0 port 60026 connected with 192.0.0.21 port 39318
+[261]  0.0-10.0 sec  10.7 MBytes  9.00 Mbits/sec   0.280 ms    0/ 7658 (0%)
+[263] local 0.0.0.0 port 60026 connected with 192.0.0.21 port 40329
+[263]  0.0-10.0 sec  11.9 MBytes  10.0 Mbits/sec   0.282 ms    0/ 8504 (0%)
+[263] 0.00-10.00 sec  1 datagrams received out-of-order
+[265] local 0.0.0.0 port 60026 connected with 192.0.0.21 port 34500
+[265]  0.0-10.0 sec  10.7 MBytes  9.01 Mbits/sec   0.286 ms    0/ 7657 (0%)
+[265] 0.00-10.00 sec  1 datagrams received out-of-order
+[267] local 0.0.0.0 port 60026 connected with 192.0.0.21 port 43739
+[267]  0.0-10.0 sec  11.9 MBytes  10.0 Mbits/sec   0.257 ms    0/ 8504 (0%)
+[267] 0.00-10.00 sec  1 datagrams received out-of-order
+[269] local 0.0.0.0 port 60026 connected with 192.0.0.21 port 34040
+[269]  0.0-10.0 sec  5.96 MBytes  5.00 Mbits/sec   0.145 ms    0/ 4252 (0%)
+[269] 0.00-10.00 sec  1 datagrams received out-of-order
+[271] local 0.0.0.0 port 60026 connected with 192.0.0.21 port 34532
+[271]  0.0-10.0 sec  9.54 MBytes  8.00 Mbits/sec   0.295 ms    0/ 6803 (0%)
+[271] 0.00-10.00 sec  1 datagrams received out-of-order
+[273] local 0.0.0.0 port 60026 connected with 192.0.0.21 port 57879
+[273]  0.0-10.0 sec  10.7 MBytes  9.01 Mbits/sec   0.186 ms    0/ 7657 (0%)
+[273] 0.00-10.00 sec  1 datagrams received out-of-order
+[275] local 0.0.0.0 port 60026 connected with 192.0.0.21 port 36445
+[275]  0.0-10.0 sec  13.1 MBytes  11.0 Mbits/sec   0.185 ms    0/ 9355 (0%)
+[275] 0.00-10.00 sec  1 datagrams received out-of-order
+[277] local 0.0.0.0 port 60026 connected with 192.0.0.21 port 47663
+[277]  0.0-10.0 sec  8.35 MBytes  7.00 Mbits/sec   0.133 ms    0/ 5953 (0%)
+[277] 0.00-10.00 sec  1 datagrams received out-of-order
+[279] local 0.0.0.0 port 60026 connected with 192.0.0.21 port 48005
+[279]  0.0-10.0 sec  10.7 MBytes  9.01 Mbits/sec   0.364 ms    0/ 7657 (0%)
+[279] 0.00-10.00 sec  1 datagrams received out-of-order
+[281] local 0.0.0.0 port 60026 connected with 192.0.0.21 port 38990
+[281]  0.0-10.0 sec  11.9 MBytes  10.0 Mbits/sec   0.122 ms    1/ 8504 (0.012%)
+[281] 0.00-10.00 sec  1 datagrams received out-of-order
+[283] local 0.0.0.0 port 60026 connected with 192.0.0.21 port 57074
+[283]  0.0-10.0 sec  8.35 MBytes  7.00 Mbits/sec   0.421 ms    0/ 5954 (0%)
+[285] local 0.0.0.0 port 60026 connected with 192.0.0.21 port 52488
+[285]  0.0-10.0 sec  8.35 MBytes  7.00 Mbits/sec   0.182 ms    0/ 5953 (0%)
+[285] 0.00-10.00 sec  1 datagrams received out-of-order
+[287] local 0.0.0.0 port 60026 connected with 192.0.0.21 port 59439
+[287]  0.0-10.0 sec  9.54 MBytes  8.00 Mbits/sec   0.202 ms    0/ 6803 (0%)
+[287] 0.00-10.00 sec  1 datagrams received out-of-order
+[289] local 0.0.0.0 port 60026 connected with 192.0.0.21 port 42227
+[289]  0.0-10.0 sec  8.35 MBytes  7.00 Mbits/sec   0.183 ms    0/ 5953 (0%)
+[289] 0.00-10.00 sec  1 datagrams received out-of-order
+[291] local 0.0.0.0 port 60026 connected with 192.0.0.21 port 43125
+[291]  0.0-10.0 sec  14.3 MBytes  12.0 Mbits/sec   0.311 ms    0/10205 (0%)
+[291] 0.00-10.00 sec  1 datagrams received out-of-order
+[293] local 0.0.0.0 port 60026 connected with 192.0.0.21 port 59980
+[293]  0.0-10.0 sec  8.35 MBytes  7.00 Mbits/sec   0.281 ms    0/ 5953 (0%)
+[293] 0.00-10.00 sec  1 datagrams received out-of-order
+[295] local 0.0.0.0 port 60026 connected with 192.0.0.21 port 57600
+[295]  0.0-10.0 sec  8.35 MBytes  7.00 Mbits/sec   0.186 ms    0/ 5953 (0%)
+[295] 0.00-10.00 sec  1 datagrams received out-of-order
+[297] local 0.0.0.0 port 60026 connected with 192.0.0.21 port 56664
+[297]  0.0-10.0 sec  8.35 MBytes  7.00 Mbits/sec   0.426 ms    0/ 5953 (0%)
+[297] 0.00-10.01 sec  1 datagrams received out-of-order
+[299] local 0.0.0.0 port 60026 connected with 192.0.0.21 port 50984
+[299]  0.0-10.0 sec  9.54 MBytes  8.00 Mbits/sec   0.110 ms    0/ 6803 (0%)
+[299] 0.00-10.00 sec  1 datagrams received out-of-order
+[301] local 0.0.0.0 port 60026 connected with 192.0.0.21 port 46567
+[301]  0.0-10.0 sec  11.9 MBytes  10.0 Mbits/sec   0.173 ms    0/ 8504 (0%)
+[301] 0.00-10.00 sec  1 datagrams received out-of-order
+[303] local 0.0.0.0 port 60026 connected with 192.0.0.21 port 50289
+[303]  0.0-10.0 sec  11.9 MBytes  10.0 Mbits/sec   0.284 ms    0/ 8504 (0%)
+[303] 0.00-10.00 sec  1 datagrams received out-of-order
+[305] local 0.0.0.0 port 60026 connected with 192.0.0.21 port 33370
+[305]  0.0-10.0 sec  9.54 MBytes  8.00 Mbits/sec   0.189 ms    0/ 6803 (0%)
+[305] 0.00-10.00 sec  1 datagrams received out-of-order
+[307] local 0.0.0.0 port 60026 connected with 192.0.0.21 port 56339
+[307]  0.0-10.0 sec  9.54 MBytes  8.00 Mbits/sec   0.159 ms    0/ 6804 (0%)
+[309] local 0.0.0.0 port 60026 connected with 192.0.0.21 port 39157
+[309]  0.0-10.0 sec  10.7 MBytes  9.01 Mbits/sec   0.546 ms    0/ 7657 (0%)
+[309] 0.00-10.00 sec  1 datagrams received out-of-order
+[311] local 0.0.0.0 port 60026 connected with 192.0.0.21 port 49878
+[311]  0.0-10.0 sec  8.35 MBytes  7.00 Mbits/sec   0.137 ms    0/ 5953 (0%)
+[311] 0.00-10.00 sec  1 datagrams received out-of-order
+[313] local 0.0.0.0 port 60026 connected with 192.0.0.21 port 39838
+[313]  0.0-10.0 sec  9.54 MBytes  8.00 Mbits/sec   0.138 ms    0/ 6803 (0%)
+[313] 0.00-10.00 sec  1 datagrams received out-of-order
+[315] local 0.0.0.0 port 60026 connected with 192.0.0.21 port 38975
+[315]  0.0-10.0 sec  8.35 MBytes  7.00 Mbits/sec   0.141 ms    0/ 5954 (0%)
+[317] local 0.0.0.0 port 60026 connected with 192.0.0.21 port 42189
+[317]  0.0-10.0 sec  9.54 MBytes  8.00 Mbits/sec   0.911 ms    0/ 6803 (0%)
+[317] 0.00-10.00 sec  1 datagrams received out-of-order
+[319] local 0.0.0.0 port 60026 connected with 192.0.0.21 port 53446
+[319]  0.0-10.0 sec  10.7 MBytes  9.01 Mbits/sec   0.149 ms    0/ 7657 (0%)
+[319] 0.00-10.00 sec  1 datagrams received out-of-order
+[321] local 0.0.0.0 port 60026 connected with 192.0.0.21 port 55300
+[321]  0.0-10.0 sec  8.35 MBytes  7.00 Mbits/sec   0.159 ms    0/ 5953 (0%)
+[321] 0.00-10.00 sec  1 datagrams received out-of-order
+[323] local 0.0.0.0 port 60026 connected with 192.0.0.21 port 40571
+[323]  0.0-10.0 sec  8.35 MBytes  7.00 Mbits/sec   0.186 ms    1/ 5953 (0.017%)
+[323] 0.00-10.00 sec  1 datagrams received out-of-order
+[325] local 0.0.0.0 port 60026 connected with 192.0.0.21 port 52677
+[325]  0.0-10.0 sec  11.9 MBytes  10.0 Mbits/sec   0.251 ms    0/ 8505 (0%)
+[327] local 0.0.0.0 port 60026 connected with 192.0.0.21 port 38311
+[327]  0.0-10.0 sec  10.7 MBytes  9.01 Mbits/sec   0.265 ms    0/ 7657 (0%)
+[327] 0.00-10.00 sec  1 datagrams received out-of-order
+[329] local 0.0.0.0 port 60026 connected with 192.0.0.21 port 43002
+[329]  0.0-10.0 sec  10.7 MBytes  9.01 Mbits/sec   0.283 ms    0/ 7657 (0%)
+[329] 0.00-10.00 sec  1 datagrams received out-of-order
+[331] local 0.0.0.0 port 60026 connected with 192.0.0.21 port 59597
+[331]  0.0-10.0 sec  14.3 MBytes  12.0 Mbits/sec   0.352 ms    0/10205 (0%)
+[331] 0.00-10.00 sec  1 datagrams received out-of-order
+[333] local 0.0.0.0 port 60026 connected with 192.0.0.21 port 52550
+[333]  0.0-10.0 sec  11.9 MBytes  10.0 Mbits/sec   0.471 ms    0/ 8504 (0%)
+[333] 0.00-10.00 sec  1 datagrams received out-of-order
+[335] local 0.0.0.0 port 60026 connected with 192.0.0.21 port 54913
+[335]  0.0-10.0 sec  10.7 MBytes  9.01 Mbits/sec   0.215 ms    0/ 7657 (0%)
+[335] 0.00-10.00 sec  1 datagrams received out-of-order
+[337] local 0.0.0.0 port 60026 connected with 192.0.0.21 port 50647
+[337]  0.0-10.0 sec  9.54 MBytes  8.00 Mbits/sec   0.419 ms    0/ 6803 (0%)
+[337] 0.00-10.00 sec  1 datagrams received out-of-order
+[339] local 0.0.0.0 port 60026 connected with 192.0.0.21 port 35967
+[339]  0.0-10.0 sec  9.54 MBytes  8.00 Mbits/sec   0.207 ms    0/ 6803 (0%)
+[339] 0.00-10.00 sec  1 datagrams received out-of-order
+[341] local 0.0.0.0 port 60026 connected with 192.0.0.21 port 39704
+[341]  0.0-10.0 sec  8.35 MBytes  7.00 Mbits/sec   0.572 ms    0/ 5954 (0%)
+[343] local 0.0.0.0 port 60026 connected with 192.0.0.21 port 38385
+[343]  0.0-10.0 sec  10.7 MBytes  9.00 Mbits/sec   0.249 ms    0/ 7657 (0%)
+[343] 0.00-10.00 sec  1 datagrams received out-of-order
+[345] local 0.0.0.0 port 60026 connected with 192.0.0.21 port 60893
+[345]  0.0-10.0 sec  9.54 MBytes  8.00 Mbits/sec   0.262 ms    0/ 6803 (0%)
+[345] 0.00-10.00 sec  1 datagrams received out-of-order
+[347] local 0.0.0.0 port 60026 connected with 192.0.0.21 port 33732
+[347]  0.0-10.0 sec  8.35 MBytes  7.00 Mbits/sec   0.653 ms    0/ 5954 (0%)
+[349] local 0.0.0.0 port 60026 connected with 192.0.0.21 port 34730
+[349]  0.0-10.0 sec  14.3 MBytes  12.0 Mbits/sec   0.508 ms    0/10205 (0%)
+[349] 0.00-10.00 sec  1 datagrams received out-of-order
+[351] local 0.0.0.0 port 60026 connected with 192.0.0.21 port 35026
+[351]  0.0-10.0 sec  7.16 MBytes  6.00 Mbits/sec   0.546 ms    0/ 5103 (0%)
+[351] 0.00-10.00 sec  1 datagrams received out-of-order
+[353] local 0.0.0.0 port 60026 connected with 192.0.0.21 port 54153
+[353]  0.0-10.0 sec  8.35 MBytes  7.00 Mbits/sec   0.363 ms    0/ 5953 (0%)
+[353] 0.00-10.00 sec  1 datagrams received out-of-order
+[355] local 0.0.0.0 port 60026 connected with 192.0.0.21 port 58994
+[355]  0.0-10.0 sec  10.7 MBytes  9.01 Mbits/sec   0.427 ms    0/ 7657 (0%)
+[355] 0.00-10.00 sec  1 datagrams received out-of-order
+[357] local 0.0.0.0 port 60026 connected with 192.0.0.21 port 35157
+[357]  0.0-10.0 sec  9.54 MBytes  8.00 Mbits/sec   0.405 ms    0/ 6804 (0%)
+[359] local 0.0.0.0 port 60026 connected with 192.0.0.21 port 58451
+[359]  0.0-10.0 sec  10.7 MBytes  9.01 Mbits/sec   0.372 ms    0/ 7658 (0%)
+[361] local 0.0.0.0 port 60026 connected with 192.0.0.21 port 45620
+[361]  0.0-10.0 sec  7.16 MBytes  6.00 Mbits/sec   0.308 ms    0/ 5103 (0%)
+[361] 0.00-10.00 sec  1 datagrams received out-of-order
+[363] local 0.0.0.0 port 60026 connected with 192.0.0.21 port 34618
+[363]  0.0-10.0 sec  10.7 MBytes  9.01 Mbits/sec   0.293 ms    0/ 7657 (0%)
+[363] 0.00-10.00 sec  1 datagrams received out-of-order
+[365] local 0.0.0.0 port 60026 connected with 192.0.0.21 port 55888
+[365]  0.0-10.0 sec  8.35 MBytes  7.00 Mbits/sec   0.408 ms    0/ 5954 (0%)
+[367] local 0.0.0.0 port 60026 connected with 192.0.0.21 port 58176
+[367]  0.0-10.0 sec  8.35 MBytes  7.00 Mbits/sec   0.493 ms    0/ 5954 (0%)
+[369] local 0.0.0.0 port 60026 connected with 192.0.0.21 port 59991
+[369]  0.0-10.0 sec  11.9 MBytes  10.0 Mbits/sec   0.956 ms    0/ 8504 (0%)
+[369] 0.00-10.00 sec  1 datagrams received out-of-order
+[371] local 0.0.0.0 port 60026 connected with 192.0.0.21 port 57929
+[371]  0.0-10.0 sec  9.54 MBytes  8.00 Mbits/sec   0.468 ms    0/ 6804 (0%)
+[373] local 0.0.0.0 port 60026 connected with 192.0.0.21 port 52994
+[373]  0.0-10.0 sec  7.16 MBytes  6.00 Mbits/sec   0.310 ms    0/ 5103 (0%)
+[373] 0.00-10.00 sec  1 datagrams received out-of-order
+[375] local 0.0.0.0 port 60026 connected with 192.0.0.21 port 47414
+[375]  0.0-10.0 sec  10.7 MBytes  9.01 Mbits/sec   0.326 ms    0/ 7658 (0%)
+[377] local 0.0.0.0 port 60026 connected with 192.0.0.21 port 36391
+[377]  0.0-10.0 sec  14.3 MBytes  12.0 Mbits/sec   0.541 ms    0/10205 (0%)
+[377] 0.00-10.00 sec  1 datagrams received out-of-order
+[379] local 0.0.0.0 port 60026 connected with 192.0.0.21 port 40993
+[379]  0.0-10.0 sec  10.7 MBytes  9.01 Mbits/sec   0.343 ms    0/ 7657 (0%)
+[379] 0.00-10.00 sec  1 datagrams received out-of-order
+[381] local 0.0.0.0 port 60026 connected with 192.0.0.21 port 33025
+[381]  0.0-10.0 sec  10.7 MBytes  9.01 Mbits/sec   0.185 ms    0/ 7658 (0%)
+[383] local 0.0.0.0 port 60026 connected with 192.0.0.21 port 42833
+[383]  0.0-10.0 sec  10.7 MBytes  9.01 Mbits/sec   0.575 ms    0/ 7657 (0%)
+[383] 0.00-10.00 sec  1 datagrams received out-of-order
+[385] local 0.0.0.0 port 60026 connected with 192.0.0.21 port 49211
+[385]  0.0-10.0 sec  9.54 MBytes  8.00 Mbits/sec   0.352 ms    0/ 6803 (0%)
+[385] 0.00-10.00 sec  1 datagrams received out-of-order
+[387] local 0.0.0.0 port 60026 connected with 192.0.0.21 port 49985
+[387]  0.0-10.0 sec  11.9 MBytes  10.0 Mbits/sec   0.763 ms    0/ 8504 (0%)
+[387] 0.00-10.00 sec  1 datagrams received out-of-order
+[389] local 0.0.0.0 port 60026 connected with 192.0.0.21 port 50393
+[389]  0.0-10.0 sec  10.7 MBytes  9.01 Mbits/sec   0.893 ms    0/ 7657 (0%)
+[389] 0.00-10.00 sec  1 datagrams received out-of-order
+[391] local 0.0.0.0 port 60026 connected with 192.0.0.21 port 56524
+[391]  0.0-10.0 sec  10.7 MBytes  9.01 Mbits/sec   0.784 ms    0/ 7658 (0%)
+[393] local 0.0.0.0 port 60026 connected with 192.0.0.21 port 58557
+[393]  0.0-10.0 sec  5.96 MBytes  5.00 Mbits/sec   0.666 ms    0/ 4252 (0%)
+[393] 0.00-10.00 sec  1 datagrams received out-of-order
+[395] local 0.0.0.0 port 60026 connected with 192.0.0.21 port 39643
+[395]  0.0-10.0 sec  9.54 MBytes  8.00 Mbits/sec   0.692 ms    0/ 6803 (0%)
+[395] 0.00-10.00 sec  1 datagrams received out-of-order
+[397] local 0.0.0.0 port 60026 connected with 192.0.0.21 port 51673
+[397]  0.0-10.0 sec  8.35 MBytes  7.00 Mbits/sec   0.574 ms    0/ 5953 (0%)
+[397] 0.00-10.00 sec  1 datagrams received out-of-order
+[399] local 0.0.0.0 port 60026 connected with 192.0.0.21 port 48353
+[399]  0.0-10.0 sec  8.35 MBytes  7.00 Mbits/sec   0.342 ms    0/ 5953 (0%)
+[399] 0.00-10.00 sec  1 datagrams received out-of-order
+[401] local 0.0.0.0 port 60026 connected with 192.0.0.21 port 56854
+[401]  0.0-10.0 sec  10.7 MBytes  9.01 Mbits/sec   0.547 ms    0/ 7658 (0%)
+[403] local 0.0.0.0 port 60026 connected with 192.0.0.21 port 53674
+[403]  0.0-10.0 sec  8.35 MBytes  7.00 Mbits/sec   0.323 ms    0/ 5953 (0%)
+[403] 0.00-10.00 sec  1 datagrams received out-of-order
+[405] local 0.0.0.0 port 60026 connected with 192.0.0.21 port 36925
+[405]  0.0-10.0 sec  13.1 MBytes  11.0 Mbits/sec   0.493 ms    0/ 9355 (0%)
+[407] local 0.0.0.0 port 60026 connected with 192.0.0.21 port 56627
+[407]  0.0-10.0 sec  8.35 MBytes  7.00 Mbits/sec   0.167 ms    0/ 5953 (0%)
+[407] 0.00-10.00 sec  1 datagrams received out-of-order
+[409] local 0.0.0.0 port 60026 connected with 192.0.0.21 port 40774
+[409]  0.0-10.0 sec  11.9 MBytes  10.0 Mbits/sec   0.489 ms    0/ 8504 (0%)
+[409] 0.00-10.00 sec  1 datagrams received out-of-order
+[411] local 0.0.0.0 port 60026 connected with 192.0.0.21 port 35762
+[411]  0.0-10.0 sec  8.35 MBytes  7.00 Mbits/sec   0.247 ms    0/ 5954 (0%)
+[413] local 0.0.0.0 port 60026 connected with 192.0.0.21 port 60246
+[413]  0.0-10.0 sec  11.9 MBytes  10.0 Mbits/sec   0.713 ms    0/ 8504 (0%)
+[413] 0.00-10.01 sec  1 datagrams received out-of-order
+[415] local 0.0.0.0 port 60026 connected with 192.0.0.21 port 56166
+[415]  0.0-10.0 sec  9.54 MBytes  8.00 Mbits/sec   0.553 ms    0/ 6803 (0%)
+[415] 0.00-10.00 sec  1 datagrams received out-of-order
+[417] local 0.0.0.0 port 60026 connected with 192.0.0.21 port 55823
+[417]  0.0-10.0 sec  10.7 MBytes  9.01 Mbits/sec   0.456 ms    0/ 7657 (0%)
+[417] 0.00-10.00 sec  1 datagrams received out-of-order
+[419] local 0.0.0.0 port 60026 connected with 192.0.0.21 port 47034
+[419]  0.0-10.0 sec  11.9 MBytes  10.0 Mbits/sec   0.375 ms    0/ 8504 (0%)
+[419] 0.00-10.00 sec  1 datagrams received out-of-order
+[421] local 0.0.0.0 port 60026 connected with 192.0.0.21 port 60358
+[421]  0.0-10.0 sec  11.9 MBytes  10.0 Mbits/sec   0.135 ms    0/ 8504 (0%)
+[421] 0.00-10.00 sec  1 datagrams received out-of-order
+[423] local 0.0.0.0 port 60026 connected with 192.0.0.21 port 56016
+[423]  0.0-10.0 sec  9.54 MBytes  8.00 Mbits/sec   0.291 ms    0/ 6803 (0%)
+[423] 0.00-10.00 sec  1 datagrams received out-of-order
+[425] local 0.0.0.0 port 60026 connected with 192.0.0.21 port 44410
+[425]  0.0-10.0 sec  9.54 MBytes  8.00 Mbits/sec   0.165 ms    0/ 6804 (0%)
+[427] local 0.0.0.0 port 60026 connected with 192.0.0.21 port 52522
+[427]  0.0-10.0 sec  10.7 MBytes  9.00 Mbits/sec   0.219 ms    0/ 7657 (0%)
+[427] 0.00-10.00 sec  1 datagrams received out-of-order
+[429] local 0.0.0.0 port 60026 connected with 192.0.0.21 port 33422
+[429]  0.0-10.0 sec  11.9 MBytes  10.0 Mbits/sec   0.214 ms    0/ 8504 (0%)
+[429] 0.00-10.00 sec  1 datagrams received out-of-order
+[431] local 0.0.0.0 port 60026 connected with 192.0.0.21 port 46328
+[431]  0.0-10.0 sec  7.15 MBytes  6.00 Mbits/sec   0.362 ms    0/ 5102 (0%)
+[431] 0.00-10.00 sec  1 datagrams received out-of-order
+[433] local 0.0.0.0 port 60026 connected with 192.0.0.21 port 44126
+[433]  0.0-10.0 sec  8.35 MBytes  7.00 Mbits/sec   0.380 ms    0/ 5953 (0%)
+[433] 0.00-10.00 sec  1 datagrams received out-of-order
+[435] local 0.0.0.0 port 60026 connected with 192.0.0.21 port 39481
+[435]  0.0-10.0 sec  13.1 MBytes  11.0 Mbits/sec   0.334 ms    0/ 9355 (0%)
+[435] 0.00-10.00 sec  1 datagrams received out-of-order
+[437] local 0.0.0.0 port 60026 connected with 192.0.0.21 port 51371
+[437]  0.0-10.0 sec  9.54 MBytes  8.00 Mbits/sec   0.389 ms    0/ 6804 (0%)
+[439] local 0.0.0.0 port 60026 connected with 192.0.0.21 port 43256
+[439]  0.0-10.0 sec  7.16 MBytes  6.00 Mbits/sec   0.218 ms    0/ 5104 (0%)
+[441] local 0.0.0.0 port 60026 connected with 192.0.0.21 port 43945
+[441]  0.0-10.0 sec  9.54 MBytes  8.00 Mbits/sec   0.270 ms    0/ 6802 (0%)
+[441] 0.00-10.00 sec  1 datagrams received out-of-order
+[443] local 0.0.0.0 port 60026 connected with 192.0.0.21 port 50573
+[443]  0.0-10.0 sec  11.9 MBytes  10.0 Mbits/sec   0.462 ms    0/ 8505 (0%)
+[445] local 0.0.0.0 port 60026 connected with 192.0.0.21 port 50247
+[445]  0.0-10.0 sec  9.54 MBytes  8.00 Mbits/sec   0.402 ms    0/ 6804 (0%)
+[447] local 0.0.0.0 port 60026 connected with 192.0.0.21 port 47065
+[447]  0.0-10.0 sec  17.9 MBytes  15.0 Mbits/sec   0.257 ms    0/12756 (0%)
+[447] 0.00-10.00 sec  1 datagrams received out-of-order
+[449] local 0.0.0.0 port 60026 connected with 192.0.0.21 port 44875
+[449]  0.0-10.0 sec  3.58 MBytes  3.00 Mbits/sec   0.110 ms    0/ 2552 (0%)
+[449] 0.00-10.01 sec  1 datagrams received out-of-order
+[451] local 0.0.0.0 port 60026 connected with 192.0.0.21 port 48973
+[451]  0.0-10.0 sec  5.96 MBytes  5.00 Mbits/sec   0.623 ms    0/ 4252 (0%)
+[451] 0.00-10.00 sec  1 datagrams received out-of-order
+[453] local 0.0.0.0 port 60026 connected with 192.0.0.21 port 41363
+[453]  0.0-10.0 sec  14.3 MBytes  12.0 Mbits/sec   0.197 ms    0/10205 (0%)
+[453] 0.00-10.00 sec  1 datagrams received out-of-order
+[455] local 0.0.0.0 port 60026 connected with 192.0.0.21 port 49699
+[455]  0.0-10.0 sec  9.54 MBytes  8.00 Mbits/sec   0.565 ms    0/ 6803 (0%)
+[455] 0.00-10.00 sec  1 datagrams received out-of-order
+[457] local 0.0.0.0 port 60026 connected with 192.0.0.21 port 53453
+[457]  0.0-10.0 sec  10.7 MBytes  9.01 Mbits/sec   0.177 ms    0/ 7657 (0%)
+[457] 0.00-10.00 sec  1 datagrams received out-of-order
+[459] local 0.0.0.0 port 60026 connected with 192.0.0.21 port 34695
+[459]  0.0-10.0 sec  8.35 MBytes  7.00 Mbits/sec   0.175 ms    0/ 5953 (0%)
+[459] 0.00-10.00 sec  1 datagrams received out-of-order
+[461] local 0.0.0.0 port 60026 connected with 192.0.0.21 port 53946
+[461]  0.0-10.0 sec  10.7 MBytes  9.01 Mbits/sec   0.316 ms    0/ 7658 (0%)
+[463] local 0.0.0.0 port 60026 connected with 192.0.0.21 port 56005
+[463]  0.0-10.0 sec  8.35 MBytes  7.00 Mbits/sec   0.471 ms    0/ 5953 (0%)
+[463] 0.00-10.00 sec  1 datagrams received out-of-order
+[465] local 0.0.0.0 port 60026 connected with 192.0.0.21 port 35177
+[465]  0.0-10.0 sec  7.16 MBytes  6.00 Mbits/sec   0.678 ms    0/ 5104 (0%)
+[467] local 0.0.0.0 port 60026 connected with 192.0.0.21 port 42573
+[467]  0.0-10.0 sec  9.54 MBytes  8.00 Mbits/sec   0.342 ms    0/ 6804 (0%)
+[469] local 0.0.0.0 port 60026 connected with 192.0.0.21 port 54812
+[469]  0.0-10.0 sec  11.9 MBytes  10.0 Mbits/sec   0.471 ms    0/ 8504 (0%)
+[469] 0.00-10.00 sec  1 datagrams received out-of-order
+[471] local 0.0.0.0 port 60026 connected with 192.0.0.21 port 54028
+[471]  0.0-10.0 sec  11.9 MBytes  10.0 Mbits/sec   0.337 ms    0/ 8504 (0%)
+[471] 0.00-10.00 sec  1 datagrams received out-of-order
+[473] local 0.0.0.0 port 60026 connected with 192.0.0.21 port 50491
+[473]  0.0-10.0 sec  9.54 MBytes  8.00 Mbits/sec   0.198 ms    0/ 6803 (0%)
+[473] 0.00-10.00 sec  1 datagrams received out-of-order
+[475] local 0.0.0.0 port 60026 connected with 192.0.0.21 port 58838
+[475]  0.0-10.0 sec  11.9 MBytes  10.0 Mbits/sec   0.213 ms    0/ 8504 (0%)
+[475] 0.00-10.00 sec  1 datagrams received out-of-order
+[477] local 0.0.0.0 port 60026 connected with 192.0.0.21 port 59425
+[477]  0.0-10.0 sec  11.9 MBytes  10.0 Mbits/sec   0.194 ms    1/ 8504 (0.012%)
+[477] 0.00-10.00 sec  1 datagrams received out-of-order
+[479] local 0.0.0.0 port 60026 connected with 192.0.0.21 port 35153
+[479]  0.0-10.0 sec  11.9 MBytes  10.0 Mbits/sec   0.236 ms    1/ 8504 (0.012%)
+[479] 0.00-10.00 sec  1 datagrams received out-of-order
+[481] local 0.0.0.0 port 60026 connected with 192.0.0.21 port 34799
+[481]  0.0-10.0 sec  8.35 MBytes  7.00 Mbits/sec   0.475 ms    0/ 5953 (0%)
+[481] 0.00-10.00 sec  1 datagrams received out-of-order
+[483] local 0.0.0.0 port 60026 connected with 192.0.0.21 port 43534
+[483]  0.0-10.0 sec  9.54 MBytes  8.00 Mbits/sec   0.230 ms    0/ 6803 (0%)
+[483] 0.00-10.00 sec  1 datagrams received out-of-order
+[485] local 0.0.0.0 port 60026 connected with 192.0.0.21 port 33108
+[485]  0.0-10.0 sec  5.96 MBytes  5.00 Mbits/sec   0.334 ms    0/ 4252 (0%)
+[485] 0.00-10.00 sec  1 datagrams received out-of-order
+[487] local 0.0.0.0 port 60026 connected with 192.0.0.21 port 47942
+[487]  0.0-10.0 sec  8.35 MBytes  7.00 Mbits/sec   0.332 ms    0/ 5953 (0%)
+[487] 0.00-10.00 sec  1 datagrams received out-of-order
+[489] local 0.0.0.0 port 60026 connected with 192.0.0.21 port 54856
+[489]  0.0-10.0 sec  11.9 MBytes  10.0 Mbits/sec   0.155 ms    0/ 8504 (0%)
+[489] 0.00-10.00 sec  1 datagrams received out-of-order
+[491] local 0.0.0.0 port 60026 connected with 192.0.0.21 port 34219
+[491]  0.0-10.0 sec  7.16 MBytes  6.00 Mbits/sec   0.259 ms    0/ 5103 (0%)
+[491] 0.00-10.00 sec  1 datagrams received out-of-order
+[493] local 0.0.0.0 port 60026 connected with 192.0.0.21 port 50371
+[493]  0.0-10.0 sec  8.35 MBytes  7.00 Mbits/sec   0.183 ms    0/ 5953 (0%)
+[493] 0.00-10.00 sec  1 datagrams received out-of-order
+[495] local 0.0.0.0 port 60026 connected with 192.0.0.21 port 55385
+[495]  0.0-10.0 sec  10.7 MBytes  9.01 Mbits/sec   0.197 ms    0/ 7657 (0%)
+[495] 0.00-10.00 sec  1 datagrams received out-of-order
+[497] local 0.0.0.0 port 60026 connected with 192.0.0.21 port 34935
+[497]  0.0-10.0 sec  13.1 MBytes  11.0 Mbits/sec   0.187 ms    0/ 9355 (0%)
+[497] 0.00-10.00 sec  1 datagrams received out-of-order
+[499] local 0.0.0.0 port 60026 connected with 192.0.0.21 port 32929
+[499]  0.0-10.0 sec  5.96 MBytes  5.00 Mbits/sec   0.277 ms    0/ 4253 (0%)
+[501] local 0.0.0.0 port 60026 connected with 192.0.0.21 port 59774
+[501]  0.0-10.0 sec  10.7 MBytes  9.01 Mbits/sec   0.361 ms    0/ 7657 (0%)
+[501] 0.00-10.00 sec  1 datagrams received out-of-order
+[503] local 0.0.0.0 port 60026 connected with 192.0.0.21 port 35503
+[503]  0.0-10.0 sec  10.7 MBytes  9.01 Mbits/sec   0.308 ms    0/ 7658 (0%)
+[505] local 0.0.0.0 port 60026 connected with 192.0.0.21 port 43291
+[505]  0.0-10.0 sec  7.16 MBytes  6.00 Mbits/sec   0.554 ms    0/ 5103 (0%)
+[505] 0.00-10.00 sec  1 datagrams received out-of-order
+[507] local 0.0.0.0 port 60026 connected with 192.0.0.21 port 60999
+[507]  0.0-10.0 sec  5.96 MBytes  5.00 Mbits/sec   0.239 ms    0/ 4252 (0%)
+[507] 0.00-10.00 sec  1 datagrams received out-of-order
+[509] local 0.0.0.0 port 60026 connected with 192.0.0.21 port 32937
+[509]  0.0-10.0 sec  10.7 MBytes  9.01 Mbits/sec   0.340 ms    0/ 7657 (0%)
+[509] 0.00-10.00 sec  1 datagrams received out-of-order
+[511] local 0.0.0.0 port 60026 connected with 192.0.0.21 port 56521
+[511]  0.0-10.0 sec  14.3 MBytes  12.0 Mbits/sec   0.174 ms    0/10204 (0%)
+[511] 0.00-10.00 sec  1 datagrams received out-of-order
+[513] local 0.0.0.0 port 60026 connected with 192.0.0.21 port 33246
+[513]  0.0-10.0 sec  8.35 MBytes  7.00 Mbits/sec   0.125 ms    0/ 5953 (0%)
+[513] 0.00-10.00 sec  1 datagrams received out-of-order
+[515] local 0.0.0.0 port 60026 connected with 192.0.0.21 port 36021
+[515]  0.0-10.0 sec  8.35 MBytes  7.00 Mbits/sec   0.221 ms    0/ 5953 (0%)
+[515] 0.00-10.00 sec  1 datagrams received out-of-order
+[517] local 0.0.0.0 port 60026 connected with 192.0.0.21 port 33394
+[517]  0.0-10.0 sec  9.54 MBytes  8.00 Mbits/sec   0.445 ms    0/ 6803 (0%)
+[517] 0.00-10.00 sec  1 datagrams received out-of-order
+[519] local 0.0.0.0 port 60026 connected with 192.0.0.21 port 42125
+[519]  0.0-10.0 sec  11.9 MBytes  10.0 Mbits/sec   0.306 ms    0/ 8504 (0%)
+[519] 0.00-10.00 sec  1 datagrams received out-of-order
+[521] local 0.0.0.0 port 60026 connected with 192.0.0.21 port 60846
+[521]  0.0-10.0 sec  11.9 MBytes  10.0 Mbits/sec   0.289 ms    0/ 8504 (0%)
+[521] 0.00-10.00 sec  1 datagrams received out-of-order
+[523] local 0.0.0.0 port 60026 connected with 192.0.0.21 port 39889
+[523]  0.0-10.0 sec  9.54 MBytes  8.00 Mbits/sec   0.442 ms    0/ 6804 (0%)
+[525] local 0.0.0.0 port 60026 connected with 192.0.0.21 port 33925
+[525]  0.0-10.0 sec  7.16 MBytes  6.00 Mbits/sec   0.530 ms    0/ 5103 (0%)
+[525] 0.00-10.00 sec  1 datagrams received out-of-order
+[527] local 0.0.0.0 port 60026 connected with 192.0.0.21 port 36959
+[527]  0.0-10.0 sec  8.35 MBytes  7.00 Mbits/sec   0.289 ms    0/ 5953 (0%)
+[527] 0.00-10.00 sec  1 datagrams received out-of-order
+[529] local 0.0.0.0 port 60026 connected with 192.0.0.21 port 58621
+[529]  0.0-10.0 sec  10.7 MBytes  9.01 Mbits/sec   0.319 ms    0/ 7658 (0%)
+[531] local 0.0.0.0 port 60026 connected with 192.0.0.21 port 47053
+[531]  0.0-10.0 sec  5.96 MBytes  5.00 Mbits/sec   0.505 ms    0/ 4253 (0%)
+[533] local 0.0.0.0 port 60026 connected with 192.0.0.21 port 45297
+[533]  0.0-10.0 sec  14.3 MBytes  12.0 Mbits/sec   0.359 ms    0/10205 (0%)
+[533] 0.00-10.00 sec  1 datagrams received out-of-order
+[535] local 0.0.0.0 port 60026 connected with 192.0.0.21 port 60446
+[535]  0.0-10.0 sec  11.9 MBytes  10.0 Mbits/sec   0.435 ms    0/ 8504 (0%)
+[535] 0.00-10.00 sec  1 datagrams received out-of-order
+[537] local 0.0.0.0 port 60026 connected with 192.0.0.21 port 49969
+[537]  0.0-10.0 sec  10.7 MBytes  9.01 Mbits/sec   0.405 ms    0/ 7657 (0%)
+[537] 0.00-10.00 sec  1 datagrams received out-of-order
+[539] local 0.0.0.0 port 60026 connected with 192.0.0.21 port 45521
+[539]  0.0-10.0 sec  11.9 MBytes  10.0 Mbits/sec   0.371 ms    0/ 8504 (0%)
+[539] 0.00-10.00 sec  1 datagrams received out-of-order
+[541] local 0.0.0.0 port 60026 connected with 192.0.0.21 port 44746
+[541]  0.0-10.0 sec  13.1 MBytes  11.0 Mbits/sec   0.226 ms    0/ 9355 (0%)
+[541] 0.00-10.00 sec  1 datagrams received out-of-order
+[543] local 0.0.0.0 port 60026 connected with 192.0.0.21 port 52004
+[543]  0.0-10.0 sec  8.35 MBytes  7.00 Mbits/sec   0.220 ms    0/ 5953 (0%)
+[543] 0.00-10.00 sec  1 datagrams received out-of-order
+[545] local 0.0.0.0 port 60026 connected with 192.0.0.21 port 53257
+[545]  0.0-10.0 sec  7.16 MBytes  6.00 Mbits/sec   0.296 ms    0/ 5103 (0%)
+[545] 0.00-10.00 sec  1 datagrams received out-of-order
+[547] local 0.0.0.0 port 60026 connected with 192.0.0.21 port 48022
+[547]  0.0-10.0 sec  14.3 MBytes  12.0 Mbits/sec   0.936 ms    0/10205 (0%)
+[547] 0.00-10.01 sec  1 datagrams received out-of-order
+[549] local 0.0.0.0 port 60026 connected with 192.0.0.21 port 39372
+[549]  0.0-10.0 sec  8.35 MBytes  7.00 Mbits/sec   0.457 ms    0/ 5953 (0%)
+[549] 0.00-10.00 sec  1 datagrams received out-of-order
+[551] local 0.0.0.0 port 60026 connected with 192.0.0.21 port 38470
+[551]  0.0-10.0 sec  9.54 MBytes  8.00 Mbits/sec   0.118 ms    0/ 6803 (0%)
+[551] 0.00-10.00 sec  1 datagrams received out-of-order
+[553] local 0.0.0.0 port 60026 connected with 192.0.0.21 port 40550
+[553]  0.0-10.0 sec  13.1 MBytes  11.0 Mbits/sec   0.308 ms    0/ 9355 (0%)
+[553] 0.00-10.00 sec  1 datagrams received out-of-order
+[555] local 0.0.0.0 port 60026 connected with 192.0.0.21 port 34980
+[555]  0.0-10.0 sec  11.9 MBytes  10.0 Mbits/sec   0.316 ms    0/ 8504 (0%)
+[555] 0.00-10.00 sec  1 datagrams received out-of-order
+[557] local 0.0.0.0 port 60026 connected with 192.0.0.21 port 60689
+[557]  0.0-10.0 sec  5.96 MBytes  5.00 Mbits/sec   0.467 ms    0/ 4252 (0%)
+[557] 0.00-10.00 sec  1 datagrams received out-of-order
+[559] local 0.0.0.0 port 60026 connected with 192.0.0.21 port 57317
+[559]  0.0-10.0 sec  10.7 MBytes  9.01 Mbits/sec   0.409 ms    0/ 7657 (0%)
+[559] 0.00-10.00 sec  1 datagrams received out-of-order
+[561] local 0.0.0.0 port 60026 connected with 192.0.0.21 port 33437
+[561]  0.0-10.0 sec  3.58 MBytes  3.00 Mbits/sec   0.246 ms    0/ 2552 (0%)
+[561] 0.00-10.01 sec  1 datagrams received out-of-order
+[563] local 0.0.0.0 port 60026 connected with 192.0.0.21 port 51106
+[563]  0.0-10.0 sec  7.16 MBytes  6.00 Mbits/sec   0.199 ms    0/ 5103 (0%)
+[563] 0.00-10.00 sec  1 datagrams received out-of-order
+[565] local 0.0.0.0 port 60026 connected with 192.0.0.21 port 42814
+[565]  0.0-10.0 sec  9.54 MBytes  8.00 Mbits/sec   0.208 ms    0/ 6803 (0%)
+[565] 0.00-10.00 sec  1 datagrams received out-of-order
+[567] local 0.0.0.0 port 60026 connected with 192.0.0.21 port 48517
+[567]  0.0-10.0 sec  10.7 MBytes  9.01 Mbits/sec   0.291 ms    0/ 7657 (0%)
+[567] 0.00-10.00 sec  1 datagrams received out-of-order
+[569] local 0.0.0.0 port 60026 connected with 192.0.0.21 port 43829
+[569]  0.0-10.0 sec  10.7 MBytes  9.01 Mbits/sec   0.410 ms    0/ 7657 (0%)
+[569] 0.00-10.00 sec  1 datagrams received out-of-order
+[571] local 0.0.0.0 port 60026 connected with 192.0.0.21 port 36577
+[571]  0.0-10.0 sec  9.54 MBytes  8.00 Mbits/sec   0.352 ms    0/ 6803 (0%)
+[571] 0.00-10.00 sec  1 datagrams received out-of-order
+[573] local 0.0.0.0 port 60026 connected with 192.0.0.21 port 57015
+[573]  0.0-10.0 sec  8.35 MBytes  7.00 Mbits/sec   0.786 ms    0/ 5953 (0%)
+[573] 0.00-10.00 sec  1 datagrams received out-of-order
+[575] local 0.0.0.0 port 60026 connected with 192.0.0.21 port 34361
+[575]  0.0-10.0 sec  8.35 MBytes  7.00 Mbits/sec   0.243 ms    0/ 5953 (0%)
+[575] 0.00-10.00 sec  1 datagrams received out-of-order
+[577] local 0.0.0.0 port 60026 connected with 192.0.0.21 port 44066
+[577]  0.0-10.0 sec  9.54 MBytes  8.00 Mbits/sec   0.199 ms    0/ 6803 (0%)
+[577] 0.00-10.00 sec  1 datagrams received out-of-order
+[579] local 0.0.0.0 port 60026 connected with 192.0.0.21 port 39956
+[579]  0.0-10.0 sec  9.54 MBytes  8.00 Mbits/sec   0.441 ms    0/ 6803 (0%)
+[579] 0.00-10.00 sec  1 datagrams received out-of-order
+[581] local 0.0.0.0 port 60026 connected with 192.0.0.21 port 60259
+[581]  0.0-10.0 sec  8.35 MBytes  7.00 Mbits/sec   0.478 ms    0/ 5953 (0%)
+[581] 0.00-10.00 sec  1 datagrams received out-of-order
+[583] local 0.0.0.0 port 60026 connected with 192.0.0.21 port 49320
+[583]  0.0-10.0 sec  10.7 MBytes  9.00 Mbits/sec   0.460 ms    0/ 7657 (0%)
+[583] 0.00-10.00 sec  1 datagrams received out-of-order
+[585] local 0.0.0.0 port 60026 connected with 192.0.0.21 port 54219
+[585]  0.0-10.0 sec  13.1 MBytes  11.0 Mbits/sec   0.400 ms    0/ 9355 (0%)
+[585] 0.00-10.00 sec  1 datagrams received out-of-order
+[587] local 0.0.0.0 port 60026 connected with 192.0.0.21 port 60799
+[587]  0.0-10.0 sec  13.1 MBytes  11.0 Mbits/sec   0.234 ms    0/ 9355 (0%)
+[587] 0.00-10.00 sec  1 datagrams received out-of-order
+[589] local 0.0.0.0 port 60026 connected with 192.0.0.21 port 55932
+[589]  0.0-10.0 sec  10.7 MBytes  9.01 Mbits/sec   0.266 ms    0/ 7657 (0%)
+[589] 0.00-10.00 sec  1 datagrams received out-of-order
+[591] local 0.0.0.0 port 60026 connected with 192.0.0.21 port 33920
+[591]  0.0-10.0 sec  13.1 MBytes  11.0 Mbits/sec   0.254 ms    0/ 9355 (0%)
+[591] 0.00-10.00 sec  1 datagrams received out-of-order
+[593] local 0.0.0.0 port 60026 connected with 192.0.0.21 port 50916
+[593]  0.0-10.0 sec  9.54 MBytes  8.00 Mbits/sec   0.333 ms    0/ 6803 (0%)
+[593] 0.00-10.00 sec  1 datagrams received out-of-order
+[595] local 0.0.0.0 port 60026 connected with 192.0.0.21 port 37531
+[595]  0.0-10.0 sec  10.7 MBytes  9.00 Mbits/sec   0.153 ms    0/ 7657 (0%)
+[595] 0.00-10.00 sec  1 datagrams received out-of-order
+[597] local 0.0.0.0 port 60026 connected with 192.0.0.21 port 35740
+[597]  0.0-10.0 sec  10.7 MBytes  9.01 Mbits/sec   0.611 ms    0/ 7657 (0%)
+[597] 0.00-10.00 sec  1 datagrams received out-of-order
+[599] local 0.0.0.0 port 60026 connected with 192.0.0.21 port 53182
+[599]  0.0-10.0 sec  9.54 MBytes  8.00 Mbits/sec   0.375 ms    0/ 6803 (0%)
+[599] 0.00-10.00 sec  1 datagrams received out-of-order

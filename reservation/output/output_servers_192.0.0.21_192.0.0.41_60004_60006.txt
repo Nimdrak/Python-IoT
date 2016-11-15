@@ -1,0 +1,34 @@
+------------------------------------------------------------
+Server listening on UDP port 60004
+Receiving 1470 byte datagrams
+UDP buffer size: 0.20 MByte (default)
+------------------------------------------------------------
+[  1] local 0.0.0.0 port 60004 connected with 192.0.0.41 port 54995
+[ ID] Interval       Transfer     Bandwidth        Jitter   Lost/Total Datagrams
+[  1]  0.0-10.0 sec  14.3 MBytes  12.0 Mbits/sec   0.060 ms    0/10204 (0%)
+[  1]  0.0-10.0 sec  1 datagrams received out-of-order
+[  3] local 0.0.0.0 port 60004 connected with 192.0.0.41 port 46543
+[  3]  0.0-10.0 sec  16.7 MBytes  14.0 Mbits/sec   0.145 ms    0/11905 (0%)
+[  3]  0.0-10.0 sec  1 datagrams received out-of-order
+[  5] local 0.0.0.0 port 60004 connected with 192.0.0.41 port 49386
+[  5]  0.0-10.0 sec  10.7 MBytes  9.00 Mbits/sec   0.083 ms    0/ 7658 (0%)
+[  7] local 0.0.0.0 port 60004 connected with 192.0.0.41 port 56788
+[  7]  0.0-10.0 sec  10.7 MBytes  9.00 Mbits/sec   0.065 ms    0/ 7657 (0%)
+[  7]  0.0-10.0 sec  1 datagrams received out-of-order
+[  9] local 0.0.0.0 port 60004 connected with 192.0.0.41 port 39083
+[  9]  0.0-10.0 sec  10.7 MBytes  9.00 Mbits/sec   0.065 ms    0/ 7657 (0%)
+[  9]  0.0-10.0 sec  1 datagrams received out-of-order
+[ 11] local 0.0.0.0 port 60004 connected with 192.0.0.41 port 37955
+[ 11]  0.0-10.0 sec  10.7 MBytes  9.00 Mbits/sec   0.080 ms    0/ 7658 (0%)
+[ 13] local 0.0.0.0 port 60004 connected with 192.0.0.41 port 38140
+[ 13]  0.0-10.0 sec  9.54 MBytes  8.00 Mbits/sec   0.085 ms    0/ 6803 (0%)
+[ 13]  0.0-10.0 sec  1 datagrams received out-of-order
+[ 15] local 0.0.0.0 port 60004 connected with 192.0.0.41 port 32944
+[ 15]  0.0-10.0 sec  15.5 MBytes  13.0 Mbits/sec   0.096 ms    1/11062 (0.009%)
+[ 15]  0.0-10.0 sec  1 datagrams received out-of-order
+[ 17] local 0.0.0.0 port 60004 connected with 192.0.0.41 port 59879
+[ 17]  0.0-10.0 sec  10.7 MBytes  9.00 Mbits/sec   0.102 ms    0/ 7657 (0%)
+[ 17]  0.0-10.0 sec  1 datagrams received out-of-order
+[ 19] local 0.0.0.0 port 60004 connected with 192.0.0.41 port 36748
+[ 19]  0.0-10.0 sec  13.1 MBytes  11.0 Mbits/sec   0.070 ms    0/ 9355 (0%)
+[ 19]  0.0-10.0 sec  1 datagrams received out-of-order

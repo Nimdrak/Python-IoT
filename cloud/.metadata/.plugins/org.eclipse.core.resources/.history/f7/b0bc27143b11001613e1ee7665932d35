@@ -1,0 +1,45 @@
+'''
+Created on May 3, 2016
+
+@author: cloud1
+'''
+import function_string_to_list
+
+output_ip_mean=[]
+
+
+f_ip = open("/home/cloud1/IoT/output_including_ip.txt",'r')
+f_mean = open("/home/cloud1/IoT/output_mean.txt",'r')
+line1=f_ip.readline()
+list_temp1 = function_string_to_list.str_to_list(line1)
+line2=f_mean.readline()
+result=line2.split()
+final_output=[]
+output=[]
+output.append(list_temp1[0])
+output.append(list_temp1[len(list_temp1)-1])
+output.append(result[0])
+output.append(result[1])       
+final_output.append(output)
+while line1:
+    output=[]
+    line1=f_ip.readline()
+    list_temp1 = function_string_to_list.str_to_list(line1)
+#    print list_temp1
+    
+    
+    line2=f_mean.readline()
+    result=line2.split()
+#    print result
+
+    if result ==[]:
+        break
+    
+    output.append(list_temp1[0])
+    output.append(list_temp1[len(list_temp1)-1])
+    output.append(result[0])
+    output.append(result[1])    
+    
+    print output
+    output=[]
+    final_output.append(output)

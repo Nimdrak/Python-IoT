@@ -206,8 +206,11 @@ def Routing_rule_post_only_dst(Device_id, Priority, Type, Out_port, Dst_IP, ARP_
  
 
 
-Routing_rule_post("of:00000025900b66fe","10000","OUTPUT",'NORMAL',"192.0.0.1/32","192.0.0.2/32","0x0800","ETH_TYPE")
-#Routing_rule_post("of:00009cebe831287a","65050","OUTPUT",'LOCAL',"192.0.0.2/32","192.0.0.1/32","0x0800","ETH_TYPE")
+Routing_rule_post("of:0000000000000001","10000","OUTPUT",'NORMAL',"192.0.0.1/32","192.0.0.2/32","0x0800","ETH_TYPE")
+Routing_rule_post("of:0000000000000002","65050","OUTPUT",'LOCAL',"192.0.0.2/32","192.0.0.1/32","0x0800","ETH_TYPE")
+Routing_rule_post("of:0000000000000003","65050","OUTPUT",'LOCAL',"192.0.0.2/32","192.0.0.1/32","0x0800","ETH_TYPE")
+Routing_rule_post("of:0000000000000004","65050","OUTPUT",'LOCAL',"192.0.0.2/32","192.0.0.1/32","0x0800","ETH_TYPE")
+
 
 #Routing_rule_post("of:000000606eb248fb","65050","OUTPUT",'1',"192.0.0.2/32","192.0.0.1/32","0x0800","ETH_TYPE")
 #Routing_rule_post("of:000000606eb248fb","65050","OUTPUT",'LOCAL',"192.0.0.1/32","192.0.0.2/32","0x0800","ETH_TYPE")

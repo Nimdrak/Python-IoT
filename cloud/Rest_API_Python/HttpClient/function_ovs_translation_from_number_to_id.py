@@ -6,7 +6,7 @@ Created on Mar 31, 2016
 
 def translation_from_num_to_id(ovs_number):
 
-    f = open("/home/controller/IoT/cloud/Rest_API_Python/HttpClient/table/OVS_ID_TABLE.txt",'r')
+    f = open("/home/byounguklee/mininet/con_python/cloud/Rest_API_Python/HttpClient/table/OVS_ID_TABLE.txt",'r')
     line=f.readline()
 
     while line:
@@ -22,13 +22,4 @@ def translation_from_num_to_id(ovs_number):
 
 
 
-f = open("/home/controller/IoT/cloud/Rest_API_Python/HttpClient/table/OVS_ID_TABLE.txt",'r')
-line=f.readline()
-line=f.readline()
-line=f.readline()
-line=f.readline()
-line=f.readline()
-line=f.readline()
-line=f.readline()
-
-print line
+print translation_from_num_to_id('1')

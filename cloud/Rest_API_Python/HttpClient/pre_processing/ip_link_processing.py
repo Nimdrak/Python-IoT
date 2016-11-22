@@ -9,8 +9,8 @@ import function_string_to_list
 #######################
 #### load two file ####
 #######################
-f_ip = open("/home/controller/IoT/output_txt/output_including_ip.txt",'r')
-f_link = open("/home/controller/IoT/output_txt/output_including_link.txt",'r')
+f_ip = open("/home/byounguklee/mininet/con_python/output_txt/output_including_ip.txt",'r')
+f_link = open("/home/byounguklee/mininet/con_python/output_txt/output_including_link.txt",'r')
 
 
 line1=f_ip.readline()
@@ -60,7 +60,7 @@ while line1:
 
 
 ############ Possible problem
-f_allo_result=open("/home/controller/IoT/output_txt/output_ip_link.txt",'w')
+f_allo_result=open("/home/byounguklee/mininet/con_python/output_txt/output_ip_link.txt",'w')
 for i in range(0,len(final_output)):
     for j in range(0,2)    :
         data = str(final_output[i][j]).strip()[0:-3] + ','

@@ -1,0 +1,10 @@
+#!/bin/bash
+
+
+#scp /home/byounguklee/.ssh/id_rsa.pub 10.0.0.1:id_rsa.pub
+scp /home/byounguklee/.ssh/id_rsa.pub 10.0.0.2:id_rsa.pub
+scp /home/byounguklee/.ssh/id_rsa.pub 10.0.0.3:id_rsa.pub
+scp /home/byounguklee/.ssh/id_rsa.pub 10.0.0.4:id_rsa.pub
+
+
+/home/controller/IoT/ssh_key_setting/ssh_setting.sh

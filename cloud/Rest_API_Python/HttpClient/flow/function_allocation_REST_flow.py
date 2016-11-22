@@ -3,11 +3,10 @@ Created on Mar 31, 2016
 
 @author: nimdrak
 '''
-
-import flow.function_routing_rule_post_flow
-import function_allocation_routing_path
-import function_routing_rule_post
-import function_ovs_translation_from_number_to_id
+from HttpClient.flow import function_routing_rule_post_flow
+from HttpClient import function_allocation_routing_path
+from HttpClient import function_routing_rule_post
+from HttpClient import function_ovs_translation_from_number_to_id
 import sys
 
 
@@ -90,9 +89,9 @@ def function_main(algo_output1,port_output1):
 
     for a in range(1,len(algo_output1)-1):
 
-        flow.function_routing_rule_post_flow.Routing_rule_post_just_ip(result_translation[a-1][1],"10000","OUTPUT",dst_port_list_algo_output[a-1],algo_output1[0],algo_output1[len(algo_output1)-1],port_output1[0],port_output1[1],"0x0800","ETH_TYPE")
+        function_routing_rule_post_flow.Routing_rule_post_just_ip(result_translation[a-1][1],"10000","OUTPUT",dst_port_list_algo_output[a-1],algo_output1[0],algo_output1[len(algo_output1)-1],port_output1[0],port_output1[1],"0x0800","ETH_TYPE")
 #        flow.function_routing_rule_post_flow.Routing_rule_post_udp_only_dst_port(result_translation[a-1][1],"65260","OUTPUT",dst_port_list_algo_output[a-1],algo_output1[0],algo_output1[len(algo_output1)-1],port_output1[0],port_output1[1],"0x0800","ETH_TYPE")
-        flow.function_routing_rule_post_flow.Routing_rule_post_tcp_only_dst_port(result_translation[a-1][1],"65260","OUTPUT",dst_port_list_algo_output[a-1],algo_output1[0],algo_output1[len(algo_output1)-1],port_output1[0],port_output1[1],"0x0800","ETH_TYPE")
+        function_routing_rule_post_flow.Routing_rule_post_tcp_only_dst_port(result_translation[a-1][1],"65260","OUTPUT",dst_port_list_algo_output[a-1],algo_output1[0],algo_output1[len(algo_output1)-1],port_output1[0],port_output1[1],"0x0800","ETH_TYPE")
         function_routing_rule_post.Routing_rule_post_arp_drop(result_translation[a-1][1], "65250")
     
 #############################
@@ -101,14 +100,14 @@ def function_main(algo_output1,port_output1):
 
     for a in range(1,len(algo_output1)-1):
 
-        flow.function_routing_rule_post_flow.Routing_rule_post_just_ip(result_translation[a-1][1],"10000","OUTPUT",src_port_list_algo_output[a-1],algo_output1[len(algo_output1)-1],algo_output1[0],port_output1[1],port_output1[0],"0x0800","ETH_TYPE")
+        function_routing_rule_post_flow.Routing_rule_post_just_ip(result_translation[a-1][1],"10000","OUTPUT",src_port_list_algo_output[a-1],algo_output1[len(algo_output1)-1],algo_output1[0],port_output1[1],port_output1[0],"0x0800","ETH_TYPE")
 #        flow.function_routing_rule_post_flow.Routing_rule_post_udp_only_dst_port(result_translation[a-1][1],"65260","OUTPUT",src_port_list_algo_output[a-1],algo_output1[len(algo_output1)-1],algo_output1[0],port_output1[1],port_output1[0],"0x0800","ETH_TYPE")
-        flow.function_routing_rule_post_flow.Routing_rule_post_tcp_only_dst_port(result_translation[a-1][1],"65260","OUTPUT",src_port_list_algo_output[a-1],algo_output1[len(algo_output1)-1],algo_output1[0],port_output1[1],port_output1[0],"0x0800","ETH_TYPE")
+        function_routing_rule_post_flow.Routing_rule_post_tcp_only_dst_port(result_translation[a-1][1],"65260","OUTPUT",src_port_list_algo_output[a-1],algo_output1[len(algo_output1)-1],algo_output1[0],port_output1[1],port_output1[0],"0x0800","ETH_TYPE")
         function_routing_rule_post.Routing_rule_post_arp_drop(result_translation[a-1][1], "65250")
 
 
 #function_main(['192.0.0.120/32','2','4','3','192.0.0.130/32'],['60000','60000'])
-function_main(['192.0.0.11/32','1','2','4','192.0.0.41/32'],['60001','60001'])
+#function_main(['192.0.0.11/32','1','2','4','192.0.0.41/32'],['60001','60001'])
 
 
 #function_routing_rule_post.Routing_rule_post("of:00009cebe831287a","65050","OUTPUT",'2',"192.0.0.100/32","192.0.0.101/32","0x0800","ETH_TYPE")

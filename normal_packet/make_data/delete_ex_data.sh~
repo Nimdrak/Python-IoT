@@ -1,4 +1,4 @@
 #!/bin/bash
 
-rm /home/controller/IoT/normal_packet/output/*
+rm -r /home/controller/IoT/normal_packet/output/*
 

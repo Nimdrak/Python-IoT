@@ -22,7 +22,7 @@ for n=1:length
     
 end
 
-f_output=fopen('/home/byounguklee/mininet/con_python/input_mean_trun.txt','w');
+f_output=fopen('/home/controller/IoT/input_mean_trun.txt','w');
 
 for n=1:length
 fprintf(f_output,'%f\t%f\n',result(n,1),result(n,2));

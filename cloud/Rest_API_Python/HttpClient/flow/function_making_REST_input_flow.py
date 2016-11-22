@@ -25,7 +25,7 @@ def allocation_server(index_vector,result = [], *args):
     for x in range(0,len(need_server_ovs)):
         
     #First, we need to read need server OVS's table
-        f_algo = open("/home/controller/IoT/cloud/Rest_API_Python/HttpClient/server_table_flow/"+"OVS"+need_server_ovs[x]+".txt",'r')
+        f_algo = open("/home/byounguklee/mininet/con_python/cloud/Rest_API_Python/HttpClient/server_table_flow/"+"OVS"+need_server_ovs[x]+".txt",'r')
 
     #Second, we take the server that have number, index + 1
         line_algo=f_algo.readline()
@@ -69,7 +69,7 @@ def allocation_server_with_text_input(index_vector,file_input_name):
 
 #read algorithm's output from text file       
  
-    f = open("/home/controller/IoT/" + file_input_name,'r')
+    f = open("/home/byounguklee/mininet/con_python/" + file_input_name,'r')
 
     list_result = [] # list for binding all itput
     allo_result = [] # list for binding all output
@@ -105,14 +105,14 @@ def allocation_server_with_text_input(index_vector,file_input_name):
     print "All output is ", allo_result,allo_result_port
 
 #write output in txt file    
-    f_allo_result=open("/home/controller/IoT/output_txt/output_including_ip.txt",'w')
+    f_allo_result=open("/home/byounguklee/mininet/con_python/output_txt/output_including_ip.txt",'w')
     for i in range(0,len(allo_result)):
         data = str(allo_result[i]) + '\n'
         
         f_allo_result.write(data)
     f_allo_result.close()
     
-    f_allo_result_port=open("/home/controller/IoT/output_txt/output_port.txt",'w')
+    f_allo_result_port=open("/home/byounguklee/mininet/con_python/output_txt/output_port.txt",'w')
     for i in range(0,len(allo_result_port)):
         data = str(allo_result_port[i][0])+ ',' +str(allo_result_port[i][1])+'\n'
         f_allo_result_port.write(data)

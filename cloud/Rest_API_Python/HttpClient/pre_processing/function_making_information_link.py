@@ -18,7 +18,7 @@ def link_sorting_output(inputss = [],*args):
     ###allocate routing dst port from OVS Table###
     ##############################################
     
-        f = open("/home/controller/IoT/cloud/Rest_API_Python/HttpClient/table/LINK_TABLE.txt",'r')
+        f = open("/home/byounguklee/mininet/con_python/cloud/Rest_API_Python/HttpClient/table/LINK_TABLE.txt",'r')
         line=f.readline()
     
         while line:
@@ -45,7 +45,7 @@ def link_sorting_output_with_text_input(file_input_name):
 
 #read algorithm's output from text file       
  
-    f = open("/home/controller/IoT/" + file_input_name,'r')
+    f = open("/home/byounguklee/mininet/con_python/" + file_input_name,'r')
 
     list_result = [] # list for binding all input
     allo_result = [] # list for binding all output
@@ -77,7 +77,7 @@ def link_sorting_output_with_text_input(file_input_name):
     print "All output is ", allo_result
 
 #write output in txt file    
-    f_allo_result=open("/home/controller/IoT/output_txt/output_including_link.txt",'w')
+    f_allo_result=open("/home/byounguklee/mininet/con_python/output_txt/output_including_link.txt",'w')
     for i in range(0,len(allo_result)):
         data = str(allo_result[i]) + '\n'
         length_path.append(len(allo_result[i]))
@@ -85,7 +85,7 @@ def link_sorting_output_with_text_input(file_input_name):
     f_allo_result.close()
     
     
-    f_allo_result1=open("/home/controller/IoT/output_txt/link_length.txt",'w')
+    f_allo_result1=open("/home/byounguklee/mininet/con_python/output_txt/link_length.txt",'w')
     f_allo_result1.write(str(length_path))
     f_allo_result1.close
     

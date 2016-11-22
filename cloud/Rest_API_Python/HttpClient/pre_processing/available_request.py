@@ -15,7 +15,7 @@ def available_request_find(input):
     
     for i in range(0,len(input)):
         
-        f = open("/home/controller/IoT/cloud/Rest_API_Python/HttpClient/server_table_flow_number/OVS" + input[i] +".txt",'r')
+        f = open("/home/byounguklee/mininet/con_python/cloud/Rest_API_Python/HttpClient/server_table_flow_number/OVS" + input[i] +".txt",'r')
         line=f.readline()
         
         while line:

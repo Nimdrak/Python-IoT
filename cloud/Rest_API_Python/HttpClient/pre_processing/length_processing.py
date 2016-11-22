@@ -4,7 +4,7 @@ Created on May 6, 2016
 @author: cloud1
 '''
 
-f_length = open("/home/controller/IoT/output_txt/link_length.txt",'r')
+f_length = open("/home/byounguklee/mininet/con_python/output_txt/link_length.txt",'r')
 
 line1=f_length.readline()    
 a=line1[1:-1].split(',')
@@ -15,7 +15,7 @@ print a
 
 
 
-f_input_length=open("/home/controller/IoT/output_txt/output_link_length.txt",'w')
+f_input_length=open("/home/byounguklee/mininet/con_python/output_txt/output_link_length.txt",'w')
 for i in range(0,len(a)-1):
     data=str(a[i]) + ','
     f_input_length.write(data)

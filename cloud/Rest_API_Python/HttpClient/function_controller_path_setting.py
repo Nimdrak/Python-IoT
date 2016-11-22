@@ -9,7 +9,7 @@ def controller_path_setting(number_of_ovs):
     all_that_controller=[]
 
     for x in range(0,number_of_ovs):
-        f_cont = open("/home/controller/IoT/cloud/Rest_API_Python/HttpClient/server_table/"+"OVS"+str(x+1)+".txt",'r')
+        f_cont = open("/home/byounguklee/mininet/con_python/cloud/Rest_API_Python/HttpClient/server_table/"+"OVS"+str(x+1)+".txt",'r')
         line_cont=f_cont.readline()
         controller=[]
         all_controller = []                

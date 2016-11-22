@@ -22,4 +22,4 @@ def translation_from_num_to_id(ovs_number):
 
 
 
-print translation_from_num_to_id('1')
+#print translation_from_num_to_id('1')

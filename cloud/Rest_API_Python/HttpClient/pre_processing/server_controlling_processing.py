@@ -8,8 +8,8 @@ import function_string_to_list
 #######################
 #### load two file ####
 #######################
-f_ip = open("/home/controller/IoT/output_txt/output_including_ip.txt",'r')
-f_mean = open("/home/controller/IoT/input_mean.txt",'r')
+f_ip = open("/home/byounguklee/mininet/con_python/output_txt/output_including_ip.txt",'r')
+f_mean = open("/home/byounguklee/mininet/con_python/input_mean.txt",'r')
 
 
 line1=f_ip.readline()
@@ -58,7 +58,7 @@ while line1:
 print final_output
 
 
-f_allo_result=open("/home/controller/IoT/output_txt/output_ip_mean_193.txt",'w')
+f_allo_result=open("/home/byounguklee/mininet/con_python/output_txt/output_ip_mean_193.txt",'w')
 for i in range(0,len(final_output)):
     for j in range(0,len(final_output[i])-2)    :
         data = '193'+str(final_output[i][j]).strip()[3:-3] + ','

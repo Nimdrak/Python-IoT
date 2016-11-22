@@ -1,4 +1,4 @@
 #!/bin/bash
 
-rm -r /home/controller/IoT/normal_packet/output/*
+rm -r /home/byounguklee/mininet/custom/con_python/normal_packet/output/*
 

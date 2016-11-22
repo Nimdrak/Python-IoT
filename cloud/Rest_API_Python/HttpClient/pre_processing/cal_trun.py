@@ -8,7 +8,7 @@ import sys
 #######################
 #### load two file ####
 #######################
-f_mean = open("/home/controller/IoT/input_mean.txt",'r')
+f_mean = open("/home/byounguklee/mininet/con_python/input_mean.txt",'r')
 
 
 line2=f_mean.readline()
@@ -78,7 +78,7 @@ while line2:
     
 print final_output
 
-f_allo_result=open("/home/controller/IoT/input_mean_trun.txt",'w')
+f_allo_result=open("/home/byounguklee/mininet/con_python/input_mean_trun.txt",'w')
 for i in range(0,len(final_output)):
     data = str(final_output[i][0]) + '\t'
     f_allo_result.write(data)

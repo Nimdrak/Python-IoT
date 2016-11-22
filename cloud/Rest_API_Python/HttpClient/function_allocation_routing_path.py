@@ -34,7 +34,7 @@ def Allocation_routing_dst_port(algo_output = [], *args):
 ###allocate routing dst port from OVS Table###
 ##############################################
 
-        f = open("/home/controller/IoT/cloud/Rest_API_Python/HttpClient/table/"+"OVS"+current+".txt",'r')
+        f = open("/home/byounguklee/mininet/con_python/cloud/Rest_API_Python/HttpClient/table/"+"OVS"+current+".txt",'r')
         line=f.readline()
 
         while line:
@@ -62,7 +62,7 @@ def Allocation_routing_dst_port(algo_output = [], *args):
         after = algo_output[x+1]
     
 
-        f = open("/home/controller/IoT/cloud/Rest_API_Python/HttpClient/table/"+"OVS"+current+".txt",'r')
+        f = open("/home/byounguklee/mininet/con_python/cloud/Rest_API_Python/HttpClient/table/"+"OVS"+current+".txt",'r')
         line=f.readline()
 
         if dst_port_list[x-1] =='DEFAULT': #because vector notation start at 0, x-1
@@ -112,7 +112,7 @@ def Allocation_routing_src_port(algo_output = [], *args):
 ###allocate routing dst port from OVS Table###
 ##############################################
 
-        f = open("/home/controller/IoT/cloud/Rest_API_Python/HttpClient/table/"+"OVS"+current+".txt",'r')
+        f = open("/home/byounguklee/mininet/con_python/cloud/Rest_API_Python/HttpClient/table/"+"OVS"+current+".txt",'r')
         line=f.readline()
 
         while line:
@@ -138,7 +138,7 @@ def Allocation_routing_src_port(algo_output = [], *args):
         ahead = algo_output[x-1]
     
 
-        f = open("/home/controller/IoT/cloud/Rest_API_Python/HttpClient/table/"+"OVS"+current+".txt",'r')
+        f = open("/home/byounguklee/mininet/con_python/cloud/Rest_API_Python/HttpClient/table/"+"OVS"+current+".txt",'r')
         line=f.readline()
 
         if src_port_list[x-1] =='DEFAULT':
@@ -193,7 +193,7 @@ def Allocation_routing_dst_port_ovs(algo_output = [], *args):
 ###allocate routing dst port from OVS Table###
 ##############################################
 
-        f = open("/home/controller/IoT/cloud/Rest_API_Python/HttpClient/table/"+"OVS"+current+".txt",'r')
+        f = open("/home/byounguklee/mininet/con_python/cloud/Rest_API_Python/HttpClient/table/"+"OVS"+current+".txt",'r')
         line=f.readline()
 
         while line:
@@ -217,7 +217,7 @@ def Allocation_routing_dst_port_ovs(algo_output = [], *args):
     current=algo_output[len(algo_output)-1]
     print current,len(algo_output)
     
-    f = open("/home/controller/IoT/cloud/Rest_API_Python/HttpClient/table/"+"OVS"+current+".txt",'r')
+    f = open("/home/byounguklee/mininet/con_python/cloud/Rest_API_Python/HttpClient/table/"+"OVS"+current+".txt",'r')
     line=f.readline()
     
     

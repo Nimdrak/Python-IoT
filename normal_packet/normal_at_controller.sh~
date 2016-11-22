@@ -5,16 +5,12 @@
 ############ Initialization input ##############
 ############# Initialization ssh ###############
 
-/home/controller/IoT/normal_packet/make_data/delete_ex_data.sh
-sudo /etc/init.d/ssh restart
-ssh server@193.0.0.11 sudo /etc/init.d/ssh restart
-ssh server@193.0.0.21 sudo /etc/init.d/ssh restart
-ssh server@193.0.0.31 sudo /etc/init.d/ssh restart
-ssh server@193.0.0.41 sudo /etc/init.d/ssh restart
+/home/byounguklee/mininet/custom/con_python/normal_packet/make_data/delete_ex_data.sh
+
 
 #################################################
 
-IFS=',' read -r -a input_length_path <<< $(cat /home/controller/IoT/output_txt/output_link_length.txt)
+IFS=',' read -r -a input_length_path <<< $(cat /home/byounguklee/mininet/custom/con_python/output_txt/output_link_length.txt)
 
 echo "length_path"
 echo ${input_length_path[@]}
@@ -32,7 +28,7 @@ do
 p=$(expr $p + 1)
 IFS=',' read -r -a array_$p <<< "$line"
 
-done < /home/controller/IoT/output_txt/output_ip_mean.txt
+done < /home/byounguklee/mininet/custom/con_python/output_txt/output_ip_mean.txt
 
 
 
@@ -54,7 +50,7 @@ do
 p=$(expr $p + 1)
 IFS=',' read -r -a arrayee_$p <<< "$line"
 
-done < /home/controller/IoT/output_txt/output_ip_mean_193.txt
+done < /home/byounguklee/mininet/custom/con_python/output_txt/output_ip_mean_193.txt
 
 
 
@@ -77,7 +73,7 @@ do
 p=$(expr $p + 1)
 IFS=',' read -r -a port_$p <<< "$line"
 
-done < /home/controller/IoT/output_txt/output_port.txt
+done < /home/byounguklee/mininet/custom/con_python/output_txt/output_port.txt
 
 
 
@@ -103,7 +99,7 @@ do
 p=$(expr $p + 1)
 IFS=',' read -r -a array_link_$p <<< "$line"
 
-done < /home/controller/IoT/output_txt/output_ip_link.txt
+done < /home/byounguklee/mininet/custom/con_python/output_txt/output_ip_link.txt
 
 
 echo "array ip_link result"
@@ -156,14 +152,14 @@ echo "Previous output file deleted"
 # a is server(receiver side)
 #echo "iperf server $s $a on"
 #echo "pi@$a iperf -s -u -f m -p $e"
-#ssh pi@$a iperf -s -u -U -f m -p $e -w 320k -e>> /home/controller/IoT/normal_packet/output/output_servers_${a}_${b}_${e}_${f}.txt 2>> /home/controller/IoT/normal_packet/output/output_servers_${a}_${b}_${e}_${f}.txt &
+#ssh pi@$a iperf -s -u -U -f m -p $e -w 320k -e>> /home/byounguklee/mininet/custom/con_python/normal_packet/output/output_servers_${a}_${b}_${e}_${f}.txt 2>> /home/byounguklee/mininet/custom/con_python/normal_packet/output/output_servers_${a}_${b}_${e}_${f}.txt &
 
 #done
 
 #echo "wait 20 seconds"
 #sleep 5
 
-rm /home/controller/IoT/normal_packet/output/*.txt
+rm /home/byounguklee/mininet/custom/con_python/normal_packet/output/*.txt
 ssh server@193.0.0.11 rm /home/server/output/*.txt
 ssh server@193.0.0.21 rm /home/server/output/*.txt
 ssh server@193.0.0.31 rm /home/server/output/*.txt
@@ -231,7 +227,7 @@ eval h='$'{arrayee_$s[1]}
 echo "client $b at port $f ON and 193 is $h"
 echo "client $b at port $f 's mean $c and variance $d"
 echo "time_slot length is 10 and time_length 10"
-ssh server@$h ./normal_at_client.sh $a $e $h $c $d 10 30 $b $f & # a and e! neither b nor f
+ssh server@$h ./normal_at_client.sh $a $e $h $c $d 10 600 $b $f & # a and e! neither b nor f
 #sleep 5
 
 done

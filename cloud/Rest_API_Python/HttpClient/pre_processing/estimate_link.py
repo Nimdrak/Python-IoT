@@ -16,8 +16,8 @@ in output_txt folder
 
 import function_string_to_list
 
-f_mean = open("/home/controller/IoT/input_mean.txt",'r')
-f_link = open("/home/controller/IoT/output_txt/output_including_link.txt",'r')
+f_mean = open("/home/byounguklee/mininet/con_python/input_mean.txt",'r')
+f_link = open("/home/byounguklee/mininet/con_python/output_txt/output_including_link.txt",'r')
 
 
 line1=f_mean.readline()
@@ -130,7 +130,7 @@ print(sum_mean_link_5)
 
 
 
-f_result=open("/home/controller/IoT/output_txt/sum_mean_link.txt",'w')
+f_result=open("/home/byounguklee/mininet/con_python/output_txt/sum_mean_link.txt",'w')
 data= str(sum_mean_link_1) + ',' + str(variance_square_sum_link_1)
 f_result.write(data)
 f_result.write('\n')

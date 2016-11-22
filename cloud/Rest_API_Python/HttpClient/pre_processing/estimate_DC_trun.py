@@ -16,8 +16,8 @@ in output_txt folder
 
 import function_string_to_list
 
-f_mean = open("/home/controller/IoT/input_mean_trun.txt",'r')
-f_link = open("/home/controller/IoT/output_txt/output_including_ip.txt",'r')
+f_mean = open("/home/byounguklee/mininet/con_python/input_mean_trun.txt",'r')
+f_link = open("/home/byounguklee/mininet/con_python/output_txt/output_including_ip.txt",'r')
 
 
 line1=f_mean.readline()
@@ -124,7 +124,7 @@ print(sum_mean_DC_4)
 
 
 
-f_result=open("/home/controller/IoT/output_txt/sum_mean_DC_trun.txt",'w')
+f_result=open("/home/byounguklee/mininet/con_python/output_txt/sum_mean_DC_trun.txt",'w')
 data= str(sum_mean_DC_1) + ',' + str(variance_square_sum_DC_1)
 f_result.write(data)
 f_result.write('\n')

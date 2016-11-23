@@ -1,8 +1,8 @@
 #!/bin/bash
 
-rm /home/controller/IoT/normal_packet/output/output_servers_.txt
-/home/controller/IoT/normal_packet/make_data/making_data.sh
-cp /home/controller/IoT/output_txt/config/* /home/controller/IoT/normal_packet/output/
+rm /home/byounguklee/mininet/con_python/normal_packet/output/output_servers_.txt
+/home/byounguklee/mininet/con_python/normal_packet/make_data/making_data.sh
+cp /home/byounguklee/mininet/con_python/output_txt/config/* /home/byounguklee/mininet/con_python/normal_packet/output/
 
 
 cd normal_packet/output/

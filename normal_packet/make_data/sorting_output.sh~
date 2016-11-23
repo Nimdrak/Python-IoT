@@ -110,3 +110,7 @@ eval d='$'{input_length_path[$e]}
 done
 
 
+#delete previous existing data
+
+mkdir /home/controller/IoT/normal_packet/output/original/
+mv /home/controller/IoT/normal_packet/output/*.txt /home/controller/IoT/normal_packet/output/original/

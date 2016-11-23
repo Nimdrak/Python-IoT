@@ -24,9 +24,11 @@ for (path, dir, files) in os.walk(sys.argv[1]):
             linkname.append(dir[i])
 print '\n'
 print 'link parsing starts!'
-print linkname            
-linkname=linkname[0:len(linkname)-1]
 print linkname
+s1 = set(linkname)
+s2 = set(['original'])            
+linkname =list( s1 - s2)
+#linkname=linkname - ['original']
 
 for i in range(0,len(linkname)):
     a = linkname[i]

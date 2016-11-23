@@ -2,7 +2,7 @@
 
 #################################################
 
-IFS=',' read -r -a input_length_path <<< $(cat /home/controller/IoT/output_txt/output_link_length.txt)
+IFS=',' read -r -a input_length_path <<< $(cat /home/byounguklee/mininet/con_python/output_txt/output_link_length.txt)
 
 echo "length_path"
 echo ${input_length_path[@]}
@@ -20,7 +20,7 @@ do
 p=$(expr $p + 1)
 IFS=',' read -r -a array_$p <<< "$line"
 
-done < /home/controller/IoT/output_txt/output_ip_mean.txt
+done < /home/byounguklee/mininet/con_python/output_txt/output_ip_mean.txt
 
 
 
@@ -42,7 +42,7 @@ do
 p=$(expr $p + 1)
 IFS=',' read -r -a port_$p <<< "$line"
 
-done < /home/controller/IoT/output_txt/output_port.txt
+done < /home/byounguklee/mininet/con_python/output_txt/output_port.txt
 
 
 
@@ -65,7 +65,7 @@ do
 p=$(expr $p + 1)
 IFS=',' read -r -a array_link_$p <<< "$line"
 
-done < /home/controller/IoT/output_txt/output_ip_link.txt
+done < /home/byounguklee/mininet/con_python/output_txt/output_ip_link.txt
 
 
 echo "array ip_link result"
@@ -100,9 +100,9 @@ eval d='$'{input_length_path[$e]}
 	eval e='$'{port_$s[0]}
 	eval f='$'{port_$s[1]}
 
-	mkdir /home/controller/IoT/normal_packet/output/$c/
-	cat /home/controller/IoT/normal_packet/output/output_servers_${a}_${b}_${e}_${f}.txt >> /home/controller/IoT/normal_packet/output/$c/output_servers_${a}_${b}_${e}_${f}.txt
-	cat /home/controller/IoT/normal_packet/output/output_clients_${a}_${b}_${e}_${f}.txt >> /home/controller/IoT/normal_packet/output/$c/output_clients_${a}_${b}_${e}_${f}.txt
+	mkdir /home/byounguklee/mininet/con_python/normal_packet/output/$c/
+	cat /home/byounguklee/mininet/con_python/normal_packet/output/output_servers_${a}_${b}_${e}_${f}.txt >> /home/byounguklee/mininet/con_python/normal_packet/output/$c/output_servers_${a}_${b}_${e}_${f}.txt
+	cat /home/byounguklee/mininet/con_python/normal_packet/output/output_clients_${a}_${b}_${e}_${f}.txt >> /home/byounguklee/mininet/con_python/normal_packet/output/$c/output_clients_${a}_${b}_${e}_${f}.txt
 
 
 	done
@@ -112,5 +112,5 @@ done
 
 #delete previous existing data
 
-mkdir /home/controller/IoT/normal_packet/output/original/
-mv /home/controller/IoT/normal_packet/output/*.txt /home/controller/IoT/normal_packet/output/original/
+mkdir /home/byounguklee/mininet/con_python/normal_packet/output/original/
+mv /home/byounguklee/mininet/con_python/normal_packet/output/*.txt /home/byounguklee/mininet/con_python/normal_packet/output/original/

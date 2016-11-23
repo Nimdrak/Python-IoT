@@ -4,7 +4,7 @@
 
 #################################################
 
-IFS=',' read -r -a input_length_path <<< $(cat /home/controller/IoT/output_txt/output_link_length.txt)
+IFS=',' read -r -a input_length_path <<< $(cat /home/byounguklee/mininet/con_python/output_txt/output_link_length.txt)
 
 echo "length_path"
 echo ${input_length_path[@]}
@@ -22,7 +22,7 @@ do
 p=$(expr $p + 1)
 IFS=',' read -r -a array_$p <<< "$line"
 
-done < /home/controller/IoT/output_txt/output_ip_mean.txt
+done < /home/byounguklee/mininet/con_python/output_txt/output_ip_mean.txt
 
 
 
@@ -44,7 +44,7 @@ do
 p=$(expr $p + 1)
 IFS=',' read -r -a port_$p <<< "$line"
 
-done < /home/controller/IoT/output_txt/output_port.txt
+done < /home/byounguklee/mininet/con_python/output_txt/output_port.txt
 
 
 
@@ -69,7 +69,7 @@ do
 p=$(expr $p + 1)
 IFS=',' read -r -a array_link_$p <<< "$line"
 
-done < /home/controller/IoT/output_txt/output_ip_link.txt
+done < /home/byounguklee/mininet/con_python/output_txt/output_ip_link.txt
 
 
 echo "array ip_link result"
@@ -105,7 +105,7 @@ eval d='$'{input_length_path[$e]}
 	eval f='$'{port_$s[1]}
 	
 
-	cat /home/controller/IoT/normal_packet/output/$c/output_servers_${a}_${b}_${e}_${f}.txt|awk -F 'Bytes  ' {'print $2'} > /home/controller/IoT/normal_packet/output/$c/data_output_servers_${a}_${b}_${e}_${f}.txt
+	cat /home/byounguklee/mininet/con_python/normal_packet/output/$c/output_servers_${a}_${b}_${e}_${f}.txt|awk -F 'Bytes  ' {'print $2'} > /home/byounguklee/mininet/con_python/normal_packet/output/$c/data_output_servers_${a}_${b}_${e}_${f}.txt
 
 	done
 
@@ -131,7 +131,7 @@ eval d='$'{input_length_path[$e]}
 	eval e='$'{port_$s[0]}
 	eval f='$'{port_$s[1]}
 
-	sed -i '/^$/d' /home/controller/IoT/normal_packet/output/$c/data_output_servers_${a}_${b}_${e}_${f}.txt
+	sed -i '/^$/d' /home/byounguklee/mininet/con_python/normal_packet/output/$c/data_output_servers_${a}_${b}_${e}_${f}.txt
 
 	done
 
@@ -155,8 +155,8 @@ eval d='$'{input_length_path[$e]}
 	eval e='$'{port_$s[0]}
 	eval f='$'{port_$s[1]}
 
-	cat /home/controller/IoT/normal_packet/output/$c/data_output_servers_${a}_${b}_${e}_${f}.txt |awk '{print $1}' > /home/controller/IoT/normal_packet/output/$c/bw_data_output_servers_${a}_${b}_${e}_${f}.txt
-	cat /home/controller/IoT/normal_packet/output/$c/data_output_servers_${a}_${b}_${e}_${f}.txt |awk -F 'ms' {'print $2'} > /home/controller/IoT/normal_packet/output/$c/loss_data_output_servers_${a}_${b}_${e}_${f}.txt
+	cat /home/byounguklee/mininet/con_python/normal_packet/output/$c/data_output_servers_${a}_${b}_${e}_${f}.txt |awk '{print $1}' > /home/byounguklee/mininet/con_python/normal_packet/output/$c/bw_data_output_servers_${a}_${b}_${e}_${f}.txt
+	cat /home/byounguklee/mininet/con_python/normal_packet/output/$c/data_output_servers_${a}_${b}_${e}_${f}.txt |awk -F 'ms' {'print $2'} > /home/byounguklee/mininet/con_python/normal_packet/output/$c/loss_data_output_servers_${a}_${b}_${e}_${f}.txt
 
 
 	done

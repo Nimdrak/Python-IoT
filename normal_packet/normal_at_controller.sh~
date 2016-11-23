@@ -5,12 +5,12 @@
 ############ Initialization input ##############
 ############# Initialization ssh ###############
 
-/home/byounguklee/mininet/custom/con_python/normal_packet/make_data/delete_ex_data.sh
+/home/byounguklee/mininet/con_python/normal_packet/make_data/delete_ex_data.sh
 
 
 #################################################
 
-IFS=',' read -r -a input_length_path <<< $(cat /home/byounguklee/mininet/custom/con_python/output_txt/output_link_length.txt)
+IFS=',' read -r -a input_length_path <<< $(cat /home/byounguklee/mininet/con_python/output_txt/output_link_length.txt)
 
 echo "length_path"
 echo ${input_length_path[@]}
@@ -28,7 +28,7 @@ do
 p=$(expr $p + 1)
 IFS=',' read -r -a array_$p <<< "$line"
 
-done < /home/byounguklee/mininet/custom/con_python/output_txt/output_ip_mean.txt
+done < /home/byounguklee/mininet/con_python/output_txt/output_ip_mean.txt
 
 
 
@@ -50,7 +50,7 @@ do
 p=$(expr $p + 1)
 IFS=',' read -r -a arrayee_$p <<< "$line"
 
-done < /home/byounguklee/mininet/custom/con_python/output_txt/output_ip_mean_193.txt
+done < /home/byounguklee/mininet/con_python/output_txt/output_ip_mean_193.txt
 
 
 
@@ -73,7 +73,7 @@ do
 p=$(expr $p + 1)
 IFS=',' read -r -a port_$p <<< "$line"
 
-done < /home/byounguklee/mininet/custom/con_python/output_txt/output_port.txt
+done < /home/byounguklee/mininet/con_python/output_txt/output_port.txt
 
 
 
@@ -99,7 +99,7 @@ do
 p=$(expr $p + 1)
 IFS=',' read -r -a array_link_$p <<< "$line"
 
-done < /home/byounguklee/mininet/custom/con_python/output_txt/output_ip_link.txt
+done < /home/byounguklee/mininet/con_python/output_txt/output_ip_link.txt
 
 
 echo "array ip_link result"
@@ -124,14 +124,14 @@ eval b='$'{arrayee_$s[1]}
 	
 done
 
-echo "193.0.0.11 kill"
-ssh server@193.0.0.11 pkill -9 iperf
-echo "193.0.0.21 kill"
-ssh server@193.0.0.21 pkill -9 iperf
-echo "193.0.0.31 kill"
-ssh server@193.0.0.31 pkill -9 iperf
-echo "193.0.0.41 kill"
-ssh server@193.0.0.41 pkill -9 iperf
+echo "10.0.0.1 kill"
+ssh 10.0.0.1 pkill -9 iperf
+echo "10.0.0.2 kill"
+ssh 10.0.0.2 pkill -9 iperf
+echo "10.0.0.3 kill"
+ssh 10.0.0.3 pkill -9 iperf
+echo "10.0.0.4 kill"
+ssh 10.0.0.4 pkill -9 iperf
 
 echo "wait 20 seconds"
 sleep 5
@@ -152,18 +152,18 @@ echo "Previous output file deleted"
 # a is server(receiver side)
 #echo "iperf server $s $a on"
 #echo "pi@$a iperf -s -u -f m -p $e"
-#ssh pi@$a iperf -s -u -U -f m -p $e -w 320k -e>> /home/byounguklee/mininet/custom/con_python/normal_packet/output/output_servers_${a}_${b}_${e}_${f}.txt 2>> /home/byounguklee/mininet/custom/con_python/normal_packet/output/output_servers_${a}_${b}_${e}_${f}.txt &
+#ssh pi@$a iperf -s -u -U -f m -p $e -w 320k -e>> /home/byounguklee/mininet/con_python/normal_packet/output/output_servers_${a}_${b}_${e}_${f}.txt 2>> /home/byounguklee/mininet/con_python/normal_packet/output/output_servers_${a}_${b}_${e}_${f}.txt &
 
 #done
 
 #echo "wait 20 seconds"
 #sleep 5
 
-rm /home/byounguklee/mininet/custom/con_python/normal_packet/output/*.txt
-ssh server@193.0.0.11 rm /home/server/output/*.txt
-ssh server@193.0.0.21 rm /home/server/output/*.txt
-ssh server@193.0.0.31 rm /home/server/output/*.txt
-ssh server@193.0.0.41 rm /home/server/output/*.txt
+rm /home/byounguklee/mininet/con_python/normal_packet/output/*.txt
+ssh 10.0.0.1 rm /home/byounguklee/output_1/*.txt
+ssh 10.0.0.2 rm /home/byounguklee/output_2/*.txt
+ssh 10.0.0.3 rm /home/byounguklee/output_3/*.txt
+ssh 10.0.0.4 rm /home/byounguklee/output_4/*.txt
 
 
 ############################################ 
@@ -192,7 +192,7 @@ eval h='$'{arrayee_$s[1]}
 #echo "$a $b $c $d $e $f $g $h"
 
 echo "server $a at port $e ON and 193 is $g"
-ssh server@$g ./normal_at_server.sh $e $a $f $b
+ssh $a ./normal_at_server.sh $e $a $f $b
 
 sleep 2 
 done
@@ -227,7 +227,7 @@ eval h='$'{arrayee_$s[1]}
 echo "client $b at port $f ON and 193 is $h"
 echo "client $b at port $f 's mean $c and variance $d"
 echo "time_slot length is 10 and time_length 10"
-ssh server@$h ./normal_at_client.sh $a $e $h $c $d 10 600 $b $f & # a and e! neither b nor f
+ssh $b ./normal_at_client.sh $a $e $h $c $d 10 10 $b $f & # a and e! neither b nor f
 #sleep 5
 
 done

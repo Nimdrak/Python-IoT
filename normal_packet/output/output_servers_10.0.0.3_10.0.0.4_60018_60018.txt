@@ -1,0 +1,35 @@
+------------------------------------------------------------
+Server listening on UDP port 60018
+Receiving 1470 byte datagrams
+UDP buffer size: 0.20 MByte (default)
+------------------------------------------------------------
+[  1] local 0.0.0.0 port 60018 connected with 10.0.0.4 port 50485
+[ ID] Interval       Transfer     Bandwidth        Jitter   Lost/Total Datagrams
+[  1]  0.0-10.0 sec  5.79 MBytes  4.85 Mbits/sec   0.026 ms    0/ 4128 (0%)
+[  1]  0.0-10.0 sec  1 datagrams received out-of-order
+[  3] local 0.0.0.0 port 60018 connected with 10.0.0.4 port 54982
+[  3]  0.0-10.0 sec  4.77 MBytes  4.00 Mbits/sec   0.011 ms    0/ 3403 (0%)
+[  3]  0.0-10.0 sec  1 datagrams received out-of-order
+[  5] local 0.0.0.0 port 60018 connected with 10.0.0.4 port 57273
+[  5]  0.0-10.0 sec  5.74 MBytes  4.81 Mbits/sec   0.019 ms    0/ 4090 (0%)
+[  5]  0.0-10.0 sec  1 datagrams received out-of-order
+[  7] local 0.0.0.0 port 60018 connected with 10.0.0.4 port 37783
+[  7]  0.0-10.0 sec  2.34 MBytes  1.96 Mbits/sec   0.012 ms    0/ 1670 (0%)
+[  9] local 0.0.0.0 port 60018 connected with 10.0.0.4 port 58492
+[  9]  0.0-10.0 sec  4.60 MBytes  3.86 Mbits/sec   0.012 ms    0/ 3283 (0%)
+[  9]  0.0-10.0 sec  1 datagrams received out-of-order
+[ 11] local 0.0.0.0 port 60018 connected with 10.0.0.4 port 53249
+[ 11]  0.0-10.0 sec  8.53 MBytes  7.15 Mbits/sec   0.017 ms    0/ 6083 (0%)
+[ 11]  0.0-10.0 sec  1 datagrams received out-of-order
+[ 13] local 0.0.0.0 port 60018 connected with 10.0.0.4 port 39798
+[ 13]  0.0-10.0 sec  5.21 MBytes  4.37 Mbits/sec   0.022 ms    0/ 3712 (0%)
+[ 13]  0.0-10.0 sec  1 datagrams received out-of-order
+[ 15] local 0.0.0.0 port 60018 connected with 10.0.0.4 port 53448
+[ 15]  0.0-10.0 sec  5.24 MBytes  4.40 Mbits/sec   0.025 ms    0/ 3740 (0%)
+[ 15]  0.0-10.0 sec  1 datagrams received out-of-order
+[ 17] local 0.0.0.0 port 60018 connected with 10.0.0.4 port 55084
+[ 17]  0.0-10.0 sec  6.51 MBytes  5.46 Mbits/sec   0.013 ms    0/ 4645 (0%)
+[ 17]  0.0-10.0 sec  1 datagrams received out-of-order
+[ 19] local 0.0.0.0 port 60018 connected with 10.0.0.4 port 57106
+[ 19]  0.0-10.0 sec  6.42 MBytes  5.38 Mbits/sec   0.019 ms    0/ 4575 (0%)
+[ 19]  0.0-10.0 sec  1 datagrams received out-of-order

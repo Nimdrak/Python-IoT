@@ -4,9 +4,9 @@ Created on Mar 23, 2016
 @author: nimdrak
 '''
 
-import requests
 import json
 from piston_mini_client.failhandlers import APIError
+import requests
 
 
 username = 'karaf'

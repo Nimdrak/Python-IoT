@@ -45,7 +45,7 @@ python /home/byounguklee/mininet/con_python/cloud/Rest_API_Python/HttpClient/pre
 #step3 : we make those server iperf -s and iperf -c according to output_ip_mean
 #	
 
-#/home/byounguklee/mininet/con_python/normal_packet/normal_at_controller.sh
+/home/byounguklee/mininet/con_python/normal_packet/normal_at_controller.sh
 
 
 #step4 : If you need, link capaciy can be controlled

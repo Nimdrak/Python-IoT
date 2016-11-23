@@ -1,0 +1,35 @@
+------------------------------------------------------------
+Server listening on UDP port 60060
+Receiving 1470 byte datagrams
+UDP buffer size: 0.20 MByte (default)
+------------------------------------------------------------
+[  1] local 0.0.0.0 port 60060 connected with 10.0.0.4 port 47138
+[ ID] Interval       Transfer     Bandwidth        Jitter   Lost/Total Datagrams
+[  1]  0.0-10.0 sec  8.65 MBytes  7.25 Mbits/sec   0.023 ms    0/ 6169 (0%)
+[  1]  0.0-10.0 sec  1 datagrams received out-of-order
+[  3] local 0.0.0.0 port 60060 connected with 10.0.0.4 port 42323
+[  3]  0.0-10.0 sec  5.82 MBytes  4.88 Mbits/sec   0.028 ms    0/ 4152 (0%)
+[  3]  0.0-10.0 sec  1 datagrams received out-of-order
+[  5] local 0.0.0.0 port 60060 connected with 10.0.0.4 port 47477
+[  5]  0.0-10.0 sec  4.66 MBytes  3.91 Mbits/sec   0.019 ms    0/ 3326 (0%)
+[  5]  0.0-10.0 sec  1 datagrams received out-of-order
+[  7] local 0.0.0.0 port 60060 connected with 10.0.0.4 port 47627
+[  7]  0.0-10.0 sec  8.24 MBytes  6.91 Mbits/sec   0.017 ms    0/ 5879 (0%)
+[  7]  0.0-10.0 sec  1 datagrams received out-of-order
+[  9] local 0.0.0.0 port 60060 connected with 10.0.0.4 port 60741
+[  9]  0.0-10.0 sec  7.53 MBytes  6.31 Mbits/sec   0.018 ms    0/ 5368 (0%)
+[  9]  0.0-10.0 sec  1 datagrams received out-of-order
+[ 11] local 0.0.0.0 port 60060 connected with 10.0.0.4 port 43388
+[ 11]  0.0-10.0 sec  5.58 MBytes  4.68 Mbits/sec   0.021 ms    0/ 3978 (0%)
+[ 11]  0.0-10.0 sec  1 datagrams received out-of-order
+[ 13] local 0.0.0.0 port 60060 connected with 10.0.0.4 port 46653
+[ 13]  0.0-10.0 sec  7.82 MBytes  6.56 Mbits/sec   0.017 ms    0/ 5578 (0%)
+[ 13]  0.0-10.0 sec  1 datagrams received out-of-order
+[ 15] local 0.0.0.0 port 60060 connected with 10.0.0.4 port 38995
+[ 15]  0.0-10.0 sec  2.52 MBytes  2.11 Mbits/sec   0.011 ms    0/ 1799 (0%)
+[ 17] local 0.0.0.0 port 60060 connected with 10.0.0.4 port 59680
+[ 17]  0.0-10.0 sec  11.0 MBytes  9.26 Mbits/sec   0.012 ms    0/ 7874 (0%)
+[ 17]  0.0-10.0 sec  1 datagrams received out-of-order
+[ 19] local 0.0.0.0 port 60060 connected with 10.0.0.4 port 34827
+[ 19]  0.0-10.0 sec  2.41 MBytes  2.02 Mbits/sec   0.013 ms    0/ 1719 (0%)
+[ 19]  0.0-10.0 sec  1 datagrams received out-of-order

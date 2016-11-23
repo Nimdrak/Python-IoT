@@ -5,10 +5,11 @@ Created on Mar 31, 2016
 '''
 
 
-import function_allocation_routing_path
-import function_routing_rule_post
-import function_ovs_translation_from_number_to_id
 import sys
+
+import function_allocation_routing_path
+import function_ovs_translation_from_number_to_id
+import function_routing_rule_post
 
 
 def function_main(algo_output1):    

@@ -30,7 +30,6 @@ def ip_port_list_make(list):
             line=f.readline()
     
 
-
 #available_requst_number=[[['7'], ['7'], ['7'], ['7'], ['80']], [['7'], ['7'], ['7'], ['7'], ['80']], [['7'], ['7'], ['7'], ['7'], ['80']], [['7'], ['7'], ['7'], ['7'], ['80']]]
 #ip_port_list_make(available_requst_number)
 

@@ -1,5 +1,6 @@
 from duplicity.tarfile import LENGTH_LINK
 
+
 algo_output = ['192.0.0.121/32','2','4','3','192.0.0.130/32']
 
 def link_sorting_output(inputss = [],*args):

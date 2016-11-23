@@ -1,0 +1,33 @@
+------------------------------------------------------------
+Server listening on UDP port 60051
+Receiving 1470 byte datagrams
+UDP buffer size: 0.20 MByte (default)
+------------------------------------------------------------
+[  1] local 0.0.0.0 port 60051 connected with 10.0.0.4 port 42247
+[ ID] Interval       Transfer     Bandwidth        Jitter   Lost/Total Datagrams
+[  1]  0.0-10.0 sec  3.81 MBytes  3.19 Mbits/sec   0.013 ms    0/ 2716 (0%)
+[  1]  0.0-10.0 sec  1 datagrams received out-of-order
+[  3] local 0.0.0.0 port 60051 connected with 10.0.0.4 port 47861
+[  3]  0.0-10.0 sec  9.24 MBytes  7.75 Mbits/sec   0.012 ms    0/ 6588 (0%)
+[  3]  0.0-10.0 sec  1 datagrams received out-of-order
+[  5] local 0.0.0.0 port 60051 connected with 10.0.0.4 port 60505
+[  5]  0.0-10.0 sec  1.77 MBytes  1.48 Mbits/sec   0.014 ms    0/ 1262 (0%)
+[  7] local 0.0.0.0 port 60051 connected with 10.0.0.4 port 34042
+[  7]  0.0-10.0 sec  8.16 MBytes  6.84 Mbits/sec   0.022 ms    0/ 5818 (0%)
+[  7]  0.0-10.0 sec  1 datagrams received out-of-order
+[  9] local 0.0.0.0 port 60051 connected with 10.0.0.4 port 37258
+[  9]  0.0-10.0 sec  4.95 MBytes  4.15 Mbits/sec   0.010 ms    0/ 3529 (0%)
+[  9]  0.0-10.0 sec  1 datagrams received out-of-order
+[ 11] local 0.0.0.0 port 60051 connected with 10.0.0.4 port 55626
+[ 11]  0.0-10.0 sec  8.84 MBytes  7.41 Mbits/sec   0.019 ms    0/ 6306 (0%)
+[ 11]  0.0-10.0 sec  1 datagrams received out-of-order
+[ 13] local 0.0.0.0 port 60051 connected with 10.0.0.4 port 34678
+[ 13]  0.0-10.0 sec  4.91 MBytes  4.11 Mbits/sec   0.019 ms    0/ 3499 (0%)
+[ 13]  0.0-10.0 sec  1 datagrams received out-of-order
+[ 15] local 0.0.0.0 port 60051 connected with 10.0.0.4 port 49329
+[ 15]  0.0-10.0 sec  3.36 MBytes  2.82 Mbits/sec   0.013 ms    0/ 2400 (0%)
+[ 17] local 0.0.0.0 port 60051 connected with 10.0.0.4 port 46271
+[ 17]  0.0-10.0 sec  8.72 MBytes  7.31 Mbits/sec   0.028 ms    0/ 6216 (0%)
+[ 17]  0.0-10.0 sec  1 datagrams received out-of-order
+[ 19] local 0.0.0.0 port 60051 connected with 10.0.0.4 port 49604
+[ 19]  0.0-10.0 sec  7.61 MBytes  6.38 Mbits/sec   0.008 ms    0/ 5427 (0%)

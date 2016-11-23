@@ -16,6 +16,7 @@ in output_txt folder
 
 import function_string_to_list
 
+
 f_mean = open("/home/byounguklee/mininet/con_python/input_mean_trun.txt",'r')
 f_link = open("/home/byounguklee/mininet/con_python/output_txt/output_including_ip.txt",'r')
 

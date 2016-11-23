@@ -23,8 +23,8 @@ do
 
 #	var=$(python /home/controller/IoT/normal_packet/normal_number.py $4 $5)
 #	echo "$var"
-	var=$(python /home/server/normal_number.py $4 $5)
-	iperf -c $1 -p $2 -u -t $6 -f M -b $var -T 1000 -x V>> /home/server/output/output_clients_$1_$8_$2_$9.txt 2>> /home/server/output/output_clients_$1_$8_$2_$9.txt
+	var=$(python /home/byounguklee/mininet/con_python/normal_packet/normal_number.py $4 $5)
+	iperf -c $1 -p $2 -u -t $6 -f M -b $var -T 1000 -x V>> /home/byounguklee/mininet/con_python/normal_packet/output/output_clients_$1_$8_$2_$9.txt 2>> /home/byounguklee/mininet/con_python/normal_packet/output/output_clients_$1_$8_$2_$9.txt
 #	iperf3 -c $1 -p $2 -u -t $6 -f m -b $var -T 1000 -V -J -d >> /home/server/output/output_clients_$1_$8_$2_$9.txt 2>> /home/server/output/output_clients_$1_$8_$2_$9.txt
 
 	sleep 5
@@ -35,15 +35,15 @@ WORK_PID=`ps -ef|grep 'iperf -c $1 -p $2 -u -t $6 -f m -b $var -T 1000'| grep -v
 ps -ef|grep 'iperf -c $1 -p $2 -u -t $6 -f m -b $var -T 1000'| grep -v grep 
 
 sync
-wait $WORK_PID >> /home/server/output/output_clients_$1_$8_$2_$9.txt
-date '+%F %R' >> /home/server/output/output_clients_$1_$8_$2_$9.txt
-echo "client process $1_$8_$2_$9 is finished" >> /home/server/output/output_clients_$1_$8_$2_$9.txt
+wait $WORK_PID >>/home/byounguklee/mininet/con_python/normal_packet/output/output_clients_$1_$8_$2_$9.txt
+date '+%F %R' >> /home/byounguklee/mininet/con_python/normal_packet/output/output_clients_$1_$8_$2_$9.txt
+echo "client process $1_$8_$2_$9 is finished" >> /home/byounguklee/mininet/con_python/normal_packet/output/output_clients_$1_$8_$2_$9.txt
 echo "client process $1_$8_$2_$9 is finished"
 
 sleep 15
 #date > /home/server/output/$8.txt
 #ifconfig >> /home/server/output/$8.txt
-scp /home/server/output/*.txt controller@193.0.0.200:/home/controller/IoT/normal_packet/output/
+#scp /home/server/output/*.txt controller@193.0.0.200:/home/controller/IoT/normal_packet/output/
 #sleep 15
 #rsync -arlvz -e ssh /home/server/output/*.txt controller@193.0.0.200:/home/controller/IoT/normal_packet/output/
 

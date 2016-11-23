@@ -1,8 +1,8 @@
-import function_string_to_list
-from scipy.stats import norm
 import math
+from scipy.stats import norm
 import sys
 
+import function_string_to_list
 
 
 #######################

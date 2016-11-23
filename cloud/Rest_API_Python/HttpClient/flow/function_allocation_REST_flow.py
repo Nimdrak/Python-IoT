@@ -3,16 +3,20 @@ Created on Mar 31, 2016
 
 @author: nimdrak
 '''
-from HttpClient.flow import function_routing_rule_post_flow
-from HttpClient import function_allocation_routing_path
-from HttpClient import function_routing_rule_post
-from HttpClient import function_ovs_translation_from_number_to_id
+#from HttpClient import flow.function_routing_rule_post_flow
+import function_routing_rule_post_flow
 import sys
+sys.path.append('/home/byounguklee/mininet/con_python/cloud/Rest_API_Python/HttpClient/')
+ 
+import function_allocation_routing_path
+import function_routing_rule_post
+import function_ovs_translation_from_number_to_id
+
 
 
 def function_main(algo_output1,port_output1):    
 
-#    algo_output1 = []
+#    algo_output1 = [] 
 #    for a in range(1,len(sys.argv)):
 #        algo_output1.append(sys.argv[a])
 #    print algo_output1    
@@ -88,7 +92,7 @@ def function_main(algo_output1,port_output1):
 #############################
 
     for a in range(1,len(algo_output1)-1):
-
+#        flow.function_routing_rule_post_flow.Routing_rule_post_just_ip(result_translation[a-1][1],"10000","OUTPUT",dst_port_list_algo_output[a-1],algo_output1[0],algo_output1[len(algo_output1)-1],port_output1[0],port_output1[1],"0x0800","ETH_TYPE")
         function_routing_rule_post_flow.Routing_rule_post_just_ip(result_translation[a-1][1],"10000","OUTPUT",dst_port_list_algo_output[a-1],algo_output1[0],algo_output1[len(algo_output1)-1],port_output1[0],port_output1[1],"0x0800","ETH_TYPE")
 #        flow.function_routing_rule_post_flow.Routing_rule_post_udp_only_dst_port(result_translation[a-1][1],"65260","OUTPUT",dst_port_list_algo_output[a-1],algo_output1[0],algo_output1[len(algo_output1)-1],port_output1[0],port_output1[1],"0x0800","ETH_TYPE")
         function_routing_rule_post_flow.Routing_rule_post_tcp_only_dst_port(result_translation[a-1][1],"65260","OUTPUT",dst_port_list_algo_output[a-1],algo_output1[0],algo_output1[len(algo_output1)-1],port_output1[0],port_output1[1],"0x0800","ETH_TYPE")

@@ -5,9 +5,9 @@ Created on Mar 30, 2016
 '''
 
 
-import requests
 import json
 from piston_mini_client.failhandlers import APIError
+import requests
 
 
 def Routing_rule_post(Device_id, Priority, Type, Out_port, Src_IP, Dst_IP, ARP_IP, ARP_IP_Type):

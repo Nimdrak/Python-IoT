@@ -3,9 +3,10 @@ Created on May 9, 2016
 
 @author: nimdrak
 '''
-import os
 import operator
+import os
 import sys
+
 
 #dirname1='/home/controller/IoT/normal_packet/output'
 def search(dirname):

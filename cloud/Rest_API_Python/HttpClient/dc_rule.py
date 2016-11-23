@@ -6,6 +6,7 @@ Created on Jun 12, 2016
 
 import function_routing_rule_post
 
+
 def for_dc():
     data_center_id=['of:000000259006798c','of:00000025900b66fe','of:00000025900ca3f4','of:0000002590322dca']
     

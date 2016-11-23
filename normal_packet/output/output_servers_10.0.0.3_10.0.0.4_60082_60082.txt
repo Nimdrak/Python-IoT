@@ -1,0 +1,34 @@
+------------------------------------------------------------
+Server listening on UDP port 60082
+Receiving 1470 byte datagrams
+UDP buffer size: 0.20 MByte (default)
+------------------------------------------------------------
+[  1] local 0.0.0.0 port 60082 connected with 10.0.0.4 port 50995
+[ ID] Interval       Transfer     Bandwidth        Jitter   Lost/Total Datagrams
+[  1]  0.0-10.0 sec  11.1 MBytes  9.33 Mbits/sec   0.016 ms    0/ 7937 (0%)
+[  1]  0.0-10.0 sec  1 datagrams received out-of-order
+[  3] local 0.0.0.0 port 60082 connected with 10.0.0.4 port 46959
+[  3]  0.0-10.0 sec  6.60 MBytes  5.53 Mbits/sec   0.019 ms    0/ 4704 (0%)
+[  3]  0.0-10.0 sec  1 datagrams received out-of-order
+[  5] local 0.0.0.0 port 60082 connected with 10.0.0.4 port 47414
+[  5]  0.0-10.0 sec  3.19 MBytes  2.68 Mbits/sec   0.017 ms    0/ 2278 (0%)
+[  7] local 0.0.0.0 port 60082 connected with 10.0.0.4 port 37483
+[  7]  0.0-10.0 sec  8.57 MBytes  7.18 Mbits/sec   0.018 ms    0/ 6109 (0%)
+[  7]  0.0-10.0 sec  1 datagrams received out-of-order
+[  9] local 0.0.0.0 port 60082 connected with 10.0.0.4 port 42225
+[  9]  0.0-10.0 sec  5.65 MBytes  4.74 Mbits/sec   0.017 ms    0/ 4029 (0%)
+[  9]  0.0-10.0 sec  1 datagrams received out-of-order
+[ 11] local 0.0.0.0 port 60082 connected with 10.0.0.4 port 48172
+[ 11]  0.0-10.0 sec  2.60 MBytes  2.18 Mbits/sec   0.032 ms    0/ 1858 (0%)
+[ 13] local 0.0.0.0 port 60082 connected with 10.0.0.4 port 49408
+[ 13]  0.0-10.0 sec  7.42 MBytes  6.23 Mbits/sec   0.018 ms    0/ 5294 (0%)
+[ 13]  0.0-10.0 sec  1 datagrams received out-of-order
+[ 15] local 0.0.0.0 port 60082 connected with 10.0.0.4 port 43894
+[ 15]  0.0-10.0 sec  3.41 MBytes  2.86 Mbits/sec   0.020 ms    0/ 2433 (0%)
+[ 15]  0.0-10.0 sec  1 datagrams received out-of-order
+[ 17] local 0.0.0.0 port 60082 connected with 10.0.0.4 port 53661
+[ 17]  0.0-10.0 sec  5.32 MBytes  4.46 Mbits/sec   0.010 ms    0/ 3794 (0%)
+[ 17]  0.0-10.0 sec  1 datagrams received out-of-order
+[ 19] local 0.0.0.0 port 60082 connected with 10.0.0.4 port 34020
+[ 19]  0.0-10.0 sec  7.96 MBytes  6.67 Mbits/sec   0.016 ms    0/ 5676 (0%)
+[ 19]  0.0-10.0 sec  1 datagrams received out-of-order

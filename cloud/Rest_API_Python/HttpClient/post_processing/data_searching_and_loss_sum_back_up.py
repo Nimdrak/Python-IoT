@@ -8,10 +8,12 @@ Created on May 9, 2016
 
 @author: nimdrak
 '''
-import os
 import operator
+import os
 import sys
+
 import function_string_to_list
+
 
 dirname=sys.argv[1] + '/'
 #dirname='/home/cloud1/IoT/output_txt/another_topology_except_link_3/cap_45_n_30/10_30_2/c_m_0_to_20_e_0.03/'        

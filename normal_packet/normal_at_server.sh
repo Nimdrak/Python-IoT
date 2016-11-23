@@ -8,5 +8,5 @@
 #echo $3 # destination's port
 #echo $4 # destination's ip 192
 
-iperf -s -p $1 -u -U -f m -x V>> /home/server/output/output_servers_$2_$4_$1_$3.txt 2>> /home/server/output/output_servers_$2_$4_$1_$3.txt &
+iperf -s -p $1 -u -U -f m -x V>> /home/byounguklee/mininet/con_python/normal_packet/output/output_servers_$2_$4_$1_$3.txt 2>> /home/byounguklee/mininet/con_python/normal_packet/output/output_servers_$2_$4_$1_$3.txt &
 #iperf3 -s -p $1 -f m -V -J -d >> /home/server/output/output_servers_$2_$4_$1_$3.txt 2>> /home/server/output/output_servers_$2_$4_$1_$3.txt

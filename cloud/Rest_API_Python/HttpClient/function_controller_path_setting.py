@@ -18,7 +18,7 @@ def controller_path_setting(number_of_ovs):
 
             line_cont=f_cont.readline()
     
-            controller.append('192.0.0.200/32')
+            controller.append('10.123.123.1/32')
 
             for y in range(1,x+2):
                 controller.append(str(y))
@@ -35,6 +35,7 @@ def controller_path_setting(number_of_ovs):
     return all_that_controller
 
 a=controller_path_setting(4)
+print a
 
 #for y in range(0,len(a)):
 #    for x in range(0,len(a[0])):

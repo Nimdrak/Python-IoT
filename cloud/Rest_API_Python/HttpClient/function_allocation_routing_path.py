@@ -142,9 +142,9 @@ def Allocation_routing_src_port(algo_output = [], *args):
         line=f.readline()
 
         if src_port_list[x-1] =='DEFAULT':
-            if ahead == '192.0.0.200/32':
-                src_port_list[x-1] = '3'
-                print 'Controller case so First src port is 3'
+            if ahead == '10.123.123.1/32':
+                src_port_list[x-1] = '4'
+                print 'Controller case so First src port is 4'
                 break
             
             while line:

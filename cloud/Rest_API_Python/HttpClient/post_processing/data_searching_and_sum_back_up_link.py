@@ -26,7 +26,7 @@ print '\n'
 print 'link parsing starts!'
 print linkname
 s1 = set(linkname)
-s2 = set(['original'])            
+s2 = set(['original','information'])            
 linkname =list( s1 - s2)
 #linkname=linkname - ['original']
 

@@ -230,7 +230,7 @@ echo "time_slot length is 10 and time_length 10"
 
 sleep 0.5
 
-ssh $b /home/byounguklee/mininet/con_python/normal_packet/normal_at_client.sh $a $e $h $c $d 10 10 $b $f & # a and e! neither b nor f
+ssh $b /home/byounguklee/mininet/con_python/normal_packet/normal_at_client.sh $a $e $h $c $d 10 120 $b $f & # a and e! neither b nor f
 #sleep 5
 
 done

@@ -43,15 +43,15 @@ if __name__ == '__main__':
 
 
 # controller to server path setting - using wirenetwork
-    a=function_controller_path_setting.controller_path_setting(4)    
-    print len(a)
-    print len(a[0])
-    for y in range(0,len(a)):
-        for x in range(0,len(a[0])):
-            print a[y][x]
-            function_allocation_REST.function_main(a[y][x])
-            print 'funny'            
 
+#    a=function_controller_path_setting.controller_path_setting(4)    
+#    print len(a)
+#    print len(a[0])
+#    for y in range(0,len(a)):
+#        for x in range(0,len(a[0])):
+#            print a[y][x]
+#            function_allocation_REST.function_main(a[y][x])
+ 
 # controller to ovs path setting
 #    data_center_id=['of:000000259006798c','of:00000025900b66fe','of:00000025900ca3f4','of:0000002590322dca']
 #    for z in range(0,len(data_center_id)):

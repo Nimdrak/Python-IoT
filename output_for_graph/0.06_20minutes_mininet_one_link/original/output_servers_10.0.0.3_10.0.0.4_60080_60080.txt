@@ -1,0 +1,336 @@
+------------------------------------------------------------
+Server listening on UDP port 60080
+Receiving 1470 byte datagrams
+UDP buffer size: 0.20 MByte (default)
+------------------------------------------------------------
+[  1] local 0.0.0.0 port 60080 connected with 10.0.0.4 port 56682
+[ ID] Interval       Transfer     Bandwidth        Jitter   Lost/Total Datagrams
+[  1]  0.0-10.0 sec  1.51 MBytes  1.27 Mbits/sec   0.040 ms    0/ 1079 (0%)
+[  3] local 0.0.0.0 port 60080 connected with 10.0.0.4 port 49671
+[  3]  0.0-10.0 sec  3.63 MBytes  3.05 Mbits/sec   0.084 ms    0/ 2591 (0%)
+[  5] local 0.0.0.0 port 60080 connected with 10.0.0.4 port 56423
+[  5]  0.0-10.0 sec  4.27 MBytes  3.58 Mbits/sec   0.078 ms    0/ 3043 (0%)
+[  5]  0.0-10.0 sec  1 datagrams received out-of-order
+[  7] local 0.0.0.0 port 60080 connected with 10.0.0.4 port 50942
+[  7]  0.0-10.0 sec  6.79 MBytes  5.69 Mbits/sec   0.053 ms    0/ 4843 (0%)
+[  7]  0.0-10.0 sec  1 datagrams received out-of-order
+[  9] local 0.0.0.0 port 60080 connected with 10.0.0.4 port 46748
+[  9]  0.0-10.0 sec  8.28 MBytes  6.94 Mbits/sec   0.153 ms    0/ 5903 (0%)
+[  9]  0.0-10.0 sec  1 datagrams received out-of-order
+[ 11] local 0.0.0.0 port 60080 connected with 10.0.0.4 port 36885
+[ 11]  0.0-10.0 sec  4.35 MBytes  3.65 Mbits/sec   0.019 ms    0/ 3100 (0%)
+[ 11]  0.0-10.0 sec  1 datagrams received out-of-order
+[ 13] local 0.0.0.0 port 60080 connected with 10.0.0.4 port 54376
+[ 13]  0.0-10.0 sec  4.96 MBytes  4.16 Mbits/sec   0.122 ms    0/ 3538 (0%)
+[ 13]  0.0-10.0 sec  1 datagrams received out-of-order
+[ 15] local 0.0.0.0 port 60080 connected with 10.0.0.4 port 42916
+[ 15]  0.0-10.0 sec  7.91 MBytes  6.63 Mbits/sec   0.032 ms    1/ 5642 (0.018%)
+[ 15]  0.0-10.0 sec  2 datagrams received out-of-order
+[ 17] local 0.0.0.0 port 60080 connected with 10.0.0.4 port 46683
+[ 17]  0.0-10.0 sec  6.54 MBytes  5.48 Mbits/sec   0.083 ms    0/ 4664 (0%)
+[ 17]  0.0-10.0 sec  1 datagrams received out-of-order
+[ 19] local 0.0.0.0 port 60080 connected with 10.0.0.4 port 46042
+[ 19]  0.0-10.0 sec  2.75 MBytes  2.30 Mbits/sec   0.509 ms    0/ 1962 (0%)
+[ 21] local 0.0.0.0 port 60080 connected with 10.0.0.4 port 44826
+[ 21]  0.0-10.0 sec  4.83 MBytes  4.05 Mbits/sec   0.040 ms    0/ 3444 (0%)
+[ 21]  0.0-10.0 sec  1 datagrams received out-of-order
+[ 23] local 0.0.0.0 port 60080 connected with 10.0.0.4 port 40010
+[ 23]  0.0-10.0 sec  5.36 MBytes  4.50 Mbits/sec   0.034 ms    0/ 3823 (0%)
+[ 23]  0.0-10.0 sec  1 datagrams received out-of-order
+[ 25] local 0.0.0.0 port 60080 connected with 10.0.0.4 port 53920
+[ 25]  0.0-10.0 sec  10.2 MBytes  8.52 Mbits/sec   0.080 ms    0/ 7247 (0%)
+[ 25]  0.0-10.0 sec  1 datagrams received out-of-order
+[ 27] local 0.0.0.0 port 60080 connected with 10.0.0.4 port 39986
+[ 27]  0.0-10.0 sec  9.61 MBytes  8.06 Mbits/sec   0.330 ms    0/ 6857 (0%)
+[ 27]  0.0-10.0 sec  1 datagrams received out-of-order
+[ 29] local 0.0.0.0 port 60080 connected with 10.0.0.4 port 52697
+[ 29]  0.0-10.0 sec  2.81 MBytes  2.36 Mbits/sec   0.065 ms    0/ 2004 (0%)
+[ 29]  0.0-10.0 sec  1 datagrams received out-of-order
+[ 31] local 0.0.0.0 port 60080 connected with 10.0.0.4 port 46306
+[ 31]  0.0-10.0 sec  2.87 MBytes  2.40 Mbits/sec   0.119 ms    0/ 2045 (0%)
+[ 31]  0.0-10.0 sec  1 datagrams received out-of-order
+[ 33] local 0.0.0.0 port 60080 connected with 10.0.0.4 port 54884
+[ 33]  0.0-10.0 sec  7.95 MBytes  6.67 Mbits/sec   0.115 ms    0/ 5671 (0%)
+[ 33]  0.0-10.0 sec  1 datagrams received out-of-order
+[ 35] local 0.0.0.0 port 60080 connected with 10.0.0.4 port 47635
+[ 35]  0.0-10.0 sec  4.74 MBytes  3.97 Mbits/sec   0.221 ms    0/ 3380 (0%)
+[ 35]  0.0-10.0 sec  1 datagrams received out-of-order
+[ 37] local 0.0.0.0 port 60080 connected with 10.0.0.4 port 34911
+[ 37]  0.0-10.0 sec  10.5 MBytes  8.79 Mbits/sec   0.021 ms    0/ 7472 (0%)
+[ 37]  0.0-10.0 sec  1 datagrams received out-of-order
+[ 39] local 0.0.0.0 port 60080 connected with 10.0.0.4 port 40955
+[ 39]  0.0-10.0 sec  6.50 MBytes  5.45 Mbits/sec   0.048 ms    0/ 4635 (0%)
+[ 41] local 0.0.0.0 port 60080 connected with 10.0.0.4 port 60173
+[ 41]  0.0-10.0 sec  1.63 MBytes  1.37 Mbits/sec   0.129 ms    0/ 1163 (0%)
+[ 43] local 0.0.0.0 port 60080 connected with 10.0.0.4 port 57939
+[ 43]  0.0-10.0 sec  7.71 MBytes  6.46 Mbits/sec   0.189 ms    0/ 5498 (0%)
+[ 45] local 0.0.0.0 port 60080 connected with 10.0.0.4 port 54018
+[ 45]  0.0-10.0 sec  2.14 MBytes  1.80 Mbits/sec   0.319 ms    0/ 1530 (0%)
+[ 47] local 0.0.0.0 port 60080 connected with 10.0.0.4 port 40871
+[ 47]  0.0-10.0 sec  5.27 MBytes  4.42 Mbits/sec   0.149 ms    0/ 3758 (0%)
+[ 47]  0.0-10.0 sec  1 datagrams received out-of-order
+[ 49] local 0.0.0.0 port 60080 connected with 10.0.0.4 port 47320
+[ 49]  0.0-10.0 sec  4.30 MBytes  3.61 Mbits/sec   0.053 ms    0/ 3067 (0%)
+[ 49]  0.0-10.0 sec  1 datagrams received out-of-order
+[ 51] local 0.0.0.0 port 60080 connected with 10.0.0.4 port 42496
+[ 51]  0.0-10.0 sec  4.55 MBytes  3.81 Mbits/sec   0.262 ms    0/ 3244 (0%)
+[ 51]  0.0-10.0 sec  1 datagrams received out-of-order
+[ 53] local 0.0.0.0 port 60080 connected with 10.0.0.4 port 34358
+[ 53]  0.0-10.0 sec  5.29 MBytes  4.44 Mbits/sec   0.043 ms    0/ 3773 (0%)
+[ 53]  0.0-10.0 sec  1 datagrams received out-of-order
+[ 55] local 0.0.0.0 port 60080 connected with 10.0.0.4 port 39192
+[ 55]  0.0-10.0 sec  4.44 MBytes  3.72 Mbits/sec   0.062 ms    0/ 3165 (0%)
+[ 55]  0.0-10.0 sec  1 datagrams received out-of-order
+[ 57] local 0.0.0.0 port 60080 connected with 10.0.0.4 port 43312
+[ 57]  0.0-10.0 sec  7.67 MBytes  6.43 Mbits/sec   0.088 ms    1/ 5470 (0.018%)
+[ 57]  0.0-10.0 sec  2 datagrams received out-of-order
+[ 59] local 0.0.0.0 port 60080 connected with 10.0.0.4 port 45126
+[ 59]  0.0-10.0 sec  4.70 MBytes  3.94 Mbits/sec   0.124 ms    0/ 3350 (0%)
+[ 59]  0.0-10.0 sec  1 datagrams received out-of-order
+[ 61] local 0.0.0.0 port 60080 connected with 10.0.0.4 port 41638
+[ 61]  0.0-10.0 sec  8.99 MBytes  7.54 Mbits/sec   0.028 ms    0/ 6415 (0%)
+[ 61]  0.0-10.0 sec  1 datagrams received out-of-order
+[ 63] local 0.0.0.0 port 60080 connected with 10.0.0.4 port 54228
+[ 63]  0.0-10.0 sec  3.43 MBytes  2.88 Mbits/sec   0.033 ms    0/ 2448 (0%)
+[ 63]  0.0-10.0 sec  1 datagrams received out-of-order
+[ 65] local 0.0.0.0 port 60080 connected with 10.0.0.4 port 47192
+[ 65]  0.0-10.0 sec  4.19 MBytes  3.52 Mbits/sec   0.100 ms    0/ 2990 (0%)
+[ 65]  0.0-10.0 sec  1 datagrams received out-of-order
+[ 67] local 0.0.0.0 port 60080 connected with 10.0.0.4 port 47132
+[ 67]  0.0-10.0 sec  8.63 MBytes  7.24 Mbits/sec   0.042 ms    0/ 6154 (0%)
+[ 67]  0.0-10.0 sec  1 datagrams received out-of-order
+[ 69] local 0.0.0.0 port 60080 connected with 10.0.0.4 port 47442
+[ 69]  0.0-10.0 sec  5.01 MBytes  4.20 Mbits/sec   0.028 ms    0/ 3571 (0%)
+[ 69]  0.0-10.0 sec  1 datagrams received out-of-order
+[ 71] local 0.0.0.0 port 60080 connected with 10.0.0.4 port 52357
+[ 71]  0.0-10.0 sec  9.25 MBytes  7.76 Mbits/sec   0.267 ms    0/ 6597 (0%)
+[ 71]  0.0-10.0 sec  1 datagrams received out-of-order
+[ 73] local 0.0.0.0 port 60080 connected with 10.0.0.4 port 45616
+[ 73]  0.0-10.0 sec  9.07 MBytes  7.61 Mbits/sec   0.040 ms    0/ 6472 (0%)
+[ 73]  0.0-10.0 sec  1 datagrams received out-of-order
+[ 75] local 0.0.0.0 port 60080 connected with 10.0.0.4 port 53528
+[ 75]  0.0-10.0 sec  6.88 MBytes  5.77 Mbits/sec   0.247 ms    0/ 4907 (0%)
+[ 75]  0.0-10.0 sec  1 datagrams received out-of-order
+[ 77] local 0.0.0.0 port 60080 connected with 10.0.0.4 port 44836
+[ 77]  0.0-10.0 sec  4.92 MBytes  4.13 Mbits/sec   0.152 ms    0/ 3511 (0%)
+[ 77]  0.0-10.0 sec  1 datagrams received out-of-order
+[ 79] local 0.0.0.0 port 60080 connected with 10.0.0.4 port 49676
+[ 79]  0.0-10.0 sec  6.97 MBytes  5.84 Mbits/sec   0.077 ms    0/ 4968 (0%)
+[ 79]  0.0-10.0 sec  1 datagrams received out-of-order
+[ 81] local 0.0.0.0 port 60080 connected with 10.0.0.4 port 54184
+[ 81]  0.0-10.0 sec  8.37 MBytes  7.02 Mbits/sec   0.133 ms    0/ 5969 (0%)
+[ 81]  0.0-10.0 sec  1 datagrams received out-of-order
+[ 83] local 0.0.0.0 port 60080 connected with 10.0.0.4 port 33529
+[ 83]  0.0-10.0 sec  5.37 MBytes  4.50 Mbits/sec   0.331 ms    0/ 3829 (0%)
+[ 83]  0.0-10.0 sec  1 datagrams received out-of-order
+[ 85] local 0.0.0.0 port 60080 connected with 10.0.0.4 port 56035
+[ 85]  0.0-10.0 sec  6.35 MBytes  5.33 Mbits/sec   0.030 ms    0/ 4532 (0%)
+[ 85]  0.0-10.0 sec  1 datagrams received out-of-order
+[ 87] local 0.0.0.0 port 60080 connected with 10.0.0.4 port 49917
+[ 87]  0.0-10.0 sec  10.0 MBytes  8.39 Mbits/sec   0.050 ms    0/ 7138 (0%)
+[ 87]  0.0-10.0 sec  1 datagrams received out-of-order
+[ 89] local 0.0.0.0 port 60080 connected with 10.0.0.4 port 57374
+[ 89]  0.0-10.0 sec  8.57 MBytes  7.19 Mbits/sec   0.115 ms    0/ 6112 (0%)
+[ 89]  0.0-10.0 sec  1 datagrams received out-of-order
+[ 91] local 0.0.0.0 port 60080 connected with 10.0.0.4 port 33443
+[ 91]  0.0-10.0 sec  2.66 MBytes  2.23 Mbits/sec   0.043 ms    0/ 1897 (0%)
+[ 93] local 0.0.0.0 port 60080 connected with 10.0.0.4 port 59960
+[ 93]  0.0-10.0 sec  6.63 MBytes  5.56 Mbits/sec   0.030 ms    0/ 4729 (0%)
+[ 93]  0.0-10.0 sec  1 datagrams received out-of-order
+[ 95] local 0.0.0.0 port 60080 connected with 10.0.0.4 port 50201
+[ 95]  0.0-10.0 sec  7.01 MBytes  5.88 Mbits/sec   0.594 ms    0/ 5001 (0%)
+[ 97] local 0.0.0.0 port 60080 connected with 10.0.0.4 port 53989
+[ 97]  0.0-10.0 sec  4.55 MBytes  3.82 Mbits/sec   0.021 ms    0/ 3245 (0%)
+[ 97]  0.0-10.0 sec  1 datagrams received out-of-order
+[ 99] local 0.0.0.0 port 60080 connected with 10.0.0.4 port 56454
+[ 99]  0.0-10.0 sec  8.66 MBytes  7.26 Mbits/sec   0.021 ms    0/ 6177 (0%)
+[ 99]  0.0-10.0 sec  1 datagrams received out-of-order
+[101] local 0.0.0.0 port 60080 connected with 10.0.0.4 port 47222
+[101]  0.0-10.0 sec  9.48 MBytes  7.95 Mbits/sec   0.050 ms    0/ 6762 (0%)
+[101]  0.0-10.0 sec  1 datagrams received out-of-order
+[103] local 0.0.0.0 port 60080 connected with 10.0.0.4 port 58132
+[103]  0.0-10.0 sec  2.00 MBytes  1.68 Mbits/sec   0.033 ms    0/ 1429 (0%)
+[105] local 0.0.0.0 port 60080 connected with 10.0.0.4 port 51259
+[105]  0.0-10.0 sec  8.37 MBytes  7.02 Mbits/sec   0.037 ms    0/ 5971 (0%)
+[105]  0.0-10.0 sec  1 datagrams received out-of-order
+[107] local 0.0.0.0 port 60080 connected with 10.0.0.4 port 58526
+[107]  0.0-10.0 sec  1.26 MBytes  1.05 Mbits/sec   0.051 ms    0/  897 (0%)
+[109] local 0.0.0.0 port 60080 connected with 10.0.0.4 port 35197
+[109]  0.0-10.0 sec  4.63 MBytes  3.89 Mbits/sec   0.024 ms    0/ 3305 (0%)
+[109]  0.0-10.0 sec  1 datagrams received out-of-order
+[111] local 0.0.0.0 port 60080 connected with 10.0.0.4 port 39009
+[111]  0.0-10.0 sec  4.52 MBytes  3.79 Mbits/sec   0.026 ms    0/ 3225 (0%)
+[111]  0.0-10.0 sec  1 datagrams received out-of-order
+[113] local 0.0.0.0 port 60080 connected with 10.0.0.4 port 42337
+[113]  0.0-10.0 sec  2.51 MBytes  2.11 Mbits/sec   0.025 ms    0/ 1793 (0%)
+[115] local 0.0.0.0 port 60080 connected with 10.0.0.4 port 59338
+[115]  0.0-10.0 sec  7.75 MBytes  6.50 Mbits/sec   0.029 ms    0/ 5528 (0%)
+[115]  0.0-10.0 sec  1 datagrams received out-of-order
+[117] local 0.0.0.0 port 60080 connected with 10.0.0.4 port 39363
+[117]  0.0-10.0 sec  3.72 MBytes  3.12 Mbits/sec   0.048 ms    2/ 2659 (0.075%)
+[117]  0.0-10.0 sec  1 datagrams received out-of-order
+[119] local 0.0.0.0 port 60080 connected with 10.0.0.4 port 60553
+[119]  0.0-10.0 sec  6.51 MBytes  5.46 Mbits/sec   0.038 ms    0/ 4645 (0%)
+[119]  0.0-10.0 sec  1 datagrams received out-of-order
+[121] local 0.0.0.0 port 60080 connected with 10.0.0.4 port 57396
+[121]  0.0-10.0 sec  7.91 MBytes  6.64 Mbits/sec   0.049 ms    0/ 5644 (0%)
+[121]  0.0-10.0 sec  1 datagrams received out-of-order
+[123] local 0.0.0.0 port 60080 connected with 10.0.0.4 port 38093
+[123]  0.0-10.0 sec  4.48 MBytes  3.76 Mbits/sec   0.019 ms    0/ 3196 (0%)
+[123]  0.0-10.0 sec  1 datagrams received out-of-order
+[125] local 0.0.0.0 port 60080 connected with 10.0.0.4 port 34386
+[125]  0.0-10.0 sec  4.68 MBytes  3.93 Mbits/sec   0.071 ms    0/ 3339 (0%)
+[125]  0.0-10.0 sec  1 datagrams received out-of-order
+[127] local 0.0.0.0 port 60080 connected with 10.0.0.4 port 41987
+[127]  0.0-10.0 sec  3.76 MBytes  3.15 Mbits/sec   0.177 ms    0/ 2680 (0%)
+[129] local 0.0.0.0 port 60080 connected with 10.0.0.4 port 37333
+[129]  0.0-10.0 sec  7.48 MBytes  6.27 Mbits/sec   0.129 ms    0/ 5334 (0%)
+[129]  0.0-10.0 sec  1 datagrams received out-of-order
+[131] local 0.0.0.0 port 60080 connected with 10.0.0.4 port 58872
+[131]  0.0-10.0 sec  8.07 MBytes  6.77 Mbits/sec   0.023 ms    0/ 5758 (0%)
+[131]  0.0-10.0 sec  1 datagrams received out-of-order
+[133] local 0.0.0.0 port 60080 connected with 10.0.0.4 port 37571
+[133]  0.0-10.0 sec  7.63 MBytes  6.40 Mbits/sec   0.113 ms    0/ 5441 (0%)
+[133]  0.0-10.0 sec  1 datagrams received out-of-order
+[135] local 0.0.0.0 port 60080 connected with 10.0.0.4 port 58331
+[135]  0.0-10.0 sec  4.69 MBytes  3.94 Mbits/sec   0.116 ms    0/ 3349 (0%)
+[137] local 0.0.0.0 port 60080 connected with 10.0.0.4 port 51506
+[137]  0.0-10.0 sec  9.59 MBytes  8.04 Mbits/sec   0.021 ms    0/ 6840 (0%)
+[137]  0.0-10.0 sec  1 datagrams received out-of-order
+[139] local 0.0.0.0 port 60080 connected with 10.0.0.4 port 47334
+[139]  0.0-10.0 sec  8.75 MBytes  7.34 Mbits/sec   0.031 ms    0/ 6243 (0%)
+[139]  0.0-10.0 sec  1 datagrams received out-of-order
+[141] local 0.0.0.0 port 60080 connected with 10.0.0.4 port 34167
+[141]  0.0-10.0 sec  11.9 MBytes  9.99 Mbits/sec   0.057 ms    0/ 8497 (0%)
+[141]  0.0-10.0 sec  1 datagrams received out-of-order
+[143] local 0.0.0.0 port 60080 connected with 10.0.0.4 port 45664
+[143]  0.0-10.0 sec  4.65 MBytes  3.90 Mbits/sec   0.031 ms    0/ 3318 (0%)
+[143]  0.0-10.0 sec  1 datagrams received out-of-order
+[145] local 0.0.0.0 port 60080 connected with 10.0.0.4 port 37580
+[145]  0.0-10.0 sec  5.30 MBytes  4.44 Mbits/sec   0.029 ms    0/ 3778 (0%)
+[147] local 0.0.0.0 port 60080 connected with 10.0.0.4 port 51154
+[147]  0.0-10.0 sec  5.43 MBytes  4.55 Mbits/sec   0.026 ms    0/ 3871 (0%)
+[149] local 0.0.0.0 port 60080 connected with 10.0.0.4 port 49460
+[149]  0.0-10.0 sec  5.89 MBytes  4.94 Mbits/sec   0.304 ms    0/ 4202 (0%)
+[149]  0.0-10.0 sec  1 datagrams received out-of-order
+[151] local 0.0.0.0 port 60080 connected with 10.0.0.4 port 47445
+[151]  0.0-10.0 sec  8.71 MBytes  7.31 Mbits/sec   0.050 ms    0/ 6215 (0%)
+[151]  0.0-10.0 sec  1 datagrams received out-of-order
+[153] local 0.0.0.0 port 60080 connected with 10.0.0.4 port 56295
+[153]  0.0-10.0 sec  6.49 MBytes  5.44 Mbits/sec   0.203 ms    1/ 4631 (0.022%)
+[153]  0.0-10.0 sec  1 datagrams received out-of-order
+[155] local 0.0.0.0 port 60080 connected with 10.0.0.4 port 43326
+[155]  0.0-10.0 sec  11.3 MBytes  9.47 Mbits/sec   0.023 ms    0/ 8054 (0%)
+[155]  0.0-10.0 sec  1 datagrams received out-of-order
+[157] local 0.0.0.0 port 60080 connected with 10.0.0.4 port 40712
+[157]  0.0-10.0 sec  3.34 MBytes  2.80 Mbits/sec   0.030 ms    0/ 2384 (0%)
+[157]  0.0-10.0 sec  1 datagrams received out-of-order
+[159] local 0.0.0.0 port 60080 connected with 10.0.0.4 port 44328
+[159]  0.0-10.0 sec  9.46 MBytes  7.94 Mbits/sec   0.068 ms    0/ 6749 (0%)
+[161] local 0.0.0.0 port 60080 connected with 10.0.0.4 port 48857
+[161]  0.0-10.0 sec  7.38 MBytes  6.19 Mbits/sec   0.024 ms    0/ 5261 (0%)
+[161]  0.0-10.0 sec  1 datagrams received out-of-order
+[163] local 0.0.0.0 port 60080 connected with 10.0.0.4 port 58958
+[163]  0.0-10.0 sec  4.90 MBytes  4.11 Mbits/sec   0.038 ms    0/ 3497 (0%)
+[163]  0.0-10.0 sec  1 datagrams received out-of-order
+[165] local 0.0.0.0 port 60080 connected with 10.0.0.4 port 37828
+[165]  0.0-10.0 sec  11.0 MBytes  9.20 Mbits/sec   0.034 ms    0/ 7825 (0%)
+[165]  0.0-10.0 sec  1 datagrams received out-of-order
+[167] local 0.0.0.0 port 60080 connected with 10.0.0.4 port 38663
+[167]  0.0-10.0 sec  8.50 MBytes  7.13 Mbits/sec   0.134 ms    0/ 6061 (0%)
+[167]  0.0-10.0 sec  1 datagrams received out-of-order
+[169] local 0.0.0.0 port 60080 connected with 10.0.0.4 port 42658
+[169]  0.0-10.0 sec  7.43 MBytes  6.24 Mbits/sec   0.041 ms    0/ 5302 (0%)
+[169]  0.0-10.0 sec  1 datagrams received out-of-order
+[171] local 0.0.0.0 port 60080 connected with 10.0.0.4 port 53300
+[171]  0.0-10.0 sec  6.12 MBytes  5.13 Mbits/sec   0.045 ms    0/ 4362 (0%)
+[171]  0.0-10.0 sec  1 datagrams received out-of-order
+[173] local 0.0.0.0 port 60080 connected with 10.0.0.4 port 47037
+[173]  0.0-10.0 sec  5.75 MBytes  4.82 Mbits/sec   0.076 ms    0/ 4102 (0%)
+[173]  0.0-10.0 sec  1 datagrams received out-of-order
+[175] local 0.0.0.0 port 60080 connected with 10.0.0.4 port 53837
+[175]  0.0-10.0 sec  3.72 MBytes  3.12 Mbits/sec   0.289 ms    1/ 2653 (0.038%)
+[175]  0.0-10.0 sec  2 datagrams received out-of-order
+[177] local 0.0.0.0 port 60080 connected with 10.0.0.4 port 42544
+[177]  0.0-10.0 sec  0.77 MBytes  0.64 Mbits/sec   0.315 ms    0/  546 (0%)
+[179] local 0.0.0.0 port 60080 connected with 10.0.0.4 port 36170
+[179]  0.0-10.1 sec  0.19 MBytes  0.16 Mbits/sec   0.074 ms    0/  136 (0%)
+[181] local 0.0.0.0 port 60080 connected with 10.0.0.4 port 45745
+[181]  0.0-10.0 sec  3.87 MBytes  3.25 Mbits/sec   0.083 ms    0/ 2760 (0%)
+[181]  0.0-10.0 sec  1 datagrams received out-of-order
+[183] local 0.0.0.0 port 60080 connected with 10.0.0.4 port 45943
+[183]  0.0-10.0 sec  5.72 MBytes  4.80 Mbits/sec   0.107 ms    0/ 4080 (0%)
+[183]  0.0-10.0 sec  1 datagrams received out-of-order
+[185] local 0.0.0.0 port 60080 connected with 10.0.0.4 port 34606
+[185]  0.0-10.0 sec  4.36 MBytes  3.66 Mbits/sec   0.041 ms    0/ 3112 (0%)
+[185]  0.0-10.0 sec  1 datagrams received out-of-order
+[187] local 0.0.0.0 port 60080 connected with 10.0.0.4 port 59007
+[187]  0.0-10.0 sec  3.11 MBytes  2.61 Mbits/sec   0.170 ms    0/ 2221 (0%)
+[189] local 0.0.0.0 port 60080 connected with 10.0.0.4 port 47832
+[189]  0.0-10.0 sec  7.04 MBytes  5.91 Mbits/sec   0.182 ms    0/ 5024 (0%)
+[191] local 0.0.0.0 port 60080 connected with 10.0.0.4 port 45545
+[191]  0.0-10.0 sec  7.68 MBytes  6.44 Mbits/sec   0.065 ms    0/ 5477 (0%)
+[191]  0.0-10.0 sec  1 datagrams received out-of-order
+[193] local 0.0.0.0 port 60080 connected with 10.0.0.4 port 44504
+[193]  0.0-10.0 sec  6.52 MBytes  5.47 Mbits/sec   0.190 ms    0/ 4651 (0%)
+[193]  0.0-10.0 sec  1 datagrams received out-of-order
+[195] local 0.0.0.0 port 60080 connected with 10.0.0.4 port 48876
+[195]  0.0-10.0 sec  5.79 MBytes  4.85 Mbits/sec   0.039 ms    0/ 4126 (0%)
+[195]  0.0-10.0 sec  1 datagrams received out-of-order
+[197] local 0.0.0.0 port 60080 connected with 10.0.0.4 port 33386
+[197]  0.0-10.0 sec  3.24 MBytes  2.71 Mbits/sec   0.028 ms    0/ 2308 (0%)
+[197]  0.0-10.0 sec  1 datagrams received out-of-order
+[199] local 0.0.0.0 port 60080 connected with 10.0.0.4 port 58518
+[199]  0.0-10.0 sec  10.3 MBytes  8.67 Mbits/sec   0.087 ms    0/ 7370 (0%)
+[199]  0.0-10.0 sec  1 datagrams received out-of-order
+[201] local 0.0.0.0 port 60080 connected with 10.0.0.4 port 36830
+[201]  0.0-10.0 sec  3.13 MBytes  2.63 Mbits/sec   0.028 ms    0/ 2235 (0%)
+[201]  0.0-10.0 sec  1 datagrams received out-of-order
+[203] local 0.0.0.0 port 60080 connected with 10.0.0.4 port 51962
+[203]  0.0-10.0 sec  7.01 MBytes  5.88 Mbits/sec   0.027 ms    0/ 4998 (0%)
+[203]  0.0-10.0 sec  1 datagrams received out-of-order
+[205] local 0.0.0.0 port 60080 connected with 10.0.0.4 port 35890
+[205]  0.0-10.0 sec  3.39 MBytes  2.84 Mbits/sec   0.246 ms    0/ 2414 (0%)
+[205]  0.0-10.0 sec  1 datagrams received out-of-order
+[207] local 0.0.0.0 port 60080 connected with 10.0.0.4 port 34566
+[207]  0.0-10.0 sec  3.22 MBytes  2.70 Mbits/sec   0.050 ms    0/ 2295 (0%)
+[209] local 0.0.0.0 port 60080 connected with 10.0.0.4 port 52098
+[209]  0.0-10.0 sec  5.80 MBytes  4.87 Mbits/sec   0.108 ms    0/ 4139 (0%)
+[211] local 0.0.0.0 port 60080 connected with 10.0.0.4 port 36892
+[211]  0.0-10.0 sec  4.73 MBytes  3.96 Mbits/sec   0.075 ms    0/ 3370 (0%)
+[211]  0.0-10.0 sec  1 datagrams received out-of-order
+[213] local 0.0.0.0 port 60080 connected with 10.0.0.4 port 53481
+[213]  0.0-10.0 sec  7.74 MBytes  6.49 Mbits/sec   0.228 ms    0/ 5519 (0%)
+[213]  0.0-10.0 sec  1 datagrams received out-of-order
+[215] local 0.0.0.0 port 60080 connected with 10.0.0.4 port 47382
+[215]  0.0-10.0 sec  3.86 MBytes  3.24 Mbits/sec   0.181 ms    0/ 2756 (0%)
+[217] local 0.0.0.0 port 60080 connected with 10.0.0.4 port 42883
+[217]  0.0-10.0 sec  2.00 MBytes  1.68 Mbits/sec   0.132 ms    0/ 1427 (0%)
+[219] local 0.0.0.0 port 60080 connected with 10.0.0.4 port 56890
+[219]  0.0-10.0 sec  2.13 MBytes  1.78 Mbits/sec   0.138 ms    0/ 1518 (0%)
+[221] local 0.0.0.0 port 60080 connected with 10.0.0.4 port 50459
+[221]  0.0-10.0 sec  5.01 MBytes  4.20 Mbits/sec   0.051 ms    0/ 3574 (0%)
+[221]  0.0-10.0 sec  1 datagrams received out-of-order
+[223] local 0.0.0.0 port 60080 connected with 10.0.0.4 port 51243
+[223]  0.0-10.0 sec  5.95 MBytes  4.99 Mbits/sec   0.076 ms    0/ 4240 (0%)
+[223]  0.0-10.0 sec  1 datagrams received out-of-order
+[225] local 0.0.0.0 port 60080 connected with 10.0.0.4 port 36078
+[225]  0.0-10.0 sec  5.22 MBytes  4.38 Mbits/sec   0.261 ms    0/ 3723 (0%)
+[227] local 0.0.0.0 port 60080 connected with 10.0.0.4 port 36361
+[227]  0.0-10.0 sec  9.85 MBytes  8.26 Mbits/sec   0.013 ms    0/ 7028 (0%)
+[227]  0.0-10.0 sec  1 datagrams received out-of-order
+[229] local 0.0.0.0 port 60080 connected with 10.0.0.4 port 47514
+[229]  0.0-10.0 sec  7.13 MBytes  5.98 Mbits/sec   0.033 ms    0/ 5084 (0%)
+[229]  0.0-10.0 sec  1 datagrams received out-of-order
+[231] local 0.0.0.0 port 60080 connected with 10.0.0.4 port 55434
+[231]  0.0-10.0 sec  7.82 MBytes  6.56 Mbits/sec   0.195 ms    0/ 5578 (0%)
+[231]  0.0-10.0 sec  1 datagrams received out-of-order
+[233] local 0.0.0.0 port 60080 connected with 10.0.0.4 port 37927
+[233]  0.0-10.0 sec  7.18 MBytes  6.02 Mbits/sec   0.021 ms    0/ 5119 (0%)
+[235] local 0.0.0.0 port 60080 connected with 10.0.0.4 port 45371
+[235]  0.0-10.0 sec  4.48 MBytes  3.75 Mbits/sec   0.173 ms    0/ 3192 (0%)
+[235]  0.0-10.0 sec  1 datagrams received out-of-order
+[237] local 0.0.0.0 port 60080 connected with 10.0.0.4 port 32812
+[237]  0.0-10.0 sec  0.56 MBytes  0.47 Mbits/sec   0.011 ms    0/  400 (0%)
+[239] local 0.0.0.0 port 60080 connected with 10.0.0.4 port 35441
+[239]  0.0-10.0 sec  5.23 MBytes  4.38 Mbits/sec   0.010 ms    0/ 3729 (0%)

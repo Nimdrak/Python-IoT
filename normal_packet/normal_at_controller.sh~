@@ -160,10 +160,10 @@ echo "Previous output file deleted"
 #sleep 5
 
 rm /home/byounguklee/mininet/con_python/normal_packet/output/*.txt
-ssh 10.0.0.1 rm /home/byounguklee/output_1/*.txt
-ssh 10.0.0.2 rm /home/byounguklee/output_2/*.txt
-ssh 10.0.0.3 rm /home/byounguklee/output_3/*.txt
-ssh 10.0.0.4 rm /home/byounguklee/output_4/*.txt
+#ssh 10.0.0.1 rm /home/byounguklee/output_1/*.txt
+#ssh 10.0.0.2 rm /home/byounguklee/output_2/*.txt
+#ssh 10.0.0.3 rm /home/byounguklee/output_3/*.txt
+#ssh 10.0.0.4 rm /home/byounguklee/output_4/*.txt
 
 
 ############################################ 
@@ -192,7 +192,7 @@ eval h='$'{arrayee_$s[1]}
 #echo "$a $b $c $d $e $f $g $h"
 
 echo "server $a at port $e ON and 193 is $g"
-ssh $a ./normal_at_server.sh $e $a $f $b
+ssh $a /home/byounguklee/mininet/con_python/normal_packet/normal_at_server.sh $e $a $f $b
 
 sleep 2 
 done
@@ -227,7 +227,10 @@ eval h='$'{arrayee_$s[1]}
 echo "client $b at port $f ON and 193 is $h"
 echo "client $b at port $f 's mean $c and variance $d"
 echo "time_slot length is 10 and time_length 10"
-ssh $b ./normal_at_client.sh $a $e $h $c $d 10 10 $b $f & # a and e! neither b nor f
+
+sleep 0.5
+
+ssh $b /home/byounguklee/mininet/con_python/normal_packet/normal_at_client.sh $a $e $h $c $d 10 360 $b $f & # a and e! neither b nor f
 #sleep 5
 
 done

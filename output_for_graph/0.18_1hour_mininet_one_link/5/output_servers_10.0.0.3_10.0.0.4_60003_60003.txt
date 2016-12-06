@@ -1,0 +1,992 @@
+------------------------------------------------------------
+Server listening on UDP port 60003
+Receiving 1470 byte datagrams
+UDP buffer size: 0.20 MByte (default)
+------------------------------------------------------------
+[  1] local 0.0.0.0 port 60003 connected with 10.0.0.4 port 55004
+[ ID] Interval       Transfer     Bandwidth        Jitter   Lost/Total Datagrams
+[  1]  0.0-10.0 sec  9.23 MBytes  7.74 Mbits/sec   0.014 ms    0/ 6584 (0%)
+[  1]  0.0-10.0 sec  1 datagrams received out-of-order
+[  3] local 0.0.0.0 port 60003 connected with 10.0.0.4 port 42737
+[  3]  0.0-10.0 sec  9.72 MBytes  8.15 Mbits/sec   0.012 ms    0/ 6930 (0%)
+[  3]  0.0-10.0 sec  1 datagrams received out-of-order
+[  5] local 0.0.0.0 port 60003 connected with 10.0.0.4 port 38955
+[  5]  0.0-10.0 sec  5.38 MBytes  4.51 Mbits/sec   0.033 ms    0/ 3838 (0%)
+[  5]  0.0-10.0 sec  1 datagrams received out-of-order
+[  7] local 0.0.0.0 port 60003 connected with 10.0.0.4 port 33050
+[  7]  0.0-10.0 sec  10.7 MBytes  8.96 Mbits/sec   0.049 ms    0/ 7617 (0%)
+[  9] local 0.0.0.0 port 60003 connected with 10.0.0.4 port 36107
+[  9]  0.0-10.0 sec  7.80 MBytes  6.54 Mbits/sec   0.025 ms    0/ 5565 (0%)
+[  9]  0.0-10.0 sec  1 datagrams received out-of-order
+[ 11] local 0.0.0.0 port 60003 connected with 10.0.0.4 port 52600
+[ 11]  0.0-10.0 sec  6.48 MBytes  5.43 Mbits/sec   0.028 ms    0/ 4623 (0%)
+[ 13] local 0.0.0.0 port 60003 connected with 10.0.0.4 port 38884
+[ 13]  0.0-10.0 sec  9.68 MBytes  8.12 Mbits/sec   0.027 ms    0/ 6907 (0%)
+[ 13]  0.0-10.0 sec  1 datagrams received out-of-order
+[ 15] local 0.0.0.0 port 60003 connected with 10.0.0.4 port 58386
+[ 15]  0.0-10.0 sec  8.13 MBytes  6.82 Mbits/sec   0.029 ms    0/ 5801 (0%)
+[ 15]  0.0-10.0 sec  1 datagrams received out-of-order
+[ 17] local 0.0.0.0 port 60003 connected with 10.0.0.4 port 40283
+[ 17]  0.0-10.0 sec  5.63 MBytes  4.72 Mbits/sec   0.020 ms    0/ 4013 (0%)
+[ 17]  0.0-10.0 sec  1 datagrams received out-of-order
+[ 19] local 0.0.0.0 port 60003 connected with 10.0.0.4 port 42195
+[ 19]  0.0-10.0 sec  4.15 MBytes  3.48 Mbits/sec   0.025 ms    0/ 2960 (0%)
+[ 21] local 0.0.0.0 port 60003 connected with 10.0.0.4 port 44909
+[ 21]  0.0-10.0 sec  4.40 MBytes  3.69 Mbits/sec   0.026 ms    0/ 3140 (0%)
+[ 21]  0.0-10.0 sec  1 datagrams received out-of-order
+[ 23] local 0.0.0.0 port 60003 connected with 10.0.0.4 port 35558
+[ 23]  0.0-10.0 sec  6.94 MBytes  5.82 Mbits/sec   0.024 ms    0/ 4951 (0%)
+[ 23]  0.0-10.0 sec  1 datagrams received out-of-order
+[ 25] local 0.0.0.0 port 60003 connected with 10.0.0.4 port 59447
+[ 25]  0.0-10.0 sec  5.26 MBytes  4.41 Mbits/sec   0.019 ms    0/ 3749 (0%)
+[ 25]  0.0-10.0 sec  1 datagrams received out-of-order
+[ 27] local 0.0.0.0 port 60003 connected with 10.0.0.4 port 49793
+[ 27]  0.0-10.0 sec  4.82 MBytes  4.04 Mbits/sec   0.028 ms    0/ 3435 (0%)
+[ 27]  0.0-10.0 sec  1 datagrams received out-of-order
+[ 29] local 0.0.0.0 port 60003 connected with 10.0.0.4 port 39888
+[ 29]  0.0-10.0 sec  5.29 MBytes  4.44 Mbits/sec   0.013 ms    0/ 3774 (0%)
+[ 29]  0.0-10.0 sec  1 datagrams received out-of-order
+[ 31] local 0.0.0.0 port 60003 connected with 10.0.0.4 port 48487
+[ 31]  0.0-10.0 sec  8.94 MBytes  7.50 Mbits/sec   0.044 ms    0/ 6375 (0%)
+[ 33] local 0.0.0.0 port 60003 connected with 10.0.0.4 port 59580
+[ 33]  0.0-10.0 sec  4.35 MBytes  3.65 Mbits/sec   0.038 ms    0/ 3100 (0%)
+[ 33]  0.0-10.0 sec  1 datagrams received out-of-order
+[ 35] local 0.0.0.0 port 60003 connected with 10.0.0.4 port 34230
+[ 35]  0.0-10.0 sec  9.55 MBytes  8.01 Mbits/sec   0.025 ms    0/ 6808 (0%)
+[ 35]  0.0-10.0 sec  1 datagrams received out-of-order
+[ 37] local 0.0.0.0 port 60003 connected with 10.0.0.4 port 47783
+[ 37]  0.0-10.0 sec  2.01 MBytes  1.69 Mbits/sec   0.028 ms    0/ 1437 (0%)
+[ 39] local 0.0.0.0 port 60003 connected with 10.0.0.4 port 37985
+[ 39]  0.0-10.0 sec  10.4 MBytes  8.74 Mbits/sec   0.016 ms    0/ 7430 (0%)
+[ 39]  0.0-10.0 sec  1 datagrams received out-of-order
+[ 41] local 0.0.0.0 port 60003 connected with 10.0.0.4 port 60347
+[ 41]  0.0-10.0 sec  7.23 MBytes  6.06 Mbits/sec   0.037 ms    0/ 5155 (0%)
+[ 41]  0.0-10.0 sec  1 datagrams received out-of-order
+[ 43] local 0.0.0.0 port 60003 connected with 10.0.0.4 port 49986
+[ 43]  0.0-10.0 sec  6.99 MBytes  5.86 Mbits/sec   0.022 ms    0/ 4983 (0%)
+[ 43]  0.0-10.0 sec  1 datagrams received out-of-order
+[ 45] local 0.0.0.0 port 60003 connected with 10.0.0.4 port 48107
+[ 45]  0.0-10.0 sec  2.60 MBytes  2.18 Mbits/sec   0.015 ms    0/ 1853 (0%)
+[ 47] local 0.0.0.0 port 60003 connected with 10.0.0.4 port 58334
+[ 47]  0.0-10.0 sec  7.84 MBytes  6.58 Mbits/sec   0.029 ms    0/ 5593 (0%)
+[ 47]  0.0-10.0 sec  1 datagrams received out-of-order
+[ 49] local 0.0.0.0 port 60003 connected with 10.0.0.4 port 52136
+[ 49]  0.0-10.0 sec  7.65 MBytes  6.41 Mbits/sec   0.020 ms    0/ 5453 (0%)
+[ 49]  0.0-10.0 sec  1 datagrams received out-of-order
+[ 51] local 0.0.0.0 port 60003 connected with 10.0.0.4 port 42641
+[ 51]  0.0-10.0 sec  6.19 MBytes  5.19 Mbits/sec   0.021 ms    0/ 4417 (0%)
+[ 51]  0.0-10.0 sec  1 datagrams received out-of-order
+[ 53] local 0.0.0.0 port 60003 connected with 10.0.0.4 port 44814
+[ 53]  0.0-10.0 sec  4.41 MBytes  3.70 Mbits/sec   0.018 ms    0/ 3146 (0%)
+[ 53]  0.0-10.0 sec  1 datagrams received out-of-order
+[ 55] local 0.0.0.0 port 60003 connected with 10.0.0.4 port 52653
+[ 55]  0.0-10.0 sec  3.63 MBytes  3.04 Mbits/sec   0.017 ms    0/ 2587 (0%)
+[ 57] local 0.0.0.0 port 60003 connected with 10.0.0.4 port 57883
+[ 57]  0.0-10.0 sec  10.6 MBytes  8.90 Mbits/sec   0.021 ms    0/ 7565 (0%)
+[ 57]  0.0-10.0 sec  1 datagrams received out-of-order
+[ 59] local 0.0.0.0 port 60003 connected with 10.0.0.4 port 53906
+[ 59]  0.0-10.0 sec  8.06 MBytes  6.76 Mbits/sec   0.019 ms    0/ 5751 (0%)
+[ 59]  0.0-10.0 sec  1 datagrams received out-of-order
+[ 61] local 0.0.0.0 port 60003 connected with 10.0.0.4 port 57833
+[ 61]  0.0-10.0 sec  2.55 MBytes  2.14 Mbits/sec   0.020 ms    0/ 1820 (0%)
+[ 63] local 0.0.0.0 port 60003 connected with 10.0.0.4 port 35709
+[ 63]  0.0-10.0 sec  7.07 MBytes  5.93 Mbits/sec   0.043 ms    0/ 5043 (0%)
+[ 63]  0.0-10.0 sec  1 datagrams received out-of-order
+[ 65] local 0.0.0.0 port 60003 connected with 10.0.0.4 port 49952
+[ 65]  0.0-10.0 sec  2.79 MBytes  2.34 Mbits/sec   0.016 ms    0/ 1986 (0%)
+[ 65]  0.0-10.0 sec  1 datagrams received out-of-order
+[ 67] local 0.0.0.0 port 60003 connected with 10.0.0.4 port 59820
+[ 67]  0.0-10.0 sec  3.67 MBytes  3.08 Mbits/sec   0.026 ms    0/ 2618 (0%)
+[ 67]  0.0-10.0 sec  1 datagrams received out-of-order
+[ 69] local 0.0.0.0 port 60003 connected with 10.0.0.4 port 59235
+[ 69]  0.0-10.0 sec  10.0 MBytes  8.40 Mbits/sec   0.022 ms    0/ 7143 (0%)
+[ 69]  0.0-10.0 sec  1 datagrams received out-of-order
+[ 71] local 0.0.0.0 port 60003 connected with 10.0.0.4 port 44485
+[ 71]  0.0-10.0 sec  3.13 MBytes  2.63 Mbits/sec   0.033 ms    0/ 2235 (0%)
+[ 71]  0.0-10.0 sec  1 datagrams received out-of-order
+[ 73] local 0.0.0.0 port 60003 connected with 10.0.0.4 port 53023
+[ 73]  0.0-10.0 sec  3.06 MBytes  2.57 Mbits/sec   0.025 ms    0/ 2185 (0%)
+[ 75] local 0.0.0.0 port 60003 connected with 10.0.0.4 port 37169
+[ 75]  0.0-10.0 sec  2.94 MBytes  2.47 Mbits/sec   0.021 ms    0/ 2098 (0%)
+[ 77] local 0.0.0.0 port 60003 connected with 10.0.0.4 port 33867
+[ 77]  0.0-10.0 sec  7.17 MBytes  6.01 Mbits/sec   0.028 ms    0/ 5110 (0%)
+[ 77]  0.0-10.0 sec  1 datagrams received out-of-order
+[ 79] local 0.0.0.0 port 60003 connected with 10.0.0.4 port 52956
+[ 79]  0.0-10.0 sec  3.56 MBytes  2.98 Mbits/sec   0.018 ms    0/ 2537 (0%)
+[ 79]  0.0-10.0 sec  1 datagrams received out-of-order
+[ 81] local 0.0.0.0 port 60003 connected with 10.0.0.4 port 60129
+[ 81]  0.0-10.0 sec  8.87 MBytes  7.44 Mbits/sec   0.024 ms    0/ 6327 (0%)
+[ 83] local 0.0.0.0 port 60003 connected with 10.0.0.4 port 48877
+[ 83]  0.0-10.0 sec  9.35 MBytes  7.84 Mbits/sec   0.019 ms    0/ 6667 (0%)
+[ 83]  0.0-10.0 sec  1 datagrams received out-of-order
+[ 85] local 0.0.0.0 port 60003 connected with 10.0.0.4 port 54346
+[ 85]  0.0-10.0 sec  4.01 MBytes  3.36 Mbits/sec   0.034 ms    0/ 2861 (0%)
+[ 87] local 0.0.0.0 port 60003 connected with 10.0.0.4 port 38579
+[ 87]  0.0-10.0 sec  5.00 MBytes  4.20 Mbits/sec   0.020 ms    0/ 3568 (0%)
+[ 87]  0.0-10.0 sec  1 datagrams received out-of-order
+[ 89] local 0.0.0.0 port 60003 connected with 10.0.0.4 port 49230
+[ 89]  0.0-10.0 sec  6.64 MBytes  5.57 Mbits/sec   0.035 ms    0/ 4733 (0%)
+[ 89]  0.0-10.0 sec  1 datagrams received out-of-order
+[ 91] local 0.0.0.0 port 60003 connected with 10.0.0.4 port 38908
+[ 91]  0.0-10.0 sec  6.56 MBytes  5.50 Mbits/sec   0.030 ms    0/ 4677 (0%)
+[ 93] local 0.0.0.0 port 60003 connected with 10.0.0.4 port 48581
+[ 93]  0.0-10.0 sec  5.16 MBytes  4.32 Mbits/sec   0.025 ms    0/ 3677 (0%)
+[ 93]  0.0-10.0 sec  1 datagrams received out-of-order
+[ 95] local 0.0.0.0 port 60003 connected with 10.0.0.4 port 34704
+[ 95]  0.0-10.0 sec  5.59 MBytes  4.69 Mbits/sec   0.027 ms    0/ 3986 (0%)
+[ 95]  0.0-10.0 sec  1 datagrams received out-of-order
+[ 97] local 0.0.0.0 port 60003 connected with 10.0.0.4 port 33419
+[ 97]  0.0-10.0 sec  1.25 MBytes  1.05 Mbits/sec   0.028 ms    0/  892 (0%)
+[ 99] local 0.0.0.0 port 60003 connected with 10.0.0.4 port 50476
+[ 99]  0.0-10.0 sec  4.39 MBytes  3.68 Mbits/sec   0.024 ms    0/ 3128 (0%)
+[ 99]  0.0-10.0 sec  1 datagrams received out-of-order
+[101] local 0.0.0.0 port 60003 connected with 10.0.0.4 port 49287
+[101]  0.0-10.0 sec  4.30 MBytes  3.61 Mbits/sec   0.021 ms    0/ 3066 (0%)
+[101]  0.0-10.0 sec  1 datagrams received out-of-order
+[103] local 0.0.0.0 port 60003 connected with 10.0.0.4 port 33937
+[103]  0.0-10.0 sec  7.24 MBytes  6.07 Mbits/sec   0.013 ms    0/ 5166 (0%)
+[103]  0.0-10.0 sec  1 datagrams received out-of-order
+[105] local 0.0.0.0 port 60003 connected with 10.0.0.4 port 34116
+[105]  0.0-10.0 sec  1.86 MBytes  1.56 Mbits/sec   0.031 ms    0/ 1325 (0%)
+[107] local 0.0.0.0 port 60003 connected with 10.0.0.4 port 58573
+[107]  0.0-10.0 sec  7.82 MBytes  6.56 Mbits/sec   0.021 ms    0/ 5575 (0%)
+[107]  0.0-10.0 sec  1 datagrams received out-of-order
+[109] local 0.0.0.0 port 60003 connected with 10.0.0.4 port 55675
+[109]  0.0-10.0 sec  4.33 MBytes  3.63 Mbits/sec   0.027 ms    0/ 3087 (0%)
+[111] local 0.0.0.0 port 60003 connected with 10.0.0.4 port 53954
+[111]  0.0-10.0 sec  6.37 MBytes  5.34 Mbits/sec   0.024 ms    0/ 4544 (0%)
+[111]  0.0-10.0 sec  1 datagrams received out-of-order
+[113] local 0.0.0.0 port 60003 connected with 10.0.0.4 port 59921
+[113]  0.0-10.0 sec  7.22 MBytes  6.06 Mbits/sec   0.017 ms    0/ 5152 (0%)
+[113]  0.0-10.0 sec  1 datagrams received out-of-order
+[115] local 0.0.0.0 port 60003 connected with 10.0.0.4 port 52911
+[115]  0.0-10.0 sec  6.14 MBytes  5.15 Mbits/sec   0.023 ms    0/ 4377 (0%)
+[115]  0.0-10.0 sec  1 datagrams received out-of-order
+[117] local 0.0.0.0 port 60003 connected with 10.0.0.4 port 42342
+[117]  0.0-10.0 sec  5.13 MBytes  4.30 Mbits/sec   0.034 ms    0/ 3661 (0%)
+[117]  0.0-10.0 sec  1 datagrams received out-of-order
+[119] local 0.0.0.0 port 60003 connected with 10.0.0.4 port 51889
+[119]  0.0-10.0 sec  6.69 MBytes  5.61 Mbits/sec   0.019 ms    0/ 4771 (0%)
+[119]  0.0-10.0 sec  1 datagrams received out-of-order
+[121] local 0.0.0.0 port 60003 connected with 10.0.0.4 port 59823
+[121]  0.0-10.0 sec  3.69 MBytes  3.10 Mbits/sec   0.021 ms    0/ 2634 (0%)
+[123] local 0.0.0.0 port 60003 connected with 10.0.0.4 port 46038
+[123]  0.0-10.0 sec  7.84 MBytes  6.58 Mbits/sec   0.022 ms    0/ 5593 (0%)
+[123]  0.0-10.0 sec  1 datagrams received out-of-order
+[125] local 0.0.0.0 port 60003 connected with 10.0.0.4 port 46627
+[125]  0.0-10.0 sec  4.11 MBytes  3.45 Mbits/sec   0.023 ms    0/ 2935 (0%)
+[127] local 0.0.0.0 port 60003 connected with 10.0.0.4 port 52739
+[127]  0.0-10.0 sec  7.90 MBytes  6.63 Mbits/sec   0.018 ms    0/ 5637 (0%)
+[127]  0.0-10.0 sec  1 datagrams received out-of-order
+[129] local 0.0.0.0 port 60003 connected with 10.0.0.4 port 54826
+[129]  0.0-10.0 sec  11.0 MBytes  9.26 Mbits/sec   0.091 ms    0/ 7874 (0%)
+[129]  0.0-10.0 sec  1 datagrams received out-of-order
+[131] local 0.0.0.0 port 60003 connected with 10.0.0.4 port 38027
+[131]  0.0-10.0 sec  6.03 MBytes  5.05 Mbits/sec   0.046 ms    0/ 4299 (0%)
+[133] local 0.0.0.0 port 60003 connected with 10.0.0.4 port 36139
+[133]  0.0-10.0 sec  8.55 MBytes  7.17 Mbits/sec   0.032 ms    0/ 6098 (0%)
+[133]  0.0-10.0 sec  1 datagrams received out-of-order
+[135] local 0.0.0.0 port 60003 connected with 10.0.0.4 port 58996
+[135]  0.0-10.0 sec  4.34 MBytes  3.64 Mbits/sec   0.024 ms    0/ 3096 (0%)
+[137] local 0.0.0.0 port 60003 connected with 10.0.0.4 port 57777
+[137]  0.0-10.0 sec  4.57 MBytes  3.83 Mbits/sec   0.017 ms    0/ 3256 (0%)
+[137]  0.0-10.0 sec  1 datagrams received out-of-order
+[139] local 0.0.0.0 port 60003 connected with 10.0.0.4 port 50945
+[139]  0.0-10.0 sec  6.77 MBytes  5.68 Mbits/sec   0.023 ms    0/ 4831 (0%)
+[139]  0.0-10.0 sec  1 datagrams received out-of-order
+[141] local 0.0.0.0 port 60003 connected with 10.0.0.4 port 60542
+[141]  0.0-10.0 sec  8.16 MBytes  6.85 Mbits/sec   0.022 ms    0/ 5821 (0%)
+[141]  0.0-10.0 sec  1 datagrams received out-of-order
+[143] local 0.0.0.0 port 60003 connected with 10.0.0.4 port 54366
+[143]  0.0-10.0 sec  6.69 MBytes  5.61 Mbits/sec   0.019 ms    0/ 4774 (0%)
+[143]  0.0-10.0 sec  1 datagrams received out-of-order
+[145] local 0.0.0.0 port 60003 connected with 10.0.0.4 port 41500
+[145]  0.0-10.0 sec  7.44 MBytes  6.24 Mbits/sec   0.033 ms    0/ 5305 (0%)
+[145]  0.0-10.0 sec  1 datagrams received out-of-order
+[147] local 0.0.0.0 port 60003 connected with 10.0.0.4 port 50155
+[147]  0.0-10.0 sec  2.49 MBytes  2.09 Mbits/sec   0.016 ms    0/ 1775 (0%)
+[149] local 0.0.0.0 port 60003 connected with 10.0.0.4 port 35475
+[149]  0.0-10.0 sec  3.53 MBytes  2.96 Mbits/sec   0.024 ms    0/ 2517 (0%)
+[151] local 0.0.0.0 port 60003 connected with 10.0.0.4 port 41230
+[151]  0.0-10.0 sec  6.58 MBytes  5.52 Mbits/sec   0.024 ms    0/ 4691 (0%)
+[151]  0.0-10.0 sec  1 datagrams received out-of-order
+[153] local 0.0.0.0 port 60003 connected with 10.0.0.4 port 35980
+[153]  0.0-10.0 sec  5.75 MBytes  4.82 Mbits/sec   0.027 ms    0/ 4099 (0%)
+[153]  0.0-10.0 sec  1 datagrams received out-of-order
+[155] local 0.0.0.0 port 60003 connected with 10.0.0.4 port 36188
+[155]  0.0-10.0 sec  6.06 MBytes  5.08 Mbits/sec   0.024 ms    0/ 4320 (0%)
+[155]  0.0-10.0 sec  1 datagrams received out-of-order
+[157] local 0.0.0.0 port 60003 connected with 10.0.0.4 port 49342
+[157]  0.0-10.0 sec  8.35 MBytes  7.00 Mbits/sec   0.021 ms    0/ 5956 (0%)
+[157]  0.0-10.0 sec  1 datagrams received out-of-order
+[159] local 0.0.0.0 port 60003 connected with 10.0.0.4 port 39984
+[159]  0.0-10.0 sec  5.72 MBytes  4.80 Mbits/sec   0.025 ms    0/ 4080 (0%)
+[161] local 0.0.0.0 port 60003 connected with 10.0.0.4 port 40180
+[161]  0.0-10.0 sec  5.85 MBytes  4.91 Mbits/sec   0.015 ms    0/ 4174 (0%)
+[161]  0.0-10.0 sec  1 datagrams received out-of-order
+[163] local 0.0.0.0 port 60003 connected with 10.0.0.4 port 41977
+[163]  0.0-10.0 sec  3.92 MBytes  3.28 Mbits/sec   0.021 ms    0/ 2795 (0%)
+[165] local 0.0.0.0 port 60003 connected with 10.0.0.4 port 60056
+[165]  0.0-10.0 sec  7.52 MBytes  6.30 Mbits/sec   0.024 ms    0/ 5360 (0%)
+[165]  0.0-10.0 sec  1 datagrams received out-of-order
+[167] local 0.0.0.0 port 60003 connected with 10.0.0.4 port 40414
+[167]  0.0-10.0 sec  7.01 MBytes  5.88 Mbits/sec   0.028 ms    0/ 4998 (0%)
+[167]  0.0-10.0 sec  1 datagrams received out-of-order
+[169] local 0.0.0.0 port 60003 connected with 10.0.0.4 port 58289
+[169]  0.0-10.0 sec  3.69 MBytes  3.10 Mbits/sec   0.024 ms    0/ 2634 (0%)
+[171] local 0.0.0.0 port 60003 connected with 10.0.0.4 port 40612
+[171]  0.0-10.0 sec  8.41 MBytes  7.05 Mbits/sec   0.016 ms    0/ 5999 (0%)
+[171]  0.0-10.0 sec  1 datagrams received out-of-order
+[173] local 0.0.0.0 port 60003 connected with 10.0.0.4 port 41611
+[173]  0.0-10.0 sec  3.71 MBytes  3.11 Mbits/sec   0.022 ms    0/ 2648 (0%)
+[175] local 0.0.0.0 port 60003 connected with 10.0.0.4 port 53485
+[175]  0.0-10.0 sec  5.37 MBytes  4.50 Mbits/sec   0.039 ms    0/ 3829 (0%)
+[175]  0.0-10.0 sec  1 datagrams received out-of-order
+[177] local 0.0.0.0 port 60003 connected with 10.0.0.4 port 52920
+[177]  0.0-10.0 sec  3.17 MBytes  2.66 Mbits/sec   0.017 ms    0/ 2262 (0%)
+[179] local 0.0.0.0 port 60003 connected with 10.0.0.4 port 53526
+[179]  0.0-10.0 sec  6.18 MBytes  5.18 Mbits/sec   0.012 ms    0/ 4404 (0%)
+[179]  0.0-10.0 sec  1 datagrams received out-of-order
+[181] local 0.0.0.0 port 60003 connected with 10.0.0.4 port 58934
+[181]  0.0-10.0 sec  6.20 MBytes  5.20 Mbits/sec   0.019 ms    0/ 4419 (0%)
+[181]  0.0-10.0 sec  1 datagrams received out-of-order
+[183] local 0.0.0.0 port 60003 connected with 10.0.0.4 port 52340
+[183]  0.0-10.0 sec  7.61 MBytes  6.38 Mbits/sec   0.010 ms    0/ 5429 (0%)
+[183]  0.0-10.0 sec  1 datagrams received out-of-order
+[185] local 0.0.0.0 port 60003 connected with 10.0.0.4 port 45770
+[185]  0.0-10.0 sec  7.74 MBytes  6.49 Mbits/sec   0.031 ms    0/ 5522 (0%)
+[185]  0.0-10.0 sec  1 datagrams received out-of-order
+[187] local 0.0.0.0 port 60003 connected with 10.0.0.4 port 59331
+[187]  0.0-10.0 sec  7.33 MBytes  6.15 Mbits/sec   0.019 ms    0/ 5228 (0%)
+[187]  0.0-10.0 sec  1 datagrams received out-of-order
+[189] local 0.0.0.0 port 60003 connected with 10.0.0.4 port 32965
+[189]  0.0-10.0 sec  3.13 MBytes  2.62 Mbits/sec   0.027 ms    0/ 2229 (0%)
+[189]  0.0-10.0 sec  1 datagrams received out-of-order
+[191] local 0.0.0.0 port 60003 connected with 10.0.0.4 port 48142
+[191]  0.0-10.0 sec  3.61 MBytes  3.03 Mbits/sec   0.021 ms    0/ 2577 (0%)
+[193] local 0.0.0.0 port 60003 connected with 10.0.0.4 port 60869
+[193]  0.0-10.0 sec  6.39 MBytes  5.36 Mbits/sec   0.020 ms    0/ 4558 (0%)
+[193]  0.0-10.0 sec  1 datagrams received out-of-order
+[195] local 0.0.0.0 port 60003 connected with 10.0.0.4 port 59972
+[195]  0.0-10.0 sec  10.2 MBytes  8.55 Mbits/sec   0.028 ms    0/ 7268 (0%)
+[195]  0.0-10.0 sec  1 datagrams received out-of-order
+[197] local 0.0.0.0 port 60003 connected with 10.0.0.4 port 41413
+[197]  0.0-10.0 sec  0.97 MBytes  0.81 Mbits/sec   0.022 ms    0/  690 (0%)
+[199] local 0.0.0.0 port 60003 connected with 10.0.0.4 port 33322
+[199]  0.0-10.0 sec  5.82 MBytes  4.88 Mbits/sec   0.009 ms    0/ 4153 (0%)
+[199]  0.0-10.0 sec  1 datagrams received out-of-order
+[201] local 0.0.0.0 port 60003 connected with 10.0.0.4 port 58412
+[201]  0.0-10.0 sec  10.8 MBytes  9.06 Mbits/sec   0.027 ms    0/ 7705 (0%)
+[201]  0.0-10.0 sec  1 datagrams received out-of-order
+[203] local 0.0.0.0 port 60003 connected with 10.0.0.4 port 38328
+[203]  0.0-10.0 sec  9.42 MBytes  7.90 Mbits/sec   0.032 ms    0/ 6716 (0%)
+[203]  0.0-10.0 sec  1 datagrams received out-of-order
+[205] local 0.0.0.0 port 60003 connected with 10.0.0.4 port 44762
+[205]  0.0-10.0 sec  6.57 MBytes  5.51 Mbits/sec   0.024 ms    0/ 4682 (0%)
+[205]  0.0-10.0 sec  1 datagrams received out-of-order
+[207] local 0.0.0.0 port 60003 connected with 10.0.0.4 port 57275
+[207]  0.0-10.0 sec  4.94 MBytes  4.14 Mbits/sec   0.018 ms    0/ 3524 (0%)
+[209] local 0.0.0.0 port 60003 connected with 10.0.0.4 port 35278
+[209]  0.0-10.0 sec  4.18 MBytes  3.50 Mbits/sec   0.019 ms    0/ 2979 (0%)
+[209]  0.0-10.0 sec  1 datagrams received out-of-order
+[211] local 0.0.0.0 port 60003 connected with 10.0.0.4 port 49803
+[211]  0.0-10.0 sec  2.21 MBytes  1.85 Mbits/sec   0.028 ms    0/ 1577 (0%)
+[213] local 0.0.0.0 port 60003 connected with 10.0.0.4 port 33546
+[213]  0.0-10.0 sec  9.53 MBytes  7.99 Mbits/sec   0.029 ms    0/ 6799 (0%)
+[213]  0.0-10.0 sec  1 datagrams received out-of-order
+[215] local 0.0.0.0 port 60003 connected with 10.0.0.4 port 45879
+[215]  0.0-10.0 sec  5.35 MBytes  4.49 Mbits/sec   0.024 ms    0/ 3816 (0%)
+[215]  0.0-10.0 sec  1 datagrams received out-of-order
+[217] local 0.0.0.0 port 60003 connected with 10.0.0.4 port 55601
+[217]  0.0-10.0 sec  4.45 MBytes  3.73 Mbits/sec   0.024 ms    0/ 3174 (0%)
+[217]  0.0-10.0 sec  1 datagrams received out-of-order
+[219] local 0.0.0.0 port 60003 connected with 10.0.0.4 port 60597
+[219]  0.0-10.0 sec  6.41 MBytes  5.37 Mbits/sec   0.032 ms    0/ 4571 (0%)
+[219]  0.0-10.0 sec  1 datagrams received out-of-order
+[221] local 0.0.0.0 port 60003 connected with 10.0.0.4 port 59442
+[221]  0.0-10.0 sec  7.14 MBytes  5.99 Mbits/sec   0.023 ms    0/ 5095 (0%)
+[221]  0.0-10.0 sec  1 datagrams received out-of-order
+[223] local 0.0.0.0 port 60003 connected with 10.0.0.4 port 32822
+[223]  0.0-10.0 sec  7.76 MBytes  6.50 Mbits/sec   0.025 ms    0/ 5531 (0%)
+[223]  0.0-10.0 sec  1 datagrams received out-of-order
+[225] local 0.0.0.0 port 60003 connected with 10.0.0.4 port 39515
+[225]  0.0-10.0 sec  2.92 MBytes  2.44 Mbits/sec   0.025 ms    0/ 2079 (0%)
+[225]  0.0-10.0 sec  1 datagrams received out-of-order
+[227] local 0.0.0.0 port 60003 connected with 10.0.0.4 port 51576
+[227]  0.0-10.0 sec  8.51 MBytes  7.14 Mbits/sec   0.024 ms    0/ 6072 (0%)
+[227]  0.0-10.0 sec  1 datagrams received out-of-order
+[229] local 0.0.0.0 port 60003 connected with 10.0.0.4 port 52650
+[229]  0.0-10.0 sec  6.07 MBytes  5.09 Mbits/sec   0.023 ms    0/ 4331 (0%)
+[229]  0.0-10.0 sec  1 datagrams received out-of-order
+[231] local 0.0.0.0 port 60003 connected with 10.0.0.4 port 52369
+[231]  0.0-10.0 sec  8.21 MBytes  6.88 Mbits/sec   0.017 ms    0/ 5852 (0%)
+[231]  0.0-10.0 sec  1 datagrams received out-of-order
+[233] local 0.0.0.0 port 60003 connected with 10.0.0.4 port 50170
+[233]  0.0-10.0 sec  13.6 MBytes  11.4 Mbits/sec   0.022 ms    0/ 9672 (0%)
+[233]  0.0-10.0 sec  1 datagrams received out-of-order
+[235] local 0.0.0.0 port 60003 connected with 10.0.0.4 port 50442
+[235]  0.0-10.0 sec  9.84 MBytes  8.25 Mbits/sec   0.024 ms    0/ 7018 (0%)
+[235]  0.0-10.0 sec  1 datagrams received out-of-order
+[237] local 0.0.0.0 port 60003 connected with 10.0.0.4 port 59497
+[237]  0.0-10.0 sec  8.22 MBytes  6.89 Mbits/sec   0.024 ms    0/ 5860 (0%)
+[239] local 0.0.0.0 port 60003 connected with 10.0.0.4 port 54307
+[239]  0.0-10.0 sec  8.45 MBytes  7.08 Mbits/sec   0.034 ms    0/ 6025 (0%)
+[239]  0.0-10.0 sec  1 datagrams received out-of-order
+[241] local 0.0.0.0 port 60003 connected with 10.0.0.4 port 43771
+[241]  0.0-10.0 sec  4.09 MBytes  3.42 Mbits/sec   0.022 ms    0/ 2914 (0%)
+[243] local 0.0.0.0 port 60003 connected with 10.0.0.4 port 60401
+[243]  0.0-10.0 sec  3.49 MBytes  2.93 Mbits/sec   0.017 ms    0/ 2490 (0%)
+[243]  0.0-10.0 sec  1 datagrams received out-of-order
+[245] local 0.0.0.0 port 60003 connected with 10.0.0.4 port 45363
+[245]  0.0-10.0 sec  4.11 MBytes  3.44 Mbits/sec   0.017 ms    0/ 2930 (0%)
+[247] local 0.0.0.0 port 60003 connected with 10.0.0.4 port 38018
+[247]  0.0-10.0 sec  4.94 MBytes  4.15 Mbits/sec   0.024 ms    0/ 3525 (0%)
+[247]  0.0-10.0 sec  1 datagrams received out-of-order
+[249] local 0.0.0.0 port 60003 connected with 10.0.0.4 port 34901
+[249]  0.0-10.0 sec  3.00 MBytes  2.52 Mbits/sec   0.021 ms    0/ 2143 (0%)
+[251] local 0.0.0.0 port 60003 connected with 10.0.0.4 port 47119
+[251]  0.0-10.0 sec  5.96 MBytes  5.00 Mbits/sec   0.030 ms    0/ 4249 (0%)
+[251]  0.0-10.0 sec  1 datagrams received out-of-order
+[253] local 0.0.0.0 port 60003 connected with 10.0.0.4 port 56705
+[253]  0.0-10.0 sec  9.66 MBytes  8.10 Mbits/sec   0.040 ms    0/ 6888 (0%)
+[253]  0.0-10.0 sec  1 datagrams received out-of-order
+[255] local 0.0.0.0 port 60003 connected with 10.0.0.4 port 52693
+[255]  0.0-10.0 sec  5.70 MBytes  4.78 Mbits/sec   0.045 ms    0/ 4062 (0%)
+[255]  0.0-10.0 sec  1 datagrams received out-of-order
+[257] local 0.0.0.0 port 60003 connected with 10.0.0.4 port 49636
+[257]  0.0-10.0 sec  1.24 MBytes  1.04 Mbits/sec   0.027 ms    0/  882 (0%)
+[259] local 0.0.0.0 port 60003 connected with 10.0.0.4 port 46020
+[259]  0.0-10.0 sec  2.38 MBytes  2.00 Mbits/sec   0.027 ms    0/ 1700 (0%)
+[261] local 0.0.0.0 port 60003 connected with 10.0.0.4 port 33006
+[261]  0.0-10.0 sec  4.06 MBytes  3.40 Mbits/sec   0.026 ms    0/ 2893 (0%)
+[261]  0.0-10.0 sec  1 datagrams received out-of-order
+[263] local 0.0.0.0 port 60003 connected with 10.0.0.4 port 52513
+[263]  0.0-10.0 sec  7.82 MBytes  6.56 Mbits/sec   0.025 ms    0/ 5578 (0%)
+[263]  0.0-10.0 sec  1 datagrams received out-of-order
+[265] local 0.0.0.0 port 60003 connected with 10.0.0.4 port 49494
+[265]  0.0-10.0 sec  6.60 MBytes  5.54 Mbits/sec   0.026 ms    0/ 4709 (0%)
+[265]  0.0-10.0 sec  1 datagrams received out-of-order
+[267] local 0.0.0.0 port 60003 connected with 10.0.0.4 port 41844
+[267]  0.0-10.0 sec  4.97 MBytes  4.17 Mbits/sec   0.018 ms    0/ 3545 (0%)
+[269] local 0.0.0.0 port 60003 connected with 10.0.0.4 port 50737
+[269]  0.0-10.0 sec  7.54 MBytes  6.33 Mbits/sec   0.020 ms    0/ 5380 (0%)
+[269]  0.0-10.0 sec  1 datagrams received out-of-order
+[271] local 0.0.0.0 port 60003 connected with 10.0.0.4 port 39622
+[271]  0.0-10.0 sec  11.5 MBytes  9.68 Mbits/sec   0.046 ms    0/ 8231 (0%)
+[271]  0.0-10.0 sec  1 datagrams received out-of-order
+[273] local 0.0.0.0 port 60003 connected with 10.0.0.4 port 38131
+[273]  0.0-10.0 sec  5.50 MBytes  4.61 Mbits/sec   0.025 ms    0/ 3923 (0%)
+[275] local 0.0.0.0 port 60003 connected with 10.0.0.4 port 33387
+[275]  0.0-10.0 sec  10.3 MBytes  8.62 Mbits/sec   0.018 ms    0/ 7326 (0%)
+[275]  0.0-10.0 sec  1 datagrams received out-of-order
+[277] local 0.0.0.0 port 60003 connected with 10.0.0.4 port 53132
+[277]  0.0-10.0 sec  9.13 MBytes  7.66 Mbits/sec   0.020 ms    0/ 6511 (0%)
+[277]  0.0-10.0 sec  1 datagrams received out-of-order
+[279] local 0.0.0.0 port 60003 connected with 10.0.0.4 port 40751
+[279]  0.0-10.0 sec  5.31 MBytes  4.46 Mbits/sec   0.023 ms    0/ 3790 (0%)
+[279]  0.0-10.0 sec  1 datagrams received out-of-order
+[281] local 0.0.0.0 port 60003 connected with 10.0.0.4 port 37653
+[281]  0.0-10.0 sec  8.89 MBytes  7.46 Mbits/sec   0.026 ms    0/ 6342 (0%)
+[281]  0.0-10.0 sec  1 datagrams received out-of-order
+[283] local 0.0.0.0 port 60003 connected with 10.0.0.4 port 35540
+[283]  0.0-10.0 sec  6.07 MBytes  5.09 Mbits/sec   0.022 ms    0/ 4328 (0%)
+[283]  0.0-10.0 sec  1 datagrams received out-of-order
+[285] local 0.0.0.0 port 60003 connected with 10.0.0.4 port 39302
+[285]  0.0-10.0 sec  8.83 MBytes  7.41 Mbits/sec   0.017 ms    0/ 6298 (0%)
+[285]  0.0-10.0 sec  1 datagrams received out-of-order
+[287] local 0.0.0.0 port 60003 connected with 10.0.0.4 port 52225
+[287]  0.0-10.0 sec  5.82 MBytes  4.88 Mbits/sec   0.018 ms    0/ 4153 (0%)
+[289] local 0.0.0.0 port 60003 connected with 10.0.0.4 port 39365
+[289]  0.0-10.0 sec  5.25 MBytes  4.41 Mbits/sec   0.018 ms    0/ 3748 (0%)
+[291] local 0.0.0.0 port 60003 connected with 10.0.0.4 port 49524
+[291]  0.0-10.0 sec  7.29 MBytes  6.11 Mbits/sec   0.016 ms    0/ 5198 (0%)
+[291]  0.0-10.0 sec  1 datagrams received out-of-order
+[293] local 0.0.0.0 port 60003 connected with 10.0.0.4 port 48600
+[293]  0.0-10.0 sec  7.40 MBytes  6.21 Mbits/sec   0.028 ms    0/ 5280 (0%)
+[293]  0.0-10.0 sec  1 datagrams received out-of-order
+[295] local 0.0.0.0 port 60003 connected with 10.0.0.4 port 37982
+[295]  0.0-10.0 sec  5.50 MBytes  4.61 Mbits/sec   0.016 ms    0/ 3920 (0%)
+[297] local 0.0.0.0 port 60003 connected with 10.0.0.4 port 35573
+[297]  0.0-10.0 sec  4.22 MBytes  3.53 Mbits/sec   0.019 ms    0/ 3006 (0%)
+[297]  0.0-10.0 sec  1 datagrams received out-of-order
+[299] local 0.0.0.0 port 60003 connected with 10.0.0.4 port 35814
+[299]  0.0-10.0 sec  5.03 MBytes  4.22 Mbits/sec   0.017 ms    0/ 3585 (0%)
+[299]  0.0-10.0 sec  1 datagrams received out-of-order
+[301] local 0.0.0.0 port 60003 connected with 10.0.0.4 port 52218
+[301]  0.0-10.0 sec  7.32 MBytes  6.13 Mbits/sec   0.027 ms    0/ 5217 (0%)
+[301]  0.0-10.0 sec  1 datagrams received out-of-order
+[303] local 0.0.0.0 port 60003 connected with 10.0.0.4 port 55655
+[303]  0.0-10.0 sec  6.13 MBytes  5.14 Mbits/sec   0.033 ms    0/ 4369 (0%)
+[303]  0.0-10.0 sec  1 datagrams received out-of-order
+[305] local 0.0.0.0 port 60003 connected with 10.0.0.4 port 60458
+[305]  0.0-10.0 sec  3.56 MBytes  2.98 Mbits/sec   0.018 ms    0/ 2536 (0%)
+[307] local 0.0.0.0 port 60003 connected with 10.0.0.4 port 55704
+[307]  0.0-10.0 sec  1.79 MBytes  1.50 Mbits/sec   0.032 ms    0/ 1278 (0%)
+[307]  0.0-10.0 sec  1 datagrams received out-of-order
+[309] local 0.0.0.0 port 60003 connected with 10.0.0.4 port 50289
+[309]  0.0-10.0 sec  2.71 MBytes  2.27 Mbits/sec   0.020 ms    0/ 1933 (0%)
+[311] local 0.0.0.0 port 60003 connected with 10.0.0.4 port 52012
+[311]  0.0-10.0 sec  5.27 MBytes  4.42 Mbits/sec   0.021 ms    0/ 3761 (0%)
+[311]  0.0-10.0 sec  1 datagrams received out-of-order
+[313] local 0.0.0.0 port 60003 connected with 10.0.0.4 port 33553
+[313]  0.0-10.0 sec  5.70 MBytes  4.78 Mbits/sec   0.045 ms    0/ 4062 (0%)
+[313]  0.0-10.0 sec  1 datagrams received out-of-order
+[315] local 0.0.0.0 port 60003 connected with 10.0.0.4 port 38725
+[315]  0.0-10.0 sec  11.3 MBytes  9.48 Mbits/sec   0.017 ms    0/ 8065 (0%)
+[315]  0.0-10.0 sec  1 datagrams received out-of-order
+[317] local 0.0.0.0 port 60003 connected with 10.0.0.4 port 39473
+[317]  0.0-10.0 sec  4.32 MBytes  3.63 Mbits/sec   0.013 ms    0/ 3084 (0%)
+[317]  0.0-10.0 sec  1 datagrams received out-of-order
+[319] local 0.0.0.0 port 60003 connected with 10.0.0.4 port 52999
+[319]  0.0-10.0 sec  6.71 MBytes  5.63 Mbits/sec   0.025 ms    0/ 4787 (0%)
+[319]  0.0-10.0 sec  1 datagrams received out-of-order
+[321] local 0.0.0.0 port 60003 connected with 10.0.0.4 port 50024
+[321]  0.0-10.0 sec  5.94 MBytes  4.98 Mbits/sec   0.026 ms    0/ 4238 (0%)
+[321]  0.0-10.0 sec  1 datagrams received out-of-order
+[323] local 0.0.0.0 port 60003 connected with 10.0.0.4 port 54193
+[323]  0.0-10.0 sec  5.63 MBytes  4.72 Mbits/sec   0.019 ms    0/ 4013 (0%)
+[325] local 0.0.0.0 port 60003 connected with 10.0.0.4 port 39946
+[325]  0.0-10.0 sec  5.11 MBytes  4.29 Mbits/sec   0.026 ms    0/ 3647 (0%)
+[325]  0.0-10.0 sec  1 datagrams received out-of-order
+[327] local 0.0.0.0 port 60003 connected with 10.0.0.4 port 42078
+[327]  0.0-10.0 sec  5.89 MBytes  4.94 Mbits/sec   0.022 ms    0/ 4199 (0%)
+[327]  0.0-10.0 sec  1 datagrams received out-of-order
+[329] local 0.0.0.0 port 60003 connected with 10.0.0.4 port 34314
+[329]  0.0-10.0 sec  6.28 MBytes  5.26 Mbits/sec   0.014 ms    0/ 4477 (0%)
+[329]  0.0-10.0 sec  1 datagrams received out-of-order
+[331] local 0.0.0.0 port 60003 connected with 10.0.0.4 port 46693
+[331]  0.0-10.0 sec  5.10 MBytes  4.28 Mbits/sec   0.040 ms    0/ 3637 (0%)
+[331]  0.0-10.0 sec  1 datagrams received out-of-order
+[333] local 0.0.0.0 port 60003 connected with 10.0.0.4 port 41264
+[333]  0.0-10.0 sec  4.48 MBytes  3.75 Mbits/sec   0.024 ms    0/ 3192 (0%)
+[333]  0.0-10.0 sec  1 datagrams received out-of-order
+[335] local 0.0.0.0 port 60003 connected with 10.0.0.4 port 48011
+[335]  0.0-10.0 sec  3.28 MBytes  2.75 Mbits/sec   0.033 ms    0/ 2340 (0%)
+[335]  0.0-10.0 sec  1 datagrams received out-of-order
+[337] local 0.0.0.0 port 60003 connected with 10.0.0.4 port 47180
+[337]  0.0-10.0 sec  5.05 MBytes  4.24 Mbits/sec   0.023 ms    0/ 3604 (0%)
+[337]  0.0-10.0 sec  1 datagrams received out-of-order
+[339] local 0.0.0.0 port 60003 connected with 10.0.0.4 port 59389
+[339]  0.0-10.0 sec  8.85 MBytes  7.42 Mbits/sec   0.036 ms    0/ 6314 (0%)
+[339]  0.0-10.0 sec  1 datagrams received out-of-order
+[341] local 0.0.0.0 port 60003 connected with 10.0.0.4 port 43422
+[341]  0.0-10.0 sec  8.24 MBytes  6.91 Mbits/sec   0.032 ms    0/ 5879 (0%)
+[341]  0.0-10.0 sec  1 datagrams received out-of-order
+[343] local 0.0.0.0 port 60003 connected with 10.0.0.4 port 34964
+[343]  0.0-10.0 sec  3.34 MBytes  2.80 Mbits/sec   0.026 ms    0/ 2385 (0%)
+[345] local 0.0.0.0 port 60003 connected with 10.0.0.4 port 44826
+[345]  0.0-10.0 sec  7.61 MBytes  6.38 Mbits/sec   0.028 ms    0/ 5429 (0%)
+[345]  0.0-10.0 sec  1 datagrams received out-of-order
+[347] local 0.0.0.0 port 60003 connected with 10.0.0.4 port 50021
+[347]  0.0-10.0 sec  1.45 MBytes  1.22 Mbits/sec   0.017 ms    0/ 1037 (0%)
+[349] local 0.0.0.0 port 60003 connected with 10.0.0.4 port 59998
+[349]  0.0-10.0 sec  1.73 MBytes  1.45 Mbits/sec   0.038 ms    0/ 1232 (0%)
+[351] local 0.0.0.0 port 60003 connected with 10.0.0.4 port 49151
+[351]  0.0-10.0 sec  7.96 MBytes  6.68 Mbits/sec   0.039 ms    0/ 5679 (0%)
+[351]  0.0-10.0 sec  1 datagrams received out-of-order
+[353] local 0.0.0.0 port 60003 connected with 10.0.0.4 port 55484
+[353]  0.0-10.0 sec  5.90 MBytes  4.95 Mbits/sec   0.037 ms    0/ 4206 (0%)
+[353]  0.0-10.0 sec  1 datagrams received out-of-order
+[355] local 0.0.0.0 port 60003 connected with 10.0.0.4 port 40495
+[355]  0.0-10.0 sec  6.00 MBytes  5.03 Mbits/sec   0.016 ms    0/ 4281 (0%)
+[355]  0.0-10.0 sec  1 datagrams received out-of-order
+[357] local 0.0.0.0 port 60003 connected with 10.0.0.4 port 50166
+[357]  0.0-10.0 sec  7.34 MBytes  6.16 Mbits/sec   0.029 ms    0/ 5236 (0%)
+[357]  0.0-10.0 sec  1 datagrams received out-of-order
+[359] local 0.0.0.0 port 60003 connected with 10.0.0.4 port 60268
+[359]  0.0-10.0 sec  9.69 MBytes  8.13 Mbits/sec   0.017 ms    0/ 6911 (0%)
+[359]  0.0-10.0 sec  1 datagrams received out-of-order
+[361] local 0.0.0.0 port 60003 connected with 10.0.0.4 port 51286
+[361]  0.0-10.0 sec  4.81 MBytes  4.04 Mbits/sec   0.032 ms    0/ 3433 (0%)
+[361]  0.0-10.0 sec  1 datagrams received out-of-order
+[363] local 0.0.0.0 port 60003 connected with 10.0.0.4 port 53574
+[363]  0.0-10.0 sec  4.34 MBytes  3.64 Mbits/sec   0.027 ms    0/ 3097 (0%)
+[363]  0.0-10.0 sec  1 datagrams received out-of-order
+[365] local 0.0.0.0 port 60003 connected with 10.0.0.4 port 55645
+[365]  0.0-10.0 sec  7.21 MBytes  6.05 Mbits/sec   0.016 ms    0/ 5144 (0%)
+[365]  0.0-10.0 sec  1 datagrams received out-of-order
+[367] local 0.0.0.0 port 60003 connected with 10.0.0.4 port 45867
+[367]  0.0-10.0 sec  8.13 MBytes  6.82 Mbits/sec   0.025 ms    0/ 5798 (0%)
+[367]  0.0-10.0 sec  1 datagrams received out-of-order
+[369] local 0.0.0.0 port 60003 connected with 10.0.0.4 port 51273
+[369]  0.0-10.0 sec  1.85 MBytes  1.55 Mbits/sec   0.020 ms    0/ 1316 (0%)
+[369]  0.0-10.0 sec  1 datagrams received out-of-order
+[371] local 0.0.0.0 port 60003 connected with 10.0.0.4 port 37546
+[371]  0.0-10.0 sec  7.20 MBytes  6.04 Mbits/sec   0.037 ms    0/ 5137 (0%)
+[371]  0.0-10.0 sec  1 datagrams received out-of-order
+[373] local 0.0.0.0 port 60003 connected with 10.0.0.4 port 50062
+[373]  0.0-10.0 sec  8.39 MBytes  7.03 Mbits/sec   0.020 ms    0/ 5981 (0%)
+[373]  0.0-10.0 sec  1 datagrams received out-of-order
+[375] local 0.0.0.0 port 60003 connected with 10.0.0.4 port 42022
+[375]  0.0-10.0 sec  7.65 MBytes  6.41 Mbits/sec   0.021 ms    0/ 5453 (0%)
+[375]  0.0-10.0 sec  1 datagrams received out-of-order
+[377] local 0.0.0.0 port 60003 connected with 10.0.0.4 port 49821
+[377]  0.0-10.0 sec  6.06 MBytes  5.08 Mbits/sec   0.015 ms    0/ 4320 (0%)
+[377]  0.0-10.0 sec  1 datagrams received out-of-order
+[379] local 0.0.0.0 port 60003 connected with 10.0.0.4 port 33321
+[379]  0.0-10.0 sec  3.40 MBytes  2.85 Mbits/sec   0.042 ms    0/ 2424 (0%)
+[381] local 0.0.0.0 port 60003 connected with 10.0.0.4 port 60939
+[381]  0.0-10.0 sec  6.69 MBytes  5.61 Mbits/sec   0.023 ms    0/ 4769 (0%)
+[381]  0.0-10.0 sec  1 datagrams received out-of-order
+[383] local 0.0.0.0 port 60003 connected with 10.0.0.4 port 49120
+[383]  0.0-10.0 sec  7.02 MBytes  5.88 Mbits/sec   0.014 ms    0/ 5003 (0%)
+[383]  0.0-10.0 sec  1 datagrams received out-of-order
+[385] local 0.0.0.0 port 60003 connected with 10.0.0.4 port 37736
+[385]  0.0-10.0 sec  4.96 MBytes  4.16 Mbits/sec   0.015 ms    0/ 3538 (0%)
+[385]  0.0-10.0 sec  1 datagrams received out-of-order
+[387] local 0.0.0.0 port 60003 connected with 10.0.0.4 port 48708
+[387]  0.0-10.0 sec  5.61 MBytes  4.71 Mbits/sec   0.023 ms    0/ 4002 (0%)
+[387]  0.0-10.0 sec  1 datagrams received out-of-order
+[389] local 0.0.0.0 port 60003 connected with 10.0.0.4 port 43559
+[389]  0.0-10.0 sec  6.61 MBytes  5.54 Mbits/sec   0.021 ms    0/ 4713 (0%)
+[389]  0.0-10.0 sec  1 datagrams received out-of-order
+[391] local 0.0.0.0 port 60003 connected with 10.0.0.4 port 53880
+[391]  0.0-10.1 sec  0.19 MBytes  0.16 Mbits/sec   0.051 ms    0/  136 (0%)
+[393] local 0.0.0.0 port 60003 connected with 10.0.0.4 port 55309
+[393]  0.0-10.0 sec  5.89 MBytes  4.94 Mbits/sec   0.020 ms    0/ 4204 (0%)
+[393]  0.0-10.0 sec  1 datagrams received out-of-order
+[395] local 0.0.0.0 port 60003 connected with 10.0.0.4 port 39948
+[395]  0.0-10.0 sec  5.74 MBytes  4.81 Mbits/sec   0.022 ms    0/ 4094 (0%)
+[395]  0.0-10.0 sec  1 datagrams received out-of-order
+[397] local 0.0.0.0 port 60003 connected with 10.0.0.4 port 53453
+[397]  0.0-10.0 sec  5.20 MBytes  4.36 Mbits/sec   0.031 ms    0/ 3711 (0%)
+[397]  0.0-10.0 sec  1 datagrams received out-of-order
+[399] local 0.0.0.0 port 60003 connected with 10.0.0.4 port 51378
+[399]  0.0-10.0 sec  10.1 MBytes  8.44 Mbits/sec   0.013 ms    0/ 7174 (0%)
+[399]  0.0-10.0 sec  1 datagrams received out-of-order
+[401] local 0.0.0.0 port 60003 connected with 10.0.0.4 port 33616
+[401]  0.0-10.0 sec  6.47 MBytes  5.43 Mbits/sec   0.035 ms    0/ 4615 (0%)
+[401]  0.0-10.0 sec  1 datagrams received out-of-order
+[403] local 0.0.0.0 port 60003 connected with 10.0.0.4 port 57805
+[403]  0.0-10.0 sec  9.38 MBytes  7.87 Mbits/sec   0.014 ms    0/ 6689 (0%)
+[403]  0.0-10.0 sec  1 datagrams received out-of-order
+[405] local 0.0.0.0 port 60003 connected with 10.0.0.4 port 41196
+[405]  0.0-10.0 sec  5.89 MBytes  4.94 Mbits/sec   0.026 ms    0/ 4200 (0%)
+[405]  0.0-10.0 sec  1 datagrams received out-of-order
+[407] local 0.0.0.0 port 60003 connected with 10.0.0.4 port 34053
+[407]  0.0-10.0 sec  7.83 MBytes  6.57 Mbits/sec   0.023 ms    0/ 5587 (0%)
+[407]  0.0-10.0 sec  1 datagrams received out-of-order
+[409] local 0.0.0.0 port 60003 connected with 10.0.0.4 port 49308
+[409]  0.0-10.0 sec  0.98 MBytes  0.82 Mbits/sec   0.020 ms    0/  698 (0%)
+[411] local 0.0.0.0 port 60003 connected with 10.0.0.4 port 39232
+[411]  0.0-10.0 sec  3.48 MBytes  2.92 Mbits/sec   0.032 ms    0/ 2482 (0%)
+[411]  0.0-10.0 sec  1 datagrams received out-of-order
+[413] local 0.0.0.0 port 60003 connected with 10.0.0.4 port 34166
+[413]  0.0-10.0 sec  8.49 MBytes  7.12 Mbits/sec   0.025 ms    0/ 6057 (0%)
+[413]  0.0-10.0 sec  1 datagrams received out-of-order
+[415] local 0.0.0.0 port 60003 connected with 10.0.0.4 port 33147
+[415]  0.0-10.0 sec  5.13 MBytes  4.30 Mbits/sec   0.025 ms    0/ 3659 (0%)
+[415]  0.0-10.0 sec  1 datagrams received out-of-order
+[417] local 0.0.0.0 port 60003 connected with 10.0.0.4 port 39013
+[417]  0.0-10.0 sec  7.46 MBytes  6.26 Mbits/sec   0.023 ms    0/ 5320 (0%)
+[417]  0.0-10.0 sec  1 datagrams received out-of-order
+[419] local 0.0.0.0 port 60003 connected with 10.0.0.4 port 47937
+[419]  0.0-10.0 sec  7.22 MBytes  6.06 Mbits/sec   0.023 ms    0/ 5152 (0%)
+[419]  0.0-10.0 sec  1 datagrams received out-of-order
+[421] local 0.0.0.0 port 60003 connected with 10.0.0.4 port 53156
+[421]  0.0-10.0 sec  6.32 MBytes  5.30 Mbits/sec   0.028 ms    0/ 4507 (0%)
+[421]  0.0-10.0 sec  1 datagrams received out-of-order
+[423] local 0.0.0.0 port 60003 connected with 10.0.0.4 port 54763
+[423]  0.0-10.0 sec  7.31 MBytes  6.13 Mbits/sec   0.021 ms    0/ 5213 (0%)
+[425] local 0.0.0.0 port 60003 connected with 10.0.0.4 port 50394
+[425]  0.0-10.0 sec  5.93 MBytes  4.97 Mbits/sec   0.024 ms    0/ 4232 (0%)
+[427] local 0.0.0.0 port 60003 connected with 10.0.0.4 port 35598
+[427]  0.0-10.0 sec  8.15 MBytes  6.83 Mbits/sec   0.029 ms    0/ 5811 (0%)
+[427]  0.0-10.0 sec  1 datagrams received out-of-order
+[429] local 0.0.0.0 port 60003 connected with 10.0.0.4 port 53837
+[429]  0.0-10.0 sec  5.35 MBytes  4.48 Mbits/sec   0.021 ms    0/ 3814 (0%)
+[431] local 0.0.0.0 port 60003 connected with 10.0.0.4 port 54648
+[431]  0.0-10.0 sec  1.91 MBytes  1.60 Mbits/sec   0.022 ms    0/ 1366 (0%)
+[433] local 0.0.0.0 port 60003 connected with 10.0.0.4 port 33372
+[433]  0.0-10.0 sec  6.53 MBytes  5.47 Mbits/sec   0.021 ms    0/ 4656 (0%)
+[433]  0.0-10.0 sec  1 datagrams received out-of-order
+[435] local 0.0.0.0 port 60003 connected with 10.0.0.4 port 42930
+[435]  0.0-10.0 sec  4.58 MBytes  3.84 Mbits/sec   0.016 ms    0/ 3267 (0%)
+[435]  0.0-10.0 sec  1 datagrams received out-of-order
+[437] local 0.0.0.0 port 60003 connected with 10.0.0.4 port 54976
+[437]  0.0-10.0 sec  6.84 MBytes  5.74 Mbits/sec   0.027 ms    0/ 4879 (0%)
+[437]  0.0-10.0 sec  1 datagrams received out-of-order
+[439] local 0.0.0.0 port 60003 connected with 10.0.0.4 port 37822
+[439]  0.0-10.0 sec  4.74 MBytes  3.97 Mbits/sec   0.027 ms    0/ 3379 (0%)
+[441] local 0.0.0.0 port 60003 connected with 10.0.0.4 port 33853
+[441]  0.0-10.0 sec  8.39 MBytes  7.04 Mbits/sec   0.035 ms    0/ 5985 (0%)
+[441]  0.0-10.0 sec  1 datagrams received out-of-order
+[443] local 0.0.0.0 port 60003 connected with 10.0.0.4 port 60904
+[443]  0.0-10.0 sec  5.39 MBytes  4.52 Mbits/sec   0.020 ms    0/ 3845 (0%)
+[443]  0.0-10.0 sec  1 datagrams received out-of-order
+[445] local 0.0.0.0 port 60003 connected with 10.0.0.4 port 37346
+[445]  0.0-10.0 sec  4.83 MBytes  4.05 Mbits/sec   0.020 ms    0/ 3444 (0%)
+[445]  0.0-10.0 sec  1 datagrams received out-of-order
+[447] local 0.0.0.0 port 60003 connected with 10.0.0.4 port 58935
+[447]  0.0-10.0 sec  6.36 MBytes  5.34 Mbits/sec   0.029 ms    0/ 4538 (0%)
+[447]  0.0-10.0 sec  1 datagrams received out-of-order
+[449] local 0.0.0.0 port 60003 connected with 10.0.0.4 port 59554
+[449]  0.0-10.0 sec  4.71 MBytes  3.95 Mbits/sec   0.024 ms    0/ 3358 (0%)
+[449]  0.0-10.0 sec  1 datagrams received out-of-order
+[451] local 0.0.0.0 port 60003 connected with 10.0.0.4 port 38395
+[451]  0.0-10.0 sec  6.32 MBytes  5.30 Mbits/sec   0.024 ms    0/ 4507 (0%)
+[451]  0.0-10.0 sec  1 datagrams received out-of-order
+[453] local 0.0.0.0 port 60003 connected with 10.0.0.4 port 42811
+[453]  0.0-10.0 sec  7.13 MBytes  5.98 Mbits/sec   0.030 ms    0/ 5087 (0%)
+[453]  0.0-10.0 sec  1 datagrams received out-of-order
+[455] local 0.0.0.0 port 60003 connected with 10.0.0.4 port 53258
+[455]  0.0-10.0 sec  8.56 MBytes  7.18 Mbits/sec   0.024 ms    0/ 6105 (0%)
+[455]  0.0-10.0 sec  1 datagrams received out-of-order
+[457] local 0.0.0.0 port 60003 connected with 10.0.0.4 port 45552
+[457]  0.0-10.0 sec  6.95 MBytes  5.83 Mbits/sec   0.020 ms    0/ 4958 (0%)
+[457]  0.0-10.0 sec  1 datagrams received out-of-order
+[459] local 0.0.0.0 port 60003 connected with 10.0.0.4 port 41672
+[459]  0.0-10.0 sec  5.07 MBytes  4.25 Mbits/sec   0.021 ms    0/ 3613 (0%)
+[459]  0.0-10.0 sec  1 datagrams received out-of-order
+[461] local 0.0.0.0 port 60003 connected with 10.0.0.4 port 43367
+[461]  0.0-10.0 sec  4.49 MBytes  3.77 Mbits/sec   0.020 ms    0/ 3204 (0%)
+[461]  0.0-10.0 sec  1 datagrams received out-of-order
+[463] local 0.0.0.0 port 60003 connected with 10.0.0.4 port 44784
+[463]  0.0-10.0 sec  1.95 MBytes  1.63 Mbits/sec   0.024 ms    0/ 1388 (0%)
+[463]  0.0-10.0 sec  1 datagrams received out-of-order
+[465] local 0.0.0.0 port 60003 connected with 10.0.0.4 port 42715
+[465]  0.0-10.0 sec  6.35 MBytes  5.32 Mbits/sec   0.022 ms    0/ 4525 (0%)
+[465]  0.0-10.0 sec  1 datagrams received out-of-order
+[467] local 0.0.0.0 port 60003 connected with 10.0.0.4 port 47028
+[467]  0.0-10.0 sec  4.24 MBytes  3.56 Mbits/sec   0.035 ms    0/ 3027 (0%)
+[467]  0.0-10.0 sec  1 datagrams received out-of-order
+[469] local 0.0.0.0 port 60003 connected with 10.0.0.4 port 39999
+[469]  0.0-10.0 sec  6.76 MBytes  5.67 Mbits/sec   0.030 ms    0/ 4824 (0%)
+[469]  0.0-10.0 sec  1 datagrams received out-of-order
+[471] local 0.0.0.0 port 60003 connected with 10.0.0.4 port 37678
+[471]  0.0-10.0 sec  6.35 MBytes  5.32 Mbits/sec   0.022 ms    0/ 4525 (0%)
+[471]  0.0-10.0 sec  1 datagrams received out-of-order
+[473] local 0.0.0.0 port 60003 connected with 10.0.0.4 port 60870
+[473]  0.0-10.0 sec  4.88 MBytes  4.09 Mbits/sec   0.095 ms    0/ 3479 (0%)
+[475] local 0.0.0.0 port 60003 connected with 10.0.0.4 port 59300
+[475]  0.0-10.0 sec  7.17 MBytes  6.02 Mbits/sec   0.036 ms    0/ 5117 (0%)
+[477] local 0.0.0.0 port 60003 connected with 10.0.0.4 port 55252
+[477]  0.0-10.0 sec  2.88 MBytes  2.41 Mbits/sec   0.023 ms    0/ 2054 (0%)
+[479] local 0.0.0.0 port 60003 connected with 10.0.0.4 port 41449
+[479]  0.0-10.0 sec  4.60 MBytes  3.86 Mbits/sec   0.028 ms    0/ 3280 (0%)
+[479]  0.0-10.0 sec  1 datagrams received out-of-order
+[481] local 0.0.0.0 port 60003 connected with 10.0.0.4 port 53087
+[481]  0.0-10.0 sec  7.90 MBytes  6.63 Mbits/sec   0.009 ms    0/ 5634 (0%)
+[481]  0.0-10.0 sec  1 datagrams received out-of-order
+[483] local 0.0.0.0 port 60003 connected with 10.0.0.4 port 58198
+[483]  0.0-10.0 sec  6.42 MBytes  5.39 Mbits/sec   0.019 ms    0/ 4581 (0%)
+[483]  0.0-10.0 sec  1 datagrams received out-of-order
+[485] local 0.0.0.0 port 60003 connected with 10.0.0.4 port 60233
+[485]  0.0-10.0 sec  9.95 MBytes  8.35 Mbits/sec   0.018 ms    0/ 7098 (0%)
+[485]  0.0-10.0 sec  1 datagrams received out-of-order
+[487] local 0.0.0.0 port 60003 connected with 10.0.0.4 port 50821
+[487]  0.0-10.0 sec  4.51 MBytes  3.78 Mbits/sec   0.027 ms    0/ 3219 (0%)
+[489] local 0.0.0.0 port 60003 connected with 10.0.0.4 port 33767
+[489]  0.0-10.0 sec  5.81 MBytes  4.87 Mbits/sec   0.017 ms    0/ 4143 (0%)
+[489]  0.0-10.0 sec  1 datagrams received out-of-order
+[491] local 0.0.0.0 port 60003 connected with 10.0.0.4 port 45242
+[491]  0.0-10.0 sec  4.46 MBytes  3.74 Mbits/sec   0.025 ms    0/ 3183 (0%)
+[491]  0.0-10.0 sec  1 datagrams received out-of-order
+[493] local 0.0.0.0 port 60003 connected with 10.0.0.4 port 53085
+[493]  0.0-10.1 sec  0.19 MBytes  0.15 Mbits/sec   0.037 ms    0/  133 (0%)
+[495] local 0.0.0.0 port 60003 connected with 10.0.0.4 port 33978
+[495]  0.0-10.0 sec  2.36 MBytes  1.97 Mbits/sec   0.023 ms    0/ 1680 (0%)
+[497] local 0.0.0.0 port 60003 connected with 10.0.0.4 port 45673
+[497]  0.0-10.0 sec  8.11 MBytes  6.80 Mbits/sec   0.026 ms    0/ 5781 (0%)
+[497]  0.0-10.0 sec  1 datagrams received out-of-order
+[499] local 0.0.0.0 port 60003 connected with 10.0.0.4 port 39331
+[499]  0.0-10.0 sec  5.11 MBytes  4.28 Mbits/sec   0.022 ms    0/ 3642 (0%)
+[499]  0.0-10.0 sec  1 datagrams received out-of-order
+[501] local 0.0.0.0 port 60003 connected with 10.0.0.4 port 53274
+[501]  0.0-10.0 sec  6.99 MBytes  5.86 Mbits/sec   0.020 ms    0/ 4986 (0%)
+[501]  0.0-10.0 sec  1 datagrams received out-of-order
+[503] local 0.0.0.0 port 60003 connected with 10.0.0.4 port 59474
+[503]  0.0-10.0 sec  2.94 MBytes  2.46 Mbits/sec   0.023 ms    0/ 2096 (0%)
+[503]  0.0-10.0 sec  1 datagrams received out-of-order
+[505] local 0.0.0.0 port 60003 connected with 10.0.0.4 port 41612
+[505]  0.0-10.0 sec  8.30 MBytes  6.96 Mbits/sec   0.015 ms    0/ 5918 (0%)
+[505]  0.0-10.0 sec  1 datagrams received out-of-order
+[507] local 0.0.0.0 port 60003 connected with 10.0.0.4 port 37431
+[507]  0.0-10.0 sec  8.81 MBytes  7.39 Mbits/sec   0.020 ms    0/ 6286 (0%)
+[507]  0.0-10.0 sec  1 datagrams received out-of-order
+[509] local 0.0.0.0 port 60003 connected with 10.0.0.4 port 49388
+[509]  0.0-10.0 sec  4.42 MBytes  3.71 Mbits/sec   0.021 ms    0/ 3152 (0%)
+[509]  0.0-10.0 sec  1 datagrams received out-of-order
+[511] local 0.0.0.0 port 60003 connected with 10.0.0.4 port 37790
+[511]  0.0-10.0 sec  4.94 MBytes  4.14 Mbits/sec   0.029 ms    0/ 3520 (0%)
+[511]  0.0-10.0 sec  1 datagrams received out-of-order
+[513] local 0.0.0.0 port 60003 connected with 10.0.0.4 port 53322
+[513]  0.0-10.0 sec  4.99 MBytes  4.19 Mbits/sec   0.024 ms    1/ 3560 (0.028%)
+[513]  0.0-10.0 sec  1 datagrams received out-of-order
+[515] local 0.0.0.0 port 60003 connected with 10.0.0.4 port 51334
+[515]  0.0-10.0 sec  0.89 MBytes  0.74 Mbits/sec   0.021 ms    0/  633 (0%)
+[517] local 0.0.0.0 port 60003 connected with 10.0.0.4 port 39811
+[517]  0.0-10.0 sec  3.36 MBytes  2.82 Mbits/sec   0.018 ms    0/ 2399 (0%)
+[519] local 0.0.0.0 port 60003 connected with 10.0.0.4 port 49149
+[519]  0.0-10.0 sec  1.58 MBytes  1.32 Mbits/sec   0.023 ms    0/ 1124 (0%)
+[521] local 0.0.0.0 port 60003 connected with 10.0.0.4 port 58175
+[521]  0.0-10.0 sec  10.4 MBytes  8.72 Mbits/sec   0.021 ms    0/ 7413 (0%)
+[521]  0.0-10.0 sec  1 datagrams received out-of-order
+[523] local 0.0.0.0 port 60003 connected with 10.0.0.4 port 56680
+[523]  0.0-10.0 sec  7.91 MBytes  6.63 Mbits/sec   0.027 ms    0/ 5641 (0%)
+[523]  0.0-10.0 sec  1 datagrams received out-of-order
+[525] local 0.0.0.0 port 60003 connected with 10.0.0.4 port 53948
+[525]  0.0-10.0 sec  2.48 MBytes  2.08 Mbits/sec   0.017 ms    0/ 1770 (0%)
+[527] local 0.0.0.0 port 60003 connected with 10.0.0.4 port 35716
+[527]  0.0-10.0 sec  9.71 MBytes  8.14 Mbits/sec   0.024 ms    0/ 6926 (0%)
+[527]  0.0-10.0 sec  1 datagrams received out-of-order
+[529] local 0.0.0.0 port 60003 connected with 10.0.0.4 port 56769
+[529]  0.0-10.0 sec  5.23 MBytes  4.38 Mbits/sec   0.021 ms    0/ 3729 (0%)
+[531] local 0.0.0.0 port 60003 connected with 10.0.0.4 port 44181
+[531]  0.0-10.0 sec  7.88 MBytes  6.61 Mbits/sec   0.025 ms    0/ 5618 (0%)
+[531]  0.0-10.0 sec  1 datagrams received out-of-order
+[533] local 0.0.0.0 port 60003 connected with 10.0.0.4 port 37267
+[533]  0.0-10.0 sec  5.63 MBytes  4.72 Mbits/sec   0.018 ms    0/ 4018 (0%)
+[533]  0.0-10.0 sec  1 datagrams received out-of-order
+[535] local 0.0.0.0 port 60003 connected with 10.0.0.4 port 35979
+[535]  0.0-10.0 sec  5.00 MBytes  4.19 Mbits/sec   0.043 ms    0/ 3567 (0%)
+[537] local 0.0.0.0 port 60003 connected with 10.0.0.4 port 36257
+[537]  0.0-10.0 sec  3.81 MBytes  3.20 Mbits/sec   0.025 ms    0/ 2719 (0%)
+[539] local 0.0.0.0 port 60003 connected with 10.0.0.4 port 53590
+[539]  0.0-10.0 sec  7.73 MBytes  6.49 Mbits/sec   0.014 ms    0/ 5516 (0%)
+[539]  0.0-10.0 sec  1 datagrams received out-of-order
+[541] local 0.0.0.0 port 60003 connected with 10.0.0.4 port 42120
+[541]  0.0-10.0 sec  9.51 MBytes  7.98 Mbits/sec   0.020 ms    0/ 6785 (0%)
+[541]  0.0-10.0 sec  1 datagrams received out-of-order
+[543] local 0.0.0.0 port 60003 connected with 10.0.0.4 port 47715
+[543]  0.0-10.0 sec  8.84 MBytes  7.41 Mbits/sec   0.024 ms    0/ 6306 (0%)
+[543]  0.0-10.0 sec  1 datagrams received out-of-order
+[545] local 0.0.0.0 port 60003 connected with 10.0.0.4 port 56733
+[545]  0.0-10.0 sec  2.55 MBytes  2.14 Mbits/sec   0.050 ms    0/ 1819 (0%)
+[547] local 0.0.0.0 port 60003 connected with 10.0.0.4 port 60538
+[547]  0.0-10.0 sec  7.09 MBytes  5.95 Mbits/sec   0.020 ms    0/ 5059 (0%)
+[547]  0.0-10.0 sec  1 datagrams received out-of-order
+[549] local 0.0.0.0 port 60003 connected with 10.0.0.4 port 48213
+[549]  0.0-10.0 sec  5.78 MBytes  4.85 Mbits/sec   0.024 ms    0/ 4122 (0%)
+[549]  0.0-10.0 sec  1 datagrams received out-of-order
+[551] local 0.0.0.0 port 60003 connected with 10.0.0.4 port 55387
+[551]  0.0-10.0 sec  2.41 MBytes  2.02 Mbits/sec   0.036 ms    0/ 1720 (0%)
+[551]  0.0-10.0 sec  1 datagrams received out-of-order
+[553] local 0.0.0.0 port 60003 connected with 10.0.0.4 port 34755
+[553]  0.0-10.0 sec  3.08 MBytes  2.58 Mbits/sec   0.023 ms    0/ 2193 (0%)
+[553]  0.0-10.0 sec  1 datagrams received out-of-order
+[555] local 0.0.0.0 port 60003 connected with 10.0.0.4 port 34908
+[555]  0.0-10.0 sec  4.52 MBytes  3.79 Mbits/sec   0.018 ms    0/ 3225 (0%)
+[555]  0.0-10.0 sec  1 datagrams received out-of-order
+[557] local 0.0.0.0 port 60003 connected with 10.0.0.4 port 42279
+[557]  0.0-10.0 sec  6.96 MBytes  5.84 Mbits/sec   0.018 ms    0/ 4963 (0%)
+[557]  0.0-10.0 sec  1 datagrams received out-of-order
+[559] local 0.0.0.0 port 60003 connected with 10.0.0.4 port 34630
+[559]  0.0-10.0 sec  8.40 MBytes  7.05 Mbits/sec   0.034 ms    0/ 5993 (0%)
+[561] local 0.0.0.0 port 60003 connected with 10.0.0.4 port 39947
+[561]  0.0-10.0 sec  4.25 MBytes  3.57 Mbits/sec   0.028 ms    2/ 3036 (0.066%)
+[561]  0.0-10.0 sec  1 datagrams received out-of-order
+[563] local 0.0.0.0 port 60003 connected with 10.0.0.4 port 41391
+[563]  0.0-10.0 sec  6.50 MBytes  5.45 Mbits/sec   0.016 ms    0/ 4634 (0%)
+[563]  0.0-10.0 sec  1 datagrams received out-of-order
+[565] local 0.0.0.0 port 60003 connected with 10.0.0.4 port 46842
+[565]  0.0-10.0 sec  6.58 MBytes  5.52 Mbits/sec   0.029 ms    1/ 4693 (0.021%)
+[565]  0.0-10.0 sec  1 datagrams received out-of-order
+[567] local 0.0.0.0 port 60003 connected with 10.0.0.4 port 58734
+[567]  0.0-10.0 sec  2.99 MBytes  2.51 Mbits/sec   0.034 ms    0/ 2136 (0%)
+[569] local 0.0.0.0 port 60003 connected with 10.0.0.4 port 52168
+[569]  0.0-10.0 sec  9.06 MBytes  7.60 Mbits/sec   0.028 ms    0/ 6465 (0%)
+[569]  0.0-10.0 sec  1 datagrams received out-of-order
+[571] local 0.0.0.0 port 60003 connected with 10.0.0.4 port 48112
+[571]  0.0-10.0 sec  8.14 MBytes  6.83 Mbits/sec   0.069 ms    0/ 5807 (0%)
+[571]  0.0-10.0 sec  1 datagrams received out-of-order
+[573] local 0.0.0.0 port 60003 connected with 10.0.0.4 port 40452
+[573]  0.0-10.0 sec  4.89 MBytes  4.10 Mbits/sec   0.027 ms    0/ 3487 (0%)
+[575] local 0.0.0.0 port 60003 connected with 10.0.0.4 port 33431
+[575]  0.0-10.0 sec  1.97 MBytes  1.65 Mbits/sec   0.027 ms    0/ 1407 (0%)
+[577] local 0.0.0.0 port 60003 connected with 10.0.0.4 port 56768
+[577]  0.0-10.0 sec  8.23 MBytes  6.91 Mbits/sec   0.136 ms    0/ 5872 (0%)
+[577]  0.0-10.0 sec  1 datagrams received out-of-order
+[579] local 0.0.0.0 port 60003 connected with 10.0.0.4 port 45640
+[579]  0.0-10.0 sec  8.59 MBytes  7.20 Mbits/sec   0.034 ms    0/ 6124 (0%)
+[581] local 0.0.0.0 port 60003 connected with 10.0.0.4 port 40360
+[581]  0.0-10.0 sec  4.88 MBytes  4.09 Mbits/sec   0.117 ms    0/ 3480 (0%)
+[581]  0.0-10.0 sec  1 datagrams received out-of-order
+[583] local 0.0.0.0 port 60003 connected with 10.0.0.4 port 38567
+[583]  0.0-10.0 sec  7.81 MBytes  6.55 Mbits/sec   0.041 ms    0/ 5568 (0%)
+[583]  0.0-10.0 sec  1 datagrams received out-of-order
+[585] local 0.0.0.0 port 60003 connected with 10.0.0.4 port 33540
+[585]  0.0-10.0 sec  5.83 MBytes  4.89 Mbits/sec   0.035 ms    0/ 4156 (0%)
+[585]  0.0-10.0 sec  1 datagrams received out-of-order
+[587] local 0.0.0.0 port 60003 connected with 10.0.0.4 port 55603
+[587]  0.0-10.0 sec  6.42 MBytes  5.38 Mbits/sec   0.256 ms    0/ 4575 (0%)
+[587]  0.0-10.0 sec  1 datagrams received out-of-order
+[589] local 0.0.0.0 port 60003 connected with 10.0.0.4 port 50826
+[589]  0.0-10.0 sec  5.08 MBytes  4.26 Mbits/sec   0.034 ms    0/ 3622 (0%)
+[589]  0.0-10.0 sec  1 datagrams received out-of-order
+[591] local 0.0.0.0 port 60003 connected with 10.0.0.4 port 42504
+[591]  0.0-10.0 sec  5.95 MBytes  4.99 Mbits/sec   0.043 ms    0/ 4243 (0%)
+[591]  0.0-10.0 sec  1 datagrams received out-of-order
+[593] local 0.0.0.0 port 60003 connected with 10.0.0.4 port 59861
+[593]  0.0-10.0 sec  6.05 MBytes  5.07 Mbits/sec   0.063 ms    0/ 4313 (0%)
+[593]  0.0-10.0 sec  1 datagrams received out-of-order
+[595] local 0.0.0.0 port 60003 connected with 10.0.0.4 port 56730
+[595]  0.0-10.0 sec  1.81 MBytes  1.52 Mbits/sec   0.083 ms    0/ 1291 (0%)
+[597] local 0.0.0.0 port 60003 connected with 10.0.0.4 port 35017
+[597]  0.0-10.0 sec  6.04 MBytes  5.07 Mbits/sec   0.031 ms    0/ 4311 (0%)
+[597]  0.0-10.0 sec  1 datagrams received out-of-order
+[599] local 0.0.0.0 port 60003 connected with 10.0.0.4 port 51606
+[599]  0.0-10.0 sec  4.66 MBytes  3.91 Mbits/sec   0.060 ms    0/ 3323 (0%)
+[601] local 0.0.0.0 port 60003 connected with 10.0.0.4 port 34765
+[601]  0.0-10.0 sec  5.04 MBytes  4.23 Mbits/sec   0.126 ms    0/ 3597 (0%)
+[603] local 0.0.0.0 port 60003 connected with 10.0.0.4 port 60162
+[603]  0.0-10.0 sec  2.19 MBytes  1.83 Mbits/sec   0.063 ms    0/ 1562 (0%)
+[605] local 0.0.0.0 port 60003 connected with 10.0.0.4 port 56812
+[605]  0.0-10.0 sec  8.16 MBytes  6.84 Mbits/sec   0.048 ms    0/ 5818 (0%)
+[605]  0.0-10.0 sec  1 datagrams received out-of-order
+[607] local 0.0.0.0 port 60003 connected with 10.0.0.4 port 60343
+[607]  0.0-10.0 sec  5.54 MBytes  4.64 Mbits/sec   0.072 ms    0/ 3949 (0%)
+[607]  0.0-10.0 sec  1 datagrams received out-of-order
+[609] local 0.0.0.0 port 60003 connected with 10.0.0.4 port 50460
+[609]  0.0-10.0 sec  11.0 MBytes  9.20 Mbits/sec   0.026 ms    0/ 7826 (0%)
+[609]  0.0-10.0 sec  1 datagrams received out-of-order
+[611] local 0.0.0.0 port 60003 connected with 10.0.0.4 port 56335
+[611]  0.0-10.0 sec  3.50 MBytes  2.93 Mbits/sec   0.040 ms    0/ 2495 (0%)
+[611]  0.0-10.0 sec  1 datagrams received out-of-order
+[613] local 0.0.0.0 port 60003 connected with 10.0.0.4 port 42915
+[613]  0.0-10.0 sec  8.59 MBytes  7.21 Mbits/sec   0.058 ms    0/ 6128 (0%)
+[613]  0.0-10.0 sec  1 datagrams received out-of-order
+[615] local 0.0.0.0 port 60003 connected with 10.0.0.4 port 34076
+[615]  0.0-10.0 sec  6.09 MBytes  5.11 Mbits/sec   0.020 ms    0/ 4346 (0%)
+[615]  0.0-10.0 sec  1 datagrams received out-of-order
+[617] local 0.0.0.0 port 60003 connected with 10.0.0.4 port 50934
+[617]  0.0-10.0 sec  11.5 MBytes  9.61 Mbits/sec   0.093 ms    0/ 8170 (0%)
+[617]  0.0-10.0 sec  1 datagrams received out-of-order
+[619] local 0.0.0.0 port 60003 connected with 10.0.0.4 port 45920
+[619]  0.0-10.0 sec  5.94 MBytes  4.98 Mbits/sec   0.029 ms    0/ 4237 (0%)
+[621] local 0.0.0.0 port 60003 connected with 10.0.0.4 port 35331
+[621]  0.0-10.0 sec  6.22 MBytes  5.22 Mbits/sec   0.043 ms    0/ 4439 (0%)
+[621]  0.0-10.0 sec  1 datagrams received out-of-order
+[623] local 0.0.0.0 port 60003 connected with 10.0.0.4 port 41288
+[623]  0.0-10.0 sec  1.93 MBytes  1.62 Mbits/sec   0.031 ms    0/ 1377 (0%)
+[625] local 0.0.0.0 port 60003 connected with 10.0.0.4 port 46565
+[625]  0.0-10.0 sec  2.22 MBytes  1.86 Mbits/sec   0.080 ms    0/ 1585 (0%)
+[627] local 0.0.0.0 port 60003 connected with 10.0.0.4 port 57207
+[627]  0.0-10.0 sec  3.59 MBytes  3.01 Mbits/sec   0.024 ms    0/ 2561 (0%)
+[627]  0.0-10.0 sec  1 datagrams received out-of-order
+[629] local 0.0.0.0 port 60003 connected with 10.0.0.4 port 56238
+[629]  0.0-10.0 sec  6.84 MBytes  5.73 Mbits/sec   0.033 ms    0/ 4876 (0%)
+[629]  0.0-10.0 sec  1 datagrams received out-of-order
+[631] local 0.0.0.0 port 60003 connected with 10.0.0.4 port 34047
+[631]  0.0-10.0 sec  5.16 MBytes  4.32 Mbits/sec   0.019 ms    0/ 3677 (0%)
+[631]  0.0-10.0 sec  1 datagrams received out-of-order
+[633] local 0.0.0.0 port 60003 connected with 10.0.0.4 port 48203
+[633]  0.0-10.0 sec  10.5 MBytes  8.79 Mbits/sec   0.039 ms    0/ 7474 (0%)
+[633]  0.0-10.0 sec  1 datagrams received out-of-order
+[635] local 0.0.0.0 port 60003 connected with 10.0.0.4 port 59185
+[635]  0.0-10.0 sec  5.65 MBytes  4.73 Mbits/sec   0.029 ms    0/ 4026 (0%)
+[635]  0.0-10.0 sec  1 datagrams received out-of-order
+[637] local 0.0.0.0 port 60003 connected with 10.0.0.4 port 34434
+[637]  0.0-10.0 sec  5.63 MBytes  4.72 Mbits/sec   0.029 ms    0/ 4018 (0%)
+[637]  0.0-10.0 sec  1 datagrams received out-of-order
+[639] local 0.0.0.0 port 60003 connected with 10.0.0.4 port 38140
+[639]  0.0-10.0 sec  8.19 MBytes  6.87 Mbits/sec   0.027 ms    0/ 5839 (0%)
+[641] local 0.0.0.0 port 60003 connected with 10.0.0.4 port 34494
+[641]  0.0-10.0 sec  7.37 MBytes  6.18 Mbits/sec   0.032 ms    0/ 5256 (0%)
+[643] local 0.0.0.0 port 60003 connected with 10.0.0.4 port 55954
+[643]  0.0-10.0 sec  4.73 MBytes  3.96 Mbits/sec   0.029 ms    0/ 3373 (0%)
+[645] local 0.0.0.0 port 60003 connected with 10.0.0.4 port 43133
+[645]  0.0-10.0 sec  10.2 MBytes  8.57 Mbits/sec   0.031 ms    0/ 7289 (0%)
+[645]  0.0-10.0 sec  1 datagrams received out-of-order
+[647] local 0.0.0.0 port 60003 connected with 10.0.0.4 port 49605
+[647]  0.0-10.0 sec  7.43 MBytes  6.23 Mbits/sec   0.009 ms    0/ 5302 (0%)
+[647]  0.0-10.0 sec  1 datagrams received out-of-order
+[649] local 0.0.0.0 port 60003 connected with 10.0.0.4 port 46869
+[649]  0.0-10.0 sec  5.47 MBytes  4.59 Mbits/sec   0.036 ms    0/ 3902 (0%)
+[651] local 0.0.0.0 port 60003 connected with 10.0.0.4 port 44514
+[651]  0.0-10.0 sec  4.69 MBytes  3.93 Mbits/sec   0.030 ms    0/ 3342 (0%)
+[651]  0.0-10.0 sec  1 datagrams received out-of-order
+[653] local 0.0.0.0 port 60003 connected with 10.0.0.4 port 37891
+[653]  0.0-10.0 sec  7.01 MBytes  5.88 Mbits/sec   0.030 ms    0/ 4998 (0%)
+[653]  0.0-10.0 sec  1 datagrams received out-of-order
+[655] local 0.0.0.0 port 60003 connected with 10.0.0.4 port 54267
+[655]  0.0-10.0 sec  1.95 MBytes  1.64 Mbits/sec   0.117 ms    0/ 1392 (0%)
+[657] local 0.0.0.0 port 60003 connected with 10.0.0.4 port 33802
+[657]  0.0-10.0 sec  11.2 MBytes  9.40 Mbits/sec   0.022 ms    0/ 7994 (0%)
+[657]  0.0-10.0 sec  1 datagrams received out-of-order
+[659] local 0.0.0.0 port 60003 connected with 10.0.0.4 port 46104
+[659]  0.0-10.0 sec  4.75 MBytes  3.99 Mbits/sec   0.043 ms    0/ 3389 (0%)
+[659]  0.0-10.0 sec  1 datagrams received out-of-order
+[661] local 0.0.0.0 port 60003 connected with 10.0.0.4 port 49449
+[661]  0.0-10.0 sec  8.48 MBytes  7.11 Mbits/sec   0.059 ms    1/ 6050 (0.017%)
+[661]  0.0-10.0 sec  2 datagrams received out-of-order
+[663] local 0.0.0.0 port 60003 connected with 10.0.0.4 port 34230
+[663]  0.0-10.0 sec  6.16 MBytes  5.17 Mbits/sec   0.049 ms    0/ 4396 (0%)
+[663]  0.0-10.0 sec  1 datagrams received out-of-order
+[665] local 0.0.0.0 port 60003 connected with 10.0.0.4 port 34897
+[665]  0.0-10.0 sec  7.45 MBytes  6.24 Mbits/sec   0.034 ms    0/ 5311 (0%)
+[665]  0.0-10.0 sec  1 datagrams received out-of-order
+[667] local 0.0.0.0 port 60003 connected with 10.0.0.4 port 34932
+[667]  0.0-10.0 sec  6.90 MBytes  5.79 Mbits/sec   0.055 ms    0/ 4925 (0%)
+[669] local 0.0.0.0 port 60003 connected with 10.0.0.4 port 51669
+[669]  0.0-10.0 sec  4.87 MBytes  4.09 Mbits/sec   0.066 ms    0/ 3475 (0%)
+[669]  0.0-10.0 sec  1 datagrams received out-of-order
+[671] local 0.0.0.0 port 60003 connected with 10.0.0.4 port 40855
+[671]  0.0-10.0 sec  6.32 MBytes  5.30 Mbits/sec   0.040 ms    0/ 4504 (0%)
+[671]  0.0-10.0 sec  1 datagrams received out-of-order
+[673] local 0.0.0.0 port 60003 connected with 10.0.0.4 port 38453
+[673]  0.0-10.0 sec  7.17 MBytes  6.01 Mbits/sec   0.069 ms    0/ 5111 (0%)
+[673]  0.0-10.0 sec  1 datagrams received out-of-order
+[675] local 0.0.0.0 port 60003 connected with 10.0.0.4 port 47398
+[675]  0.0-10.0 sec  3.38 MBytes  2.83 Mbits/sec   0.084 ms    0/ 2408 (0%)
+[677] local 0.0.0.0 port 60003 connected with 10.0.0.4 port 33102
+[677]  0.0-10.0 sec  0.98 MBytes  0.82 Mbits/sec   0.064 ms    0/  698 (0%)
+[679] local 0.0.0.0 port 60003 connected with 10.0.0.4 port 55059
+[679]  0.0-10.0 sec  7.86 MBytes  6.59 Mbits/sec   0.141 ms    0/ 5605 (0%)
+[679]  0.0-10.0 sec  1 datagrams received out-of-order
+[681] local 0.0.0.0 port 60003 connected with 10.0.0.4 port 39336
+[681]  0.0-10.0 sec  6.01 MBytes  5.04 Mbits/sec   0.031 ms    0/ 4289 (0%)
+[681]  0.0-10.0 sec  1 datagrams received out-of-order
+[683] local 0.0.0.0 port 60003 connected with 10.0.0.4 port 46310
+[683]  0.0-10.0 sec  7.08 MBytes  5.93 Mbits/sec   0.054 ms    0/ 5046 (0%)
+[683]  0.0-10.0 sec  1 datagrams received out-of-order
+[685] local 0.0.0.0 port 60003 connected with 10.0.0.4 port 44377
+[685]  0.0-10.0 sec  5.99 MBytes  5.03 Mbits/sec   0.120 ms    1/ 4275 (0.023%)
+[685]  0.0-10.0 sec  1 datagrams received out-of-order
+[687] local 0.0.0.0 port 60003 connected with 10.0.0.4 port 42582
+[687]  0.0-10.0 sec  5.22 MBytes  4.37 Mbits/sec   0.087 ms    0/ 3719 (0%)
+[687]  0.0-10.0 sec  1 datagrams received out-of-order
+[689] local 0.0.0.0 port 60003 connected with 10.0.0.4 port 37097
+[689]  0.0-10.0 sec  7.87 MBytes  6.60 Mbits/sec   0.056 ms    0/ 5616 (0%)
+[689]  0.0-10.0 sec  1 datagrams received out-of-order
+[691] local 0.0.0.0 port 60003 connected with 10.0.0.4 port 33981
+[691]  0.0-10.0 sec  5.56 MBytes  4.66 Mbits/sec   0.072 ms    0/ 3967 (0%)
+[693] local 0.0.0.0 port 60003 connected with 10.0.0.4 port 46928
+[693]  0.0-10.0 sec  4.70 MBytes  3.94 Mbits/sec   0.067 ms    0/ 3350 (0%)
+[695] local 0.0.0.0 port 60003 connected with 10.0.0.4 port 49350
+[695]  0.0-10.0 sec  9.30 MBytes  7.80 Mbits/sec   0.104 ms    0/ 6636 (0%)
+[695]  0.0-10.0 sec  1 datagrams received out-of-order
+[697] local 0.0.0.0 port 60003 connected with 10.0.0.4 port 55504
+[697]  0.0-10.0 sec  3.43 MBytes  2.87 Mbits/sec   0.027 ms    0/ 2444 (0%)
+[697]  0.0-10.0 sec  1 datagrams received out-of-order
+[699] local 0.0.0.0 port 60003 connected with 10.0.0.4 port 49989
+[699]  0.0-10.0 sec  7.92 MBytes  6.64 Mbits/sec   0.051 ms    0/ 5650 (0%)
+[699]  0.0-10.0 sec  1 datagrams received out-of-order
+[701] local 0.0.0.0 port 60003 connected with 10.0.0.4 port 47036
+[701]  0.0-10.0 sec  9.80 MBytes  8.22 Mbits/sec   0.036 ms    0/ 6989 (0%)
+[701]  0.0-10.0 sec  1 datagrams received out-of-order
+[703] local 0.0.0.0 port 60003 connected with 10.0.0.4 port 53162
+[703]  0.0-10.0 sec  7.73 MBytes  6.48 Mbits/sec   0.100 ms    0/ 5510 (0%)
+[703]  0.0-10.0 sec  1 datagrams received out-of-order
+[705] local 0.0.0.0 port 60003 connected with 10.0.0.4 port 50760
+[705]  0.0-10.0 sec  4.95 MBytes  4.15 Mbits/sec   0.022 ms    0/ 3533 (0%)
+[705]  0.0-10.0 sec  1 datagrams received out-of-order
+[707] local 0.0.0.0 port 60003 connected with 10.0.0.4 port 36500
+[707]  0.0-10.0 sec  5.75 MBytes  4.83 Mbits/sec   0.044 ms    0/ 4104 (0%)
+[707]  0.0-10.0 sec  1 datagrams received out-of-order
+[709] local 0.0.0.0 port 60003 connected with 10.0.0.4 port 42526
+[709]  0.0-10.0 sec  5.95 MBytes  4.99 Mbits/sec   0.044 ms    0/ 4245 (0%)
+[709]  0.0-10.0 sec  1 datagrams received out-of-order
+[711] local 0.0.0.0 port 60003 connected with 10.0.0.4 port 47204
+[711]  0.0-10.0 sec  3.01 MBytes  2.52 Mbits/sec   0.039 ms    0/ 2146 (0%)
+[713] local 0.0.0.0 port 60003 connected with 10.0.0.4 port 53627
+[713]  0.0-10.0 sec  6.19 MBytes  5.19 Mbits/sec   0.044 ms    0/ 4412 (0%)
+[713]  0.0-10.0 sec  1 datagrams received out-of-order
+[715] local 0.0.0.0 port 60003 connected with 10.0.0.4 port 42543
+[715]  0.0-10.0 sec  6.39 MBytes  5.36 Mbits/sec   0.037 ms    0/ 4556 (0%)
+[715]  0.0-10.0 sec  1 datagrams received out-of-order
+[717] local 0.0.0.0 port 60003 connected with 10.0.0.4 port 47824
+[717]  0.0-10.0 sec  6.30 MBytes  5.29 Mbits/sec   0.044 ms    0/ 4496 (0%)
+[719] local 0.0.0.0 port 60003 connected with 10.0.0.4 port 47835
+[719]  0.0-10.0 sec  9.61 MBytes  8.06 Mbits/sec   0.029 ms    0/ 6854 (0%)
+[719]  0.0-10.0 sec  1 datagrams received out-of-order

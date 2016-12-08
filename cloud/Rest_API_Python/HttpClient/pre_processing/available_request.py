@@ -6,7 +6,7 @@ Created on Jun 9, 2016
 
 ##############################################
 
-input=['1','2','3','4']
+
 
 def available_request_find(input):
 
@@ -30,5 +30,3 @@ def available_request_find(input):
         
     print available_flow_request_number
     return available_flow_request_number
-
-available_request_find(input)

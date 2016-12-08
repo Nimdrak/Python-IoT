@@ -94,4 +94,4 @@ def link_sorting_output_with_text_input(file_input_name):
 
 
 #link_sorting_output(['4','3'])
-#link_sorting_output_with_text_input('input.txt') 
+link_sorting_output_with_text_input('input.txt') 

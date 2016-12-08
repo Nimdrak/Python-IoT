@@ -23,8 +23,8 @@ if __name__ == '__main__':
     
 
 # making information    
-    index_vector=[0,0,0,0]
-    request_vector=[0,0,0,0]
+    index_vector=[0,0,0,0,0,0,0,0,0,0,0,0]
+    request_vector=[0,0,0,0,0,0,0,0,0,0,0,0]
     
 #    result=function_allocation_server.allocation_server_with_text_input(index_vector,sys.argv[1])
 #    pre_processing.function_making_information.allocation_server_with_text_input(index_vector,'input.txt')    
@@ -37,7 +37,7 @@ if __name__ == '__main__':
  
 
 # available_request and making the list in terms of IP and port
-    data_center=['1','2','3','4']
+    data_center=['1','2','3','4','5','6','7','8','9','10','11','12']
     available_requst_number=pre_processing.available_request.available_request_find(data_center)
     pre_processing.ip_port_list.ip_port_list_make(available_requst_number)
 
@@ -60,11 +60,11 @@ if __name__ == '__main__':
     dc_rule.for_dc()           
                 
 # flow allocation
-"""
+
     for x in range(0,len(result[0])):
         flow.function_allocation_REST_flow.function_main(result[0][x],result[1][x])  
         print result[0][x],result[1][x]
-"""
+
  #   print "Using servers are ",index_vector, " Using Requests are", request_vector
 
 #    print '\n'

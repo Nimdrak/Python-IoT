@@ -121,5 +121,6 @@ def allocation_server_with_text_input(index_vector,file_input_name):
 
     return allo_result,allo_result_port
 
-#result=allocation_server_with_text_input(index_vector,'input.txt')
-#print result
+index_vector=[0,0,0,0,0,0,0,0,0,0,0,0]
+result=allocation_server_with_text_input(index_vector,'input.txt')
+print result
